@@ -1,0 +1,18 @@
+{
+ "institutions": [
+  "Ecole Polytechnique Federale de Lausanne",
+  "ETH Zurich",
+  "IMT School for Advanced Studies Lucca",
+  "Politecnico di Milano",
+  "University of Pavia",
+  "Dalle Molle Institute for Artificial Intelligence Research"
+ ],
+ "authors": [
+  "Giancarlo Ferrari-Trecate",
+  "Colin N. Jones",
+  "Alberto Bemporad",
+  "Dario Piga",
+  "Lalo Magni",
+  "Melanie N. Zeilinger"
+ ]
+}

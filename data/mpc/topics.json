@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "T10763",
+  "name": "Digital Transformation in Industry",
+  "count_recent": 70,
+  "count_prev": 13,
+  "share_recent": 0.00487,
+  "share_prev": 0.00158,
+  "growth": 3.078,
+  "eligible": true
+ },
+ {
+  "id": "T11007",
+  "name": "Hybrid Renewable Energy Systems",
+  "count_recent": 392,
+  "count_prev": 101,
+  "share_recent": 0.0273,
+  "share_prev": 0.01231,
+  "growth": 2.218,
+  "eligible": true
+ },
+ {
+  "id": "T11133",
+  "name": "UAV Applications and Optimization",
+  "count_recent": 68,
+  "count_prev": 13,
+  "share_recent": 0.00474,
+  "share_prev": 0.00158,
+  "growth": 2.99,
+  "eligible": true
+ },
+ {
+  "id": "T14098",
+  "name": "Energy Efficiency in Computing",
+  "count_recent": 57,
+  "count_prev": 12,
+  "share_recent": 0.00397,
+  "share_prev": 0.00146,
+  "growth": 2.715,
+  "eligible": true
+ },
+ {
+  "id": "T10906",
+  "name": "AI-based Problem Solving and Planning",
+  "count_recent": 68,
+  "count_prev": 15,
+  "share_recent": 0.00474,
+  "share_prev": 0.00183,
+  "growth": 2.591,
+  "eligible": true
+ },
+ {
+  "id": "T10653",
+  "name": "Robot Manipulation and Learning",
+  "count_recent": 270,
+  "count_prev": 83,
+  "share_recent": 0.0188,
+  "share_prev": 0.01011,
+  "growth": 1.859,
+  "eligible": true
+ },
+ {
+  "id": "T11206",
+  "name": "Model Reduction and Neural Networks",
+  "count_recent": 219,
+  "count_prev": 66,
+  "share_recent": 0.01525,
+  "share_prev": 0.00804,
+  "growth": 1.897,
+  "eligible": true
+ },
+ {
+  "id": "T10868",
+  "name": "Soft Robotics and Applications",
+  "count_recent": 171,
+  "count_prev": 50,
+  "share_recent": 0.01191,
+  "share_prev": 0.00609,
+  "growth": 1.955,
+  "eligible": true
+ },
+ {
+  "id": "T10663",
+  "name": "Battery Modeling and Management",
+  "count_recent": 295,
+  "count_prev": 92,
+  "share_recent": 0.02054,
+  "share_prev": 0.01121,
+  "growth": 1.833,
+  "eligible": true
+ },
+ {
+  "id": "T10462",
+  "name": "Reinforcement Learning in Robotics",
+  "count_recent": 759,
+  "count_prev": 262,
+  "share_recent": 0.05286,
+  "share_prev": 0.03192,
+  "growth": 1.656,
+  "eligible": true
+ },
+ {
+  "id": "T11529",
+  "name": "Refrigeration and Air Conditioning Technologies",
+  "count_recent": 153,
+  "count_prev": 46,
+  "share_recent": 0.01065,
+  "share_prev": 0.0056,
+  "growth": 1.901,
+  "eligible": true
+ },
+ {
+  "id": "T11978",
+  "name": "Soil Mechanics and Vehicle Dynamics",
+  "count_recent": 117,
+  "count_prev": 34,
+  "share_recent": 0.00815,
+  "share_prev": 0.00414,
+  "growth": 1.967,
+  "eligible": true
+ },
+ {
+  "id": "T11687",
+  "name": "Teleoperation and Haptic Systems",
+  "count_recent": 67,
+  "count_prev": 19,
+  "share_recent": 0.00467,
+  "share_prev": 0.00231,
+  "growth": 2.016,
+  "eligible": true
+ },
+ {
+  "id": "T11052",
+  "name": "Energy Load and Power Forecasting",
+  "count_recent": 57,
+  "count_prev": 16,
+  "share_recent": 0.00397,
+  "share_prev": 0.00195,
+  "growth": 2.036,
+  "eligible": true
+ },
+ {
+  "id": "T10191",
+  "name": "Robotics and Sensor-Based Localization",
+  "count_recent": 88,
+  "count_prev": 27,
+  "share_recent": 0.00613,
+  "share_prev": 0.00329,
+  "growth": 1.863,
+  "eligible": true
+ },
+ {
+  "id": "T11023",
+  "name": "Prosthetics and Rehabilitation Robotics",
+  "count_recent": 131,
+  "count_prev": 43,
+  "share_recent": 0.00912,
+  "share_prev": 0.00524,
+  "growth": 1.741,
+  "eligible": true
+ },
+ {
+  "id": "T11489",
+  "name": "Air Traffic Management and Optimization",
+  "count_recent": 72,
+  "count_prev": 22,
+  "share_recent": 0.00501,
+  "share_prev": 0.00268,
+  "growth": 1.871,
+  "eligible": true
+ },
+ {
+  "id": "T11192",
+  "name": "Underwater Vehicles and Communication Systems",
+  "count_recent": 290,
+  "count_prev": 106,
+  "share_recent": 0.02019,
+  "share_prev": 0.01291,
+  "growth": 1.564,
+  "eligible": true
+ },
+ {
+  "id": "T12125",
+  "name": "Aerospace and Aviation Technology",
+  "count_recent": 168,
+  "count_prev": 59,
+  "share_recent": 0.0117,
+  "share_prev": 0.00719,
+  "growth": 1.628,
+  "eligible": true
+ },
+ {
+  "id": "T10409",
+  "name": "Fuel Cells and Related Materials",
+  "count_recent": 139,
+  "count_prev": 49,
+  "share_recent": 0.00968,
+  "share_prev": 0.00597,
+  "growth": 1.621,
+  "eligible": true
+ },
+ {
+  "id": "T11500",
+  "name": "Evacuation and Crowd Dynamics",
+  "count_recent": 59,
+  "count_prev": 19,
+  "share_recent": 0.00411,
+  "share_prev": 0.00231,
+  "growth": 1.775,
+  "eligible": true
+ },
+ {
+  "id": "T10879",
+  "name": "Robotic Locomotion and Control",
+  "count_recent": 368,
+  "count_prev": 145,
+  "share_recent": 0.02563,
+  "share_prev": 0.01767,
+  "growth": 1.451,
+  "eligible": true
+ },
+ {
+  "id": "T10018",
+  "name": "Advancements in Battery Materials",
+  "count_recent": 69,
+  "count_prev": 24,
+  "share_recent": 0.00481,
+  "share_prev": 0.00292,
+  "growth": 1.643,
+  "eligible": true
+ },
+ {
+  "id": "T10616",
+  "name": "Smart Agriculture and AI",
+  "count_recent": 112,
+  "count_prev": 41,
+  "share_recent": 0.0078,
+  "share_prev": 0.005,
+  "growth": 1.561,
+  "eligible": true
+ },
+ {
+  "id": "T10142",
+  "name": "Formal Methods in Verification",
+  "count_recent": 180,
+  "count_prev": 69,
+  "share_recent": 0.01253,
+  "share_prev": 0.00841,
+  "growth": 1.491,
+  "eligible": true
+ },
+ {
+  "id": "T14444",
+  "name": "Power Systems and Renewable Energy",
+  "count_recent": 342,
+  "count_prev": 138,
+  "share_recent": 0.02382,
+  "share_prev": 0.01681,
+  "growth": 1.417,
+  "eligible": true
+ },
+ {
+  "id": "T13855",
+  "name": "Aerospace Engineering and Control Systems",
+  "count_recent": 329,
+  "count_prev": 133,
+  "share_recent": 0.02291,
+  "share_prev": 0.0162,
+  "growth": 1.414,
+  "eligible": true
+ },
+ {
+  "id": "T12093",
+  "name": "Greenhouse Technology and Climate Control",
+  "count_recent": 85,
+  "count_prev": 32,
+  "share_recent": 0.00592,
+  "share_prev": 0.0039,
+  "growth": 1.518,
+  "eligible": true
+ },
+ {
+  "id": "T11622",
+  "name": "Maritime Navigation and Safety",
+  "count_recent": 264,
+  "count_prev": 112,
+  "share_recent": 0.01838,
+  "share_prev": 0.01365,
+  "growth": 1.347,
+  "eligible": true
+ },
+ {
+  "id": "T11701",
+  "name": "Space Satellite Systems and Control",
+  "count_recent": 189,
+  "count_prev": 79,
+  "share_recent": 0.01316,
+  "share_prev": 0.00962,
+  "growth": 1.367,
+  "eligible": true
+ },
+ {
+  "id": "T10424",
+  "name": "Electric Power System Optimization",
+  "count_recent": 512,
+  "count_prev": 229,
+  "share_recent": 0.03565,
+  "share_prev": 0.0279,
+  "growth": 1.278,
+  "eligible": true
+ },
+ {
+  "id": "T10571",
+  "name": "Robotic Mechanisms and Dynamics",
+  "count_recent": 158,
+  "count_prev": 68,
+  "share_recent": 0.011,
+  "share_prev": 0.00828,
+  "growth": 1.328,
+  "eligible": true
+ },
+ {
+  "id": "T10040",
+  "name": "Adaptive Control of Nonlinear Systems",
+  "count_recent": 572,
+  "count_prev": 264,
+  "share_recent": 0.03983,
+  "share_prev": 0.03216,
+  "growth": 1.238,
+  "eligible": true
+ },
+ {
+  "id": "T10586",
+  "name": "Robotic Path Planning Algorithms",
+  "count_recent": 934,
+  "count_prev": 441,
+  "share_recent": 0.06504,
+  "share_prev": 0.05373,
+  "growth": 1.211,
+  "eligible": true
+ },
+ {
+  "id": "T12158",
+  "name": "Guidance and Control Systems",
+  "count_recent": 137,
+  "count_prev": 61,
+  "share_recent": 0.00954,
+  "share_prev": 0.00743,
+  "growth": 1.284,
+  "eligible": true
+ },
+ {
+  "id": "T10690",
+  "name": "Vibration Control and Rheological Fluids",
+  "count_recent": 139,
+  "count_prev": 62,
+  "share_recent": 0.00968,
+  "share_prev": 0.00755,
+  "growth": 1.281,
+  "eligible": true
+ },
+ {
+  "id": "T11568",
+  "name": "Railway Systems and Energy Efficiency",
+  "count_recent": 125,
+  "count_prev": 56,
+  "share_recent": 0.0087,
+  "share_prev": 0.00682,
+  "growth": 1.276,
+  "eligible": true
+ },
+ {
+  "id": "T11082",
+  "name": "Spacecraft Dynamics and Control",
+  "count_recent": 319,
+  "count_prev": 150,
+  "share_recent": 0.02221,
+  "share_prev": 0.01827,
+  "growth": 1.216,
+  "eligible": true
+ },
+ {
+  "id": "T11615",
+  "name": "Control and Dynamics of Mobile Robots",
+  "count_recent": 1824,
+  "count_prev": 898,
+  "share_recent": 0.12702,
+  "share_prev": 0.10941,
+  "growth": 1.161,
+  "eligible": true
+ },
+ {
+  "id": "T10603",
+  "name": "Smart Grid Energy Management",
+  "count_recent": 826,
+  "count_prev": 404,
+  "share_recent": 0.05752,
+  "share_prev": 0.04922,
+  "growth": 1.169,
+  "eligible": true
+ },
+ {
+  "id": "T10842",
+  "name": "Railway Engineering and Dynamics",
+  "count_recent": 71,
+  "count_prev": 32,
+  "share_recent": 0.00494,
+  "share_prev": 0.0039,
+  "growth": 1.268,
+  "eligible": true
+ },
+ {
+  "id": "T10525",
+  "name": "Human-Automation Interaction and Safety",
+  "count_recent": 66,
+  "count_prev": 30,
+  "share_recent": 0.0046,
+  "share_prev": 0.00365,
+  "growth": 1.257,
+  "eligible": true
+ },
+ {
+  "id": "T12449",
+  "name": "Spacecraft Design and Technology",
+  "count_recent": 57,
+  "count_prev": 27,
+  "share_recent": 0.00397,
+  "share_prev": 0.00329,
+  "growth": 1.207,
+  "eligible": true
+ },
+ {
+  "id": "T10454",
+  "name": "Optimal Power Flow Distribution",
+  "count_recent": 292,
+  "count_prev": 146,
+  "share_recent": 0.02033,
+  "share_prev": 0.01779,
+  "growth": 1.143,
+  "eligible": true
+ },
+ {
+  "id": "T11185",
+  "name": "Integrated Energy Systems Optimization",
+  "count_recent": 1313,
+  "count_prev": 688,
+  "share_recent": 0.09143,
+  "share_prev": 0.08382,
+  "growth": 1.091,
+  "eligible": true
+ },
+ {
+  "id": "T11096",
+  "name": "Aeroelasticity and Vibration Control",
+  "count_recent": 60,
+  "count_prev": 30,
+  "share_recent": 0.00418,
+  "share_prev": 0.00365,
+  "growth": 1.143,
+  "eligible": true
+ },
+ {
+  "id": "T10468",
+  "name": "Photovoltaic System Optimization Techniques",
+  "count_recent": 292,
+  "count_prev": 152,
+  "share_recent": 0.02033,
+  "share_prev": 0.01852,
+  "growth": 1.098,
+  "eligible": true
+ },
+ {
+  "id": "T10917",
+  "name": "Smart Grid Security and Resilience",
+  "count_recent": 118,
+  "count_prev": 61,
+  "share_recent": 0.00822,
+  "share_prev": 0.00743,
+  "growth": 1.106,
+  "eligible": true
+ },
+ {
+  "id": "T12719",
+  "name": "Aerospace Engineering and Energy Systems",
+  "count_recent": 99,
+  "count_prev": 51,
+  "share_recent": 0.00689,
+  "share_prev": 0.00621,
+  "growth": 1.11,
+  "eligible": true
+ },
+ {
+  "id": "T11249",
+  "name": "Wireless Power Transfer Systems",
+  "count_recent": 57,
+  "count_prev": 29,
+  "share_recent": 0.00397,
+  "share_prev": 0.00353,
+  "growth": 1.123,
+  "eligible": true
+ },
+ {
+  "id": "T10768",
+  "name": "Electric Vehicles and Infrastructure",
+  "count_recent": 445,
+  "count_prev": 237,
+  "share_recent": 0.03099,
+  "share_prev": 0.02887,
+  "growth": 1.073,
+  "eligible": true
+ },
+ {
+  "id": "T10370",
+  "name": "Traffic and Road Safety",
+  "count_recent": 94,
+  "count_prev": 50,
+  "share_recent": 0.00655,
+  "share_prev": 0.00609,
+  "growth": 1.075,
+  "eligible": true
+ },
+ {
+  "id": "T13644",
+  "name": "Control Systems in Engineering",
+  "count_recent": 101,
+  "count_prev": 54,
+  "share_recent": 0.00703,
+  "share_prev": 0.00658,
+  "growth": 1.069,
+  "eligible": true
+ },
+ {
+  "id": "T11604",
+  "name": "Ship Hydrodynamics and Maneuverability",
+  "count_recent": 142,
+  "count_prev": 77,
+  "share_recent": 0.00989,
+  "share_prev": 0.00938,
+  "growth": 1.054,
+  "eligible": true
+ },
+ {
+  "id": "T12794",
+  "name": "Adaptive Dynamic Programming Control",
+  "count_recent": 272,
+  "count_prev": 149,
+  "share_recent": 0.01894,
+  "share_prev": 0.01815,
+  "growth": 1.043,
+  "eligible": true
+ },
+ {
+  "id": "T11394",
+  "name": "Dynamics and Control of Mechanical Systems",
+  "count_recent": 291,
+  "count_prev": 162,
+  "share_recent": 0.02026,
+  "share_prev": 0.01974,
+  "growth": 1.027,
+  "eligible": true
+ },
+ {
+  "id": "T11372",
+  "name": "Hydraulic and Pneumatic Systems",
+  "count_recent": 94,
+  "count_prev": 52,
+  "share_recent": 0.00655,
+  "share_prev": 0.00634,
+  "growth": 1.033,
+  "eligible": true
+ },
+ {
+  "id": "T12277",
+  "name": "Frequency Control in Power Systems",
+  "count_recent": 294,
+  "count_prev": 164,
+  "share_recent": 0.02047,
+  "share_prev": 0.01998,
+  "growth": 1.025,
+  "eligible": true
+ },
+ {
+  "id": "T10121",
+  "name": "Building Energy and Comfort Optimization",
+  "count_recent": 914,
+  "count_prev": 520,
+  "share_recent": 0.06365,
+  "share_prev": 0.06335,
+  "growth": 1.005,
+  "eligible": true
+ },
+ {
+  "id": "T11099",
+  "name": "Autonomous Vehicle Technology and Safety",
+  "count_recent": 484,
+  "count_prev": 276,
+  "share_recent": 0.0337,
+  "share_prev": 0.03363,
+  "growth": 1.002,
+  "eligible": true
+ },
+ {
+  "id": "T10808",
+  "name": "Electric and Hybrid Vehicle Technologies",
+  "count_recent": 884,
+  "count_prev": 505,
+  "share_recent": 0.06156,
+  "share_prev": 0.06153,
+  "growth": 1.001,
+  "eligible": true
+ },
+ {
+  "id": "T10545",
+  "name": "Optimization and Variational Analysis",
+  "count_recent": 63,
+  "count_prev": 36,
+  "share_recent": 0.00439,
+  "share_prev": 0.00439,
+  "growth": 1.0,
+  "eligible": true
+ },
+ {
+  "id": "T10249",
+  "name": "Distributed Control Multi-Agent Systems",
+  "count_recent": 658,
+  "count_prev": 379,
+  "share_recent": 0.04582,
+  "share_prev": 0.04617,
+  "growth": 0.992,
+  "eligible": true
+ },
+ {
+  "id": "T10223",
+  "name": "Microgrid Control and Optimization",
+  "count_recent": 1142,
+  "count_prev": 664,
+  "share_recent": 0.07953,
+  "share_prev": 0.0809,
+  "growth": 0.983,
+  "eligible": true
+ },
+ {
+  "id": "T10969",
+  "name": "Water resources management and optimization",
+  "count_recent": 95,
+  "count_prev": 59,
+  "share_recent": 0.00662,
+  "share_prev": 0.00719,
+  "growth": 0.92,
+  "eligible": true
+ },
+ {
+  "id": "T11344",
+  "name": "Traffic Prediction and Management Techniques",
+  "count_recent": 124,
+  "count_prev": 77,
+  "share_recent": 0.00864,
+  "share_prev": 0.00938,
+  "growth": 0.92,
+  "eligible": true
+ },
+ {
+  "id": "T10820",
+  "name": "Fuzzy Logic and Control Systems",
+  "count_recent": 57,
+  "count_prev": 36,
+  "share_recent": 0.00397,
+  "share_prev": 0.00439,
+  "growth": 0.905,
+  "eligible": true
+ },
+ {
+  "id": "T10680",
+  "name": "Wind Energy Research and Development",
+  "count_recent": 106,
+  "count_prev": 67,
+  "share_recent": 0.00738,
+  "share_prev": 0.00816,
+  "growth": 0.904,
+  "eligible": true
+ },
+ {
+  "id": "T10805",
+  "name": "Vehicle Dynamics and Control Systems",
+  "count_recent": 1896,
+  "count_prev": 1155,
+  "share_recent": 0.13203,
+  "share_prev": 0.14072,
+  "growth": 0.938,
+  "eligible": true
+ },
+ {
+  "id": "T13954",
+  "name": "Aerospace Engineering and Applications",
+  "count_recent": 63,
+  "count_prev": 41,
+  "share_recent": 0.00439,
+  "share_prev": 0.005,
+  "growth": 0.878,
+  "eligible": true
+ },
+ {
+  "id": "T10278",
+  "name": "Electric Motor Design and Analysis",
+  "count_recent": 373,
+  "count_prev": 234,
+  "share_recent": 0.02597,
+  "share_prev": 0.02851,
+  "growth": 0.911,
+  "eligible": true
+ },
+ {
+  "id": "T10100",
+  "name": "Metaheuristic Optimization Algorithms Research",
+  "count_recent": 62,
+  "count_prev": 42,
+  "share_recent": 0.00432,
+  "share_prev": 0.00512,
+  "growth": 0.844,
+  "eligible": true
+ },
+ {
+  "id": "T10876",
+  "name": "Fault Detection and Control Systems",
+  "count_recent": 474,
+  "count_prev": 304,
+  "share_recent": 0.03301,
+  "share_prev": 0.03704,
+  "growth": 0.891,
+  "eligible": true
+ },
+ {
+  "id": "T10698",
+  "name": "Transportation Planning and Optimization",
+  "count_recent": 136,
+  "count_prev": 90,
+  "share_recent": 0.00947,
+  "share_prev": 0.01096,
+  "growth": 0.864,
+  "eligible": true
+ },
+ {
+  "id": "T11081",
+  "name": "Advanced Control Systems Design",
+  "count_recent": 387,
+  "count_prev": 263,
+  "share_recent": 0.02695,
+  "share_prev": 0.03204,
+  "growth": 0.841,
+  "eligible": true
+ },
+ {
+  "id": "T10740",
+  "name": "Wind Turbine Control Systems",
+  "count_recent": 304,
+  "count_prev": 209,
+  "share_recent": 0.02117,
+  "share_prev": 0.02546,
+  "growth": 0.831,
+  "eligible": true
+ },
+ {
+  "id": "T10791",
+  "name": "Advanced Control Systems Optimization",
+  "count_recent": 7429,
+  "count_prev": 4785,
+  "share_recent": 0.51734,
+  "share_prev": 0.58297,
+  "growth": 0.887,
+  "eligible": true
+ },
+ {
+  "id": "T10320",
+  "name": "Neural Networks and Applications",
+  "count_recent": 73,
+  "count_prev": 54,
+  "share_recent": 0.00508,
+  "share_prev": 0.00658,
+  "growth": 0.773,
+  "eligible": true
+ },
+ {
+  "id": "T11250",
+  "name": "Wave and Wind Energy Systems",
+  "count_recent": 100,
+  "count_prev": 73,
+  "share_recent": 0.00696,
+  "share_prev": 0.00889,
+  "growth": 0.783,
+  "eligible": true
+ },
+ {
+  "id": "T11749",
+  "name": "Iterative Learning Control Systems",
+  "count_recent": 162,
+  "count_prev": 117,
+  "share_recent": 0.01128,
+  "share_prev": 0.01425,
+  "growth": 0.791,
+  "eligible": true
+ },
+ {
+  "id": "T12095",
+  "name": "Vehicle emissions and performance",
+  "count_recent": 178,
+  "count_prev": 129,
+  "share_recent": 0.0124,
+  "share_prev": 0.01572,
+  "growth": 0.789,
+  "eligible": true
+ },
+ {
+  "id": "T10504",
+  "name": "Sensorless Control of Electric Motors",
+  "count_recent": 773,
+  "count_prev": 548,
+  "share_recent": 0.05383,
+  "share_prev": 0.06676,
+  "growth": 0.806,
+  "eligible": true
+ },
+ {
+  "id": "T10305",
+  "name": "Power System Optimization and Stability",
+  "count_recent": 116,
+  "count_prev": 90,
+  "share_recent": 0.00808,
+  "share_prev": 0.01096,
+  "growth": 0.737,
+  "eligible": true
+ },
+ {
+  "id": "T10560",
+  "name": "Diabetes Management and Research",
+  "count_recent": 75,
+  "count_prev": 60,
+  "share_recent": 0.00522,
+  "share_prev": 0.00731,
+  "growth": 0.714,
+  "eligible": true
+ },
+ {
+  "id": "T10524",
+  "name": "Traffic control and management",
+  "count_recent": 863,
+  "count_prev": 615,
+  "share_recent": 0.0601,
+  "share_prev": 0.07493,
+  "growth": 0.802,
+  "eligible": true
+ },
+ {
+  "id": "T11236",
+  "name": "Control Systems and Identification",
+  "count_recent": 685,
+  "count_prev": 494,
+  "share_recent": 0.0477,
+  "share_prev": 0.06019,
+  "growth": 0.793,
+  "eligible": true
+ },
+ {
+  "id": "T10573",
+  "name": "Power Quality and Harmonics",
+  "count_recent": 209,
+  "count_prev": 162,
+  "share_recent": 0.01455,
+  "share_prev": 0.01974,
+  "growth": 0.737,
+  "eligible": true
+ },
+ {
+  "id": "T10175",
+  "name": "Advanced DC-DC Converters",
+  "count_recent": 627,
+  "count_prev": 462,
+  "share_recent": 0.04366,
+  "share_prev": 0.05629,
+  "growth": 0.776,
+  "eligible": true
+ },
+ {
+  "id": "T11413",
+  "name": "Risk and Portfolio Optimization",
+  "count_recent": 139,
+  "count_prev": 117,
+  "share_recent": 0.00968,
+  "share_prev": 0.01425,
+  "growth": 0.679,
+  "eligible": true
+ },
+ {
+  "id": "T10963",
+  "name": "Advanced Optimization Algorithms Research",
+  "count_recent": 460,
+  "count_prev": 382,
+  "share_recent": 0.03203,
+  "share_prev": 0.04654,
+  "growth": 0.688,
+  "eligible": true
+ },
+ {
+  "id": "T10228",
+  "name": "Multilevel Inverters and Converters",
+  "count_recent": 1581,
+  "count_prev": 1281,
+  "share_recent": 0.1101,
+  "share_prev": 0.15607,
+  "growth": 0.705,
+  "eligible": true
+ },
+ {
+  "id": "T11102",
+  "name": "HVDC Systems and Fault Protection",
+  "count_recent": 208,
+  "count_prev": 193,
+  "share_recent": 0.01448,
+  "share_prev": 0.02351,
+  "growth": 0.616,
+  "eligible": true
+ },
+ {
+  "id": "T10046",
+  "name": "Stability and Control of Uncertain Systems",
+  "count_recent": 720,
+  "count_prev": 616,
+  "share_recent": 0.05014,
+  "share_prev": 0.07505,
+  "growth": 0.668,
+  "eligible": true
+ },
+ {
+  "id": "T11053",
+  "name": "Process Optimization and Integration",
+  "count_recent": 226,
+  "count_prev": 222,
+  "share_recent": 0.01574,
+  "share_prev": 0.02705,
+  "growth": 0.582,
+  "eligible": true
+ },
+ {
+  "id": "T11602",
+  "name": "Magnetic Bearings and Levitation Dynamics",
+  "count_recent": 56,
+  "count_prev": 28,
+  "share_recent": 0.0039,
+  "share_prev": 0.00341,
+  "growth": 1.143,
+  "eligible": false
+ },
+ {
+  "id": "T13263",
+  "name": "Building energy efficiency and sustainability",
+  "count_recent": 54,
+  "count_prev": 27,
+  "share_recent": 0.00376,
+  "share_prev": 0.00329,
+  "growth": 1.143,
+  "eligible": false
+ },
+ {
+  "id": "T12126",
+  "name": "Maritime Transport Emissions and Efficiency",
+  "count_recent": 53,
+  "count_prev": 24,
+  "share_recent": 0.00369,
+  "share_prev": 0.00292,
+  "growth": 1.262,
+  "eligible": false
+ },
+ {
+  "id": "T10905",
+  "name": "Solar Thermal and Photovoltaic Systems",
+  "count_recent": 52,
+  "count_prev": 45,
+  "share_recent": 0.00362,
+  "share_prev": 0.00548,
+  "growth": 0.661,
+  "eligible": false
+ },
+ {
+  "id": "T12814",
+  "name": "Gaussian Processes and Bayesian Inference",
+  "count_recent": 52,
+  "count_prev": 22,
+  "share_recent": 0.00362,
+  "share_prev": 0.00268,
+  "growth": 1.351,
+  "eligible": false
+ },
+ {
+  "id": "T10482",
+  "name": "Mathematical and Theoretical Epidemiology and Ecology Models",
+  "count_recent": 51,
+  "count_prev": 29,
+  "share_recent": 0.00355,
+  "share_prev": 0.00353,
+  "growth": 1.005,
+  "eligible": false
+ },
+ {
+  "id": "T10564",
+  "name": "Wastewater Treatment and Nitrogen Removal",
+  "count_recent": 47,
+  "count_prev": 25,
+  "share_recent": 0.00327,
+  "share_prev": 0.00305,
+  "growth": 1.075,
+  "eligible": false
+ },
+ {
+  "id": "T11524",
+  "name": "Advanced Aircraft Design and Technologies",
+  "count_recent": 46,
+  "count_prev": 16,
+  "share_recent": 0.0032,
+  "share_prev": 0.00195,
+  "growth": 1.643,
+  "eligible": false
+ },
+ {
+  "id": "T10531",
+  "name": "Advanced Vision and Imaging",
+  "count_recent": 45,
+  "count_prev": 30,
+  "share_recent": 0.00313,
+  "share_prev": 0.00365,
+  "growth": 0.857,
+  "eligible": false
+ },
+ {
+  "id": "T10761",
+  "name": "Vehicular Ad Hoc Networks (VANETs)",
+  "count_recent": 43,
+  "count_prev": 21,
+  "share_recent": 0.00299,
+  "share_prev": 0.00256,
+  "growth": 1.17,
+  "eligible": false
+ },
+ {
+  "id": "T11170",
+  "name": "Biomimetic flight and propulsion mechanisms",
+  "count_recent": 43,
+  "count_prev": 17,
+  "share_recent": 0.00299,
+  "share_prev": 0.00207,
+  "growth": 1.446,
+  "eligible": false
+ },
+ {
+  "id": "T11220",
+  "name": "Water Systems and Optimization",
+  "count_recent": 43,
+  "count_prev": 28,
+  "share_recent": 0.00299,
+  "share_prev": 0.00341,
+  "growth": 0.878,
+  "eligible": false
+ },
+ {
+  "id": "T13093",
+  "name": "Electric Power Systems and Control",
+  "count_recent": 42,
+  "count_prev": 15,
+  "share_recent": 0.00292,
+  "share_prev": 0.00183,
+  "growth": 1.6,
+  "eligible": false
+ },
+ {
+  "id": "T14474",
+  "name": "Industrial Technology and Control Systems",
+  "count_recent": 42,
+  "count_prev": 25,
+  "share_recent": 0.00292,
+  "share_prev": 0.00305,
+  "growth": 0.96,
+  "eligible": false
+ },
+ {
+  "id": "T10711",
+  "name": "Target Tracking and Data Fusion in Sensor Networks",
+  "count_recent": 41,
+  "count_prev": 24,
+  "share_recent": 0.00286,
+  "share_prev": 0.00292,
+  "growth": 0.976,
+  "eligible": false
+ },
+ {
+  "id": "T11525",
+  "name": "Piezoelectric Actuators and Control",
+  "count_recent": 41,
+  "count_prev": 25,
+  "share_recent": 0.00286,
+  "share_prev": 0.00305,
+  "growth": 0.937,
+  "eligible": false
+ },
+ {
+  "id": "T10101",
+  "name": "Cloud Computing and Resource Management",
+  "count_recent": 40,
+  "count_prev": 8,
+  "share_recent": 0.00279,
+  "share_prev": 0.00097,
+  "growth": 2.858,
+  "eligible": false
+ },
+ {
+  "id": "T10273",
+  "name": "IoT and Edge/Fog Computing",
+  "count_recent": 39,
+  "count_prev": 16,
+  "share_recent": 0.00272,
+  "share_prev": 0.00195,
+  "growth": 1.393,
+  "eligible": false
+ },
+ {
+  "id": "T10793",
+  "name": "Diabetes Management and Education",
+  "count_recent": 38,
+  "count_prev": 32,
+  "share_recent": 0.00265,
+  "share_prev": 0.0039,
+  "growth": 0.679,
+  "eligible": false
+ },
+ {
+  "id": "T12810",
+  "name": "Real-time simulation and control systems",
+  "count_recent": 38,
+  "count_prev": 25,
+  "share_recent": 0.00265,
+  "share_prev": 0.00305,
+  "growth": 0.869,
+  "eligible": false
+ },
+ {
+  "id": "T13990",
+  "name": "Engine and Fuel Emissions",
+  "count_recent": 38,
+  "count_prev": 40,
+  "share_recent": 0.00265,
+  "share_prev": 0.00487,
+  "growth": 0.543,
+  "eligible": false
+ },
+ {
+  "id": "T10784",
+  "name": "Muscle activation and electromyography studies",
+  "count_recent": 36,
+  "count_prev": 17,
+  "share_recent": 0.00251,
+  "share_prev": 0.00207,
+  "growth": 1.21,
+  "eligible": false
+ },
+ {
+  "id": "T13286",
+  "name": "Modeling and Simulation Systems",
+  "count_recent": 36,
+  "count_prev": 26,
+  "share_recent": 0.00251,
+  "share_prev": 0.00317,
+  "growth": 0.791,
+  "eligible": false
+ },
+ {
+  "id": "T14225",
+  "name": "Advanced Sensor and Control Systems",
+  "count_recent": 36,
+  "count_prev": 8,
+  "share_recent": 0.00251,
+  "share_prev": 0.00097,
+  "growth": 2.572,
+  "eligible": false
+ },
+ {
+  "id": "T10568",
+  "name": "Thermodynamic and Exergetic Analyses of Power and Cooling Systems",
+  "count_recent": 35,
+  "count_prev": 17,
+  "share_recent": 0.00244,
+  "share_prev": 0.00207,
+  "growth": 1.177,
+  "eligible": false
+ },
+ {
+  "id": "T10597",
+  "name": "Nuclear reactor physics and engineering",
+  "count_recent": 34,
+  "count_prev": 14,
+  "share_recent": 0.00237,
+  "share_prev": 0.00171,
+  "growth": 1.388,
+  "eligible": false
+ },
+ {
+  "id": "T11404",
+  "name": "Irrigation Practices and Water Management",
+  "count_recent": 34,
+  "count_prev": 23,
+  "share_recent": 0.00237,
+  "share_prev": 0.0028,
+  "growth": 0.845,
+  "eligible": false
+ },
+ {
+  "id": "T11829",
+  "name": "Mathematical Biology Tumor Growth",
+  "count_recent": 34,
+  "count_prev": 0,
+  "share_recent": 0.00237,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12201",
+  "name": "Agricultural Engineering and Mechanization",
+  "count_recent": 34,
+  "count_prev": 8,
+  "share_recent": 0.00237,
+  "share_prev": 0.00097,
+  "growth": 2.429,
+  "eligible": false
+ },
+ {
+  "id": "T12784",
+  "name": "Modular Robots and Swarm Intelligence",
+  "count_recent": 34,
+  "count_prev": 18,
+  "share_recent": 0.00237,
+  "share_prev": 0.00219,
+  "growth": 1.08,
+  "eligible": false
+ },
+ {
+  "id": "T13856",
+  "name": "Advanced Power Generation Technologies",
+  "count_recent": 34,
+  "count_prev": 15,
+  "share_recent": 0.00237,
+  "share_prev": 0.00183,
+  "growth": 1.296,
+  "eligible": false
+ },
+ {
+  "id": "T11942",
+  "name": "Transportation and Mobility Innovations",
+  "count_recent": 32,
+  "count_prev": 23,
+  "share_recent": 0.00223,
+  "share_prev": 0.0028,
+  "growth": 0.795,
+  "eligible": false
+ },
+ {
+  "id": "T10933",
+  "name": "Real-Time Systems Scheduling",
+  "count_recent": 31,
+  "count_prev": 11,
+  "share_recent": 0.00216,
+  "share_prev": 0.00134,
+  "growth": 1.611,
+  "eligible": false
+ },
+ {
+  "id": "T13391",
+  "name": "Innovations in Aquaponics and Hydroponics Systems",
+  "count_recent": 31,
+  "count_prev": 0,
+  "share_recent": 0.00216,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10848",
+  "name": "Advanced Multi-Objective Optimization Algorithms",
+  "count_recent": 30,
+  "count_prev": 19,
+  "share_recent": 0.00209,
+  "share_prev": 0.00231,
+  "growth": 0.903,
+  "eligible": false
+ },
+ {
+  "id": "T13257",
+  "name": "Advanced Control and Stabilization in Aerospace Systems",
+  "count_recent": 30,
+  "count_prev": 0,
+  "share_recent": 0.00209,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10114",
+  "name": "Balance, Gait, and Falls Prevention",
+  "count_recent": 29,
+  "count_prev": 25,
+  "share_recent": 0.00202,
+  "share_prev": 0.00305,
+  "growth": 0.663,
+  "eligible": false
+ },
+ {
+  "id": "T10117",
+  "name": "Advanced Combustion Engine Technologies",
+  "count_recent": 29,
+  "count_prev": 29,
+  "share_recent": 0.00202,
+  "share_prev": 0.00353,
+  "growth": 0.572,
+  "eligible": false
+ },
+ {
+  "id": "T12451",
+  "name": "Smart Grid and Power Systems",
+  "count_recent": 29,
+  "count_prev": 14,
+  "share_recent": 0.00202,
+  "share_prev": 0.00171,
+  "growth": 1.184,
+  "eligible": false
+ },
+ {
+  "id": "T12772",
+  "name": "Control and Stability of Dynamical Systems",
+  "count_recent": 29,
+  "count_prev": 15,
+  "share_recent": 0.00202,
+  "share_prev": 0.00183,
+  "growth": 1.105,
+  "eligible": false
+ },
+ {
+  "id": "T10036",
+  "name": "Advanced Neural Network Applications",
+  "count_recent": 28,
+  "count_prev": 0,
+  "share_recent": 0.00195,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11110",
+  "name": "Stability and Controllability of Differential Equations",
+  "count_recent": 28,
+  "count_prev": 29,
+  "share_recent": 0.00195,
+  "share_prev": 0.00353,
+  "growth": 0.552,
+  "eligible": false
+ },
+ {
+  "id": "T11119",
+  "name": "Urban Stormwater Management Solutions",
+  "count_recent": 28,
+  "count_prev": 28,
+  "share_recent": 0.00195,
+  "share_prev": 0.00341,
+  "growth": 0.572,
+  "eligible": false
+ },
+ {
+  "id": "T14249",
+  "name": "Water Quality Monitoring and Analysis",
+  "count_recent": 28,
+  "count_prev": 12,
+  "share_recent": 0.00195,
+  "share_prev": 0.00146,
+  "growth": 1.334,
+  "eligible": false
+ },
+ {
+  "id": "T10567",
+  "name": "Vehicle Routing Optimization Methods",
+  "count_recent": 27,
+  "count_prev": 14,
+  "share_recent": 0.00188,
+  "share_prev": 0.00171,
+  "growth": 1.102,
+  "eligible": false
+ },
+ {
+  "id": "T11031",
+  "name": "Game Theory and Applications",
+  "count_recent": 27,
+  "count_prev": 8,
+  "share_recent": 0.00188,
+  "share_prev": 0.00097,
+  "growth": 1.929,
+  "eligible": false
+ },
+ {
+  "id": "T11230",
+  "name": "Innovative Energy Harvesting Technologies",
+  "count_recent": 27,
+  "count_prev": 12,
+  "share_recent": 0.00188,
+  "share_prev": 0.00146,
+  "growth": 1.286,
+  "eligible": false
+ },
+ {
+  "id": "T11444",
+  "name": "Electromagnetic Compatibility and Noise Suppression",
+  "count_recent": 26,
+  "count_prev": 22,
+  "share_recent": 0.00181,
+  "share_prev": 0.00268,
+  "growth": 0.676,
+  "eligible": false
+ },
+ {
+  "id": "T11954",
+  "name": "Energy Efficiency and Management",
+  "count_recent": 26,
+  "count_prev": 8,
+  "share_recent": 0.00181,
+  "share_prev": 0.00097,
+  "growth": 1.858,
+  "eligible": false
+ },
+ {
+  "id": "T13344",
+  "name": "Industrial Automation and Control Systems",
+  "count_recent": 26,
+  "count_prev": 12,
+  "share_recent": 0.00181,
+  "share_prev": 0.00146,
+  "growth": 1.238,
+  "eligible": false
+ },
+ {
+  "id": "T10328",
+  "name": "Supply Chain and Inventory Management",
+  "count_recent": 25,
+  "count_prev": 15,
+  "share_recent": 0.00174,
+  "share_prev": 0.00183,
+  "growth": 0.953,
+  "eligible": false
+ },
+ {
+  "id": "T10551",
+  "name": "Scheduling and Optimization Algorithms",
+  "count_recent": 25,
+  "count_prev": 16,
+  "share_recent": 0.00174,
+  "share_prev": 0.00195,
+  "growth": 0.893,
+  "eligible": false
+ },
+ {
+  "id": "T10615",
+  "name": "Granular flow and fluidized beds",
+  "count_recent": 24,
+  "count_prev": 15,
+  "share_recent": 0.00167,
+  "share_prev": 0.00183,
+  "growth": 0.915,
+  "eligible": false
+ },
+ {
+  "id": "T12560",
+  "name": "Nuclear Engineering Thermal-Hydraulics",
+  "count_recent": 24,
+  "count_prev": 11,
+  "share_recent": 0.00167,
+  "share_prev": 0.00134,
+  "growth": 1.247,
+  "eligible": false
+ },
+ {
+  "id": "T10220",
+  "name": "Machine Fault Diagnosis Techniques",
+  "count_recent": 22,
+  "count_prev": 11,
+  "share_recent": 0.00153,
+  "share_prev": 0.00134,
+  "growth": 1.143,
+  "eligible": false
+ },
+ {
+  "id": "T10932",
+  "name": "Microbial Metabolic Engineering and Bioproduction",
+  "count_recent": 22,
+  "count_prev": 17,
+  "share_recent": 0.00153,
+  "share_prev": 0.00207,
+  "growth": 0.74,
+  "eligible": false
+ },
+ {
+  "id": "T10938",
+  "name": "Phase Change Materials Research",
+  "count_recent": 22,
+  "count_prev": 11,
+  "share_recent": 0.00153,
+  "share_prev": 0.00134,
+  "growth": 1.143,
+  "eligible": false
+ },
+ {
+  "id": "T11486",
+  "name": "Micro and Nano Robotics",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00153,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12290",
+  "name": "Human Motion and Animation",
+  "count_recent": 22,
+  "count_prev": 11,
+  "share_recent": 0.00153,
+  "share_prev": 0.00134,
+  "growth": 1.143,
+  "eligible": false
+ },
+ {
+  "id": "T10682",
+  "name": "Quantum Computing Algorithms and Architecture",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00146,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11774",
+  "name": "Adsorption and Cooling Systems",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00146,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13553",
+  "name": "Age of Information Optimization",
+  "count_recent": 21,
+  "count_prev": 19,
+  "share_recent": 0.00146,
+  "share_prev": 0.00231,
+  "growth": 0.632,
+  "eligible": false
+ },
+ {
+  "id": "T13925",
+  "name": "Offshore Engineering and Technologies",
+  "count_recent": 21,
+  "count_prev": 12,
+  "share_recent": 0.00146,
+  "share_prev": 0.00146,
+  "growth": 1.0,
+  "eligible": false
+ },
+ {
+  "id": "T10054",
+  "name": "Parallel Computing and Optimization Techniques",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00139,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10311",
+  "name": "Advancements in Solid Oxide Fuel Cells",
+  "count_recent": 20,
+  "count_prev": 8,
+  "share_recent": 0.00139,
+  "share_prev": 0.00097,
+  "growth": 1.429,
+  "eligible": false
+ },
+ {
+  "id": "T10780",
+  "name": "Reliability and Maintenance Optimization",
+  "count_recent": 20,
+  "count_prev": 8,
+  "share_recent": 0.00139,
+  "share_prev": 0.00097,
+  "growth": 1.429,
+  "eligible": false
+ },
+ {
+  "id": "T10967",
+  "name": "Carbon Dioxide Capture Technologies",
+  "count_recent": 20,
+  "count_prev": 13,
+  "share_recent": 0.00139,
+  "share_prev": 0.00158,
+  "growth": 0.879,
+  "eligible": false
+ },
+ {
+  "id": "T10982",
+  "name": "Motor Control and Adaptation",
+  "count_recent": 20,
+  "count_prev": 11,
+  "share_recent": 0.00139,
+  "share_prev": 0.00134,
+  "growth": 1.039,
+  "eligible": false
+ },
+ {
+  "id": "T11689",
+  "name": "Adversarial Robustness in Machine Learning",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00139,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12101",
+  "name": "Advanced Bandit Algorithms Research",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00139,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10764",
+  "name": "Privacy-Preserving Technologies in Data",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.00132,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11002",
+  "name": "Indoor Air Quality and Microbial Exposure",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.00132,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12022",
+  "name": "Hydraulic flow and structures",
+  "count_recent": 19,
+  "count_prev": 12,
+  "share_recent": 0.00132,
+  "share_prev": 0.00146,
+  "growth": 0.905,
+  "eligible": false
+ },
+ {
+  "id": "T12759",
+  "name": "Vehicle Noise and Vibration Control",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.00132,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12898",
+  "name": "Induction Heating and Inverter Technology",
+  "count_recent": 19,
+  "count_prev": 8,
+  "share_recent": 0.00132,
+  "share_prev": 0.00097,
+  "growth": 1.358,
+  "eligible": false
+ },
+ {
+  "id": "T10410",
+  "name": "COVID-19 epidemiological studies",
+  "count_recent": 18,
+  "count_prev": 29,
+  "share_recent": 0.00125,
+  "share_prev": 0.00353,
+  "growth": 0.355,
+  "eligible": false
+ },
+ {
+  "id": "T10944",
+  "name": "Turbomachinery Performance and Optimization",
+  "count_recent": 18,
+  "count_prev": 12,
+  "share_recent": 0.00125,
+  "share_prev": 0.00146,
+  "growth": 0.857,
+  "eligible": false
+ },
+ {
+  "id": "T12007",
+  "name": "Plasma and Flow Control in Aerodynamics",
+  "count_recent": 18,
+  "count_prev": 0,
+  "share_recent": 0.00125,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12282",
+  "name": "Mineral Processing and Grinding",
+  "count_recent": 18,
+  "count_prev": 17,
+  "share_recent": 0.00125,
+  "share_prev": 0.00207,
+  "growth": 0.605,
+  "eligible": false
+ },
+ {
+  "id": "T13050",
+  "name": "Oil and Gas Production Techniques",
+  "count_recent": 18,
+  "count_prev": 10,
+  "share_recent": 0.00125,
+  "share_prev": 0.00122,
+  "growth": 1.029,
+  "eligible": false
+ },
+ {
+  "id": "T10284",
+  "name": "Anaerobic Digestion and Biogas Production",
+  "count_recent": 17,
+  "count_prev": 10,
+  "share_recent": 0.00118,
+  "share_prev": 0.00122,
+  "growth": 0.972,
+  "eligible": false
+ },
+ {
+  "id": "T10892",
+  "name": "Drilling and Well Engineering",
+  "count_recent": 17,
+  "count_prev": 0,
+  "share_recent": 0.00118,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11061",
+  "name": "Ocean Waves and Remote Sensing",
+  "count_recent": 17,
+  "count_prev": 13,
+  "share_recent": 0.00118,
+  "share_prev": 0.00158,
+  "growth": 0.747,
+  "eligible": false
+ },
+ {
+  "id": "T11223",
+  "name": "Maritime Ports and Logistics",
+  "count_recent": 17,
+  "count_prev": 10,
+  "share_recent": 0.00118,
+  "share_prev": 0.00122,
+  "growth": 0.972,
+  "eligible": false
+ },
+ {
+  "id": "T11663",
+  "name": "Viral Infectious Diseases and Gene Expression in Insects",
+  "count_recent": 17,
+  "count_prev": 8,
+  "share_recent": 0.00118,
+  "share_prev": 0.00097,
+  "growth": 1.215,
+  "eligible": false
+ },
+ {
+  "id": "T11814",
+  "name": "Advanced Manufacturing and Logistics Optimization",
+  "count_recent": 17,
+  "count_prev": 11,
+  "share_recent": 0.00118,
+  "share_prev": 0.00134,
+  "growth": 0.883,
+  "eligible": false
+ },
+ {
+  "id": "T12042",
+  "name": "Satellite Communication Systems",
+  "count_recent": 17,
+  "count_prev": 0,
+  "share_recent": 0.00118,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10330",
+  "name": "Hydrology and Watershed Management Studies",
+  "count_recent": 16,
+  "count_prev": 11,
+  "share_recent": 0.00111,
+  "share_prev": 0.00134,
+  "growth": 0.831,
+  "eligible": false
+ },
+ {
+  "id": "T10346",
+  "name": "Magnetic confinement fusion research",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00111,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10709",
+  "name": "Social Robot Interaction and HRI",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00111,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11276",
+  "name": "Solar Radiation and Photovoltaics",
+  "count_recent": 16,
+  "count_prev": 13,
+  "share_recent": 0.00111,
+  "share_prev": 0.00158,
+  "growth": 0.703,
+  "eligible": false
+ },
+ {
+  "id": "T11325",
+  "name": "Inertial Sensor and Navigation",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00111,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12222",
+  "name": "IoT-based Smart Home Systems",
+  "count_recent": 16,
+  "count_prev": 10,
+  "share_recent": 0.00111,
+  "share_prev": 0.00122,
+  "growth": 0.915,
+  "eligible": false
+ },
+ {
+  "id": "T13295",
+  "name": "Safety Systems Engineering in Autonomy",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00111,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13769",
+  "name": "Fusion and Plasma Physics Studies",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00111,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10244",
+  "name": "Chaos control and synchronization",
+  "count_recent": 15,
+  "count_prev": 7,
+  "share_recent": 0.00104,
+  "share_prev": 0.00085,
+  "growth": 1.225,
+  "eligible": false
+ },
+ {
+  "id": "T10361",
+  "name": "Silicon Carbide Semiconductor Technologies",
+  "count_recent": 15,
+  "count_prev": 13,
+  "share_recent": 0.00104,
+  "share_prev": 0.00158,
+  "growth": 0.66,
+  "eligible": false
+ },
+ {
+  "id": "T10650",
+  "name": "Food Drying and Modeling",
+  "count_recent": 15,
+  "count_prev": 0,
+  "share_recent": 0.00104,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10067",
+  "name": "Stochastic processes and financial applications",
+  "count_recent": 14,
+  "count_prev": 13,
+  "share_recent": 0.00097,
+  "share_prev": 0.00158,
+  "growth": 0.616,
+  "eligible": false
+ },
+ {
+  "id": "T10138",
+  "name": "Network Traffic and Congestion Control",
+  "count_recent": 14,
+  "count_prev": 15,
+  "share_recent": 0.00097,
+  "share_prev": 0.00183,
+  "growth": 0.533,
+  "eligible": false
+ },
+ {
+  "id": "T10495",
+  "name": "Catalysts for Methane Reforming",
+  "count_recent": 14,
+  "count_prev": 9,
+  "share_recent": 0.00097,
+  "share_prev": 0.0011,
+  "growth": 0.889,
+  "eligible": false
+ },
+ {
+  "id": "T11490",
+  "name": "Hydrological Forecasting Using AI",
+  "count_recent": 14,
+  "count_prev": 8,
+  "share_recent": 0.00097,
+  "share_prev": 0.00097,
+  "growth": 1.0,
+  "eligible": false
+ },
+ {
+  "id": "T11870",
+  "name": "Structural Analysis and Optimization",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00097,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10188",
+  "name": "Advanced machining processes and optimization",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00091,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10237",
+  "name": "Cryptography and Data Security",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00091,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10401",
+  "name": "Diabetes Treatment and Management",
+  "count_recent": 13,
+  "count_prev": 9,
+  "share_recent": 0.00091,
+  "share_prev": 0.0011,
+  "growth": 0.826,
+  "eligible": false
+ }
+]

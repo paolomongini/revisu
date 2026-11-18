@@ -1,0 +1,354 @@
+{
+ "settings": {
+  "start_year": 2000,
+  "home_country": "IT",
+  "min_count": 15,
+  "max_institutions": 200,
+  "max_authors": 60,
+  "papers_per_bucket": 100
+ },
+ "topics": [
+  {
+   "slug": "mpc",
+   "label": "Model Predictive Control",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"model predictive control\" OR \"receding horizon control\""
+  },
+  {
+   "slug": "learning-mpc",
+   "label": "Learning-based / Data-driven MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"learning-based model predictive control\" OR \"learning-based MPC\" OR \"data-driven MPC\" OR \"data-driven predictive control\" OR \"data-enabled predictive control\" OR DeePC OR \"Gaussian process MPC\" OR \"neural network MPC\" OR \"learning model predictive control\""
+  },
+  {
+   "slug": "nonlinear-mpc",
+   "label": "Nonlinear MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"nonlinear model predictive control\" OR \"nonlinear MPC\" OR NMPC"
+  },
+  {
+   "slug": "robust-mpc",
+   "label": "Robust & Stochastic MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"robust MPC\" OR \"tube-based MPC\" OR \"tube MPC\" OR \"stochastic MPC\" OR \"stochastic model predictive control\" OR \"robust model predictive control\""
+  },
+  {
+   "slug": "economic-mpc",
+   "label": "Economic MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"economic model predictive control\" OR \"economic MPC\""
+  },
+  {
+   "slug": "explicit-mpc",
+   "label": "Explicit & Approximate MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"explicit MPC\" OR \"explicit model predictive control\" OR \"approximate MPC\" OR \"neural network approximation of MPC\""
+  },
+  {
+   "slug": "embedded-mpc",
+   "label": "Embedded & Fast MPC (GPU/FPGA)",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "(\"model predictive control\" OR MPC) AND (embedded OR FPGA OR GPU OR \"real-time\")"
+  },
+  {
+   "slug": "nn-sysid",
+   "label": "Neural Networks for System Identification",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "(\"system identification\" AND (\"neural network\" OR \"neural networks\" OR \"deep learning\" OR LSTM OR \"recurrent neural\")) OR \"neural state-space\" OR \"neural state space model\" OR \"deep system identification\""
+  },
+  {
+   "slug": "nonlinear-sysid",
+   "label": "Nonlinear System Identification",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"nonlinear system identification\" OR \"black-box identification\" OR \"grey-box identification\" OR \"gray-box model\" OR \"NARX model\" OR \"Wiener-Hammerstein\""
+  },
+  {
+   "slug": "physics-informed",
+   "label": "Physics-informed Learning for Dynamics",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "(\"physics-informed neural network\" OR \"physics-informed machine learning\" OR \"physics-guided\") AND (control OR identification OR dynamical)"
+  },
+  {
+   "slug": "subspace-id",
+   "label": "Subspace & Linear Identification",
+   "group": "System Identification",
+   "query": "\"subspace identification\" OR \"prediction error method\" OR \"kernel-based system identification\" OR \"regularized system identification\""
+  },
+  {
+   "slug": "gp-dynamics",
+   "label": "Gaussian Processes for Dynamics",
+   "group": "System Identification",
+   "query": "\"Gaussian process\" AND (\"dynamical system\" OR \"system identification\" OR \"state-space\" OR control)"
+  },
+  {
+   "slug": "sindy",
+   "label": "Sparse Identification (SINDy)",
+   "group": "System Identification",
+   "query": "\"sparse identification of nonlinear dynamics\" OR SINDy OR (\"equation discovery\" AND dynamics) OR (\"symbolic regression\" AND \"dynamical system\")"
+  },
+  {
+   "slug": "koopman",
+   "label": "Koopman Operator",
+   "group": "System Identification",
+   "query": "\"Koopman operator\""
+  },
+  {
+   "slug": "neural-ode",
+   "label": "Neural ODEs & Continuous-time Learning",
+   "group": "System Identification",
+   "query": "\"neural ordinary differential equation\" OR \"neural ODE\" OR \"neural ODEs\" OR \"universal differential equation\""
+  },
+  {
+   "slug": "lpv",
+   "label": "LPV Systems",
+   "group": "System Identification",
+   "query": "\"linear parameter-varying\" OR \"LPV system\" OR \"LPV model\""
+  },
+  {
+   "slug": "time-series-dl",
+   "label": "Deep Learning for Dynamical Time Series",
+   "group": "System Identification",
+   "query": "(transformer OR LSTM OR \"temporal convolutional\") AND (\"dynamical system\" OR \"system identification\" OR \"multi-step prediction\")"
+  },
+  {
+   "slug": "in-context-sysid",
+   "label": "In-context Learning & Foundation Models for Dynamics",
+   "group": "System Identification",
+   "query": "(\"in-context learning\" OR \"foundation model\") AND (\"system identification\" OR \"dynamical system\" OR \"control system\")"
+  },
+  {
+   "slug": "digital-twin",
+   "label": "Digital Twin",
+   "group": "System Identification",
+   "query": "\"digital twin\" AND (control OR automation OR manufacturing)"
+  },
+  {
+   "slug": "data-driven-control",
+   "label": "Data-driven Control",
+   "group": "Learning & Control",
+   "query": "\"data-driven control\" OR \"behavioral systems\" OR \"Willems fundamental lemma\" OR \"direct data-driven\""
+  },
+  {
+   "slug": "rl-control",
+   "label": "Reinforcement Learning for Control",
+   "group": "Learning & Control",
+   "query": "\"reinforcement learning\" AND (\"optimal control\" OR \"feedback control\" OR \"process control\" OR \"control system\")"
+  },
+  {
+   "slug": "safe-rl",
+   "label": "Safe RL & Control Barrier Functions",
+   "group": "Learning & Control",
+   "query": "\"safe reinforcement learning\" OR \"control barrier function\" OR \"safety filter\" OR \"safe learning\""
+  },
+  {
+   "slug": "imitation",
+   "label": "Imitation Learning & Policy Learning",
+   "group": "Learning & Control",
+   "query": "\"imitation learning\" OR \"behavior cloning\" OR \"learning from demonstration\""
+  },
+  {
+   "slug": "bayes-opt",
+   "label": "Bayesian Optimization for Controller Tuning",
+   "group": "Learning & Control",
+   "query": "\"Bayesian optimization\" AND (controller OR control OR tuning)"
+  },
+  {
+   "slug": "ilc",
+   "label": "Iterative Learning Control",
+   "group": "Learning & Control",
+   "query": "\"iterative learning control\" OR \"repetitive control\""
+  },
+  {
+   "slug": "diff-opt",
+   "label": "Differentiable Optimization & Control",
+   "group": "Learning & Control",
+   "query": "\"differentiable MPC\" OR \"differentiable optimization\" OR \"differentiable predictive control\" OR \"differentiable simulation\""
+  },
+  {
+   "slug": "nn-verification",
+   "label": "Neural Network Controllers: Stability & Verification",
+   "group": "Learning & Control",
+   "query": "((\"neural network controller\" OR \"neural network control policy\") AND (stability OR verification OR robustness)) OR \"neural Lyapunov\""
+  },
+  {
+   "slug": "nn-closed-loop",
+   "label": "Neural Network Controllers with Guarantees (REN, port-Hamiltonian, boosting)",
+   "group": "Learning & Control",
+   "query": "\"recurrent equilibrium network\" OR \"recurrent equilibrium networks\" OR \"performance boosting\" OR \"port-Hamiltonian neural network\" OR \"Hamiltonian deep neural networks\" OR \"Lipschitz-bounded neural network\" OR \"contractive neural network\" OR (\"unconstrained parametrization\" AND control) OR (\"neural network controller\" AND \"closed-loop stability\")"
+  },
+  {
+   "slug": "llm-control",
+   "label": "LLMs for Control & Automation",
+   "group": "Learning & Control",
+   "query": "(\"large language model\" OR LLM OR \"language models\") AND (\"control system\" OR automation OR PLC OR robotics OR \"control engineering\")"
+  },
+  {
+   "slug": "ml-optimization",
+   "label": "Learning to Optimize / Amortized Optimization",
+   "group": "Learning & Control",
+   "query": "(\"learning to optimize\" OR \"amortized optimization\") AND (control OR MPC)"
+  },
+  {
+   "slug": "optimal-control",
+   "label": "Optimal Control",
+   "group": "Classical & Modern Control",
+   "query": "\"optimal control\" AND (\"trajectory optimization\" OR \"Pontryagin\" OR \"dynamic programming\" OR \"linear quadratic\")"
+  },
+  {
+   "slug": "robust-control",
+   "label": "Robust Control",
+   "group": "Classical & Modern Control",
+   "query": "\"robust control\" OR \"H-infinity control\" OR \"mu-synthesis\""
+  },
+  {
+   "slug": "adaptive-control",
+   "label": "Adaptive Control",
+   "group": "Classical & Modern Control",
+   "query": "\"adaptive control\""
+  },
+  {
+   "slug": "nonlinear-control",
+   "label": "Nonlinear Control & Lyapunov",
+   "group": "Classical & Modern Control",
+   "query": "\"nonlinear control\" OR \"Lyapunov function\" OR backstepping OR \"feedback linearization\""
+  },
+  {
+   "slug": "sliding-mode",
+   "label": "Sliding Mode Control",
+   "group": "Classical & Modern Control",
+   "query": "\"sliding mode control\""
+  },
+  {
+   "slug": "pid",
+   "label": "PID Control & Tuning",
+   "group": "Classical & Modern Control",
+   "query": "\"PID controller\" OR \"PID control\" OR \"PID tuning\""
+  },
+  {
+   "slug": "event-triggered",
+   "label": "Event-triggered & Networked Control",
+   "group": "Classical & Modern Control",
+   "query": "\"event-triggered control\" OR \"networked control system\" OR \"self-triggered control\""
+  },
+  {
+   "slug": "hybrid-systems",
+   "label": "Hybrid & Switched Systems",
+   "group": "Classical & Modern Control",
+   "query": "\"hybrid systems\" OR \"switched systems\" OR (\"piecewise affine\" AND control)"
+  },
+  {
+   "slug": "distributed-control",
+   "label": "Distributed & Multi-agent Control",
+   "group": "Classical & Modern Control",
+   "query": "\"distributed control\" OR \"multi-agent systems\" OR \"distributed MPC\" OR \"consensus control\" OR \"plug-and-play control\" OR (\"large-scale systems\" AND control)"
+  },
+  {
+   "slug": "state-estimation",
+   "label": "State Estimation & Observers",
+   "group": "Classical & Modern Control",
+   "query": "\"state estimation\" OR \"moving horizon estimation\" OR \"Kalman filter\" OR \"state observer\""
+  },
+  {
+   "slug": "stochastic-control",
+   "label": "Stochastic Control & Uncertainty",
+   "group": "Classical & Modern Control",
+   "query": "\"stochastic control\" OR (\"chance constraints\" AND control) OR (\"distributionally robust\" AND control)"
+  },
+  {
+   "slug": "autonomous-driving",
+   "label": "Autonomous Vehicles Control",
+   "group": "Applications",
+   "query": "(\"autonomous vehicle\" OR \"autonomous driving\" OR \"automated driving\") AND (control OR MPC OR \"motion planning\")"
+  },
+  {
+   "slug": "robot-control",
+   "label": "Robot Control & Motion Planning",
+   "group": "Applications",
+   "query": "(robot OR manipulator OR \"legged robot\") AND (\"motion planning\" OR \"trajectory optimization\" OR \"whole-body control\" OR \"robot control\")"
+  },
+  {
+   "slug": "uav",
+   "label": "UAV & Quadrotor Control",
+   "group": "Applications",
+   "query": "(UAV OR quadrotor OR drone OR multirotor) AND control"
+  },
+  {
+   "slug": "energy-microgrid",
+   "label": "Microgrids & Power Systems Control",
+   "group": "Applications",
+   "query": "(microgrid OR \"smart grid\" OR \"power system\") AND (control OR MPC OR \"energy management\")"
+  },
+  {
+   "slug": "battery",
+   "label": "Battery Management & Estimation",
+   "group": "Applications",
+   "query": "\"battery management system\" OR \"state of charge estimation\" OR \"state of health estimation\""
+  },
+  {
+   "slug": "building-hvac",
+   "label": "Building & HVAC Control",
+   "group": "Applications",
+   "query": "(building OR HVAC) AND (\"model predictive control\" OR \"energy management\" OR \"thermal control\")"
+  },
+  {
+   "slug": "process-control",
+   "label": "Process Control",
+   "group": "Applications",
+   "query": "\"process control\" OR ((\"chemical process\" OR \"batch process\") AND control)"
+  },
+  {
+   "slug": "power-electronics",
+   "label": "Power Electronics & Drives Control",
+   "group": "Applications",
+   "query": "(\"power converter\" OR inverter OR \"motor drive\" OR PMSM) AND (\"model predictive control\" OR \"predictive control\" OR \"current control\")"
+  },
+  {
+   "slug": "traffic",
+   "label": "Traffic & Transportation Control",
+   "group": "Applications",
+   "query": "\"traffic control\" OR \"traffic signal control\" OR \"ramp metering\" OR (\"traffic flow\" AND control)"
+  },
+  {
+   "slug": "biomedical",
+   "label": "Biomedical & Artificial Pancreas Control",
+   "group": "Applications",
+   "query": "\"artificial pancreas\" OR \"closed-loop insulin\" OR \"anesthesia control\" OR (\"drug dosing\" AND control)"
+  },
+  {
+   "slug": "fault-detection",
+   "label": "Fault Detection & Diagnosis",
+   "group": "Industrial Automation",
+   "query": "\"fault detection\" OR \"fault diagnosis\" OR \"fault-tolerant control\""
+  },
+  {
+   "slug": "predictive-maintenance",
+   "label": "Predictive Maintenance",
+   "group": "Industrial Automation",
+   "query": "\"predictive maintenance\" OR \"remaining useful life\" OR \"prognostics\""
+  },
+  {
+   "slug": "plc",
+   "label": "PLC & Industrial Control Software",
+   "group": "Industrial Automation",
+   "query": "\"programmable logic controller\" OR \"IEC 61131\" OR \"PLC programming\" OR \"IEC 61499\""
+  },
+  {
+   "slug": "industry40",
+   "label": "Industry 4.0 & Smart Manufacturing",
+   "group": "Industrial Automation",
+   "query": "\"Industry 4.0\" OR \"smart manufacturing\" OR \"cyber-physical production\""
+  },
+  {
+   "slug": "cps-security",
+   "label": "Cyber-physical Systems Security",
+   "group": "Industrial Automation",
+   "query": "(\"cyber-physical system\" OR \"industrial control system\") AND (attack OR security OR resilience)"
+  },
+  {
+   "slug": "edge-control",
+   "label": "Edge Computing & IoT for Control",
+   "group": "Industrial Automation",
+   "query": "(\"edge computing\" OR IoT OR \"cloud control\") AND (\"control system\" OR automation OR MPC)"
+  }
+ ]
+}

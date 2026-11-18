@@ -1,0 +1,27 @@
+{
+ "slug": "ilc",
+ "label": "Iterative Learning Control",
+ "group": "Learning & Control",
+ "query": "\"iterative learning control\" OR \"repetitive control\"",
+ "generated_at": "2026-11-18T11:35:32",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 5849,
+ "n_recent": 1123,
+ "n_prev": 898,
+ "volume_growth": 1.251,
+ "min_count_for_hot": 15,
+ "api_calls": 297,
+ "cost_usd": 0.2403,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

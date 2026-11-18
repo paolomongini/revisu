@@ -1,0 +1,27 @@
+{
+ "slug": "digital-twin",
+ "label": "Digital Twin",
+ "group": "System Identification",
+ "query": "\"digital twin\" AND (control OR automation OR manufacturing)",
+ "generated_at": "2026-11-18T11:28:52",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 19553,
+ "n_recent": 14933,
+ "n_prev": 3715,
+ "volume_growth": 4.02,
+ "min_count_for_hot": 59,
+ "api_calls": 131,
+ "cost_usd": 0.1067,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

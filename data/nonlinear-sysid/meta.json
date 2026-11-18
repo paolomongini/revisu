@@ -1,0 +1,27 @@
+{
+ "slug": "nonlinear-sysid",
+ "label": "Nonlinear System Identification",
+ "group": "Focus: MPC & NN-SysID",
+ "query": "\"nonlinear system identification\" OR \"black-box identification\" OR \"grey-box identification\" OR \"gray-box model\" OR \"NARX model\" OR \"Wiener-Hammerstein\"",
+ "generated_at": "2026-11-18T11:17:27",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 3159,
+ "n_recent": 701,
+ "n_prev": 583,
+ "volume_growth": 1.202,
+ "min_count_for_hot": 15,
+ "api_calls": 189,
+ "cost_usd": 0.1413,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

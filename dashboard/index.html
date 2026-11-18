@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Revisu</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css?v=9">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='none' stroke='%232a78d6' stroke-width='3'/><circle cx='16' cy='16' r='7' fill='none' stroke='%232a78d6' stroke-width='3'/><circle cx='16' cy='16' r='2.5' fill='%23e34948'/></svg>">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <svg viewBox="0 0 32 32" width="26" height="26" aria-hidden="true"><circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="16" cy="16" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="16" cy="16" r="2.5" fill="var(--accent-hot)"/></svg>
+    <div>
+      <h1>Revisu</h1>
+      <p>Research Visualisation Support · controllo, automazione e ML · dati OpenAlex</p>
+    </div>
+  </div>
+  <div class="search">
+    <input id="search" type="search" placeholder="Cerca persone, istituzioni, paper…  ( / )" autocomplete="off" aria-label="Ricerca globale">
+    <div id="searchResults" class="search-results" hidden></div>
+  </div>
+  <div class="controls">
+    <select id="topic" aria-label="Topic"></select>
+    <button id="btnNew" type="button" class="primary" title="Aggiungi un nuovo argomento">+ Topic</button>
+    <button id="btnAgents" type="button" title="Console degli agenti">⚙ Agenti <span id="agentDot" class="dot" hidden></span></button>
+    <button id="btnSaved" type="button" title="Paper e persone salvati">★ <span id="savedCount">0</span></button>
+    <button id="btnHelp" class="ghost" type="button" aria-label="Aiuto">?</button>
+    <button id="theme" class="ghost" type="button" aria-label="Cambia tema">◐</button>
+    <span id="live" class="live" title="La pagina controlla nuovi dati ogni 8 secondi">● live</span>
+  </div>
+</header>
+
+<main id="app">
+  <section id="empty" class="card empty" hidden>
+    <h2>Nessun dato ancora</h2>
+    <p>Premi <b>+ Topic</b> qui sopra, oppure in Claude Code lancia <code>/radar mpc</code>.</p>
+  </section>
+
+  <section class="kpis" id="kpis"></section>
+
+  <section class="card action-bar" id="actionBar">
+    <div>
+      <b id="actTitle"></b>
+      <span class="muted small" id="actMeta"></span>
+    </div>
+    <div class="act-buttons">
+      <button id="btnRefresh" type="button" title="Riscarica i dati da OpenAlex (gratis, ~15 s)">↻ Aggiorna dati</button>
+      <button id="btnReport" type="button" class="primary" title="Gli agenti analizzano i dati e scrivono un report verificato (usa Claude)">✦ Genera report con agenti</button>
+      <button id="btnShare" type="button" class="ghost" title="Copia il link a questa vista">🔗 Link</button>
+    </div>
+  </section>
+
+  <section class="card" id="watchCard" hidden>
+    <div class="card-head">
+      <h2>★ Gruppi e persone che segui <span class="muted small">— contati in ogni topic anche se non sono in cima alla classifica</span></h2>
+      <span class="muted small">modifica <code>config/watchlist.json</code></span>
+    </div>
+    <div class="watch-grid">
+      <div><h3>Istituzioni</h3><div id="watchInst" class="watch-list"></div></div>
+      <div><h3>Persone</h3><div id="watchPeople" class="watch-list"></div></div>
+    </div>
+  </section>
+
+  <div class="grid two">
+    <section class="card">
+      <div class="card-head">
+        <h2>Pubblicazioni per anno</h2>
+        <div class="seg" id="trendMode" role="tablist">
+          <button data-mode="abs" class="on">Assolute</button>
+          <button data-mode="share">% letteratura controllo</button>
+          <button data-mode="index">Indice</button>
+        </div>
+      </div>
+      <div class="compare">
+        <span class="muted">Confronta:</span>
+        <div id="compareChips" class="chips"></div>
+        <select id="compareAdd"><option value="">+ aggiungi topic</option></select>
+      </div>
+      <div class="chart-box"><canvas id="trendChart" aria-label="Grafico pubblicazioni per anno"></canvas></div>
+      <p class="note" id="trendNote"></p>
+      <details><summary>Tabella dati</summary><div id="trendTable" class="table-wrap"></div></details>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <h2>Hot topic</h2>
+        <div class="seg" id="hotTab">
+          <button data-tab="keywords" class="on">Keyword</button>
+          <button data-tab="topics">Topic OpenAlex</button>
+        </div>
+      </div>
+      <p class="note">Crescita = quota nella finestra recente ÷ quota nella precedente. <b>Clicca una voce</b> per vedere i paper relativi.</p>
+      <div id="hotList" class="bars"></div>
+    </section>
+  </div>
+
+  <section class="card" id="mapCard">
+    <div class="card-head">
+      <h2>Dove si fa ricerca</h2>
+      <div class="seg" id="mapZoom">
+        <button data-z="world" class="on">Mondo</button>
+        <button data-z="europe">Europa</button>
+        <button data-z="home">Italia</button>
+        <button data-z="na">N. America</button>
+        <button data-z="asia">Asia</button>
+      </div>
+    </div>
+    <div class="map-wrap">
+      <div class="map-main">
+        <div id="map"></div>
+        <div class="legend" id="mapLegend"></div>
+        <p class="note" id="mapCaption"></p>
+      </div>
+      <div class="map-side">
+        <h3>Paesi <span class="muted small" id="countryCaption"></span></h3>
+        <p class="note"><b>Clicca un paese</b> per filtrare persone e mappa.</p>
+        <div id="countryList" class="bars"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="card graph-card" id="graphPeople"></section>
+  <section class="card graph-card" id="graphWords"></section>
+
+  <section class="card">
+    <div class="card-head">
+      <h2>Panoramica topic <span class="muted small">— grande e in crescita in alto a destra</span></h2>
+      <span class="muted small">clicca un punto per aprirlo</span>
+    </div>
+    <div class="chart-box tall"><canvas id="overviewChart" aria-label="Topic per volume e crescita"></canvas></div>
+  </section>
+
+  <section class="card" id="peopleCard">
+    <div class="card-head">
+      <h2>Persone più attive</h2>
+      <div class="filters">
+        <span id="countryChip"></span>
+        <select id="countryFilter" aria-label="Filtra per paese"><option value="">Tutti i paesi</option></select>
+      </div>
+    </div>
+    <div class="table-wrap"><table id="people"></table></div>
+  </section>
+
+  <section class="card" id="papersCard">
+    <div class="card-head">
+      <h2>Paper suggeriti</h2>
+      <div class="filters">
+        <span id="kwChip"></span>
+        <div class="seg" id="paperTab">
+          <button data-tab="fresh" class="on">Ultimi 12 mesi</button>
+          <button data-tab="recent-impact">Impatto recente</button>
+          <button data-tab="classic">Classici</button>
+          <button data-tab="all">Tutti</button>
+        </div>
+      </div>
+    </div>
+    <ol id="papers" class="papers"></ol>
+  </section>
+
+  <section class="card report-card" id="reportCard">
+    <div class="card-head">
+      <h2>Report degli agenti</h2>
+      <div class="filters">
+        <span class="small" id="reportMeta"></span>
+        <button id="btnPrint" type="button" class="ghost" title="Stampa o salva il report come PDF">⎙ PDF</button>
+      </div>
+    </div>
+    <article id="report" class="report"></article>
+  </section>
+</main>
+
+<footer class="foot">
+  Dati: <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a> (CC0) · confini: Natural Earth · analisi: agenti Claude Code.
+  I report sono generati automaticamente e verificati dal subagente <em>reviewer</em>: controlla sempre le fonti.
+</footer>
+
+<!-- Agent console (drawer) -->
+<aside id="drawer" class="drawer" hidden aria-label="Console agenti">
+  <div class="drawer-head">
+    <h2>Console agenti</h2>
+    <button id="drawerClose" class="ghost" type="button" aria-label="Chiudi">✕</button>
+  </div>
+  <div id="apiWarn" class="warn" hidden>
+    Questa pagina è servita senza il server di Revisu, quindi i pulsanti per lanciare agenti e download sono disattivati.
+    Avviala con <code>start.bat</code> / <code>bash start.sh</code>, oppure usa i comandi dentro Claude Code.
+  </div>
+  <form id="askForm" class="ask">
+    <input id="askInput" type="text" placeholder="Chiedi agli agenti… es. chi lavora su MPC in Italia?" maxlength="400">
+    <button type="submit" class="primary">Chiedi</button>
+  </form>
+  <div class="job-head">
+    <span id="jobTitle" class="muted small">Nessun job in corso</span>
+    <button id="jobCancel" type="button" class="ghost small" hidden>Interrompi</button>
+  </div>
+  <div id="pipeline" class="pipeline"></div>
+  <div id="console" class="console" aria-live="polite"></div>
+</aside>
+
+<!-- Saved items (drawer) -->
+<aside id="savedDrawer" class="drawer" hidden aria-label="Salvati">
+  <div class="drawer-head">
+    <h2>Salvati</h2>
+    <button id="savedClose" class="ghost" type="button" aria-label="Chiudi">✕</button>
+  </div>
+  <div class="act-buttons">
+    <button id="exportBib" type="button">Esporta BibTeX</button>
+    <button id="exportMd" type="button">Esporta Markdown</button>
+    <button id="clearSaved" type="button" class="ghost">Svuota</button>
+  </div>
+  <div id="savedList"></div>
+</aside>
+
+<!-- New topic dialog -->
+<dialog id="newDialog">
+  <form method="dialog" id="newForm">
+    <h2>Nuovo topic</h2>
+    <label>Argomento <input id="newLabel" type="text" placeholder="es. Neural ODE" required maxlength="80"></label>
+    <label>Query OpenAlex <span class="muted small">(frasi tra virgolette, AND / OR, niente virgole)</span>
+      <input id="newQuery" type="text" placeholder='"neural ODE" OR "neural ordinary differential equation"' maxlength="300"></label>
+    <p class="note">Suggerimento: per "Solo dati" scrivi tu la query; con "Lascia fare agli agenti" la costruisce Claude con i termini standard del settore.</p>
+    <p id="newErr" class="err" hidden></p>
+    <div class="act-buttons end">
+      <button value="cancel" class="ghost" formnovalidate>Annulla</button>
+      <button id="newData" value="data" type="submit">Solo dati (gratis, ~15 s)</button>
+      <button id="newAgents" value="agents" type="submit" class="primary">✦ Lascia fare agli agenti</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- Help -->
+<dialog id="helpDialog">
+  <form method="dialog">
+    <h2>Come si usa</h2>
+    <ol class="help">
+      <li><b>Scegli un topic</b> dal menu in alto, oppure aggiungine uno con <b>+ Topic</b>.</li>
+      <li><b>Trend</b>: confronta fino a 4 topic. "% letteratura controllo" funziona come Google Trends, perché normalizza sulla crescita di tutto il settore.</li>
+      <li><b>Mappa</b>: la dimensione indica i lavori recenti, il colore la crescita. Clicca un'istituzione per vedere le persone.</li>
+      <li><b>Hot topic → paper</b>: clicca una keyword per vedere i paper relativi. Clicca un <b>paese</b> per filtrare persone e mappa.</li>
+      <li><b>Grafi</b> (stile Logseq): <i>persone &amp; paper</i> mostra chi ha scritto cosa e quindi chi collabora con chi; il <i>grafo delle parole</i> collega le keyword che compaiono negli stessi paper. Passa con il mouse per evidenziare i collegamenti, clicca per i dettagli, trascina i nodi, ⚙ per le impostazioni.</li>
+      <li><b>★</b> salva paper e persone, poi esportali in BibTeX o Markdown.</li>
+      <li><b>✦ Genera report</b>: quattro agenti Claude (scout → trend-analyst + collab-finder → reviewer) analizzano i dati. Puoi seguirli in diretta nella console.</li>
+      <li>Scorciatoie: <kbd>/</kbd> ricerca · <kbd>a</kbd> console agenti · <kbd>n</kbd> nuovo topic · <kbd>Esc</kbd> chiudi.</li>
+    </ol>
+    <div class="act-buttons end"><button class="primary">Ok</button></div>
+  </form>
+</dialog>
+
+<div id="toast" class="toast" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/force-graph@1.43.5/dist/force-graph.min.js"></script>
+<script src="app.js?v=9"></script>
+<script src="graph.js?v=9"></script>
+</body>
+</html>

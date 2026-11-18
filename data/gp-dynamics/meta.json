@@ -1,0 +1,27 @@
+{
+ "slug": "gp-dynamics",
+ "label": "Gaussian Processes for Dynamics",
+ "group": "System Identification",
+ "query": "\"Gaussian process\" AND (\"dynamical system\" OR \"system identification\" OR \"state-space\" OR control)",
+ "generated_at": "2026-11-18T11:20:02",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 5110,
+ "n_recent": 2514,
+ "n_prev": 1136,
+ "volume_growth": 2.213,
+ "min_count_for_hot": 15,
+ "api_calls": 257,
+ "cost_usd": 0.1931,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "explicit-mpc",
+ "label": "Explicit & Approximate MPC",
+ "group": "Focus: MPC & NN-SysID",
+ "query": "\"explicit MPC\" OR \"explicit model predictive control\" OR \"approximate MPC\" OR \"neural network approximation of MPC\"",
+ "generated_at": "2026-11-18T11:16:38",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 417,
+ "n_recent": 108,
+ "n_prev": 92,
+ "volume_growth": 1.174,
+ "min_count_for_hot": 15,
+ "api_calls": 122,
+ "cost_usd": 0.0905,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

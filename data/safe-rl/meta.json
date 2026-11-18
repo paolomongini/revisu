@@ -1,0 +1,27 @@
+{
+ "slug": "safe-rl",
+ "label": "Safe RL & Control Barrier Functions",
+ "group": "Learning & Control",
+ "query": "\"safe reinforcement learning\" OR \"control barrier function\" OR \"safety filter\" OR \"safe learning\"",
+ "generated_at": "2026-11-18T11:32:15",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 6549,
+ "n_recent": 4420,
+ "n_prev": 1129,
+ "volume_growth": 3.915,
+ "min_count_for_hot": 17,
+ "api_calls": 215,
+ "cost_usd": 0.1745,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

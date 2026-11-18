@@ -1,0 +1,27 @@
+{
+ "slug": "sindy",
+ "label": "Sparse Identification (SINDy)",
+ "group": "System Identification",
+ "query": "\"sparse identification of nonlinear dynamics\" OR SINDy OR (\"equation discovery\" AND dynamics) OR (\"symbolic regression\" AND \"dynamical system\")",
+ "generated_at": "2026-11-18T11:20:52",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 962,
+ "n_recent": 672,
+ "n_prev": 180,
+ "volume_growth": 3.733,
+ "min_count_for_hot": 15,
+ "api_calls": 279,
+ "cost_usd": 0.2097,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

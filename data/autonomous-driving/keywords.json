@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 141,
+  "count_prev": 9,
+  "share_recent": 0.01933,
+  "share_prev": 0.00231,
+  "growth": 8.357,
+  "eligible": true
+ },
+ {
+  "id": "world-models",
+  "name": "world models",
+  "count_recent": 60,
+  "count_prev": 6,
+  "share_recent": 0.00822,
+  "share_prev": 0.00154,
+  "growth": 5.334,
+  "eligible": true
+ },
+ {
+  "id": "predictive-maintenance",
+  "name": "predictive maintenance",
+  "count_recent": 41,
+  "count_prev": 4,
+  "share_recent": 0.00562,
+  "share_prev": 0.00103,
+  "growth": 5.468,
+  "eligible": true
+ },
+ {
+  "id": "proximal-policy-optimization",
+  "name": "proximal policy optimization",
+  "count_recent": 104,
+  "count_prev": 16,
+  "share_recent": 0.01425,
+  "share_prev": 0.00411,
+  "growth": 3.467,
+  "eligible": true
+ },
+ {
+  "id": "nuscenes",
+  "name": "nuScenes",
+  "count_recent": 88,
+  "count_prev": 13,
+  "share_recent": 0.01206,
+  "share_prev": 0.00334,
+  "growth": 3.611,
+  "eligible": true
+ },
+ {
+  "id": "interpretability",
+  "name": "interpretability",
+  "count_recent": 71,
+  "count_prev": 10,
+  "share_recent": 0.00973,
+  "share_prev": 0.00257,
+  "growth": 3.787,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving-perception",
+  "name": "autonomous driving perception",
+  "count_recent": 84,
+  "count_prev": 13,
+  "share_recent": 0.01151,
+  "share_prev": 0.00334,
+  "growth": 3.447,
+  "eligible": true
+ },
+ {
+  "id": "collision-risk",
+  "name": "collision risk",
+  "count_recent": 39,
+  "count_prev": 5,
+  "share_recent": 0.00535,
+  "share_prev": 0.00128,
+  "growth": 4.161,
+  "eligible": true
+ },
+ {
+  "id": "explainable-ai",
+  "name": "explainable AI",
+  "count_recent": 84,
+  "count_prev": 14,
+  "share_recent": 0.01151,
+  "share_prev": 0.0036,
+  "growth": 3.201,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-models",
+  "name": "vision-language models",
+  "count_recent": 98,
+  "count_prev": 0,
+  "share_recent": 0.01343,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "industrial-automation",
+  "name": "industrial automation",
+  "count_recent": 37,
+  "count_prev": 5,
+  "share_recent": 0.00507,
+  "share_prev": 0.00128,
+  "growth": 3.947,
+  "eligible": true
+ },
+ {
+  "id": "multimodal-fusion",
+  "name": "multimodal fusion",
+  "count_recent": 45,
+  "count_prev": 7,
+  "share_recent": 0.00617,
+  "share_prev": 0.0018,
+  "growth": 3.429,
+  "eligible": true
+ },
+ {
+  "id": "diffusion-models",
+  "name": "diffusion models",
+  "count_recent": 72,
+  "count_prev": 0,
+  "share_recent": 0.00987,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "end-to-end-autonomous-driving",
+  "name": "end-to-end autonomous driving",
+  "count_recent": 63,
+  "count_prev": 11,
+  "share_recent": 0.00863,
+  "share_prev": 0.00283,
+  "growth": 3.055,
+  "eligible": true
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 50,
+  "count_prev": 9,
+  "share_recent": 0.00685,
+  "share_prev": 0.00231,
+  "growth": 2.964,
+  "eligible": true
+ },
+ {
+  "id": "federated-learning",
+  "name": "federated learning",
+  "count_recent": 49,
+  "count_prev": 9,
+  "share_recent": 0.00672,
+  "share_prev": 0.00231,
+  "growth": 2.904,
+  "eligible": true
+ },
+ {
+  "id": "scenario-generation",
+  "name": "scenario generation",
+  "count_recent": 42,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-action-models",
+  "name": "vision-language-action models",
+  "count_recent": 41,
+  "count_prev": 0,
+  "share_recent": 0.00562,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "adverse-weather",
+  "name": "adverse weather",
+  "count_recent": 35,
+  "count_prev": 6,
+  "share_recent": 0.0048,
+  "share_prev": 0.00154,
+  "growth": 3.112,
+  "eligible": true
+ },
+ {
+  "id": "actuator-faults",
+  "name": "actuator faults",
+  "count_recent": 39,
+  "count_prev": 7,
+  "share_recent": 0.00535,
+  "share_prev": 0.0018,
+  "growth": 2.972,
+  "eligible": true
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 102,
+  "count_prev": 25,
+  "share_recent": 0.01398,
+  "share_prev": 0.00642,
+  "growth": 2.176,
+  "eligible": true
+ },
+ {
+  "id": "traffic-sign-recognition",
+  "name": "traffic sign recognition",
+  "count_recent": 51,
+  "count_prev": 11,
+  "share_recent": 0.00699,
+  "share_prev": 0.00283,
+  "growth": 2.473,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving-simulation",
+  "name": "autonomous driving simulation",
+  "count_recent": 43,
+  "count_prev": 9,
+  "share_recent": 0.00589,
+  "share_prev": 0.00231,
+  "growth": 2.549,
+  "eligible": true
+ },
+ {
+  "id": "robotics",
+  "name": "robotics",
+  "count_recent": 59,
+  "count_prev": 14,
+  "share_recent": 0.00809,
+  "share_prev": 0.0036,
+  "growth": 2.248,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 128,
+  "count_prev": 35,
+  "share_recent": 0.01754,
+  "share_prev": 0.00899,
+  "growth": 1.951,
+  "eligible": true
+ },
+ {
+  "id": "attention-mechanism",
+  "name": "attention mechanism",
+  "count_recent": 51,
+  "count_prev": 12,
+  "share_recent": 0.00699,
+  "share_prev": 0.00308,
+  "growth": 2.267,
+  "eligible": true
+ },
+ {
+  "id": "lidar",
+  "name": "LiDAR",
+  "count_recent": 160,
+  "count_prev": 46,
+  "share_recent": 0.02193,
+  "share_prev": 0.01182,
+  "growth": 1.855,
+  "eligible": true
+ },
+ {
+  "id": "denial-of-service-attacks",
+  "name": "denial-of-service attacks",
+  "count_recent": 53,
+  "count_prev": 13,
+  "share_recent": 0.00726,
+  "share_prev": 0.00334,
+  "growth": 2.175,
+  "eligible": true
+ },
+ {
+  "id": "event-triggered-control",
+  "name": "event-triggered control",
+  "count_recent": 66,
+  "count_prev": 17,
+  "share_recent": 0.00905,
+  "share_prev": 0.00437,
+  "growth": 2.071,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-reinforcement-learning",
+  "name": "multi-agent reinforcement learning",
+  "count_recent": 101,
+  "count_prev": 28,
+  "share_recent": 0.01384,
+  "share_prev": 0.00719,
+  "growth": 1.924,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 110,
+  "count_prev": 31,
+  "share_recent": 0.01508,
+  "share_prev": 0.00797,
+  "growth": 1.893,
+  "eligible": true
+ },
+ {
+  "id": "time-to-collision",
+  "name": "time-to-collision",
+  "count_recent": 98,
+  "count_prev": 28,
+  "share_recent": 0.01343,
+  "share_prev": 0.00719,
+  "growth": 1.867,
+  "eligible": true
+ },
+ {
+  "id": "6g-networks",
+  "name": "6G",
+  "count_recent": 53,
+  "count_prev": 14,
+  "share_recent": 0.00726,
+  "share_prev": 0.0036,
+  "growth": 2.019,
+  "eligible": true
+ },
+ {
+  "id": "carla-simulator",
+  "name": "CARLA simulator",
+  "count_recent": 179,
+  "count_prev": 59,
+  "share_recent": 0.02453,
+  "share_prev": 0.01516,
+  "growth": 1.618,
+  "eligible": true
+ },
+ {
+  "id": "3d-object-detection",
+  "name": "3D object detection",
+  "count_recent": 40,
+  "count_prev": 11,
+  "share_recent": 0.00548,
+  "share_prev": 0.00283,
+  "growth": 1.94,
+  "eligible": true
+ },
+ {
+  "id": "semantic-segmentation",
+  "name": "semantic segmentation",
+  "count_recent": 73,
+  "count_prev": 22,
+  "share_recent": 0.01001,
+  "share_prev": 0.00565,
+  "growth": 1.77,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-prediction",
+  "name": "trajectory prediction",
+  "count_recent": 121,
+  "count_prev": 39,
+  "share_recent": 0.01658,
+  "share_prev": 0.01002,
+  "growth": 1.655,
+  "eligible": true
+ },
+ {
+  "id": "sensor-fusion",
+  "name": "sensor fusion",
+  "count_recent": 171,
+  "count_prev": 57,
+  "share_recent": 0.02344,
+  "share_prev": 0.01465,
+  "growth": 1.6,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 60,
+  "count_prev": 18,
+  "share_recent": 0.00822,
+  "share_prev": 0.00462,
+  "growth": 1.778,
+  "eligible": true
+ },
+ {
+  "id": "soft-actor-critic",
+  "name": "soft actor-critic",
+  "count_recent": 51,
+  "count_prev": 15,
+  "share_recent": 0.00699,
+  "share_prev": 0.00385,
+  "growth": 1.814,
+  "eligible": true
+ },
+ {
+  "id": "safety-constraints",
+  "name": "safety constraints",
+  "count_recent": 47,
+  "count_prev": 14,
+  "share_recent": 0.00644,
+  "share_prev": 0.0036,
+  "growth": 1.791,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving-safety",
+  "name": "autonomous driving safety",
+  "count_recent": 95,
+  "count_prev": 31,
+  "share_recent": 0.01302,
+  "share_prev": 0.00797,
+  "growth": 1.635,
+  "eligible": true
+ },
+ {
+  "id": "data-privacy",
+  "name": "data privacy",
+  "count_recent": 38,
+  "count_prev": 11,
+  "share_recent": 0.00521,
+  "share_prev": 0.00283,
+  "growth": 1.843,
+  "eligible": true
+ },
+ {
+  "id": "safe-reinforcement-learning",
+  "name": "safe reinforcement learning",
+  "count_recent": 38,
+  "count_prev": 11,
+  "share_recent": 0.00521,
+  "share_prev": 0.00283,
+  "growth": 1.843,
+  "eligible": true
+ },
+ {
+  "id": "carla",
+  "name": "CARLA",
+  "count_recent": 55,
+  "count_prev": 17,
+  "share_recent": 0.00754,
+  "share_prev": 0.00437,
+  "growth": 1.726,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 247,
+  "count_prev": 89,
+  "share_recent": 0.03385,
+  "share_prev": 0.02287,
+  "growth": 1.48,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving-systems",
+  "name": "autonomous driving systems",
+  "count_recent": 43,
+  "count_prev": 13,
+  "share_recent": 0.00589,
+  "share_prev": 0.00334,
+  "growth": 1.764,
+  "eligible": true
+ },
+ {
+  "id": "intrusion-detection",
+  "name": "intrusion detection",
+  "count_recent": 43,
+  "count_prev": 13,
+  "share_recent": 0.00589,
+  "share_prev": 0.00334,
+  "growth": 1.764,
+  "eligible": true
+ },
+ {
+  "id": "eye-tracking",
+  "name": "eye tracking",
+  "count_recent": 37,
+  "count_prev": 11,
+  "share_recent": 0.00507,
+  "share_prev": 0.00283,
+  "growth": 1.794,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-to-everything-communication",
+  "name": "vehicle-to-everything communication",
+  "count_recent": 182,
+  "count_prev": 65,
+  "share_recent": 0.02495,
+  "share_prev": 0.0167,
+  "growth": 1.494,
+  "eligible": true
+ },
+ {
+  "id": "cybersecurity",
+  "name": "cybersecurity",
+  "count_recent": 48,
+  "count_prev": 15,
+  "share_recent": 0.00658,
+  "share_prev": 0.00385,
+  "growth": 1.707,
+  "eligible": true
+ },
+ {
+  "id": "pid-control",
+  "name": "PID control",
+  "count_recent": 70,
+  "count_prev": 23,
+  "share_recent": 0.00959,
+  "share_prev": 0.00591,
+  "growth": 1.624,
+  "eligible": true
+ },
+ {
+  "id": "multi-sensor-fusion",
+  "name": "multi-sensor fusion",
+  "count_recent": 52,
+  "count_prev": 17,
+  "share_recent": 0.00713,
+  "share_prev": 0.00437,
+  "growth": 1.632,
+  "eligible": true
+ },
+ {
+  "id": "sample-efficiency",
+  "name": "sample efficiency",
+  "count_recent": 43,
+  "count_prev": 14,
+  "share_recent": 0.00589,
+  "share_prev": 0.0036,
+  "growth": 1.638,
+  "eligible": true
+ },
+ {
+  "id": "radar",
+  "name": "radar",
+  "count_recent": 40,
+  "count_prev": 13,
+  "share_recent": 0.00548,
+  "share_prev": 0.00334,
+  "growth": 1.641,
+  "eligible": true
+ },
+ {
+  "id": "ddpg",
+  "name": "deep deterministic policy gradient",
+  "count_recent": 71,
+  "count_prev": 25,
+  "share_recent": 0.00973,
+  "share_prev": 0.00642,
+  "growth": 1.515,
+  "eligible": true
+ },
+ {
+  "id": "edge-computing",
+  "name": "edge computing",
+  "count_recent": 94,
+  "count_prev": 34,
+  "share_recent": 0.01288,
+  "share_prev": 0.00874,
+  "growth": 1.475,
+  "eligible": true
+ },
+ {
+  "id": "hierarchical-control",
+  "name": "hierarchical control",
+  "count_recent": 94,
+  "count_prev": 34,
+  "share_recent": 0.01288,
+  "share_prev": 0.00874,
+  "growth": 1.475,
+  "eligible": true
+ },
+ {
+  "id": "cav-penetration-rate",
+  "name": "CAV penetration rate",
+  "count_recent": 57,
+  "count_prev": 20,
+  "share_recent": 0.00781,
+  "share_prev": 0.00514,
+  "growth": 1.52,
+  "eligible": true
+ },
+ {
+  "id": "imitation-learning",
+  "name": "imitation learning",
+  "count_recent": 84,
+  "count_prev": 31,
+  "share_recent": 0.01151,
+  "share_prev": 0.00797,
+  "growth": 1.445,
+  "eligible": true
+ },
+ {
+  "id": "fault-tolerant-control",
+  "name": "fault-tolerant control",
+  "count_recent": 51,
+  "count_prev": 19,
+  "share_recent": 0.00699,
+  "share_prev": 0.00488,
+  "growth": 1.432,
+  "eligible": true
+ },
+ {
+  "id": "sim-to-real-transfer",
+  "name": "sim-to-real transfer",
+  "count_recent": 46,
+  "count_prev": 17,
+  "share_recent": 0.0063,
+  "share_prev": 0.00437,
+  "growth": 1.443,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 65,
+  "count_prev": 25,
+  "share_recent": 0.00891,
+  "share_prev": 0.00642,
+  "growth": 1.387,
+  "eligible": true
+ },
+ {
+  "id": "backstepping-control",
+  "name": "backstepping control",
+  "count_recent": 38,
+  "count_prev": 14,
+  "share_recent": 0.00521,
+  "share_prev": 0.0036,
+  "growth": 1.448,
+  "eligible": true
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 76,
+  "count_prev": 30,
+  "share_recent": 0.01042,
+  "share_prev": 0.00771,
+  "growth": 1.351,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-systems",
+  "name": "autonomous systems",
+  "count_recent": 35,
+  "count_prev": 13,
+  "share_recent": 0.0048,
+  "share_prev": 0.00334,
+  "growth": 1.436,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 66,
+  "count_prev": 26,
+  "share_recent": 0.00905,
+  "share_prev": 0.00668,
+  "growth": 1.354,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 102,
+  "count_prev": 42,
+  "share_recent": 0.01398,
+  "share_prev": 0.01079,
+  "growth": 1.296,
+  "eligible": true
+ },
+ {
+  "id": "human-driven-vehicles",
+  "name": "human-driven vehicles",
+  "count_recent": 179,
+  "count_prev": 76,
+  "share_recent": 0.02453,
+  "share_prev": 0.01953,
+  "growth": 1.256,
+  "eligible": true
+ },
+ {
+  "id": "safety-critical-systems",
+  "name": "safety-critical systems",
+  "count_recent": 92,
+  "count_prev": 38,
+  "share_recent": 0.01261,
+  "share_prev": 0.00976,
+  "growth": 1.291,
+  "eligible": true
+ },
+ {
+  "id": "mixed-traffic-flow",
+  "name": "mixed traffic",
+  "count_recent": 375,
+  "count_prev": 166,
+  "share_recent": 0.0514,
+  "share_prev": 0.04265,
+  "growth": 1.205,
+  "eligible": true
+ },
+ {
+  "id": "markov-decision-process",
+  "name": "Markov decision process",
+  "count_recent": 38,
+  "count_prev": 15,
+  "share_recent": 0.00521,
+  "share_prev": 0.00385,
+  "growth": 1.351,
+  "eligible": true
+ },
+ {
+  "id": "reward-function-design",
+  "name": "reward function design",
+  "count_recent": 88,
+  "count_prev": 37,
+  "share_recent": 0.01206,
+  "share_prev": 0.00951,
+  "growth": 1.269,
+  "eligible": true
+ },
+ {
+  "id": "traffic-signal-control",
+  "name": "traffic signal control",
+  "count_recent": 63,
+  "count_prev": 26,
+  "share_recent": 0.00863,
+  "share_prev": 0.00668,
+  "growth": 1.293,
+  "eligible": true
+ },
+ {
+  "id": "cooperative-driving",
+  "name": "cooperative driving",
+  "count_recent": 49,
+  "count_prev": 20,
+  "share_recent": 0.00672,
+  "share_prev": 0.00514,
+  "growth": 1.307,
+  "eligible": true
+ },
+ {
+  "id": "lane-keeping",
+  "name": "lane keeping",
+  "count_recent": 76,
+  "count_prev": 32,
+  "share_recent": 0.01042,
+  "share_prev": 0.00822,
+  "growth": 1.267,
+  "eligible": true
+ },
+ {
+  "id": "traffic-management",
+  "name": "traffic management",
+  "count_recent": 80,
+  "count_prev": 34,
+  "share_recent": 0.01096,
+  "share_prev": 0.00874,
+  "growth": 1.255,
+  "eligible": true
+ },
+ {
+  "id": "communication-delay",
+  "name": "communication delay",
+  "count_recent": 62,
+  "count_prev": 26,
+  "share_recent": 0.0085,
+  "share_prev": 0.00668,
+  "growth": 1.272,
+  "eligible": true
+ },
+ {
+  "id": "electric-vehicles",
+  "name": "electric vehicles",
+  "count_recent": 100,
+  "count_prev": 43,
+  "share_recent": 0.01371,
+  "share_prev": 0.01105,
+  "growth": 1.241,
+  "eligible": true
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 111,
+  "count_prev": 48,
+  "share_recent": 0.01521,
+  "share_prev": 0.01233,
+  "growth": 1.234,
+  "eligible": true
+ },
+ {
+  "id": "emergency-braking",
+  "name": "emergency braking",
+  "count_recent": 36,
+  "count_prev": 15,
+  "share_recent": 0.00493,
+  "share_prev": 0.00385,
+  "growth": 1.28,
+  "eligible": true
+ },
+ {
+  "id": "intelligent-transportation-systems",
+  "name": "intelligent transportation systems",
+  "count_recent": 211,
+  "count_prev": 96,
+  "share_recent": 0.02892,
+  "share_prev": 0.02467,
+  "growth": 1.172,
+  "eligible": true
+ },
+ {
+  "id": "computer-vision",
+  "name": "computer vision",
+  "count_recent": 53,
+  "count_prev": 23,
+  "share_recent": 0.00726,
+  "share_prev": 0.00591,
+  "growth": 1.229,
+  "eligible": true
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 44,
+  "count_prev": 19,
+  "share_recent": 0.00603,
+  "share_prev": 0.00488,
+  "growth": 1.235,
+  "eligible": true
+ },
+ {
+  "id": "roadside-units",
+  "name": "roadside units",
+  "count_recent": 37,
+  "count_prev": 16,
+  "share_recent": 0.00507,
+  "share_prev": 0.00411,
+  "growth": 1.234,
+  "eligible": true
+ },
+ {
+  "id": "object-detection",
+  "name": "object detection",
+  "count_recent": 131,
+  "count_prev": 60,
+  "share_recent": 0.01796,
+  "share_prev": 0.01542,
+  "growth": 1.165,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence",
+  "name": "artificial intelligence",
+  "count_recent": 82,
+  "count_prev": 37,
+  "share_recent": 0.01124,
+  "share_prev": 0.00951,
+  "growth": 1.182,
+  "eligible": true
+ },
+ {
+  "id": "raspberry-pi",
+  "name": "Raspberry Pi",
+  "count_recent": 43,
+  "count_prev": 19,
+  "share_recent": 0.00589,
+  "share_prev": 0.00488,
+  "growth": 1.207,
+  "eligible": true
+ },
+ {
+  "id": "traffic-density",
+  "name": "traffic density",
+  "count_recent": 47,
+  "count_prev": 21,
+  "share_recent": 0.00644,
+  "share_prev": 0.0054,
+  "growth": 1.194,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-electric-vehicles",
+  "name": "autonomous electric vehicles",
+  "count_recent": 36,
+  "count_prev": 16,
+  "share_recent": 0.00493,
+  "share_prev": 0.00411,
+  "growth": 1.2,
+  "eligible": true
+ },
+ {
+  "id": "motion-sickness",
+  "name": "motion sickness",
+  "count_recent": 36,
+  "count_prev": 16,
+  "share_recent": 0.00493,
+  "share_prev": 0.00411,
+  "growth": 1.2,
+  "eligible": true
+ },
+ {
+  "id": "on-ramp-merging",
+  "name": "on-ramp merging",
+  "count_recent": 36,
+  "count_prev": 16,
+  "share_recent": 0.00493,
+  "share_prev": 0.00411,
+  "growth": 1.2,
+  "eligible": true
+ },
+ {
+  "id": "deep-q-network",
+  "name": "deep Q-network",
+  "count_recent": 57,
+  "count_prev": 26,
+  "share_recent": 0.00781,
+  "share_prev": 0.00668,
+  "growth": 1.169,
+  "eligible": true
+ },
+ {
+  "id": "fuzzy-logic-control",
+  "name": "fuzzy logic control",
+  "count_recent": 57,
+  "count_prev": 26,
+  "share_recent": 0.00781,
+  "share_prev": 0.00668,
+  "growth": 1.169,
+  "eligible": true
+ },
+ {
+  "id": "smart-cities",
+  "name": "smart cities",
+  "count_recent": 54,
+  "count_prev": 25,
+  "share_recent": 0.0074,
+  "share_prev": 0.00642,
+  "growth": 1.152,
+  "eligible": true
+ },
+ {
+  "id": "machine-learning",
+  "name": "machine learning",
+  "count_recent": 56,
+  "count_prev": 26,
+  "share_recent": 0.00768,
+  "share_prev": 0.00668,
+  "growth": 1.149,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-control",
+  "name": "data-driven control",
+  "count_recent": 37,
+  "count_prev": 17,
+  "share_recent": 0.00507,
+  "share_prev": 0.00437,
+  "growth": 1.161,
+  "eligible": true
+ },
+ {
+  "id": "unsignalized-intersections",
+  "name": "unsignalized intersections",
+  "count_recent": 72,
+  "count_prev": 34,
+  "share_recent": 0.00987,
+  "share_prev": 0.00874,
+  "growth": 1.13,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-security",
+  "name": "automotive cybersecurity",
+  "count_recent": 54,
+  "count_prev": 26,
+  "share_recent": 0.0074,
+  "share_prev": 0.00668,
+  "growth": 1.108,
+  "eligible": true
+ },
+ {
+  "id": "vehicular-networks",
+  "name": "vehicular networks",
+  "count_recent": 58,
+  "count_prev": 28,
+  "share_recent": 0.00795,
+  "share_prev": 0.00719,
+  "growth": 1.105,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 1914,
+  "count_prev": 968,
+  "share_recent": 0.26234,
+  "share_prev": 0.24872,
+  "growth": 1.055,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems",
+  "name": "cyber-physical systems",
+  "count_recent": 66,
+  "count_prev": 32,
+  "share_recent": 0.00905,
+  "share_prev": 0.00822,
+  "growth": 1.1,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 253,
+  "count_prev": 126,
+  "share_recent": 0.03468,
+  "share_prev": 0.03237,
+  "growth": 1.071,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 436,
+  "count_prev": 220,
+  "share_recent": 0.05976,
+  "share_prev": 0.05653,
+  "growth": 1.057,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-generation",
+  "name": "trajectory generation",
+  "count_recent": 68,
+  "count_prev": 34,
+  "share_recent": 0.00932,
+  "share_prev": 0.00874,
+  "growth": 1.067,
+  "eligible": true
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 48,
+  "count_prev": 24,
+  "share_recent": 0.00658,
+  "share_prev": 0.00617,
+  "growth": 1.067,
+  "eligible": true
+ },
+ {
+  "id": "anomaly-detection",
+  "name": "anomaly detection",
+  "count_recent": 40,
+  "count_prev": 20,
+  "share_recent": 0.00548,
+  "share_prev": 0.00514,
+  "growth": 1.067,
+  "eligible": true
+ },
+ {
+  "id": "sumo-traffic-simulation",
+  "name": "SUMO simulation",
+  "count_recent": 40,
+  "count_prev": 20,
+  "share_recent": 0.00548,
+  "share_prev": 0.00514,
+  "growth": 1.067,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-obstacles",
+  "name": "dynamic obstacles",
+  "count_recent": 38,
+  "count_prev": 19,
+  "share_recent": 0.00521,
+  "share_prev": 0.00488,
+  "growth": 1.067,
+  "eligible": true
+ },
+ {
+  "id": "passenger-comfort",
+  "name": "passenger comfort",
+  "count_recent": 65,
+  "count_prev": 33,
+  "share_recent": 0.00891,
+  "share_prev": 0.00848,
+  "growth": 1.051,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-navigation",
+  "name": "autonomous navigation",
+  "count_recent": 45,
+  "count_prev": 23,
+  "share_recent": 0.00617,
+  "share_prev": 0.00591,
+  "growth": 1.044,
+  "eligible": true
+ },
+ {
+  "id": "ultrasonic-sensors",
+  "name": "ultrasonic sensors",
+  "count_recent": 41,
+  "count_prev": 21,
+  "share_recent": 0.00562,
+  "share_prev": 0.0054,
+  "growth": 1.041,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 68,
+  "count_prev": 35,
+  "share_recent": 0.00932,
+  "share_prev": 0.00899,
+  "growth": 1.036,
+  "eligible": true
+ },
+ {
+  "id": "sliding-mode-control",
+  "name": "sliding mode control",
+  "count_recent": 64,
+  "count_prev": 33,
+  "share_recent": 0.00877,
+  "share_prev": 0.00848,
+  "growth": 1.035,
+  "eligible": true
+ },
+ {
+  "id": "traffic-flow-stability",
+  "name": "traffic flow stability",
+  "count_recent": 54,
+  "count_prev": 28,
+  "share_recent": 0.0074,
+  "share_prev": 0.00719,
+  "growth": 1.029,
+  "eligible": true
+ },
+ {
+  "id": "driver-takeover",
+  "name": "driver takeover",
+  "count_recent": 46,
+  "count_prev": 24,
+  "share_recent": 0.0063,
+  "share_prev": 0.00617,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "steer-by-wire",
+  "name": "steer-by-wire",
+  "count_recent": 38,
+  "count_prev": 20,
+  "share_recent": 0.00521,
+  "share_prev": 0.00514,
+  "growth": 1.014,
+  "eligible": true
+ },
+ {
+  "id": "decision-making",
+  "name": "decision-making",
+  "count_recent": 66,
+  "count_prev": 35,
+  "share_recent": 0.00905,
+  "share_prev": 0.00899,
+  "growth": 1.006,
+  "eligible": true
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 444,
+  "count_prev": 236,
+  "share_recent": 0.06086,
+  "share_prev": 0.06064,
+  "growth": 1.004,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicle-control",
+  "name": "autonomous vehicle control",
+  "count_recent": 55,
+  "count_prev": 30,
+  "share_recent": 0.00754,
+  "share_prev": 0.00771,
+  "growth": 0.978,
+  "eligible": true
+ },
+ {
+  "id": "signalized-intersections",
+  "name": "signalized intersections",
+  "count_recent": 66,
+  "count_prev": 36,
+  "share_recent": 0.00905,
+  "share_prev": 0.00925,
+  "growth": 0.978,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking-control",
+  "name": "trajectory tracking control",
+  "count_recent": 64,
+  "count_prev": 35,
+  "share_recent": 0.00877,
+  "share_prev": 0.00899,
+  "growth": 0.975,
+  "eligible": true
+ },
+ {
+  "id": "fuel-efficiency",
+  "name": "fuel economy",
+  "count_recent": 51,
+  "count_prev": 28,
+  "share_recent": 0.00699,
+  "share_prev": 0.00719,
+  "growth": 0.972,
+  "eligible": true
+ },
+ {
+  "id": "longitudinal-control",
+  "name": "longitudinal control",
+  "count_recent": 62,
+  "count_prev": 34,
+  "share_recent": 0.0085,
+  "share_prev": 0.00874,
+  "growth": 0.973,
+  "eligible": true
+ },
+ {
+  "id": "human-vehicle-interaction",
+  "name": "human-vehicle interaction",
+  "count_recent": 82,
+  "count_prev": 45,
+  "share_recent": 0.01124,
+  "share_prev": 0.01156,
+  "growth": 0.972,
+  "eligible": true
+ },
+ {
+  "id": "hardware-in-the-loop-simulation",
+  "name": "hardware-in-the-loop",
+  "count_recent": 78,
+  "count_prev": 43,
+  "share_recent": 0.01069,
+  "share_prev": 0.01105,
+  "growth": 0.968,
+  "eligible": true
+ },
+ {
+  "id": "quadratic-programming",
+  "name": "quadratic programming",
+  "count_recent": 43,
+  "count_prev": 24,
+  "share_recent": 0.00589,
+  "share_prev": 0.00617,
+  "growth": 0.956,
+  "eligible": true
+ },
+ {
+  "id": "environmental-perception",
+  "name": "environmental perception",
+  "count_recent": 41,
+  "count_prev": 23,
+  "share_recent": 0.00562,
+  "share_prev": 0.00591,
+  "growth": 0.951,
+  "eligible": true
+ },
+ {
+  "id": "lane-detection",
+  "name": "lane detection",
+  "count_recent": 68,
+  "count_prev": 38,
+  "share_recent": 0.00932,
+  "share_prev": 0.00976,
+  "growth": 0.955,
+  "eligible": true
+ },
+ {
+  "id": "human-automation-interaction",
+  "name": "human-automation interaction",
+  "count_recent": 66,
+  "count_prev": 37,
+  "share_recent": 0.00905,
+  "share_prev": 0.00951,
+  "growth": 0.952,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-safety",
+  "name": "vehicle safety",
+  "count_recent": 73,
+  "count_prev": 41,
+  "share_recent": 0.01001,
+  "share_prev": 0.01053,
+  "growth": 0.95,
+  "eligible": true
+ },
+ {
+  "id": "situational-awareness",
+  "name": "situational awareness",
+  "count_recent": 74,
+  "count_prev": 42,
+  "share_recent": 0.01014,
+  "share_prev": 0.01079,
+  "growth": 0.94,
+  "eligible": true
+ },
+ {
+  "id": "internet-of-vehicles",
+  "name": "Internet of Vehicles",
+  "count_recent": 47,
+  "count_prev": 27,
+  "share_recent": 0.00644,
+  "share_prev": 0.00694,
+  "growth": 0.929,
+  "eligible": true
+ },
+ {
+  "id": "energy-consumption",
+  "name": "energy consumption",
+  "count_recent": 73,
+  "count_prev": 42,
+  "share_recent": 0.01001,
+  "share_prev": 0.01079,
+  "growth": 0.927,
+  "eligible": true
+ },
+ {
+  "id": "connected-and-autonomous-vehicles",
+  "name": "connected and autonomous vehicles",
+  "count_recent": 526,
+  "count_prev": 298,
+  "share_recent": 0.07209,
+  "share_prev": 0.07657,
+  "growth": 0.942,
+  "eligible": true
+ },
+ {
+  "id": "intelligent-vehicles",
+  "name": "intelligent vehicles",
+  "count_recent": 54,
+  "count_prev": 32,
+  "share_recent": 0.0074,
+  "share_prev": 0.00822,
+  "growth": 0.9,
+  "eligible": true
+ },
+ {
+  "id": "overtaking",
+  "name": "overtaking",
+  "count_recent": 60,
+  "count_prev": 36,
+  "share_recent": 0.00822,
+  "share_prev": 0.00925,
+  "growth": 0.889,
+  "eligible": true
+ },
+ {
+  "id": "lane-change",
+  "name": "lane changing",
+  "count_recent": 232,
+  "count_prev": 136,
+  "share_recent": 0.0318,
+  "share_prev": 0.03494,
+  "growth": 0.91,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-planning",
+  "name": "trajectory planning",
+  "count_recent": 202,
+  "count_prev": 120,
+  "share_recent": 0.02769,
+  "share_prev": 0.03083,
+  "growth": 0.898,
+  "eligible": true
+ },
+ {
+  "id": "traffic-efficiency",
+  "name": "traffic efficiency",
+  "count_recent": 94,
+  "count_prev": 57,
+  "share_recent": 0.01288,
+  "share_prev": 0.01465,
+  "growth": 0.88,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-detection",
+  "name": "obstacle detection",
+  "count_recent": 72,
+  "count_prev": 44,
+  "share_recent": 0.00987,
+  "share_prev": 0.01131,
+  "growth": 0.873,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-cruise-control",
+  "name": "adaptive cruise control",
+  "count_recent": 157,
+  "count_prev": 94,
+  "share_recent": 0.02152,
+  "share_prev": 0.02415,
+  "growth": 0.891,
+  "eligible": true
+ },
+ {
+  "id": "ride-comfort",
+  "name": "ride comfort",
+  "count_recent": 78,
+  "count_prev": 48,
+  "share_recent": 0.01069,
+  "share_prev": 0.01233,
+  "growth": 0.867,
+  "eligible": true
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 81,
+  "count_prev": 50,
+  "share_recent": 0.0111,
+  "share_prev": 0.01285,
+  "growth": 0.864,
+  "eligible": true
+ },
+ {
+  "id": "urban-driving",
+  "name": "urban driving",
+  "count_recent": 64,
+  "count_prev": 40,
+  "share_recent": 0.00877,
+  "share_prev": 0.01028,
+  "growth": 0.854,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-platooning",
+  "name": "vehicle platooning",
+  "count_recent": 168,
+  "count_prev": 102,
+  "share_recent": 0.02303,
+  "share_prev": 0.02621,
+  "growth": 0.879,
+  "eligible": true
+ },
+ {
+  "id": "traffic-congestion",
+  "name": "traffic congestion",
+  "count_recent": 119,
+  "count_prev": 73,
+  "share_recent": 0.01631,
+  "share_prev": 0.01876,
+  "growth": 0.87,
+  "eligible": true
+ },
+ {
+  "id": "takeover-requests",
+  "name": "takeover requests",
+  "count_recent": 39,
+  "count_prev": 25,
+  "share_recent": 0.00535,
+  "share_prev": 0.00642,
+  "growth": 0.832,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-lateral-control",
+  "name": "vehicle lateral control",
+  "count_recent": 37,
+  "count_prev": 24,
+  "share_recent": 0.00507,
+  "share_prev": 0.00617,
+  "growth": 0.822,
+  "eligible": true
+ },
+ {
+  "id": "path-planning",
+  "name": "path planning",
+  "count_recent": 201,
+  "count_prev": 123,
+  "share_recent": 0.02755,
+  "share_prev": 0.0316,
+  "growth": 0.872,
+  "eligible": true
+ },
+ {
+  "id": "motion-control",
+  "name": "motion control",
+  "count_recent": 48,
+  "count_prev": 31,
+  "share_recent": 0.00658,
+  "share_prev": 0.00797,
+  "growth": 0.826,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 252,
+  "count_prev": 154,
+  "share_recent": 0.03454,
+  "share_prev": 0.03957,
+  "growth": 0.873,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 552,
+  "count_prev": 332,
+  "share_recent": 0.07566,
+  "share_prev": 0.0853,
+  "growth": 0.887,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 100,
+  "count_prev": 63,
+  "share_recent": 0.01371,
+  "share_prev": 0.01619,
+  "growth": 0.847,
+  "eligible": true
+ },
+ {
+  "id": "car-following",
+  "name": "vehicle following",
+  "count_recent": 95,
+  "count_prev": 60,
+  "share_recent": 0.01302,
+  "share_prev": 0.01542,
+  "growth": 0.845,
+  "eligible": true
+ },
+ {
+  "id": "linear-quadratic-regulator",
+  "name": "linear quadratic regulator",
+  "count_recent": 59,
+  "count_prev": 38,
+  "share_recent": 0.00809,
+  "share_prev": 0.00976,
+  "growth": 0.828,
+  "eligible": true
+ },
+ {
+  "id": "string-stability",
+  "name": "string stability",
+  "count_recent": 65,
+  "count_prev": 42,
+  "share_recent": 0.00891,
+  "share_prev": 0.01079,
+  "growth": 0.826,
+  "eligible": true
+ },
+ {
+  "id": "internet-of-things",
+  "name": "Internet of Things",
+  "count_recent": 92,
+  "count_prev": 59,
+  "share_recent": 0.01261,
+  "share_prev": 0.01516,
+  "growth": 0.832,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-stability",
+  "name": "vehicle stability",
+  "count_recent": 74,
+  "count_prev": 48,
+  "share_recent": 0.01014,
+  "share_prev": 0.01233,
+  "growth": 0.822,
+  "eligible": true
+ },
+ {
+  "id": "fuel-consumption",
+  "name": "fuel consumption",
+  "count_recent": 43,
+  "count_prev": 29,
+  "share_recent": 0.00589,
+  "share_prev": 0.00745,
+  "growth": 0.791,
+  "eligible": true
+ },
+ {
+  "id": "car-following-model",
+  "name": "car-following model",
+  "count_recent": 65,
+  "count_prev": 43,
+  "share_recent": 0.00891,
+  "share_prev": 0.01105,
+  "growth": 0.806,
+  "eligible": true
+ },
+ {
+  "id": "intelligent-driver-model",
+  "name": "Intelligent Driver Model",
+  "count_recent": 49,
+  "count_prev": 33,
+  "share_recent": 0.00672,
+  "share_prev": 0.00848,
+  "growth": 0.792,
+  "eligible": true
+ },
+ {
+  "id": "cooperative-adaptive-cruise-control",
+  "name": "cooperative adaptive cruise control",
+  "count_recent": 71,
+  "count_prev": 47,
+  "share_recent": 0.00973,
+  "share_prev": 0.01208,
+  "growth": 0.806,
+  "eligible": true
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 63,
+  "count_prev": 42,
+  "share_recent": 0.00863,
+  "share_prev": 0.01079,
+  "growth": 0.8,
+  "eligible": true
+ },
+ {
+  "id": "highway-driving",
+  "name": "highway driving",
+  "count_recent": 63,
+  "count_prev": 42,
+  "share_recent": 0.00863,
+  "share_prev": 0.01079,
+  "growth": 0.8,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-optimization",
+  "name": "trajectory optimization",
+  "count_recent": 69,
+  "count_prev": 46,
+  "share_recent": 0.00946,
+  "share_prev": 0.01182,
+  "growth": 0.8,
+  "eligible": true
+ },
+ {
+  "id": "lateral-control",
+  "name": "lateral control",
+  "count_recent": 75,
+  "count_prev": 50,
+  "share_recent": 0.01028,
+  "share_prev": 0.01285,
+  "growth": 0.8,
+  "eligible": true
+ },
+ {
+  "id": "motion-planning",
+  "name": "motion planning",
+  "count_recent": 264,
+  "count_prev": 168,
+  "share_recent": 0.03618,
+  "share_prev": 0.04317,
+  "growth": 0.838,
+  "eligible": true
+ },
+ {
+  "id": "can-bus",
+  "name": "CAN bus",
+  "count_recent": 37,
+  "count_prev": 26,
+  "share_recent": 0.00507,
+  "share_prev": 0.00668,
+  "growth": 0.759,
+  "eligible": true
+ },
+ {
+  "id": "robust-control",
+  "name": "robust control",
+  "count_recent": 99,
+  "count_prev": 66,
+  "share_recent": 0.01357,
+  "share_prev": 0.01696,
+  "growth": 0.8,
+  "eligible": true
+ },
+ {
+  "id": "human-machine-interaction",
+  "name": "human-machine interaction",
+  "count_recent": 125,
+  "count_prev": 83,
+  "share_recent": 0.01713,
+  "share_prev": 0.02133,
+  "growth": 0.803,
+  "eligible": true
+ },
+ {
+  "id": "road-safety",
+  "name": "road safety",
+  "count_recent": 239,
+  "count_prev": 155,
+  "share_recent": 0.03276,
+  "share_prev": 0.03983,
+  "growth": 0.823,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-aerial-vehicles",
+  "name": "unmanned aerial vehicles",
+  "count_recent": 62,
+  "count_prev": 43,
+  "share_recent": 0.0085,
+  "share_prev": 0.01105,
+  "growth": 0.769,
+  "eligible": true
+ },
+ {
+  "id": "driver-vehicle-interaction",
+  "name": "driver-vehicle interaction",
+  "count_recent": 36,
+  "count_prev": 26,
+  "share_recent": 0.00493,
+  "share_prev": 0.00668,
+  "growth": 0.739,
+  "eligible": true
+ },
+ {
+  "id": "5g",
+  "name": "5G",
+  "count_recent": 52,
+  "count_prev": 37,
+  "share_recent": 0.00713,
+  "share_prev": 0.00951,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "traffic-flow",
+  "name": "traffic flow",
+  "count_recent": 52,
+  "count_prev": 37,
+  "share_recent": 0.00713,
+  "share_prev": 0.00951,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "parameter-uncertainty",
+  "name": "parameter uncertainty",
+  "count_recent": 42,
+  "count_prev": 31,
+  "share_recent": 0.00576,
+  "share_prev": 0.00797,
+  "growth": 0.723,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 2613,
+  "count_prev": 1633,
+  "share_recent": 0.35814,
+  "share_prev": 0.41958,
+  "growth": 0.854,
+  "eligible": true
+ },
+ {
+  "id": "driving-safety",
+  "name": "driving safety",
+  "count_recent": 83,
+  "count_prev": 59,
+  "share_recent": 0.01138,
+  "share_prev": 0.01516,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "steering-control",
+  "name": "steering control",
+  "count_recent": 62,
+  "count_prev": 45,
+  "share_recent": 0.0085,
+  "share_prev": 0.01156,
+  "growth": 0.735,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-dynamics",
+  "name": "vehicle dynamics",
+  "count_recent": 131,
+  "count_prev": 91,
+  "share_recent": 0.01796,
+  "share_prev": 0.02338,
+  "growth": 0.768,
+  "eligible": true
+ },
+ {
+  "id": "non-driving-related-tasks",
+  "name": "non-driving related tasks",
+  "count_recent": 47,
+  "count_prev": 35,
+  "share_recent": 0.00644,
+  "share_prev": 0.00899,
+  "growth": 0.716,
+  "eligible": true
+ },
+ {
+  "id": "linear-matrix-inequalities",
+  "name": "linear matrix inequalities",
+  "count_recent": 38,
+  "count_prev": 29,
+  "share_recent": 0.00521,
+  "share_prev": 0.00745,
+  "growth": 0.699,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-dynamics-modeling",
+  "name": "vehicle dynamics modeling",
+  "count_recent": 94,
+  "count_prev": 68,
+  "share_recent": 0.01288,
+  "share_prev": 0.01747,
+  "growth": 0.737,
+  "eligible": true
+ },
+ {
+  "id": "driver-assistance-systems",
+  "name": "driver assistance systems",
+  "count_recent": 188,
+  "count_prev": 132,
+  "share_recent": 0.02577,
+  "share_prev": 0.03392,
+  "growth": 0.76,
+  "eligible": true
+ },
+ {
+  "id": "connected-and-automated-vehicles",
+  "name": "connected and automated vehicles",
+  "count_recent": 109,
+  "count_prev": 79,
+  "share_recent": 0.01494,
+  "share_prev": 0.0203,
+  "growth": 0.736,
+  "eligible": true
+ },
+ {
+  "id": "path-following",
+  "name": "path following",
+  "count_recent": 54,
+  "count_prev": 42,
+  "share_recent": 0.0074,
+  "share_prev": 0.01079,
+  "growth": 0.686,
+  "eligible": true
+ },
+ {
+  "id": "connected-vehicles",
+  "name": "connected vehicles",
+  "count_recent": 55,
+  "count_prev": 43,
+  "share_recent": 0.00754,
+  "share_prev": 0.01105,
+  "growth": 0.682,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-to-infrastructure-communication",
+  "name": "vehicle-to-infrastructure communication",
+  "count_recent": 66,
+  "count_prev": 52,
+  "share_recent": 0.00905,
+  "share_prev": 0.01336,
+  "growth": 0.677,
+  "eligible": true
+ },
+ {
+  "id": "conditionally-automated-driving",
+  "name": "conditionally automated driving",
+  "count_recent": 41,
+  "count_prev": 34,
+  "share_recent": 0.00562,
+  "share_prev": 0.00874,
+  "growth": 0.643,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-control",
+  "name": "vehicle control",
+  "count_recent": 113,
+  "count_prev": 87,
+  "share_recent": 0.01549,
+  "share_prev": 0.02235,
+  "growth": 0.693,
+  "eligible": true
+ },
+ {
+  "id": "path-tracking-control",
+  "name": "path tracking control",
+  "count_recent": 64,
+  "count_prev": 52,
+  "share_recent": 0.00877,
+  "share_prev": 0.01336,
+  "growth": 0.657,
+  "eligible": true
+ },
+ {
+  "id": "artificial-potential-field",
+  "name": "artificial potential field",
+  "count_recent": 37,
+  "count_prev": 33,
+  "share_recent": 0.00507,
+  "share_prev": 0.00848,
+  "growth": 0.598,
+  "eligible": true
+ },
+ {
+  "id": "speed-control",
+  "name": "speed control",
+  "count_recent": 51,
+  "count_prev": 44,
+  "share_recent": 0.00699,
+  "share_prev": 0.01131,
+  "growth": 0.618,
+  "eligible": true
+ },
+ {
+  "id": "eco-driving",
+  "name": "eco-driving",
+  "count_recent": 36,
+  "count_prev": 33,
+  "share_recent": 0.00493,
+  "share_prev": 0.00848,
+  "growth": 0.582,
+  "eligible": true
+ },
+ {
+  "id": "driver-behavior",
+  "name": "driver behavior",
+  "count_recent": 42,
+  "count_prev": 40,
+  "share_recent": 0.00576,
+  "share_prev": 0.01028,
+  "growth": 0.56,
+  "eligible": true
+ },
+ {
+  "id": "driving-simulator",
+  "name": "driving simulator",
+  "count_recent": 50,
+  "count_prev": 47,
+  "share_recent": 0.00685,
+  "share_prev": 0.01208,
+  "growth": 0.567,
+  "eligible": true
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 50,
+  "count_prev": 53,
+  "share_recent": 0.00685,
+  "share_prev": 0.01362,
+  "growth": 0.503,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-to-vehicle-communication",
+  "name": "vehicle-to-vehicle communication",
+  "count_recent": 150,
+  "count_prev": 142,
+  "share_recent": 0.02056,
+  "share_prev": 0.03649,
+  "growth": 0.563,
+  "eligible": true
+ },
+ {
+  "id": "driving-comfort",
+  "name": "driver comfort",
+  "count_recent": 50,
+  "count_prev": 56,
+  "share_recent": 0.00685,
+  "share_prev": 0.01439,
+  "growth": 0.476,
+  "eligible": true
+ }
+]

@@ -1,0 +1,181 @@
+{
+ "source": {
+  "institutions": [
+   "Ecole Polytechnique Federale de Lausanne",
+   "ETH Zurich",
+   "IMT School for Advanced Studies Lucca",
+   "Politecnico di Milano",
+   "University of Pavia",
+   "Dalle Molle Institute for Artificial Intelligence Research"
+  ],
+  "authors": [
+   "Giancarlo Ferrari-Trecate",
+   "Colin N. Jones",
+   "Alberto Bemporad",
+   "Dario Piga",
+   "Lalo Magni",
+   "Melanie N. Zeilinger"
+  ]
+ },
+ "resolved_at": "2026-11-18",
+ "institutions": [
+  {
+   "query": "Ecole Polytechnique Federale de Lausanne",
+   "id": "I5124864",
+   "name": "École Polytechnique Fédérale de Lausanne",
+   "country": "CH",
+   "country_name": "Switzerland",
+   "city": "Lausanne",
+   "lat": 46.516,
+   "lon": 6.63282,
+   "type": "education"
+  },
+  {
+   "query": "ETH Zurich",
+   "id": "I35440088",
+   "name": "ETH Zurich",
+   "country": "CH",
+   "country_name": "Switzerland",
+   "city": "Zurich",
+   "lat": 47.36667,
+   "lon": 8.55,
+   "type": "education"
+  },
+  {
+   "query": "IMT School for Advanced Studies Lucca",
+   "id": "I127077003",
+   "name": "IMT School for Advanced Studies Lucca",
+   "country": "IT",
+   "country_name": "Italy",
+   "city": "Lucca",
+   "lat": 43.84369,
+   "lon": 10.50447,
+   "type": "education"
+  },
+  {
+   "query": "Politecnico di Milano",
+   "id": "I93860229",
+   "name": "Politecnico di Milano",
+   "country": "IT",
+   "country_name": "Italy",
+   "city": "Milan",
+   "lat": 45.46427,
+   "lon": 9.18951,
+   "type": "education"
+  },
+  {
+   "query": "University of Pavia",
+   "id": "I25217355",
+   "name": "University of Pavia",
+   "country": "IT",
+   "country_name": "Italy",
+   "city": "Pavia",
+   "lat": 45.19205,
+   "lon": 9.15917,
+   "type": "education"
+  },
+  {
+   "query": "Dalle Molle Institute for Artificial Intelligence Research",
+   "id": "I2614128279",
+   "name": "Dalle Molle Institute for Artificial Intelligence Research",
+   "country": "CH",
+   "country_name": "Switzerland",
+   "city": "Lugano",
+   "lat": 46.01007843017578,
+   "lon": 8.960040092468262,
+   "type": "facility"
+  }
+ ],
+ "authors": [
+  {
+   "query": "Giancarlo Ferrari-Trecate",
+   "id": "A5074145693",
+   "ids": [
+    "A5074145693"
+   ],
+   "name": "Giancarlo Ferrari-Trecate",
+   "works_total": 340,
+   "cites_total": 11809,
+   "h_index": 46,
+   "orcid": "https://orcid.org/0000-0002-9492-9624",
+   "institution": "École Polytechnique Fédérale de Lausanne",
+   "institution_id": "I5124864",
+   "country": "CH"
+  },
+  {
+   "query": "Colin N. Jones",
+   "id": "A5085117832",
+   "ids": [
+    "A5085117832"
+   ],
+   "name": "Colin Neil Jones",
+   "works_total": 414,
+   "cites_total": 14216,
+   "h_index": 57,
+   "orcid": "https://orcid.org/0000-0001-7239-4799",
+   "institution": "École Polytechnique Fédérale de Lausanne",
+   "institution_id": "I5124864",
+   "country": "CH"
+  },
+  {
+   "query": "Alberto Bemporad",
+   "id": "A5053340099",
+   "ids": [
+    "A5053340099"
+   ],
+   "name": "Alberto Bemporad",
+   "works_total": 631,
+   "cites_total": 40390,
+   "h_index": 87,
+   "orcid": "https://orcid.org/0000-0001-6761-0856",
+   "institution": "IMT School for Advanced Studies Lucca",
+   "institution_id": "I127077003",
+   "country": "IT"
+  },
+  {
+   "query": "Dario Piga",
+   "id": "A5046585507",
+   "ids": [
+    "A5046585507"
+   ],
+   "name": "Dario Piga",
+   "works_total": 247,
+   "cites_total": 5840,
+   "h_index": 38,
+   "orcid": "https://orcid.org/0000-0001-7691-4886",
+   "institution": "University of Applied Sciences and Arts of Southern Switzerland",
+   "institution_id": "I15196421",
+   "country": "CH"
+  },
+  {
+   "query": "Lalo Magni",
+   "id": "A5068935540",
+   "ids": [
+    "A5068935540"
+   ],
+   "name": "Lalo Magni",
+   "works_total": 240,
+   "cites_total": 11999,
+   "h_index": 55,
+   "orcid": "https://orcid.org/0000-0002-5895-3520",
+   "institution": "University of Pavia",
+   "institution_id": "I25217355",
+   "country": "IT"
+  },
+  {
+   "query": "Melanie N. Zeilinger",
+   "id": "A5037513714",
+   "ids": [
+    "A5037513714"
+   ],
+   "name": "Melanie N. Zeilinger",
+   "works_total": 291,
+   "cites_total": 11688,
+   "h_index": 47,
+   "orcid": "https://orcid.org/0000-0003-4570-7571",
+   "institution": "ETH Zurich",
+   "institution_id": "I35440088",
+   "country": "CH"
+  }
+ ]
+}

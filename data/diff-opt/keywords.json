@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "gradient-based-optimization",
+  "name": "gradient-based optimization",
+  "count_recent": 29,
+  "count_prev": 2,
+  "share_recent": 0.04367,
+  "share_prev": 0.01562,
+  "growth": 2.795,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 24,
+  "count_prev": 2,
+  "share_recent": 0.03614,
+  "share_prev": 0.01562,
+  "growth": 2.313,
+  "eligible": true
+ },
+ {
+  "id": "gpu-acceleration",
+  "name": "GPU acceleration",
+  "count_recent": 20,
+  "count_prev": 2,
+  "share_recent": 0.03012,
+  "share_prev": 0.01562,
+  "growth": 1.928,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 20,
+  "count_prev": 2,
+  "share_recent": 0.03012,
+  "share_prev": 0.01562,
+  "growth": 1.928,
+  "eligible": true
+ },
+ {
+  "id": "end-to-end-learning",
+  "name": "end-to-end learning",
+  "count_recent": 16,
+  "count_prev": 2,
+  "share_recent": 0.0241,
+  "share_prev": 0.01562,
+  "growth": 1.542,
+  "eligible": true
+ },
+ {
+  "id": "differentiable-optimization",
+  "name": "differentiable optimization",
+  "count_recent": 138,
+  "count_prev": 28,
+  "share_recent": 0.20783,
+  "share_prev": 0.21875,
+  "growth": 0.95,
+  "eligible": true
+ },
+ {
+  "id": "automatic-differentiation",
+  "name": "automatic differentiation",
+  "count_recent": 32,
+  "count_prev": 9,
+  "share_recent": 0.04819,
+  "share_prev": 0.07031,
+  "growth": 0.685,
+  "eligible": true
+ },
+ {
+  "id": "nonsmooth-optimization",
+  "name": "nonsmooth optimization",
+  "count_recent": 16,
+  "count_prev": 5,
+  "share_recent": 0.0241,
+  "share_prev": 0.03906,
+  "growth": 0.617,
+  "eligible": true
+ },
+ {
+  "id": "differentiable-simulation",
+  "name": "differentiable simulation",
+  "count_recent": 121,
+  "count_prev": 37,
+  "share_recent": 0.18223,
+  "share_prev": 0.28906,
+  "growth": 0.63,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.02108,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-rendering",
+  "name": "differentiable rendering",
+  "count_recent": 13,
+  "count_prev": 2,
+  "share_recent": 0.01958,
+  "share_prev": 0.01562,
+  "growth": 1.253,
+  "eligible": false
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 11,
+  "count_prev": 1,
+  "share_recent": 0.01657,
+  "share_prev": 0.00781,
+  "growth": 2.12,
+  "eligible": false
+ },
+ {
+  "id": "graph-neural-networks",
+  "name": "graph neural networks",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.01657,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "implicit-differentiation",
+  "name": "implicit differentiation",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.01657,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "inverse-design",
+  "name": "inverse design",
+  "count_recent": 11,
+  "count_prev": 2,
+  "share_recent": 0.01657,
+  "share_prev": 0.01562,
+  "growth": 1.06,
+  "eligible": false
+ },
+ {
+  "id": "jax",
+  "name": "JAX",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.01657,
+  "share_prev": 0.02344,
+  "growth": 0.707,
+  "eligible": false
+ },
+ {
+  "id": "nonconvex-optimization",
+  "name": "non-convex optimization",
+  "count_recent": 11,
+  "count_prev": 2,
+  "share_recent": 0.01657,
+  "share_prev": 0.01562,
+  "growth": 1.06,
+  "eligible": false
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.01657,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robotic-manipulation",
+  "name": "robotic manipulation",
+  "count_recent": 11,
+  "count_prev": 4,
+  "share_recent": 0.01657,
+  "share_prev": 0.03125,
+  "growth": 0.53,
+  "eligible": false
+ },
+ {
+  "id": "surrogate-modeling",
+  "name": "surrogate models",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.01657,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 10,
+  "count_prev": 2,
+  "share_recent": 0.01506,
+  "share_prev": 0.01562,
+  "growth": 0.964,
+  "eligible": false
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.01506,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "parameter-estimation",
+  "name": "parameter estimation",
+  "count_recent": 10,
+  "count_prev": 3,
+  "share_recent": 0.01506,
+  "share_prev": 0.02344,
+  "growth": 0.643,
+  "eligible": false
+ },
+ {
+  "id": "3d-gaussian-splatting",
+  "name": "3D Gaussian Splatting",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01355,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gradient-computation",
+  "name": "gradient computation",
+  "count_recent": 9,
+  "count_prev": 5,
+  "share_recent": 0.01355,
+  "share_prev": 0.03906,
+  "growth": 0.347,
+  "eligible": false
+ },
+ {
+  "id": "imitation-learning",
+  "name": "imitation learning",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01355,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "implicit-function-theorem",
+  "name": "implicit function theorem",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01355,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 9,
+  "count_prev": 3,
+  "share_recent": 0.01355,
+  "share_prev": 0.02344,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "self-supervised-learning",
+  "name": "self-supervised learning",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01355,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sim-to-real-gap",
+  "name": "sim-to-real gap",
+  "count_recent": 9,
+  "count_prev": 3,
+  "share_recent": 0.01355,
+  "share_prev": 0.02344,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "system-identification",
+  "name": "system identification",
+  "count_recent": 9,
+  "count_prev": 6,
+  "share_recent": 0.01355,
+  "share_prev": 0.04688,
+  "growth": 0.289,
+  "eligible": false
+ },
+ {
+  "id": "topology-optimization",
+  "name": "topology optimization",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01355,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "trajectory-optimization",
+  "name": "trajectory optimization",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01355,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bi-level-optimization",
+  "name": "bi-level optimization",
+  "count_recent": 8,
+  "count_prev": 1,
+  "share_recent": 0.01205,
+  "share_prev": 0.00781,
+  "growth": 1.542,
+  "eligible": false
+ },
+ {
+  "id": "constraint-satisfaction",
+  "name": "constraint satisfaction",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01205,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convergence-analysis",
+  "name": "convergence analysis",
+  "count_recent": 8,
+  "count_prev": 1,
+  "share_recent": 0.01205,
+  "share_prev": 0.00781,
+  "growth": 1.542,
+  "eligible": false
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01205,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "interpretability",
+  "name": "interpretability",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01205,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "physics-informed-neural-networks",
+  "name": "physics-informed neural networks",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01205,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sim-to-real-transfer",
+  "name": "sim-to-real transfer",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01205,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "spatial-heterogeneity",
+  "name": "spatial heterogeneity",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01205,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01205,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 7,
+  "count_prev": 1,
+  "share_recent": 0.01054,
+  "share_prev": 0.00781,
+  "growth": 1.349,
+  "eligible": false
+ },
+ {
+  "id": "diffusion-models",
+  "name": "diffusion models",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01054,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "inverse-problems",
+  "name": "inverse problems",
+  "count_recent": 7,
+  "count_prev": 3,
+  "share_recent": 0.01054,
+  "share_prev": 0.02344,
+  "growth": 0.45,
+  "eligible": false
+ },
+ {
+  "id": "physics-informed-machine-learning",
+  "name": "physics-informed machine learning",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01054,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sample-efficiency",
+  "name": "sample efficiency",
+  "count_recent": 7,
+  "count_prev": 2,
+  "share_recent": 0.01054,
+  "share_prev": 0.01562,
+  "growth": 0.675,
+  "eligible": false
+ },
+ {
+  "id": "two-stage-optimization",
+  "name": "two-stage optimization",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01054,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "backpropagation",
+  "name": "backpropagation",
+  "count_recent": 6,
+  "count_prev": 2,
+  "share_recent": 0.00904,
+  "share_prev": 0.01562,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "cloth-simulation",
+  "name": "cloth simulation",
+  "count_recent": 6,
+  "count_prev": 2,
+  "share_recent": 0.00904,
+  "share_prev": 0.01562,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-physics-simulation",
+  "name": "differentiable physics simulation",
+  "count_recent": 6,
+  "count_prev": 4,
+  "share_recent": 0.00904,
+  "share_prev": 0.03125,
+  "growth": 0.289,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-ray-tracing",
+  "name": "differentiable ray tracing",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "karush-kuhn-tucker-conditions",
+  "name": "Karush-Kuhn-Tucker conditions",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "model-reduction",
+  "name": "model reduction",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-architecture-search",
+  "name": "neural architecture search",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00904,
+  "share_prev": 0.02344,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "quadratic-programming",
+  "name": "quadratic programming",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00904,
+  "share_prev": 0.02344,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "quadrotor-control",
+  "name": "quadrotor control",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sequential-quadratic-programming",
+  "name": "sequential quadratic programming",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "thermal-comfort",
+  "name": "thermal comfort",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adjoint-method",
+  "name": "adjoint method",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00753,
+  "share_prev": 0.02344,
+  "growth": 0.321,
+  "eligible": false
+ },
+ {
+  "id": "combinatorial-optimization",
+  "name": "combinatorial optimization",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00753,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 5,
+  "count_prev": 1,
+  "share_recent": 0.00753,
+  "share_prev": 0.00781,
+  "growth": 0.964,
+  "eligible": false
+ },
+ {
+  "id": "decision-focused-learning",
+  "name": "decision-focused learning",
+  "count_recent": 5,
+  "count_prev": 1,
+  "share_recent": 0.00753,
+  "share_prev": 0.00781,
+  "growth": 0.964,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-physics",
+  "name": "differentiable physics",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00753,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "humanoid-robots",
+  "name": "humanoid robots",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00753,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "machine-learning",
+  "name": "machine learning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00753,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "meta-learning",
+  "name": "meta-learning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00753,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sensitivity-analysis",
+  "name": "sensitivity analysis",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00753,
+  "share_prev": 0.03906,
+  "growth": 0.193,
+  "eligible": false
+ },
+ {
+  "id": "trajectory-planning",
+  "name": "trajectory planning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00753,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "3d-integration",
+  "name": "3D integration",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "3d-reconstruction",
+  "name": "3D reconstruction",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "actor-critic",
+  "name": "actor-critic",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "alternating-direction-method-of-multipliers",
+  "name": "alternating direction method of multipliers",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "attention-mechanism",
+  "name": "attention mechanism",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "augmented-lagrangian-method",
+  "name": "augmented Lagrangian method",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "carbon-sequestration",
+  "name": "carbon sequestration",
+  "count_recent": 4,
+  "count_prev": 1,
+  "share_recent": 0.00602,
+  "share_prev": 0.00781,
+  "growth": 0.771,
+  "eligible": false
+ },
+ {
+  "id": "computational-cost-reduction",
+  "name": "computational complexity reduction",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "constrained-optimization",
+  "name": "constrained optimization",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00602,
+  "share_prev": 0.01562,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "convergence-rate",
+  "name": "convergence rate",
+  "count_recent": 4,
+  "count_prev": 1,
+  "share_recent": 0.00602,
+  "share_prev": 0.00781,
+  "growth": 0.771,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-control",
+  "name": "data-driven control",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "deep-neural-network",
+  "name": "deep neural network",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00602,
+  "share_prev": 0.01562,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-programming",
+  "name": "differentiable programming",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00602,
+  "share_prev": 0.01562,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-solvers",
+  "name": "differentiable solvers",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dual-carbon-goals",
+  "name": "dual carbon goals",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "end-to-end-optimization",
+  "name": "end-to-end optimization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-cost-savings",
+  "name": "energy cost reduction",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "explainable-ai",
+  "name": "explainable AI",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "facility-location",
+  "name": "facility location",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "fenicsx",
+  "name": "FEniCSx",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "fluid-structure-interaction",
+  "name": "fluid-structure interaction",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "generative-models",
+  "name": "generative models",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "global-optimization",
+  "name": "global optimization",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00602,
+  "share_prev": 0.01562,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "gumbel-softmax",
+  "name": "Gumbel-Softmax",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hybrid-bonding",
+  "name": "hybrid bonding",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "implicit-neural-representations",
+  "name": "implicit neural representations",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "land-surface-temperature",
+  "name": "land surface temperature",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "load-forecasting",
+  "name": "load forecasting",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "machine-learning-interatomic-potentials",
+  "name": "machine learning interatomic potentials",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mujoco",
+  "name": "MuJoCo",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-agent-reinforcement-learning",
+  "name": "multi-agent reinforcement learning",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-operators",
+  "name": "neural operators",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "parallel-computing",
+  "name": "parallel computing",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "partial-differential-equations",
+  "name": "partial differential equations",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00602,
+  "share_prev": 0.01562,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "penalty-function",
+  "name": "penalty method",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "policy-gradient",
+  "name": "policy gradient",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "predict-then-optimize",
+  "name": "predict-then-optimize",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "prefecture-level-cities",
+  "name": "prefecture-level cities",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "process-sensitivity",
+  "name": "process sensitivity",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "proximal-policy-optimization",
+  "name": "proximal policy optimization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "pytorch",
+  "name": "PyTorch",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00602,
+  "share_prev": 0.02344,
+  "growth": 0.257,
+  "eligible": false
+ },
+ {
+  "id": "reynolds-equation",
+  "name": "Reynolds equation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "rigid-body-dynamics",
+  "name": "rigid body dynamics",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00602,
+  "share_prev": 0.01562,
+  "growth": 0.386,
+  "eligible": false
+ },
+ {
+  "id": "rural-revitalization",
+  "name": "rural revitalization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "synthetic-data",
+  "name": "synthetic data",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "synthetic-data-generation",
+  "name": "synthetic data generation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "unknown-environments",
+  "name": "unknown environments",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "variational-quantum-circuits",
+  "name": "variational quantum circuits",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "vision-language-models",
+  "name": "vision-language models",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "wafer-bending",
+  "name": "wafer bending",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "wafer-to-wafer-bonding",
+  "name": "wafer-to-wafer bonding",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "yangtze-river-delta",
+  "name": "Yangtze River Delta",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00602,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "accelerated-gradient-methods",
+  "name": "accelerated gradient methods",
+  "count_recent": 3,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00781,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "adam-optimizer",
+  "name": "Adam optimizer",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adversarial-attacks",
+  "name": "adversarial attacks",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "agile-flight",
+  "name": "agile flight",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "analytic-gradients",
+  "name": "analytical gradients",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "artificial-intelligence",
+  "name": "artificial intelligence",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 3,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00781,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "backpropagation-through-time",
+  "name": "backpropagation through time",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bayesian-optimization",
+  "name": "Bayesian optimization",
+  "count_recent": 3,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00781,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "building-energy-management",
+  "name": "building energy management",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "carbon-emission-reduction",
+  "name": "carbon emission reduction",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "catastrophic-forgetting",
+  "name": "catastrophic forgetting",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "china",
+  "name": "China",
+  "count_recent": 3,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00781,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "cluttered-environments",
+  "name": "cluttered environments",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "co2-emission-reduction",
+  "name": "CO2 emission reduction",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "collision-handling",
+  "name": "collision handling",
+  "count_recent": 3,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00781,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "conformal-prediction",
+  "name": "conformal prediction",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "continual-learning",
+  "name": "continual learning",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convex-optimization",
+  "name": "convex optimization",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.00452,
+  "share_prev": 0.02344,
+  "growth": 0.193,
+  "eligible": false
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 3,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00781,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "coulomb-friction",
+  "name": "Coulomb friction",
+  "count_recent": 3,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00781,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "coupling-coordination",
+  "name": "coupling coordination",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "coupling-coordination-degree",
+  "name": "coupling coordination degree",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.00452,
+  "share_prev": 0.01562,
+  "growth": 0.289,
+  "eligible": false
+ },
+ {
+  "id": "derivative-free-optimization",
+  "name": "derivative-free optimization",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-architecture-search",
+  "name": "differentiable architecture search",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "differentiable-simulators",
+  "name": "differentiable simulators",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "embedded-control",
+  "name": "embedded control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "end-to-end-control",
+  "name": "end-to-end control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-conservation",
+  "name": "energy conservation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "ensemble-learning",
+  "name": "ensemble learning",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "entropy-weight-topsis",
+  "name": "entropy weight TOPSIS",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "genetic-algorithm",
+  "name": "genetic algorithm",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gradient-descent",
+  "name": "gradient descent",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "graph-attention-networks",
+  "name": "graph attention networks",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hard-constraints",
+  "name": "hard constraints",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "image-classification",
+  "name": "image classification",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "induced-pluripotent-stem-cells",
+  "name": "induced pluripotent stem cells",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "inertial-dynamics",
+  "name": "inertial dynamics",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.00452,
+  "share_prev": 0.01562,
+  "growth": 0.289,
+  "eligible": false
+ },
+ {
+  "id": "inference-acceleration",
+  "name": "inference acceleration",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "input-convex-neural-networks",
+  "name": "input convex neural networks",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "interior-point-methods",
+  "name": "interior point methods",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "land-use-change",
+  "name": "land use change",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "local-minima",
+  "name": "local minima",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "local-optima-avoidance",
+  "name": "local optima avoidance",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "memory-efficiency",
+  "name": "memory efficiency",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mixed-integer-linear-programming",
+  "name": "mixed-integer linear programming",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multibody-dynamics",
+  "name": "multibody dynamics",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-control",
+  "name": "neural control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-network-surrogate-model",
+  "name": "neural network surrogate model",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-odes",
+  "name": "neural ordinary differential equations",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-radiance-fields",
+  "name": "neural radiance fields",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neuro-symbolic-ai",
+  "name": "neuro-symbolic AI",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "noise-robustness",
+  "name": "noise robustness",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-dynamical-systems",
+  "name": "nonlinear dynamical systems",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "normalized-difference-vegetation-index",
+  "name": "NDVI",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "online-adaptation",
+  "name": "online adaptation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "particle-tracking",
+  "name": "particle tracking",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "phase-change-materials",
+  "name": "phase change materials",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "physics-based-simulation",
+  "name": "physical simulation",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.00452,
+  "share_prev": 0.01562,
+  "growth": 0.289,
+  "eligible": false
+ },
+ {
+  "id": "policy-optimization",
+  "name": "policy optimization",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.00452,
+  "share_prev": 0.02344,
+  "growth": 0.193,
+  "eligible": false
+ },
+ {
+  "id": "portfolio-optimization",
+  "name": "portfolio optimization",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "power-system-optimization",
+  "name": "power system optimization",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "preconditioning",
+  "name": "preconditioning",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "predictive-control",
+  "name": "predictive control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "product-differentiation",
+  "name": "product differentiation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "quadrupedal-locomotion",
+  "name": "quadrupedal locomotion",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "regional-disparities",
+  "name": "regional disparities",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "regularization",
+  "name": "regularization",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "reproducibility",
+  "name": "reproducibility",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "resource-allocation",
+  "name": "resource allocation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robot-simulation",
+  "name": "robot simulation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "safety-critical-control",
+  "name": "safety-critical control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

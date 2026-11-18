@@ -1,0 +1,27 @@
+{
+ "slug": "ml-optimization",
+ "label": "Learning to Optimize / Amortized Optimization",
+ "group": "Learning & Control",
+ "query": "(\"learning to optimize\" OR \"amortized optimization\") AND (control OR MPC)",
+ "generated_at": "2026-11-18T11:40:42",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 268,
+ "n_recent": 199,
+ "n_prev": 43,
+ "volume_growth": 4.628,
+ "min_count_for_hot": 15,
+ "api_calls": 427,
+ "cost_usd": 0.3433,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

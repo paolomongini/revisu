@@ -1,0 +1,27 @@
+{
+ "slug": "state-estimation",
+ "label": "State Estimation & Observers",
+ "group": "Classical & Modern Control",
+ "query": "\"state estimation\" OR \"moving horizon estimation\" OR \"Kalman filter\" OR \"state observer\"",
+ "generated_at": "2026-11-18T11:51:21",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 98094,
+ "n_recent": 26631,
+ "n_prev": 16799,
+ "volume_growth": 1.585,
+ "min_count_for_hot": 106,
+ "api_calls": 694,
+ "cost_usd": 0.5563,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

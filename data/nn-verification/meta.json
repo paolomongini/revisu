@@ -1,0 +1,27 @@
+{
+ "slug": "nn-verification",
+ "label": "Neural Network Controllers: Stability & Verification",
+ "group": "Learning & Control",
+ "query": "((\"neural network controller\" OR \"neural network control policy\") AND (stability OR verification OR robustness)) OR \"neural Lyapunov\"",
+ "generated_at": "2026-11-18T11:37:37",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 1279,
+ "n_recent": 291,
+ "n_prev": 184,
+ "volume_growth": 1.582,
+ "min_count_for_hot": 15,
+ "api_calls": 349,
+ "cost_usd": 0.2815,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

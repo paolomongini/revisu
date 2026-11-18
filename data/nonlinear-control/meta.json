@@ -1,0 +1,27 @@
+{
+ "slug": "nonlinear-control",
+ "label": "Nonlinear Control & Lyapunov",
+ "group": "Classical & Modern Control",
+ "query": "\"nonlinear control\" OR \"Lyapunov function\" OR backstepping OR \"feedback linearization\"",
+ "generated_at": "2026-11-18T11:44:58",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 57207,
+ "n_recent": 13756,
+ "n_prev": 10707,
+ "volume_growth": 1.285,
+ "min_count_for_hot": 55,
+ "api_calls": 534,
+ "cost_usd": 0.4287,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

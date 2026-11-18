@@ -1,0 +1,27 @@
+{
+ "slug": "autonomous-driving",
+ "label": "Autonomous Vehicles Control",
+ "group": "Applications",
+ "query": "(\"autonomous vehicle\" OR \"autonomous driving\" OR \"automated driving\") AND (control OR MPC OR \"motion planning\")",
+ "generated_at": "2026-11-18T11:53:30",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 15394,
+ "n_recent": 7296,
+ "n_prev": 3892,
+ "volume_growth": 1.875,
+ "min_count_for_hot": 29,
+ "api_calls": 748,
+ "cost_usd": 0.5995,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

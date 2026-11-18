@@ -1,0 +1,27 @@
+{
+ "slug": "bayes-opt",
+ "label": "Bayesian Optimization for Controller Tuning",
+ "group": "Learning & Control",
+ "query": "\"Bayesian optimization\" AND (controller OR control OR tuning)",
+ "generated_at": "2026-11-18T11:34:31",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 5218,
+ "n_recent": 3876,
+ "n_prev": 936,
+ "volume_growth": 4.141,
+ "min_count_for_hot": 15,
+ "api_calls": 271,
+ "cost_usd": 0.2197,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

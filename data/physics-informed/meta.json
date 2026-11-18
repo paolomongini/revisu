@@ -1,0 +1,27 @@
+{
+ "slug": "physics-informed",
+ "label": "Physics-informed Learning for Dynamics",
+ "group": "Focus: MPC & NN-SysID",
+ "query": "(\"physics-informed neural network\" OR \"physics-informed machine learning\" OR \"physics-guided\") AND (control OR identification OR dynamical)",
+ "generated_at": "2026-11-18T11:18:23",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 6086,
+ "n_recent": 5539,
+ "n_prev": 493,
+ "volume_growth": 11.235,
+ "min_count_for_hot": 22,
+ "api_calls": 213,
+ "cost_usd": 0.1599,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

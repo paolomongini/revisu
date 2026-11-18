@@ -1,0 +1,27 @@
+{
+ "slug": "nonlinear-mpc",
+ "label": "Nonlinear MPC",
+ "group": "Focus: MPC & NN-SysID",
+ "query": "\"nonlinear model predictive control\" OR \"nonlinear MPC\" OR NMPC",
+ "generated_at": "2026-11-18T11:15:57",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 5101,
+ "n_recent": 1991,
+ "n_prev": 1072,
+ "volume_growth": 1.857,
+ "min_count_for_hot": 15,
+ "api_calls": 65,
+ "cost_usd": 0.0488,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

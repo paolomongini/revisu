@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "physics-informed-neural-networks",
+  "name": "physics-informed neural networks",
+  "count_recent": 255,
+  "count_prev": 17,
+  "share_recent": 0.00958,
+  "share_prev": 0.00101,
+  "growth": 9.462,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 514,
+  "count_prev": 64,
+  "share_recent": 0.0193,
+  "share_prev": 0.00381,
+  "growth": 5.066,
+  "eligible": true
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 157,
+  "count_prev": 19,
+  "share_recent": 0.0059,
+  "share_prev": 0.00113,
+  "growth": 5.212,
+  "eligible": true
+ },
+ {
+  "id": "predictive-maintenance",
+  "name": "predictive maintenance",
+  "count_recent": 142,
+  "count_prev": 23,
+  "share_recent": 0.00533,
+  "share_prev": 0.00137,
+  "growth": 3.895,
+  "eligible": true
+ },
+ {
+  "id": "edge-computing",
+  "name": "edge computing",
+  "count_recent": 149,
+  "count_prev": 25,
+  "share_recent": 0.00559,
+  "share_prev": 0.00149,
+  "growth": 3.76,
+  "eligible": true
+ },
+ {
+  "id": "graph-neural-networks",
+  "name": "graph neural networks",
+  "count_recent": 140,
+  "count_prev": 25,
+  "share_recent": 0.00526,
+  "share_prev": 0.00149,
+  "growth": 3.533,
+  "eligible": true
+ },
+ {
+  "id": "integrated-sensing-and-communication",
+  "name": "integrated sensing and communication",
+  "count_recent": 107,
+  "count_prev": 19,
+  "share_recent": 0.00402,
+  "share_prev": 0.00113,
+  "growth": 3.552,
+  "eligible": true
+ },
+ {
+  "id": "attention-mechanism",
+  "name": "attention mechanism",
+  "count_recent": 170,
+  "count_prev": 37,
+  "share_recent": 0.00638,
+  "share_prev": 0.0022,
+  "growth": 2.898,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 178,
+  "count_prev": 42,
+  "share_recent": 0.00668,
+  "share_prev": 0.0025,
+  "growth": 2.673,
+  "eligible": true
+ },
+ {
+  "id": "gated-recurrent-unit",
+  "name": "gated recurrent unit",
+  "count_recent": 144,
+  "count_prev": 33,
+  "share_recent": 0.00541,
+  "share_prev": 0.00196,
+  "growth": 2.753,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 239,
+  "count_prev": 63,
+  "share_recent": 0.00897,
+  "share_prev": 0.00375,
+  "growth": 2.393,
+  "eligible": true
+ },
+ {
+  "id": "lstm",
+  "name": "LSTM",
+  "count_recent": 216,
+  "count_prev": 57,
+  "share_recent": 0.00811,
+  "share_prev": 0.00339,
+  "growth": 2.39,
+  "eligible": true
+ },
+ {
+  "id": "hyperparameter-optimization",
+  "name": "hyperparameter optimization",
+  "count_recent": 133,
+  "count_prev": 33,
+  "share_recent": 0.00499,
+  "share_prev": 0.00196,
+  "growth": 2.542,
+  "eligible": true
+ },
+ {
+  "id": "gnss-denied-navigation",
+  "name": "GNSS-denied navigation",
+  "count_recent": 144,
+  "count_prev": 38,
+  "share_recent": 0.00541,
+  "share_prev": 0.00226,
+  "growth": 2.39,
+  "eligible": true
+ },
+ {
+  "id": "error-state-kalman-filter",
+  "name": "error-state Kalman filter",
+  "count_recent": 174,
+  "count_prev": 51,
+  "share_recent": 0.00653,
+  "share_prev": 0.00304,
+  "growth": 2.152,
+  "eligible": true
+ },
+ {
+  "id": "real-time-monitoring",
+  "name": "real-time monitoring",
+  "count_recent": 125,
+  "count_prev": 38,
+  "share_recent": 0.00469,
+  "share_prev": 0.00226,
+  "growth": 2.075,
+  "eligible": true
+ },
+ {
+  "id": "anomaly-detection",
+  "name": "anomaly detection",
+  "count_recent": 241,
+  "count_prev": 81,
+  "share_recent": 0.00905,
+  "share_prev": 0.00482,
+  "growth": 1.877,
+  "eligible": true
+ },
+ {
+  "id": "lidar",
+  "name": "LiDAR",
+  "count_recent": 193,
+  "count_prev": 64,
+  "share_recent": 0.00725,
+  "share_prev": 0.00381,
+  "growth": 1.902,
+  "eligible": true
+ },
+ {
+  "id": "multi-sensor-fusion",
+  "name": "multi-sensor fusion",
+  "count_recent": 322,
+  "count_prev": 114,
+  "share_recent": 0.01209,
+  "share_prev": 0.00679,
+  "growth": 1.782,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 129,
+  "count_prev": 41,
+  "share_recent": 0.00484,
+  "share_prev": 0.00244,
+  "growth": 1.985,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 178,
+  "count_prev": 61,
+  "share_recent": 0.00668,
+  "share_prev": 0.00363,
+  "growth": 1.841,
+  "eligible": true
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 343,
+  "count_prev": 126,
+  "share_recent": 0.01288,
+  "share_prev": 0.0075,
+  "growth": 1.717,
+  "eligible": true
+ },
+ {
+  "id": "state-of-health-estimation",
+  "name": "state of health estimation",
+  "count_recent": 403,
+  "count_prev": 154,
+  "share_recent": 0.01513,
+  "share_prev": 0.00917,
+  "growth": 1.651,
+  "eligible": true
+ },
+ {
+  "id": "model-discrepancy",
+  "name": "model mismatch",
+  "count_recent": 161,
+  "count_prev": 57,
+  "share_recent": 0.00605,
+  "share_prev": 0.00339,
+  "growth": 1.782,
+  "eligible": true
+ },
+ {
+  "id": "multi-object-tracking",
+  "name": "multi-target tracking",
+  "count_recent": 372,
+  "count_prev": 145,
+  "share_recent": 0.01397,
+  "share_prev": 0.00863,
+  "growth": 1.618,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-surface-vessels",
+  "name": "unmanned surface vehicles",
+  "count_recent": 268,
+  "count_prev": 105,
+  "share_recent": 0.01006,
+  "share_prev": 0.00625,
+  "growth": 1.61,
+  "eligible": true
+ },
+ {
+  "id": "battery-degradation",
+  "name": "battery degradation",
+  "count_recent": 362,
+  "count_prev": 147,
+  "share_recent": 0.01359,
+  "share_prev": 0.00875,
+  "growth": 1.553,
+  "eligible": true
+ },
+ {
+  "id": "gps-denied-navigation",
+  "name": "GPS-denied navigation",
+  "count_recent": 110,
+  "count_prev": 41,
+  "share_recent": 0.00413,
+  "share_prev": 0.00244,
+  "growth": 1.692,
+  "eligible": true
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 211,
+  "count_prev": 86,
+  "share_recent": 0.00792,
+  "share_prev": 0.00512,
+  "growth": 1.548,
+  "eligible": true
+ },
+ {
+  "id": "factor-graph-optimization",
+  "name": "factor graph optimization",
+  "count_recent": 139,
+  "count_prev": 55,
+  "share_recent": 0.00522,
+  "share_prev": 0.00327,
+  "growth": 1.594,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 178,
+  "count_prev": 72,
+  "share_recent": 0.00668,
+  "share_prev": 0.00429,
+  "growth": 1.559,
+  "eligible": true
+ },
+ {
+  "id": "denial-of-service-attacks",
+  "name": "denial-of-service attacks",
+  "count_recent": 243,
+  "count_prev": 102,
+  "share_recent": 0.00912,
+  "share_prev": 0.00607,
+  "growth": 1.503,
+  "eligible": true
+ },
+ {
+  "id": "fixed-time-control",
+  "name": "fixed-time control",
+  "count_recent": 129,
+  "count_prev": 52,
+  "share_recent": 0.00484,
+  "share_prev": 0.0031,
+  "growth": 1.565,
+  "eligible": true
+ },
+ {
+  "id": "occlusion-handling",
+  "name": "occlusion handling",
+  "count_recent": 230,
+  "count_prev": 98,
+  "share_recent": 0.00864,
+  "share_prev": 0.00583,
+  "growth": 1.48,
+  "eligible": true
+ },
+ {
+  "id": "robot-localization",
+  "name": "robot localization",
+  "count_recent": 112,
+  "count_prev": 45,
+  "share_recent": 0.00421,
+  "share_prev": 0.00268,
+  "growth": 1.57,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-navigation",
+  "name": "autonomous navigation",
+  "count_recent": 174,
+  "count_prev": 73,
+  "share_recent": 0.00653,
+  "share_prev": 0.00435,
+  "growth": 1.504,
+  "eligible": true
+ },
+ {
+  "id": "visual-inertial-odometry",
+  "name": "visual-inertial odometry",
+  "count_recent": 159,
+  "count_prev": 67,
+  "share_recent": 0.00597,
+  "share_prev": 0.00399,
+  "growth": 1.497,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems-security",
+  "name": "cyber-physical security",
+  "count_recent": 234,
+  "count_prev": 102,
+  "share_recent": 0.00879,
+  "share_prev": 0.00607,
+  "growth": 1.447,
+  "eligible": true
+ },
+ {
+  "id": "battery-management-systems",
+  "name": "battery management systems",
+  "count_recent": 828,
+  "count_prev": 390,
+  "share_recent": 0.03109,
+  "share_prev": 0.02322,
+  "growth": 1.339,
+  "eligible": true
+ },
+ {
+  "id": "lithium-iron-phosphate-batteries",
+  "name": "lithium iron phosphate batteries",
+  "count_recent": 106,
+  "count_prev": 44,
+  "share_recent": 0.00398,
+  "share_prev": 0.00262,
+  "growth": 1.52,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-performance-control",
+  "name": "prescribed performance control",
+  "count_recent": 147,
+  "count_prev": 63,
+  "share_recent": 0.00552,
+  "share_prev": 0.00375,
+  "growth": 1.472,
+  "eligible": true
+ },
+ {
+  "id": "remaining-useful-life-prediction",
+  "name": "remaining useful life prediction",
+  "count_recent": 236,
+  "count_prev": 105,
+  "share_recent": 0.00886,
+  "share_prev": 0.00625,
+  "growth": 1.418,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 581,
+  "count_prev": 275,
+  "share_recent": 0.02182,
+  "share_prev": 0.01637,
+  "growth": 1.333,
+  "eligible": true
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 219,
+  "count_prev": 100,
+  "share_recent": 0.00822,
+  "share_prev": 0.00595,
+  "growth": 1.381,
+  "eligible": true
+ },
+ {
+  "id": "heavy-tailed-noise",
+  "name": "heavy-tailed noise",
+  "count_recent": 107,
+  "count_prev": 47,
+  "share_recent": 0.00402,
+  "share_prev": 0.0028,
+  "growth": 1.436,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-prediction",
+  "name": "trajectory prediction",
+  "count_recent": 107,
+  "count_prev": 47,
+  "share_recent": 0.00402,
+  "share_prev": 0.0028,
+  "growth": 1.436,
+  "eligible": true
+ },
+ {
+  "id": "battery-state-estimation",
+  "name": "battery state estimation",
+  "count_recent": 161,
+  "count_prev": 73,
+  "share_recent": 0.00605,
+  "share_prev": 0.00435,
+  "growth": 1.391,
+  "eligible": true
+ },
+ {
+  "id": "linear-active-disturbance-rejection-control",
+  "name": "linear active disturbance rejection control",
+  "count_recent": 108,
+  "count_prev": 48,
+  "share_recent": 0.00406,
+  "share_prev": 0.00286,
+  "growth": 1.419,
+  "eligible": true
+ },
+ {
+  "id": "actuator-faults",
+  "name": "actuator faults",
+  "count_recent": 291,
+  "count_prev": 138,
+  "share_recent": 0.01093,
+  "share_prev": 0.00821,
+  "growth": 1.33,
+  "eligible": true
+ },
+ {
+  "id": "permanent-magnet-synchronous-motor",
+  "name": "permanent magnet synchronous motor",
+  "count_recent": 431,
+  "count_prev": 209,
+  "share_recent": 0.01618,
+  "share_prev": 0.01244,
+  "growth": 1.301,
+  "eligible": true
+ },
+ {
+  "id": "pid-control",
+  "name": "PID control",
+  "count_recent": 144,
+  "count_prev": 66,
+  "share_recent": 0.00541,
+  "share_prev": 0.00393,
+  "growth": 1.376,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 849,
+  "count_prev": 424,
+  "share_recent": 0.03188,
+  "share_prev": 0.02524,
+  "growth": 1.263,
+  "eligible": true
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 137,
+  "count_prev": 63,
+  "share_recent": 0.00514,
+  "share_prev": 0.00375,
+  "growth": 1.372,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 183,
+  "count_prev": 86,
+  "share_recent": 0.00687,
+  "share_prev": 0.00512,
+  "growth": 1.342,
+  "eligible": true
+ },
+ {
+  "id": "noise-reduction",
+  "name": "noise reduction",
+  "count_recent": 269,
+  "count_prev": 130,
+  "share_recent": 0.0101,
+  "share_prev": 0.00774,
+  "growth": 1.305,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 573,
+  "count_prev": 286,
+  "share_recent": 0.02152,
+  "share_prev": 0.01702,
+  "growth": 1.264,
+  "eligible": true
+ },
+ {
+  "id": "hardware-in-the-loop-simulation",
+  "name": "hardware-in-the-loop",
+  "count_recent": 171,
+  "count_prev": 81,
+  "share_recent": 0.00642,
+  "share_prev": 0.00482,
+  "growth": 1.332,
+  "eligible": true
+ },
+ {
+  "id": "pose-estimation",
+  "name": "pose estimation",
+  "count_recent": 188,
+  "count_prev": 90,
+  "share_recent": 0.00706,
+  "share_prev": 0.00536,
+  "growth": 1.318,
+  "eligible": true
+ },
+ {
+  "id": "uniform-ultimate-boundedness",
+  "name": "uniform ultimate boundedness",
+  "count_recent": 174,
+  "count_prev": 83,
+  "share_recent": 0.00653,
+  "share_prev": 0.00494,
+  "growth": 1.322,
+  "eligible": true
+ },
+ {
+  "id": "fault-tolerant-control",
+  "name": "fault-tolerant control",
+  "count_recent": 327,
+  "count_prev": 161,
+  "share_recent": 0.01228,
+  "share_prev": 0.00958,
+  "growth": 1.281,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 277,
+  "count_prev": 136,
+  "share_recent": 0.0104,
+  "share_prev": 0.0081,
+  "growth": 1.285,
+  "eligible": true
+ },
+ {
+  "id": "maximum-correntropy-criterion",
+  "name": "maximum correntropy criterion",
+  "count_recent": 135,
+  "count_prev": 64,
+  "share_recent": 0.00507,
+  "share_prev": 0.00381,
+  "growth": 1.331,
+  "eligible": true
+ },
+ {
+  "id": "non-gaussian-noise",
+  "name": "non-Gaussian noise",
+  "count_recent": 349,
+  "count_prev": 179,
+  "share_recent": 0.01311,
+  "share_prev": 0.01066,
+  "growth": 1.23,
+  "eligible": true
+ },
+ {
+  "id": "model-reduction",
+  "name": "model reduction",
+  "count_recent": 182,
+  "count_prev": 92,
+  "share_recent": 0.00683,
+  "share_prev": 0.00548,
+  "growth": 1.248,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-extended-state-observer",
+  "name": "nonlinear extended state observer",
+  "count_recent": 132,
+  "count_prev": 66,
+  "share_recent": 0.00496,
+  "share_prev": 0.00393,
+  "growth": 1.262,
+  "eligible": true
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 280,
+  "count_prev": 145,
+  "share_recent": 0.01051,
+  "share_prev": 0.00863,
+  "growth": 1.218,
+  "eligible": true
+ },
+ {
+  "id": "linear-extended-state-observer",
+  "name": "linear extended state observer",
+  "count_recent": 223,
+  "count_prev": 117,
+  "share_recent": 0.00837,
+  "share_prev": 0.00696,
+  "growth": 1.202,
+  "eligible": true
+ },
+ {
+  "id": "square-root-cubature-kalman-filter",
+  "name": "square-root cubature Kalman filter",
+  "count_recent": 117,
+  "count_prev": 60,
+  "share_recent": 0.00439,
+  "share_prev": 0.00357,
+  "growth": 1.23,
+  "eligible": true
+ },
+ {
+  "id": "sensor-faults",
+  "name": "sensor faults",
+  "count_recent": 169,
+  "count_prev": 88,
+  "share_recent": 0.00635,
+  "share_prev": 0.00524,
+  "growth": 1.211,
+  "eligible": true
+ },
+ {
+  "id": "feedback-control",
+  "name": "feedback control",
+  "count_recent": 122,
+  "count_prev": 63,
+  "share_recent": 0.00458,
+  "share_prev": 0.00375,
+  "growth": 1.222,
+  "eligible": true
+ },
+ {
+  "id": "radial-basis-function-neural-network",
+  "name": "radial basis function neural network",
+  "count_recent": 190,
+  "count_prev": 100,
+  "share_recent": 0.00713,
+  "share_prev": 0.00595,
+  "growth": 1.199,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems",
+  "name": "cyber-physical systems",
+  "count_recent": 268,
+  "count_prev": 143,
+  "share_recent": 0.01006,
+  "share_prev": 0.00851,
+  "growth": 1.182,
+  "eligible": true
+ },
+ {
+  "id": "long-short-term-memory",
+  "name": "long short-term memory",
+  "count_recent": 148,
+  "count_prev": 78,
+  "share_recent": 0.00556,
+  "share_prev": 0.00464,
+  "growth": 1.197,
+  "eligible": true
+ },
+ {
+  "id": "electric-vehicles",
+  "name": "electric vehicles",
+  "count_recent": 533,
+  "count_prev": 293,
+  "share_recent": 0.02001,
+  "share_prev": 0.01744,
+  "growth": 1.148,
+  "eligible": true
+ },
+ {
+  "id": "simultaneous-localization-and-mapping",
+  "name": "SLAM",
+  "count_recent": 188,
+  "count_prev": 101,
+  "share_recent": 0.00706,
+  "share_prev": 0.00601,
+  "growth": 1.174,
+  "eligible": true
+ },
+ {
+  "id": "inertial-navigation",
+  "name": "inertial navigation",
+  "count_recent": 118,
+  "count_prev": 63,
+  "share_recent": 0.00443,
+  "share_prev": 0.00375,
+  "growth": 1.182,
+  "eligible": true
+ },
+ {
+  "id": "inertial-measurement-unit",
+  "name": "inertial measurement unit",
+  "count_recent": 582,
+  "count_prev": 324,
+  "share_recent": 0.02185,
+  "share_prev": 0.01929,
+  "growth": 1.133,
+  "eligible": true
+ },
+ {
+  "id": "extended-state-observer",
+  "name": "extended state observer",
+  "count_recent": 1882,
+  "count_prev": 1070,
+  "share_recent": 0.07067,
+  "share_prev": 0.06369,
+  "growth": 1.11,
+  "eligible": true
+ },
+ {
+  "id": "robust-state-estimation",
+  "name": "robust state estimation",
+  "count_recent": 174,
+  "count_prev": 95,
+  "share_recent": 0.00653,
+  "share_prev": 0.00566,
+  "growth": 1.155,
+  "eligible": true
+ },
+ {
+  "id": "internet-of-things",
+  "name": "Internet of Things",
+  "count_recent": 196,
+  "count_prev": 108,
+  "share_recent": 0.00736,
+  "share_prev": 0.00643,
+  "growth": 1.145,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 192,
+  "count_prev": 106,
+  "share_recent": 0.00721,
+  "share_prev": 0.00631,
+  "growth": 1.143,
+  "eligible": true
+ },
+ {
+  "id": "linear-quadratic-regulator",
+  "name": "linear quadratic regulator",
+  "count_recent": 158,
+  "count_prev": 87,
+  "share_recent": 0.00593,
+  "share_prev": 0.00518,
+  "growth": 1.146,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-kalman-filter",
+  "name": "adaptive Kalman filter",
+  "count_recent": 512,
+  "count_prev": 292,
+  "share_recent": 0.01923,
+  "share_prev": 0.01738,
+  "growth": 1.106,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-aerial-vehicles",
+  "name": "unmanned aerial vehicles",
+  "count_recent": 330,
+  "count_prev": 187,
+  "share_recent": 0.01239,
+  "share_prev": 0.01113,
+  "growth": 1.113,
+  "eligible": true
+ },
+ {
+  "id": "false-data-injection-attacks",
+  "name": "false data injection attacks",
+  "count_recent": 429,
+  "count_prev": 246,
+  "share_recent": 0.01611,
+  "share_prev": 0.01464,
+  "growth": 1.1,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-extended-kalman-filter",
+  "name": "adaptive extended Kalman filter",
+  "count_recent": 253,
+  "count_prev": 144,
+  "share_recent": 0.0095,
+  "share_prev": 0.00857,
+  "growth": 1.108,
+  "eligible": true
+ },
+ {
+  "id": "chattering-reduction",
+  "name": "chattering reduction",
+  "count_recent": 285,
+  "count_prev": 163,
+  "share_recent": 0.0107,
+  "share_prev": 0.0097,
+  "growth": 1.103,
+  "eligible": true
+ },
+ {
+  "id": "active-disturbance-rejection-control",
+  "name": "active disturbance rejection control",
+  "count_recent": 688,
+  "count_prev": 399,
+  "share_recent": 0.02583,
+  "share_prev": 0.02375,
+  "growth": 1.088,
+  "eligible": true
+ },
+ {
+  "id": "temperature-effects",
+  "name": "temperature effects",
+  "count_recent": 150,
+  "count_prev": 85,
+  "share_recent": 0.00563,
+  "share_prev": 0.00506,
+  "growth": 1.113,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 248,
+  "count_prev": 142,
+  "share_recent": 0.00931,
+  "share_prev": 0.00845,
+  "growth": 1.102,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-filtering",
+  "name": "adaptive filtering",
+  "count_recent": 172,
+  "count_prev": 98,
+  "share_recent": 0.00646,
+  "share_prev": 0.00583,
+  "growth": 1.107,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 151,
+  "count_prev": 86,
+  "share_recent": 0.00567,
+  "share_prev": 0.00512,
+  "growth": 1.108,
+  "eligible": true
+ },
+ {
+  "id": "sensorless-control",
+  "name": "sensorless control",
+  "count_recent": 230,
+  "count_prev": 132,
+  "share_recent": 0.00864,
+  "share_prev": 0.00786,
+  "growth": 1.099,
+  "eligible": true
+ },
+ {
+  "id": "gaussian-process-regression",
+  "name": "Gaussian process regression",
+  "count_recent": 107,
+  "count_prev": 62,
+  "share_recent": 0.00402,
+  "share_prev": 0.00369,
+  "growth": 1.089,
+  "eligible": true
+ },
+ {
+  "id": "fault-diagnosis",
+  "name": "fault diagnosis",
+  "count_recent": 174,
+  "count_prev": 102,
+  "share_recent": 0.00653,
+  "share_prev": 0.00607,
+  "growth": 1.076,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-underwater-vehicles",
+  "name": "autonomous underwater vehicles",
+  "count_recent": 239,
+  "count_prev": 141,
+  "share_recent": 0.00897,
+  "share_prev": 0.00839,
+  "growth": 1.069,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-estimation",
+  "name": "disturbance estimation",
+  "count_recent": 588,
+  "count_prev": 353,
+  "share_recent": 0.02208,
+  "share_prev": 0.02101,
+  "growth": 1.051,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-compensation",
+  "name": "disturbance compensation",
+  "count_recent": 265,
+  "count_prev": 158,
+  "share_recent": 0.00995,
+  "share_prev": 0.00941,
+  "growth": 1.058,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 281,
+  "count_prev": 168,
+  "share_recent": 0.01055,
+  "share_prev": 0.01,
+  "growth": 1.055,
+  "eligible": true
+ },
+ {
+  "id": "structural-health-monitoring",
+  "name": "structural health monitoring",
+  "count_recent": 208,
+  "count_prev": 124,
+  "share_recent": 0.00781,
+  "share_prev": 0.00738,
+  "growth": 1.058,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-unscented-kalman-filter",
+  "name": "adaptive unscented Kalman filter",
+  "count_recent": 131,
+  "count_prev": 78,
+  "share_recent": 0.00492,
+  "share_prev": 0.00464,
+  "growth": 1.059,
+  "eligible": true
+ },
+ {
+  "id": "equivalent-circuit-model",
+  "name": "equivalent circuit model",
+  "count_recent": 219,
+  "count_prev": 132,
+  "share_recent": 0.00822,
+  "share_prev": 0.00786,
+  "growth": 1.047,
+  "eligible": true
+ },
+ {
+  "id": "state-of-charge-estimation",
+  "name": "state of charge estimation",
+  "count_recent": 1276,
+  "count_prev": 778,
+  "share_recent": 0.04791,
+  "share_prev": 0.04631,
+  "growth": 1.035,
+  "eligible": true
+ },
+ {
+  "id": "sliding-mode-observer",
+  "name": "sliding mode observer",
+  "count_recent": 109,
+  "count_prev": 66,
+  "share_recent": 0.00409,
+  "share_prev": 0.00393,
+  "growth": 1.042,
+  "eligible": true
+ },
+ {
+  "id": "lithium-ion-batteries",
+  "name": "lithium-ion batteries",
+  "count_recent": 1126,
+  "count_prev": 692,
+  "share_recent": 0.04228,
+  "share_prev": 0.04119,
+  "growth": 1.026,
+  "eligible": true
+ },
+ {
+  "id": "event-triggered-control",
+  "name": "event-triggered control",
+  "count_recent": 386,
+  "count_prev": 237,
+  "share_recent": 0.01449,
+  "share_prev": 0.01411,
+  "growth": 1.027,
+  "eligible": true
+ },
+ {
+  "id": "input-to-state-stability",
+  "name": "input-to-state stability",
+  "count_recent": 113,
+  "count_prev": 69,
+  "share_recent": 0.00424,
+  "share_prev": 0.00411,
+  "growth": 1.033,
+  "eligible": true
+ },
+ {
+  "id": "speed-control",
+  "name": "speed control",
+  "count_recent": 122,
+  "count_prev": 75,
+  "share_recent": 0.00458,
+  "share_prev": 0.00446,
+  "growth": 1.026,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking-control",
+  "name": "trajectory tracking control",
+  "count_recent": 130,
+  "count_prev": 80,
+  "share_recent": 0.00488,
+  "share_prev": 0.00476,
+  "growth": 1.025,
+  "eligible": true
+ },
+ {
+  "id": "fault-detection",
+  "name": "fault detection",
+  "count_recent": 259,
+  "count_prev": 164,
+  "share_recent": 0.00973,
+  "share_prev": 0.00976,
+  "growth": 0.996,
+  "eligible": true
+ },
+ {
+  "id": "outlier-removal",
+  "name": "outlier removal",
+  "count_recent": 118,
+  "count_prev": 75,
+  "share_recent": 0.00443,
+  "share_prev": 0.00446,
+  "growth": 0.992,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 695,
+  "count_prev": 443,
+  "share_recent": 0.0261,
+  "share_prev": 0.02637,
+  "growth": 0.99,
+  "eligible": true
+ },
+ {
+  "id": "fuzzy-observer",
+  "name": "fuzzy observer",
+  "count_recent": 124,
+  "count_prev": 80,
+  "share_recent": 0.00466,
+  "share_prev": 0.00476,
+  "growth": 0.978,
+  "eligible": true
+ },
+ {
+  "id": "sensor-fusion",
+  "name": "sensor fusion",
+  "count_recent": 964,
+  "count_prev": 619,
+  "share_recent": 0.0362,
+  "share_prev": 0.03685,
+  "growth": 0.982,
+  "eligible": true
+ },
+ {
+  "id": "recurrent-neural-networks",
+  "name": "recurrent neural networks",
+  "count_recent": 156,
+  "count_prev": 101,
+  "share_recent": 0.00586,
+  "share_prev": 0.00601,
+  "growth": 0.974,
+  "eligible": true
+ },
+ {
+  "id": "distributed-control",
+  "name": "distributed control",
+  "count_recent": 128,
+  "count_prev": 84,
+  "share_recent": 0.00481,
+  "share_prev": 0.005,
+  "growth": 0.961,
+  "eligible": true
+ },
+ {
+  "id": "remote-state-estimation",
+  "name": "remote state estimation",
+  "count_recent": 164,
+  "count_prev": 108,
+  "share_recent": 0.00616,
+  "share_prev": 0.00643,
+  "growth": 0.958,
+  "eligible": true
+ },
+ {
+  "id": "indoor-positioning",
+  "name": "indoor positioning",
+  "count_recent": 321,
+  "count_prev": 212,
+  "share_recent": 0.01205,
+  "share_prev": 0.01262,
+  "growth": 0.955,
+  "eligible": true
+ },
+ {
+  "id": "variational-bayesian-inference",
+  "name": "variational inference",
+  "count_recent": 217,
+  "count_prev": 145,
+  "share_recent": 0.00815,
+  "share_prev": 0.00863,
+  "growth": 0.944,
+  "eligible": true
+ },
+ {
+  "id": "velocity-estimation",
+  "name": "velocity estimation",
+  "count_recent": 189,
+  "count_prev": 127,
+  "share_recent": 0.0071,
+  "share_prev": 0.00756,
+  "growth": 0.939,
+  "eligible": true
+ },
+ {
+  "id": "interacting-multiple-model",
+  "name": "interacting multiple model",
+  "count_recent": 140,
+  "count_prev": 95,
+  "share_recent": 0.00526,
+  "share_prev": 0.00566,
+  "growth": 0.93,
+  "eligible": true
+ },
+ {
+  "id": "object-tracking",
+  "name": "object tracking",
+  "count_recent": 134,
+  "count_prev": 91,
+  "share_recent": 0.00503,
+  "share_prev": 0.00542,
+  "growth": 0.929,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-localization",
+  "name": "vehicle localization",
+  "count_recent": 121,
+  "count_prev": 83,
+  "share_recent": 0.00454,
+  "share_prev": 0.00494,
+  "growth": 0.92,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-state-estimation",
+  "name": "nonlinear state estimation",
+  "count_recent": 233,
+  "count_prev": 160,
+  "share_recent": 0.00875,
+  "share_prev": 0.00952,
+  "growth": 0.919,
+  "eligible": true
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 3302,
+  "count_prev": 2211,
+  "share_recent": 0.12399,
+  "share_prev": 0.13161,
+  "growth": 0.942,
+  "eligible": true
+ },
+ {
+  "id": "vehicle-state-estimation",
+  "name": "vehicle state estimation",
+  "count_recent": 123,
+  "count_prev": 86,
+  "share_recent": 0.00462,
+  "share_prev": 0.00512,
+  "growth": 0.902,
+  "eligible": true
+ },
+ {
+  "id": "real-time-estimation",
+  "name": "real-time estimation",
+  "count_recent": 142,
+  "count_prev": 100,
+  "share_recent": 0.00533,
+  "share_prev": 0.00595,
+  "growth": 0.896,
+  "eligible": true
+ },
+ {
+  "id": "closed-loop-stability",
+  "name": "closed-loop stability",
+  "count_recent": 110,
+  "count_prev": 78,
+  "share_recent": 0.00413,
+  "share_prev": 0.00464,
+  "growth": 0.89,
+  "eligible": true
+ },
+ {
+  "id": "sliding-mode-control",
+  "name": "sliding mode control",
+  "count_recent": 386,
+  "count_prev": 268,
+  "share_recent": 0.01449,
+  "share_prev": 0.01595,
+  "growth": 0.909,
+  "eligible": true
+ },
+ {
+  "id": "input-saturation",
+  "name": "input saturation",
+  "count_recent": 138,
+  "count_prev": 98,
+  "share_recent": 0.00518,
+  "share_prev": 0.00583,
+  "growth": 0.888,
+  "eligible": true
+ },
+ {
+  "id": "robust-kalman-filtering",
+  "name": "robust Kalman filter",
+  "count_recent": 112,
+  "count_prev": 80,
+  "share_recent": 0.00421,
+  "share_prev": 0.00476,
+  "growth": 0.883,
+  "eligible": true
+ },
+ {
+  "id": "extended-kalman-filter",
+  "name": "extended Kalman filter",
+  "count_recent": 2918,
+  "count_prev": 1999,
+  "share_recent": 0.10957,
+  "share_prev": 0.119,
+  "growth": 0.921,
+  "eligible": true
+ },
+ {
+  "id": "smart-grid",
+  "name": "smart grid",
+  "count_recent": 113,
+  "count_prev": 82,
+  "share_recent": 0.00424,
+  "share_prev": 0.00488,
+  "growth": 0.869,
+  "eligible": true
+ },
+ {
+  "id": "distributed-state-estimation",
+  "name": "distributed state estimation",
+  "count_recent": 268,
+  "count_prev": 191,
+  "share_recent": 0.01006,
+  "share_prev": 0.01137,
+  "growth": 0.885,
+  "eligible": true
+ },
+ {
+  "id": "target-tracking",
+  "name": "target tracking",
+  "count_recent": 303,
+  "count_prev": 216,
+  "share_recent": 0.01138,
+  "share_prev": 0.01286,
+  "growth": 0.885,
+  "eligible": true
+ },
+ {
+  "id": "data-fusion",
+  "name": "data fusion",
+  "count_recent": 225,
+  "count_prev": 162,
+  "share_recent": 0.00845,
+  "share_prev": 0.00964,
+  "growth": 0.876,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-observer",
+  "name": "disturbance observer",
+  "count_recent": 186,
+  "count_prev": 135,
+  "share_recent": 0.00698,
+  "share_prev": 0.00804,
+  "growth": 0.869,
+  "eligible": true
+ },
+ {
+  "id": "luenberger-observer",
+  "name": "Luenberger observer",
+  "count_recent": 112,
+  "count_prev": 83,
+  "share_recent": 0.00421,
+  "share_prev": 0.00494,
+  "growth": 0.851,
+  "eligible": true
+ },
+ {
+  "id": "state-space-models",
+  "name": "state-space model",
+  "count_recent": 392,
+  "count_prev": 282,
+  "share_recent": 0.01472,
+  "share_prev": 0.01679,
+  "growth": 0.877,
+  "eligible": true
+ },
+ {
+  "id": "open-circuit-voltage",
+  "name": "open-circuit voltage",
+  "count_recent": 107,
+  "count_prev": 80,
+  "share_recent": 0.00402,
+  "share_prev": 0.00476,
+  "growth": 0.844,
+  "eligible": true
+ },
+ {
+  "id": "real-time-tracking",
+  "name": "real-time tracking",
+  "count_recent": 112,
+  "count_prev": 84,
+  "share_recent": 0.00421,
+  "share_prev": 0.005,
+  "growth": 0.841,
+  "eligible": true
+ },
+ {
+  "id": "robust-control",
+  "name": "robust control",
+  "count_recent": 412,
+  "count_prev": 303,
+  "share_recent": 0.01547,
+  "share_prev": 0.01804,
+  "growth": 0.858,
+  "eligible": true
+ },
+ {
+  "id": "recursive-least-squares",
+  "name": "recursive least squares",
+  "count_recent": 144,
+  "count_prev": 110,
+  "share_recent": 0.00541,
+  "share_prev": 0.00655,
+  "growth": 0.826,
+  "eligible": true
+ },
+ {
+  "id": "positioning-accuracy",
+  "name": "positioning accuracy",
+  "count_recent": 270,
+  "count_prev": 202,
+  "share_recent": 0.01014,
+  "share_prev": 0.01202,
+  "growth": 0.843,
+  "eligible": true
+ },
+ {
+  "id": "networked-control-systems",
+  "name": "networked control systems",
+  "count_recent": 161,
+  "count_prev": 123,
+  "share_recent": 0.00605,
+  "share_prev": 0.00732,
+  "growth": 0.826,
+  "eligible": true
+ },
+ {
+  "id": "particle-filtering",
+  "name": "particle filter",
+  "count_recent": 365,
+  "count_prev": 272,
+  "share_recent": 0.01371,
+  "share_prev": 0.01619,
+  "growth": 0.846,
+  "eligible": true
+ },
+ {
+  "id": "attack-detection",
+  "name": "attack detection",
+  "count_recent": 193,
+  "count_prev": 147,
+  "share_recent": 0.00725,
+  "share_prev": 0.00875,
+  "growth": 0.828,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-state-estimation",
+  "name": "dynamic state estimation",
+  "count_recent": 134,
+  "count_prev": 104,
+  "share_recent": 0.00503,
+  "share_prev": 0.00619,
+  "growth": 0.813,
+  "eligible": true
+ },
+ {
+  "id": "measurement-noise",
+  "name": "measurement noise",
+  "count_recent": 286,
+  "count_prev": 216,
+  "share_recent": 0.01074,
+  "share_prev": 0.01286,
+  "growth": 0.835,
+  "eligible": true
+ },
+ {
+  "id": "model-uncertainty",
+  "name": "model uncertainty",
+  "count_recent": 313,
+  "count_prev": 236,
+  "share_recent": 0.01175,
+  "share_prev": 0.01405,
+  "growth": 0.837,
+  "eligible": true
+ },
+ {
+  "id": "data-association",
+  "name": "data association",
+  "count_recent": 106,
+  "count_prev": 84,
+  "share_recent": 0.00398,
+  "share_prev": 0.005,
+  "growth": 0.796,
+  "eligible": true
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 178,
+  "count_prev": 138,
+  "share_recent": 0.00668,
+  "share_prev": 0.00821,
+  "growth": 0.814,
+  "eligible": true
+ },
+ {
+  "id": "robust-estimation",
+  "name": "robust estimation",
+  "count_recent": 178,
+  "count_prev": 138,
+  "share_recent": 0.00668,
+  "share_prev": 0.00821,
+  "growth": 0.814,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-filtering",
+  "name": "nonlinear filtering",
+  "count_recent": 188,
+  "count_prev": 146,
+  "share_recent": 0.00706,
+  "share_prev": 0.00869,
+  "growth": 0.812,
+  "eligible": true
+ },
+ {
+  "id": "unscented-kalman-filter",
+  "name": "unscented Kalman filter",
+  "count_recent": 1351,
+  "count_prev": 992,
+  "share_recent": 0.05073,
+  "share_prev": 0.05905,
+  "growth": 0.859,
+  "eligible": true
+ },
+ {
+  "id": "distribution-system-state-estimation",
+  "name": "distribution system state estimation",
+  "count_recent": 115,
+  "count_prev": 92,
+  "share_recent": 0.00432,
+  "share_prev": 0.00548,
+  "growth": 0.789,
+  "eligible": true
+ },
+ {
+  "id": "kalman-filter",
+  "name": "Kalman filter",
+  "count_recent": 4396,
+  "count_prev": 3172,
+  "share_recent": 0.16507,
+  "share_prev": 0.18882,
+  "growth": 0.874,
+  "eligible": true
+ },
+ {
+  "id": "moving-horizon-estimation",
+  "name": "moving horizon estimation",
+  "count_recent": 199,
+  "count_prev": 156,
+  "share_recent": 0.00747,
+  "share_prev": 0.00929,
+  "growth": 0.805,
+  "eligible": true
+ },
+ {
+  "id": "parameter-uncertainty",
+  "name": "parameter uncertainty",
+  "count_recent": 335,
+  "count_prev": 258,
+  "share_recent": 0.01258,
+  "share_prev": 0.01536,
+  "growth": 0.819,
+  "eligible": true
+ },
+ {
+  "id": "stability-analysis",
+  "name": "stability analysis",
+  "count_recent": 114,
+  "count_prev": 92,
+  "share_recent": 0.00428,
+  "share_prev": 0.00548,
+  "growth": 0.782,
+  "eligible": true
+ },
+ {
+  "id": "cubature-kalman-filter",
+  "name": "cubature Kalman filter",
+  "count_recent": 265,
+  "count_prev": 208,
+  "share_recent": 0.00995,
+  "share_prev": 0.01238,
+  "growth": 0.804,
+  "eligible": true
+ },
+ {
+  "id": "observability",
+  "name": "observability",
+  "count_recent": 136,
+  "count_prev": 110,
+  "share_recent": 0.00511,
+  "share_prev": 0.00655,
+  "growth": 0.78,
+  "eligible": true
+ },
+ {
+  "id": "external-disturbances",
+  "name": "external disturbances",
+  "count_recent": 190,
+  "count_prev": 153,
+  "share_recent": 0.00713,
+  "share_prev": 0.00911,
+  "growth": 0.783,
+  "eligible": true
+ },
+ {
+  "id": "inertial-navigation-system",
+  "name": "inertial navigation system",
+  "count_recent": 147,
+  "count_prev": 120,
+  "share_recent": 0.00552,
+  "share_prev": 0.00714,
+  "growth": 0.773,
+  "eligible": true
+ },
+ {
+  "id": "sensor-networks",
+  "name": "sensor networks",
+  "count_recent": 176,
+  "count_prev": 143,
+  "share_recent": 0.00661,
+  "share_prev": 0.00851,
+  "growth": 0.776,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-fuzzy-control",
+  "name": "adaptive fuzzy control",
+  "count_recent": 124,
+  "count_prev": 103,
+  "share_recent": 0.00466,
+  "share_prev": 0.00613,
+  "growth": 0.759,
+  "eligible": true
+ },
+ {
+  "id": "backstepping-control",
+  "name": "backstepping control",
+  "count_recent": 405,
+  "count_prev": 319,
+  "share_recent": 0.01521,
+  "share_prev": 0.01899,
+  "growth": 0.801,
+  "eligible": true
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 190,
+  "count_prev": 155,
+  "share_recent": 0.00713,
+  "share_prev": 0.00923,
+  "growth": 0.773,
+  "eligible": true
+ },
+ {
+  "id": "position-estimation",
+  "name": "positioning",
+  "count_recent": 133,
+  "count_prev": 111,
+  "share_recent": 0.00499,
+  "share_prev": 0.00661,
+  "growth": 0.756,
+  "eligible": true
+ },
+ {
+  "id": "robust-filtering",
+  "name": "robust filtering",
+  "count_recent": 108,
+  "count_prev": 93,
+  "share_recent": 0.00406,
+  "share_prev": 0.00554,
+  "growth": 0.733,
+  "eligible": true
+ },
+ {
+  "id": "tracking-control",
+  "name": "tracking control",
+  "count_recent": 134,
+  "count_prev": 114,
+  "share_recent": 0.00503,
+  "share_prev": 0.00679,
+  "growth": 0.741,
+  "eligible": true
+ },
+ {
+  "id": "output-feedback-control",
+  "name": "output feedback control",
+  "count_recent": 266,
+  "count_prev": 221,
+  "share_recent": 0.00999,
+  "share_prev": 0.01316,
+  "growth": 0.759,
+  "eligible": true
+ },
+ {
+  "id": "robustness",
+  "name": "robustness",
+  "count_recent": 113,
+  "count_prev": 99,
+  "share_recent": 0.00424,
+  "share_prev": 0.00589,
+  "growth": 0.72,
+  "eligible": true
+ },
+ {
+  "id": "maximum-likelihood-estimation",
+  "name": "maximum likelihood estimation",
+  "count_recent": 112,
+  "count_prev": 99,
+  "share_recent": 0.00421,
+  "share_prev": 0.00589,
+  "growth": 0.714,
+  "eligible": true
+ },
+ {
+  "id": "quadrotor",
+  "name": "quadrotor",
+  "count_recent": 206,
+  "count_prev": 176,
+  "share_recent": 0.00774,
+  "share_prev": 0.01048,
+  "growth": 0.738,
+  "eligible": true
+ },
+ {
+  "id": "gnss-ins-integration",
+  "name": "GNSS/INS integration",
+  "count_recent": 107,
+  "count_prev": 96,
+  "share_recent": 0.00402,
+  "share_prev": 0.00571,
+  "growth": 0.703,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-systems",
+  "name": "nonlinear systems",
+  "count_recent": 291,
+  "count_prev": 247,
+  "share_recent": 0.01093,
+  "share_prev": 0.0147,
+  "growth": 0.743,
+  "eligible": true
+ },
+ {
+  "id": "ensemble-kalman-filter",
+  "name": "ensemble Kalman filter",
+  "count_recent": 746,
+  "count_prev": 610,
+  "share_recent": 0.02801,
+  "share_prev": 0.03631,
+  "growth": 0.771,
+  "eligible": true
+ },
+ {
+  "id": "state-observer",
+  "name": "state observer",
+  "count_recent": 649,
+  "count_prev": 536,
+  "share_recent": 0.02437,
+  "share_prev": 0.03191,
+  "growth": 0.764,
+  "eligible": true
+ },
+ {
+  "id": "online-parameter-estimation",
+  "name": "online parameter estimation",
+  "count_recent": 155,
+  "count_prev": 140,
+  "share_recent": 0.00582,
+  "share_prev": 0.00833,
+  "growth": 0.698,
+  "eligible": true
+ },
+ {
+  "id": "bad-data-detection",
+  "name": "bad data detection",
+  "count_recent": 113,
+  "count_prev": 106,
+  "share_recent": 0.00424,
+  "share_prev": 0.00631,
+  "growth": 0.672,
+  "eligible": true
+ },
+ {
+  "id": "data-assimilation",
+  "name": "data assimilation",
+  "count_recent": 580,
+  "count_prev": 500,
+  "share_recent": 0.02178,
+  "share_prev": 0.02976,
+  "growth": 0.732,
+  "eligible": true
+ },
+ {
+  "id": "computational-cost-reduction",
+  "name": "computational complexity reduction",
+  "count_recent": 117,
+  "count_prev": 113,
+  "share_recent": 0.00439,
+  "share_prev": 0.00673,
+  "growth": 0.653,
+  "eligible": true
+ },
+ {
+  "id": "power-system-state-estimation",
+  "name": "power system state estimation",
+  "count_recent": 212,
+  "count_prev": 200,
+  "share_recent": 0.00796,
+  "share_prev": 0.01191,
+  "growth": 0.669,
+  "eligible": true
+ },
+ {
+  "id": "attitude-estimation",
+  "name": "attitude estimation",
+  "count_recent": 283,
+  "count_prev": 267,
+  "share_recent": 0.01063,
+  "share_prev": 0.01589,
+  "growth": 0.669,
+  "eligible": true
+ },
+ {
+  "id": "linear-matrix-inequalities",
+  "name": "linear matrix inequalities",
+  "count_recent": 294,
+  "count_prev": 282,
+  "share_recent": 0.01104,
+  "share_prev": 0.01679,
+  "growth": 0.658,
+  "eligible": true
+ },
+ {
+  "id": "wireless-sensor-networks",
+  "name": "wireless sensor networks",
+  "count_recent": 155,
+  "count_prev": 160,
+  "share_recent": 0.00582,
+  "share_prev": 0.00952,
+  "growth": 0.611,
+  "eligible": true
+ },
+ {
+  "id": "phasor-measurement-units",
+  "name": "phasor measurement units",
+  "count_recent": 152,
+  "count_prev": 160,
+  "share_recent": 0.00571,
+  "share_prev": 0.00952,
+  "growth": 0.599,
+  "eligible": true
+ },
+ {
+  "id": "parameter-estimation",
+  "name": "parameter estimation",
+  "count_recent": 656,
+  "count_prev": 647,
+  "share_recent": 0.02463,
+  "share_prev": 0.03851,
+  "growth": 0.64,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-time-control",
+  "name": "prescribed-time control",
+  "count_recent": 105,
+  "count_prev": 0,
+  "share_recent": 0.00394,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sensor-noise",
+  "name": "sensor noise",
+  "count_recent": 105,
+  "count_prev": 0,
+  "share_recent": 0.00394,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "feature-selection",
+  "name": "feature selection",
+  "count_recent": 104,
+  "count_prev": 0,
+  "share_recent": 0.00391,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "finite-time-convergence",
+  "name": "finite-time convergence",
+  "count_recent": 104,
+  "count_prev": 0,
+  "share_recent": 0.00391,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "measurement-outliers",
+  "name": "measurement outliers",
+  "count_recent": 104,
+  "count_prev": 11,
+  "share_recent": 0.00391,
+  "share_prev": 0.00065,
+  "growth": 5.964,
+  "eligible": false
+ },
+ {
+  "id": "sideslip-angle-estimation",
+  "name": "sideslip angle estimation",
+  "count_recent": 104,
+  "count_prev": 0,
+  "share_recent": 0.00391,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "electric-vehicle-batteries",
+  "name": "electric vehicle batteries",
+  "count_recent": 103,
+  "count_prev": 0,
+  "share_recent": 0.00387,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "object-detection",
+  "name": "object detection",
+  "count_recent": 103,
+  "count_prev": 66,
+  "share_recent": 0.00387,
+  "share_prev": 0.00393,
+  "growth": 0.984,
+  "eligible": false
+ },
+ {
+  "id": "random-forest",
+  "name": "random forest",
+  "count_recent": 103,
+  "count_prev": 0,
+  "share_recent": 0.00387,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "extended-kalman-filter-comparison",
+  "name": "extended Kalman filter comparison",
+  "count_recent": 102,
+  "count_prev": 101,
+  "share_recent": 0.00383,
+  "share_prev": 0.00601,
+  "growth": 0.637,
+  "eligible": false
+ },
+ {
+  "id": "lumped-disturbance-estimation",
+  "name": "lumped disturbance estimation",
+  "count_recent": 102,
+  "count_prev": 0,
+  "share_recent": 0.00383,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

@@ -1,0 +1,27 @@
+{
+ "slug": "nn-closed-loop",
+ "label": "Neural Network Controllers with Guarantees (REN, port-Hamiltonian, boosting)",
+ "group": "Learning & Control",
+ "query": "\"recurrent equilibrium network\" OR \"recurrent equilibrium networks\" OR \"performance boosting\" OR \"port-Hamiltonian neural network\" OR \"Hamiltonian deep neural networks\" OR \"Lipschitz-bounded neural network\" OR \"contractive neural network\" OR (\"unconstrained parametrization\" AND control) OR (\"neural network controller\" AND \"closed-loop stability\")",
+ "generated_at": "2026-11-18T11:38:39",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 2071,
+ "n_recent": 858,
+ "n_prev": 517,
+ "volume_growth": 1.66,
+ "min_count_for_hot": 15,
+ "api_calls": 375,
+ "cost_usd": 0.3021,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

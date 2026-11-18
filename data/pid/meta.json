@@ -1,0 +1,27 @@
+{
+ "slug": "pid",
+ "label": "PID Control & Tuning",
+ "group": "Classical & Modern Control",
+ "query": "\"PID controller\" OR \"PID control\" OR \"PID tuning\"",
+ "generated_at": "2026-11-18T11:47:01",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 41272,
+ "n_recent": 8828,
+ "n_prev": 5980,
+ "volume_growth": 1.476,
+ "min_count_for_hot": 35,
+ "api_calls": 586,
+ "cost_usd": 0.4699,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

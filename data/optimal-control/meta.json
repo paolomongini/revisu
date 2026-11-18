@@ -1,0 +1,27 @@
+{
+ "slug": "optimal-control",
+ "label": "Optimal Control",
+ "group": "Classical & Modern Control",
+ "query": "\"optimal control\" AND (\"trajectory optimization\" OR \"Pontryagin\" OR \"dynamic programming\" OR \"linear quadratic\")",
+ "generated_at": "2026-11-18T11:41:44",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 13248,
+ "n_recent": 3602,
+ "n_prev": 2471,
+ "volume_growth": 1.458,
+ "min_count_for_hot": 15,
+ "api_calls": 453,
+ "cost_usd": 0.3639,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

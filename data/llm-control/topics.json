@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "T11522",
+  "name": "VLSI and FPGA Design Techniques",
+  "count_recent": 135,
+  "count_prev": 1,
+  "share_recent": 0.01233,
+  "share_prev": 0.00207,
+  "growth": 5.955,
+  "eligible": true
+ },
+ {
+  "id": "T10273",
+  "name": "IoT and Edge/Fog Computing",
+  "count_recent": 129,
+  "count_prev": 1,
+  "share_recent": 0.01178,
+  "share_prev": 0.00207,
+  "growth": 5.691,
+  "eligible": true
+ },
+ {
+  "id": "T13812",
+  "name": "AI and HR Technologies",
+  "count_recent": 121,
+  "count_prev": 1,
+  "share_recent": 0.01105,
+  "share_prev": 0.00207,
+  "growth": 5.338,
+  "eligible": true
+ },
+ {
+  "id": "T10400",
+  "name": "Network Security and Intrusion Detection",
+  "count_recent": 270,
+  "count_prev": 3,
+  "share_recent": 0.02466,
+  "share_prev": 0.00621,
+  "growth": 3.97,
+  "eligible": true
+ },
+ {
+  "id": "T10616",
+  "name": "Smart Agriculture and AI",
+  "count_recent": 103,
+  "count_prev": 1,
+  "share_recent": 0.00941,
+  "share_prev": 0.00207,
+  "growth": 4.544,
+  "eligible": true
+ },
+ {
+  "id": "T10868",
+  "name": "Soft Robotics and Applications",
+  "count_recent": 90,
+  "count_prev": 1,
+  "share_recent": 0.00822,
+  "share_prev": 0.00207,
+  "growth": 3.97,
+  "eligible": true
+ },
+ {
+  "id": "T10763",
+  "name": "Digital Transformation in Industry",
+  "count_recent": 153,
+  "count_prev": 2,
+  "share_recent": 0.01397,
+  "share_prev": 0.00414,
+  "growth": 3.375,
+  "eligible": true
+ },
+ {
+  "id": "T11450",
+  "name": "Model-Driven Software Engineering Techniques",
+  "count_recent": 87,
+  "count_prev": 1,
+  "share_recent": 0.00795,
+  "share_prev": 0.00207,
+  "growth": 3.838,
+  "eligible": true
+ },
+ {
+  "id": "T13295",
+  "name": "Safety Systems Engineering in Autonomy",
+  "count_recent": 172,
+  "count_prev": 0,
+  "share_recent": 0.01571,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T11424",
+  "name": "Security and Verification in Computing",
+  "count_recent": 167,
+  "count_prev": 0,
+  "share_recent": 0.01525,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T10904",
+  "name": "Embedded Systems Design Techniques",
+  "count_recent": 134,
+  "count_prev": 2,
+  "share_recent": 0.01224,
+  "share_prev": 0.00414,
+  "growth": 2.956,
+  "eligible": true
+ },
+ {
+  "id": "T10456",
+  "name": "Multi-Agent Systems and Negotiation",
+  "count_recent": 185,
+  "count_prev": 3,
+  "share_recent": 0.0169,
+  "share_prev": 0.00621,
+  "growth": 2.72,
+  "eligible": true
+ },
+ {
+  "id": "T10927",
+  "name": "Access Control and Trust",
+  "count_recent": 87,
+  "count_prev": 0,
+  "share_recent": 0.00795,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T11159",
+  "name": "Manufacturing Process and Optimization",
+  "count_recent": 71,
+  "count_prev": 1,
+  "share_recent": 0.00648,
+  "share_prev": 0.00207,
+  "growth": 3.132,
+  "eligible": true
+ },
+ {
+  "id": "T11741",
+  "name": "Flexible and Reconfigurable Manufacturing Systems",
+  "count_recent": 84,
+  "count_prev": 0,
+  "share_recent": 0.00767,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T11975",
+  "name": "Evolutionary Algorithms and Applications",
+  "count_recent": 84,
+  "count_prev": 0,
+  "share_recent": 0.00767,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T13287",
+  "name": "Robotic Process Automation Applications",
+  "count_recent": 313,
+  "count_prev": 6,
+  "share_recent": 0.02859,
+  "share_prev": 0.01242,
+  "growth": 2.301,
+  "eligible": true
+ },
+ {
+  "id": "T10916",
+  "name": "Surgical Simulation and Training",
+  "count_recent": 69,
+  "count_prev": 1,
+  "share_recent": 0.0063,
+  "share_prev": 0.00207,
+  "growth": 3.044,
+  "eligible": true
+ },
+ {
+  "id": "T11687",
+  "name": "Teleoperation and Haptic Systems",
+  "count_recent": 73,
+  "count_prev": 0,
+  "share_recent": 0.00667,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T13038",
+  "name": "Internet of Things and AI",
+  "count_recent": 67,
+  "count_prev": 0,
+  "share_recent": 0.00612,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T12111",
+  "name": "Industrial Vision Systems and Defect Detection",
+  "count_recent": 64,
+  "count_prev": 0,
+  "share_recent": 0.00585,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T10258",
+  "name": "Philosophy and Theoretical Science",
+  "count_recent": 57,
+  "count_prev": 0,
+  "share_recent": 0.00521,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T13344",
+  "name": "Industrial Automation and Control Systems",
+  "count_recent": 51,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T10533",
+  "name": "Teaching and Learning Programming",
+  "count_recent": 48,
+  "count_prev": 0,
+  "share_recent": 0.00438,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T10876",
+  "name": "Fault Detection and Control Systems",
+  "count_recent": 46,
+  "count_prev": 0,
+  "share_recent": 0.0042,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T11606",
+  "name": "Infrastructure Maintenance and Monitoring",
+  "count_recent": 46,
+  "count_prev": 0,
+  "share_recent": 0.0042,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T11883",
+  "name": "Embodied and Extended Cognition",
+  "count_recent": 46,
+  "count_prev": 0,
+  "share_recent": 0.0042,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T10812",
+  "name": "Human Pose and Action Recognition",
+  "count_recent": 45,
+  "count_prev": 0,
+  "share_recent": 0.00411,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T10363",
+  "name": "Low-power high-performance VLSI design",
+  "count_recent": 44,
+  "count_prev": 0,
+  "share_recent": 0.00402,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T13364",
+  "name": "Digitalization, Law, and Regulation",
+  "count_recent": 108,
+  "count_prev": 2,
+  "share_recent": 0.00986,
+  "share_prev": 0.00414,
+  "growth": 2.382,
+  "eligible": true
+ },
+ {
+  "id": "T10734",
+  "name": "Information and Cyber Security",
+  "count_recent": 237,
+  "count_prev": 5,
+  "share_recent": 0.02165,
+  "share_prev": 0.01035,
+  "growth": 2.091,
+  "eligible": true
+ },
+ {
+  "id": "T11689",
+  "name": "Adversarial Robustness in Machine Learning",
+  "count_recent": 516,
+  "count_prev": 12,
+  "share_recent": 0.04713,
+  "share_prev": 0.02484,
+  "growth": 1.897,
+  "eligible": true
+ },
+ {
+  "id": "T10054",
+  "name": "Parallel Computing and Optimization Techniques",
+  "count_recent": 55,
+  "count_prev": 1,
+  "share_recent": 0.00502,
+  "share_prev": 0.00207,
+  "growth": 2.426,
+  "eligible": true
+ },
+ {
+  "id": "T10586",
+  "name": "Robotic Path Planning Algorithms",
+  "count_recent": 219,
+  "count_prev": 5,
+  "share_recent": 0.02,
+  "share_prev": 0.01035,
+  "growth": 1.932,
+  "eligible": true
+ },
+ {
+  "id": "T10719",
+  "name": "3D Shape Modeling and Analysis",
+  "count_recent": 177,
+  "count_prev": 4,
+  "share_recent": 0.01617,
+  "share_prev": 0.00828,
+  "growth": 1.952,
+  "eligible": true
+ },
+ {
+  "id": "T11396",
+  "name": "Artificial Intelligence in Healthcare",
+  "count_recent": 136,
+  "count_prev": 3,
+  "share_recent": 0.01242,
+  "share_prev": 0.00621,
+  "growth": 2.0,
+  "eligible": true
+ },
+ {
+  "id": "T10249",
+  "name": "Distributed Control Multi-Agent Systems",
+  "count_recent": 53,
+  "count_prev": 1,
+  "share_recent": 0.00484,
+  "share_prev": 0.00207,
+  "growth": 2.338,
+  "eligible": true
+ },
+ {
+  "id": "T12479",
+  "name": "Web Application Security Vulnerabilities",
+  "count_recent": 122,
+  "count_prev": 3,
+  "share_recent": 0.01114,
+  "share_prev": 0.00621,
+  "growth": 1.794,
+  "eligible": true
+ },
+ {
+  "id": "T10764",
+  "name": "Privacy-Preserving Technologies in Data",
+  "count_recent": 46,
+  "count_prev": 1,
+  "share_recent": 0.0042,
+  "share_prev": 0.00207,
+  "growth": 2.029,
+  "eligible": true
+ },
+ {
+  "id": "T10791",
+  "name": "Advanced Control Systems Optimization",
+  "count_recent": 46,
+  "count_prev": 1,
+  "share_recent": 0.0042,
+  "share_prev": 0.00207,
+  "growth": 2.029,
+  "eligible": true
+ },
+ {
+  "id": "T12222",
+  "name": "IoT-based Smart Home Systems",
+  "count_recent": 46,
+  "count_prev": 1,
+  "share_recent": 0.0042,
+  "share_prev": 0.00207,
+  "growth": 2.029,
+  "eligible": true
+ },
+ {
+  "id": "T11644",
+  "name": "Spam and Phishing Detection",
+  "count_recent": 45,
+  "count_prev": 1,
+  "share_recent": 0.00411,
+  "share_prev": 0.00207,
+  "growth": 1.985,
+  "eligible": true
+ },
+ {
+  "id": "T10714",
+  "name": "Software-Defined Networks and 5G",
+  "count_recent": 108,
+  "count_prev": 3,
+  "share_recent": 0.00986,
+  "share_prev": 0.00621,
+  "growth": 1.588,
+  "eligible": true
+ },
+ {
+  "id": "T10743",
+  "name": "Software Testing and Debugging Techniques",
+  "count_recent": 419,
+  "count_prev": 13,
+  "share_recent": 0.03827,
+  "share_prev": 0.02692,
+  "growth": 1.422,
+  "eligible": true
+ },
+ {
+  "id": "T10879",
+  "name": "Robotic Locomotion and Control",
+  "count_recent": 73,
+  "count_prev": 2,
+  "share_recent": 0.00667,
+  "share_prev": 0.00414,
+  "growth": 1.61,
+  "eligible": true
+ },
+ {
+  "id": "T11006",
+  "name": "BIM and Construction Integration",
+  "count_recent": 134,
+  "count_prev": 4,
+  "share_recent": 0.01224,
+  "share_prev": 0.00828,
+  "growth": 1.478,
+  "eligible": true
+ },
+ {
+  "id": "T10470",
+  "name": "Usability and User Interface Design",
+  "count_recent": 69,
+  "count_prev": 2,
+  "share_recent": 0.0063,
+  "share_prev": 0.00414,
+  "growth": 1.522,
+  "eligible": true
+ },
+ {
+  "id": "T13918",
+  "name": "Advanced Data and IoT Technologies",
+  "count_recent": 69,
+  "count_prev": 2,
+  "share_recent": 0.0063,
+  "share_prev": 0.00414,
+  "growth": 1.522,
+  "eligible": true
+ },
+ {
+  "id": "T10639",
+  "name": "Advanced Software Engineering Methodologies",
+  "count_recent": 158,
+  "count_prev": 5,
+  "share_recent": 0.01443,
+  "share_prev": 0.01035,
+  "growth": 1.394,
+  "eligible": true
+ },
+ {
+  "id": "T10191",
+  "name": "Robotics and Sensor-Based Localization",
+  "count_recent": 266,
+  "count_prev": 9,
+  "share_recent": 0.02429,
+  "share_prev": 0.01863,
+  "growth": 1.304,
+  "eligible": true
+ },
+ {
+  "id": "T10036",
+  "name": "Advanced Neural Network Applications",
+  "count_recent": 419,
+  "count_prev": 15,
+  "share_recent": 0.03827,
+  "share_prev": 0.03106,
+  "growth": 1.232,
+  "eligible": true
+ },
+ {
+  "id": "T12501",
+  "name": "Digital Economy and Work Transformation",
+  "count_recent": 60,
+  "count_prev": 2,
+  "share_recent": 0.00548,
+  "share_prev": 0.00414,
+  "growth": 1.323,
+  "eligible": true
+ },
+ {
+  "id": "T14381",
+  "name": "Psychiatry, Mental Health, Neuroscience",
+  "count_recent": 195,
+  "count_prev": 7,
+  "share_recent": 0.01781,
+  "share_prev": 0.01449,
+  "growth": 1.229,
+  "eligible": true
+ },
+ {
+  "id": "T10350",
+  "name": "Electronic Health Records Systems",
+  "count_recent": 114,
+  "count_prev": 4,
+  "share_recent": 0.01041,
+  "share_prev": 0.00828,
+  "growth": 1.257,
+  "eligible": true
+ },
+ {
+  "id": "T10317",
+  "name": "Advanced Database Systems and Queries",
+  "count_recent": 59,
+  "count_prev": 2,
+  "share_recent": 0.00539,
+  "share_prev": 0.00414,
+  "growth": 1.301,
+  "eligible": true
+ },
+ {
+  "id": "T10525",
+  "name": "Human-Automation Interaction and Safety",
+  "count_recent": 137,
+  "count_prev": 5,
+  "share_recent": 0.01251,
+  "share_prev": 0.01035,
+  "growth": 1.209,
+  "eligible": true
+ },
+ {
+  "id": "T13643",
+  "name": "Artificial Intelligence in Law",
+  "count_recent": 160,
+  "count_prev": 6,
+  "share_recent": 0.01461,
+  "share_prev": 0.01242,
+  "growth": 1.176,
+  "eligible": true
+ },
+ {
+  "id": "T10260",
+  "name": "Software Engineering Research",
+  "count_recent": 818,
+  "count_prev": 32,
+  "share_recent": 0.07471,
+  "share_prev": 0.06625,
+  "growth": 1.128,
+  "eligible": true
+ },
+ {
+  "id": "T13382",
+  "name": "Robotics and Automated Systems",
+  "count_recent": 584,
+  "count_prev": 23,
+  "share_recent": 0.05334,
+  "share_prev": 0.04762,
+  "growth": 1.12,
+  "eligible": true
+ },
+ {
+  "id": "T10142",
+  "name": "Formal Methods in Verification",
+  "count_recent": 79,
+  "count_prev": 3,
+  "share_recent": 0.00722,
+  "share_prev": 0.00621,
+  "growth": 1.162,
+  "eligible": true
+ },
+ {
+  "id": "T11902",
+  "name": "Intelligent Tutoring Systems and Adaptive Learning",
+  "count_recent": 129,
+  "count_prev": 5,
+  "share_recent": 0.01178,
+  "share_prev": 0.01035,
+  "growth": 1.138,
+  "eligible": true
+ },
+ {
+  "id": "T11636",
+  "name": "Artificial Intelligence in Healthcare and Education",
+  "count_recent": 933,
+  "count_prev": 38,
+  "share_recent": 0.08521,
+  "share_prev": 0.07867,
+  "growth": 1.083,
+  "eligible": true
+ },
+ {
+  "id": "T13062",
+  "name": "Cognitive Computing and Networks",
+  "count_recent": 52,
+  "count_prev": 2,
+  "share_recent": 0.00475,
+  "share_prev": 0.00414,
+  "growth": 1.147,
+  "eligible": true
+ },
+ {
+  "id": "T10703",
+  "name": "Business Process Modeling and Analysis",
+  "count_recent": 75,
+  "count_prev": 3,
+  "share_recent": 0.00685,
+  "share_prev": 0.00621,
+  "growth": 1.103,
+  "eligible": true
+ },
+ {
+  "id": "T11986",
+  "name": "Scientific Computing and Data Management",
+  "count_recent": 196,
+  "count_prev": 8,
+  "share_recent": 0.0179,
+  "share_prev": 0.01656,
+  "growth": 1.081,
+  "eligible": true
+ },
+ {
+  "id": "T10208",
+  "name": "Labor market dynamics and wage inequality",
+  "count_recent": 72,
+  "count_prev": 3,
+  "share_recent": 0.00658,
+  "share_prev": 0.00621,
+  "growth": 1.059,
+  "eligible": true
+ },
+ {
+  "id": "T11023",
+  "name": "Prosthetics and Rehabilitation Robotics",
+  "count_recent": 48,
+  "count_prev": 2,
+  "share_recent": 0.00438,
+  "share_prev": 0.00414,
+  "growth": 1.059,
+  "eligible": true
+ },
+ {
+  "id": "T10667",
+  "name": "Emotion and Mood Recognition",
+  "count_recent": 71,
+  "count_prev": 3,
+  "share_recent": 0.00648,
+  "share_prev": 0.00621,
+  "growth": 1.044,
+  "eligible": true
+ },
+ {
+  "id": "T14260",
+  "name": "Impact of AI and Big Data on Business and Society",
+  "count_recent": 279,
+  "count_prev": 12,
+  "share_recent": 0.02548,
+  "share_prev": 0.02484,
+  "growth": 1.026,
+  "eligible": true
+ },
+ {
+  "id": "T12290",
+  "name": "Human Motion and Animation",
+  "count_recent": 44,
+  "count_prev": 2,
+  "share_recent": 0.00402,
+  "share_prev": 0.00414,
+  "growth": 0.97,
+  "eligible": true
+ },
+ {
+  "id": "T11099",
+  "name": "Autonomous Vehicle Technology and Safety",
+  "count_recent": 65,
+  "count_prev": 3,
+  "share_recent": 0.00594,
+  "share_prev": 0.00621,
+  "growth": 0.956,
+  "eligible": true
+ },
+ {
+  "id": "T10430",
+  "name": "Software Engineering Techniques and Practices",
+  "count_recent": 395,
+  "count_prev": 18,
+  "share_recent": 0.03608,
+  "share_prev": 0.03727,
+  "growth": 0.968,
+  "eligible": true
+ },
+ {
+  "id": "T10206",
+  "name": "Meta-analysis and systematic reviews",
+  "count_recent": 147,
+  "count_prev": 7,
+  "share_recent": 0.01343,
+  "share_prev": 0.01449,
+  "growth": 0.926,
+  "eligible": true
+ },
+ {
+  "id": "T10653",
+  "name": "Robot Manipulation and Learning",
+  "count_recent": 2342,
+  "count_prev": 110,
+  "share_recent": 0.2139,
+  "share_prev": 0.22774,
+  "growth": 0.939,
+  "eligible": true
+ },
+ {
+  "id": "T11714",
+  "name": "Multimodal Machine Learning Applications",
+  "count_recent": 1241,
+  "count_prev": 59,
+  "share_recent": 0.11334,
+  "share_prev": 0.12215,
+  "growth": 0.928,
+  "eligible": true
+ },
+ {
+  "id": "T10286",
+  "name": "Information Retrieval and Search Behavior",
+  "count_recent": 182,
+  "count_prev": 9,
+  "share_recent": 0.01662,
+  "share_prev": 0.01863,
+  "growth": 0.892,
+  "eligible": true
+ },
+ {
+  "id": "T12016",
+  "name": "Web Data Mining and Analysis",
+  "count_recent": 78,
+  "count_prev": 4,
+  "share_recent": 0.00712,
+  "share_prev": 0.00828,
+  "growth": 0.86,
+  "eligible": true
+ },
+ {
+  "id": "T12026",
+  "name": "Explainable Artificial Intelligence (XAI)",
+  "count_recent": 156,
+  "count_prev": 8,
+  "share_recent": 0.01425,
+  "share_prev": 0.01656,
+  "growth": 0.86,
+  "eligible": true
+ },
+ {
+  "id": "T14414",
+  "name": "Artificial Intelligence in Education",
+  "count_recent": 360,
+  "count_prev": 19,
+  "share_recent": 0.03288,
+  "share_prev": 0.03934,
+  "growth": 0.836,
+  "eligible": true
+ },
+ {
+  "id": "T13308",
+  "name": "Cybernetics and Technology in Society",
+  "count_recent": 164,
+  "count_prev": 9,
+  "share_recent": 0.01498,
+  "share_prev": 0.01863,
+  "growth": 0.804,
+  "eligible": true
+ },
+ {
+  "id": "T10203",
+  "name": "Recommender Systems and Techniques",
+  "count_recent": 51,
+  "count_prev": 3,
+  "share_recent": 0.00466,
+  "share_prev": 0.00621,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "T10883",
+  "name": "Ethics and Social Impacts of AI",
+  "count_recent": 839,
+  "count_prev": 44,
+  "share_recent": 0.07663,
+  "share_prev": 0.0911,
+  "growth": 0.841,
+  "eligible": true
+ },
+ {
+  "id": "T10601",
+  "name": "Handwritten Text Recognition Techniques",
+  "count_recent": 87,
+  "count_prev": 5,
+  "share_recent": 0.00795,
+  "share_prev": 0.01035,
+  "growth": 0.768,
+  "eligible": true
+ },
+ {
+  "id": "T12799",
+  "name": "Mobile and Web Applications",
+  "count_recent": 50,
+  "count_prev": 3,
+  "share_recent": 0.00457,
+  "share_prev": 0.00621,
+  "growth": 0.735,
+  "eligible": true
+ },
+ {
+  "id": "T10709",
+  "name": "Social Robot Interaction and HRI",
+  "count_recent": 591,
+  "count_prev": 32,
+  "share_recent": 0.05398,
+  "share_prev": 0.06625,
+  "growth": 0.815,
+  "eligible": true
+ },
+ {
+  "id": "T10462",
+  "name": "Reinforcement Learning in Robotics",
+  "count_recent": 1432,
+  "count_prev": 76,
+  "share_recent": 0.13079,
+  "share_prev": 0.15735,
+  "growth": 0.831,
+  "eligible": true
+ },
+ {
+  "id": "T10775",
+  "name": "Generative Adversarial Networks and Image Synthesis",
+  "count_recent": 83,
+  "count_prev": 5,
+  "share_recent": 0.00758,
+  "share_prev": 0.01035,
+  "growth": 0.732,
+  "eligible": true
+ },
+ {
+  "id": "T10254",
+  "name": "Innovations in Medical Education",
+  "count_recent": 47,
+  "count_prev": 3,
+  "share_recent": 0.00429,
+  "share_prev": 0.00621,
+  "growth": 0.691,
+  "eligible": true
+ },
+ {
+  "id": "T10211",
+  "name": "Computational Drug Discovery Methods",
+  "count_recent": 64,
+  "count_prev": 4,
+  "share_recent": 0.00585,
+  "share_prev": 0.00828,
+  "growth": 0.706,
+  "eligible": true
+ },
+ {
+  "id": "T13346",
+  "name": "Digital Transformation in Financial Services",
+  "count_recent": 44,
+  "count_prev": 3,
+  "share_recent": 0.00402,
+  "share_prev": 0.00621,
+  "growth": 0.647,
+  "eligible": true
+ },
+ {
+  "id": "T12127",
+  "name": "Software System Performance and Reliability",
+  "count_recent": 297,
+  "count_prev": 18,
+  "share_recent": 0.02713,
+  "share_prev": 0.03727,
+  "growth": 0.728,
+  "eligible": true
+ },
+ {
+  "id": "T11948",
+  "name": "Machine Learning in Materials Science",
+  "count_recent": 199,
+  "count_prev": 13,
+  "share_recent": 0.01818,
+  "share_prev": 0.02692,
+  "growth": 0.675,
+  "eligible": true
+ },
+ {
+  "id": "T13904",
+  "name": "Artificial Intelligence Applications",
+  "count_recent": 1484,
+  "count_prev": 88,
+  "share_recent": 0.13554,
+  "share_prev": 0.18219,
+  "growth": 0.744,
+  "eligible": true
+ },
+ {
+  "id": "T10215",
+  "name": "Semantic Web and Ontologies",
+  "count_recent": 93,
+  "count_prev": 7,
+  "share_recent": 0.00849,
+  "share_prev": 0.01449,
+  "growth": 0.586,
+  "eligible": true
+ },
+ {
+  "id": "T13702",
+  "name": "Machine Learning in Healthcare",
+  "count_recent": 184,
+  "count_prev": 13,
+  "share_recent": 0.01681,
+  "share_prev": 0.02692,
+  "growth": 0.624,
+  "eligible": true
+ },
+ {
+  "id": "T10609",
+  "name": "Digital Marketing and Social Media",
+  "count_recent": 48,
+  "count_prev": 4,
+  "share_recent": 0.00438,
+  "share_prev": 0.00828,
+  "growth": 0.529,
+  "eligible": true
+ },
+ {
+  "id": "T10101",
+  "name": "Cloud Computing and Resource Management",
+  "count_recent": 91,
+  "count_prev": 7,
+  "share_recent": 0.00831,
+  "share_prev": 0.01449,
+  "growth": 0.573,
+  "eligible": true
+ },
+ {
+  "id": "T10126",
+  "name": "Logic, programming, and type systems",
+  "count_recent": 60,
+  "count_prev": 5,
+  "share_recent": 0.00548,
+  "share_prev": 0.01035,
+  "growth": 0.529,
+  "eligible": true
+ },
+ {
+  "id": "T10906",
+  "name": "AI-based Problem Solving and Planning",
+  "count_recent": 1077,
+  "count_prev": 70,
+  "share_recent": 0.09837,
+  "share_prev": 0.14493,
+  "growth": 0.679,
+  "eligible": true
+ },
+ {
+  "id": "T10664",
+  "name": "Sentiment Analysis and Opinion Mining",
+  "count_recent": 57,
+  "count_prev": 5,
+  "share_recent": 0.00521,
+  "share_prev": 0.01035,
+  "growth": 0.503,
+  "eligible": true
+ },
+ {
+  "id": "T13910",
+  "name": "Computational and Text Analysis Methods",
+  "count_recent": 196,
+  "count_prev": 15,
+  "share_recent": 0.0179,
+  "share_prev": 0.03106,
+  "growth": 0.576,
+  "eligible": true
+ },
+ {
+  "id": "T11010",
+  "name": "Logic, Reasoning, and Knowledge",
+  "count_recent": 53,
+  "count_prev": 5,
+  "share_recent": 0.00484,
+  "share_prev": 0.01035,
+  "growth": 0.468,
+  "eligible": true
+ },
+ {
+  "id": "T11710",
+  "name": "Biomedical Text Mining and Ontologies",
+  "count_recent": 93,
+  "count_prev": 8,
+  "share_recent": 0.00849,
+  "share_prev": 0.01656,
+  "growth": 0.513,
+  "eligible": true
+ },
+ {
+  "id": "T10028",
+  "name": "Topic Modeling",
+  "count_recent": 1111,
+  "count_prev": 77,
+  "share_recent": 0.10147,
+  "share_prev": 0.15942,
+  "growth": 0.636,
+  "eligible": true
+ },
+ {
+  "id": "T11307",
+  "name": "Domain Adaptation and Few-Shot Learning",
+  "count_recent": 254,
+  "count_prev": 20,
+  "share_recent": 0.0232,
+  "share_prev": 0.04141,
+  "growth": 0.56,
+  "eligible": true
+ },
+ {
+  "id": "T11398",
+  "name": "Hand Gesture Recognition Systems",
+  "count_recent": 44,
+  "count_prev": 5,
+  "share_recent": 0.00402,
+  "share_prev": 0.01035,
+  "growth": 0.388,
+  "eligible": true
+ },
+ {
+  "id": "T12128",
+  "name": "AI in Service Interactions",
+  "count_recent": 338,
+  "count_prev": 28,
+  "share_recent": 0.03087,
+  "share_prev": 0.05797,
+  "growth": 0.533,
+  "eligible": true
+ },
+ {
+  "id": "T10181",
+  "name": "Natural Language Processing Techniques",
+  "count_recent": 499,
+  "count_prev": 41,
+  "share_recent": 0.04557,
+  "share_prev": 0.08489,
+  "growth": 0.537,
+  "eligible": true
+ },
+ {
+  "id": "T11574",
+  "name": "Artificial Intelligence in Games",
+  "count_recent": 64,
+  "count_prev": 8,
+  "share_recent": 0.00585,
+  "share_prev": 0.01656,
+  "growth": 0.353,
+  "eligible": true
+ },
+ {
+  "id": "T12031",
+  "name": "Speech and dialogue systems",
+  "count_recent": 619,
+  "count_prev": 57,
+  "share_recent": 0.05653,
+  "share_prev": 0.11801,
+  "growth": 0.479,
+  "eligible": true
+ },
+ {
+  "id": "T11719",
+  "name": "Data Quality and Management",
+  "count_recent": 46,
+  "count_prev": 7,
+  "share_recent": 0.0042,
+  "share_prev": 0.01449,
+  "growth": 0.29,
+  "eligible": true
+ },
+ {
+  "id": "T11550",
+  "name": "Text and Document Classification Technologies",
+  "count_recent": 44,
+  "count_prev": 7,
+  "share_recent": 0.00402,
+  "share_prev": 0.01449,
+  "growth": 0.277,
+  "eligible": true
+ },
+ {
+  "id": "T10201",
+  "name": "Speech Recognition and Synthesis",
+  "count_recent": 60,
+  "count_prev": 11,
+  "share_recent": 0.00548,
+  "share_prev": 0.02277,
+  "growth": 0.241,
+  "eligible": true
+ },
+ {
+  "id": "T10102",
+  "name": "scientometrics and bibliometrics research",
+  "count_recent": 42,
+  "count_prev": 0,
+  "share_recent": 0.00384,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10571",
+  "name": "Robotic Mechanisms and Dynamics",
+  "count_recent": 42,
+  "count_prev": 1,
+  "share_recent": 0.00384,
+  "share_prev": 0.00207,
+  "growth": 1.853,
+  "eligible": false
+ },
+ {
+  "id": "T10803",
+  "name": "Innovative Human-Technology Interaction",
+  "count_recent": 42,
+  "count_prev": 1,
+  "share_recent": 0.00384,
+  "share_prev": 0.00207,
+  "growth": 1.853,
+  "eligible": false
+ },
+ {
+  "id": "T14036",
+  "name": "Literary and Philosophical Studies",
+  "count_recent": 42,
+  "count_prev": 3,
+  "share_recent": 0.00384,
+  "share_prev": 0.00621,
+  "growth": 0.618,
+  "eligible": false
+ },
+ {
+  "id": "T10672",
+  "name": "Design Education and Practice",
+  "count_recent": 41,
+  "count_prev": 2,
+  "share_recent": 0.00374,
+  "share_prev": 0.00414,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "T10917",
+  "name": "Smart Grid Security and Resilience",
+  "count_recent": 41,
+  "count_prev": 2,
+  "share_recent": 0.00374,
+  "share_prev": 0.00414,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "T14512",
+  "name": "Technology and Human Factors in Education and Health",
+  "count_recent": 41,
+  "count_prev": 0,
+  "share_recent": 0.00374,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11326",
+  "name": "Stock Market Forecasting Methods",
+  "count_recent": 40,
+  "count_prev": 1,
+  "share_recent": 0.00365,
+  "share_prev": 0.00207,
+  "growth": 1.765,
+  "eligible": false
+ },
+ {
+  "id": "T11572",
+  "name": "Information Technology Governance and Strategy",
+  "count_recent": 40,
+  "count_prev": 4,
+  "share_recent": 0.00365,
+  "share_prev": 0.00828,
+  "growth": 0.441,
+  "eligible": false
+ },
+ {
+  "id": "T11891",
+  "name": "Big Data and Business Intelligence",
+  "count_recent": 40,
+  "count_prev": 3,
+  "share_recent": 0.00365,
+  "share_prev": 0.00621,
+  "growth": 0.588,
+  "eligible": false
+ },
+ {
+  "id": "T10270",
+  "name": "Blockchain Technology Applications and Security",
+  "count_recent": 39,
+  "count_prev": 2,
+  "share_recent": 0.00356,
+  "share_prev": 0.00414,
+  "growth": 0.86,
+  "eligible": false
+ },
+ {
+  "id": "T12648",
+  "name": "Academic Writing and Publishing",
+  "count_recent": 39,
+  "count_prev": 4,
+  "share_recent": 0.00356,
+  "share_prev": 0.00828,
+  "growth": 0.43,
+  "eligible": false
+ },
+ {
+  "id": "T13851",
+  "name": "Law, AI, and Intellectual Property",
+  "count_recent": 39,
+  "count_prev": 3,
+  "share_recent": 0.00356,
+  "share_prev": 0.00621,
+  "growth": 0.573,
+  "eligible": false
+ },
+ {
+  "id": "T11904",
+  "name": "Spatial Cognition and Navigation",
+  "count_recent": 37,
+  "count_prev": 1,
+  "share_recent": 0.00338,
+  "share_prev": 0.00207,
+  "growth": 1.632,
+  "eligible": false
+ },
+ {
+  "id": "T12535",
+  "name": "Machine Learning and Data Classification",
+  "count_recent": 37,
+  "count_prev": 0,
+  "share_recent": 0.00338,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13083",
+  "name": "Advanced Text Analysis Techniques",
+  "count_recent": 37,
+  "count_prev": 2,
+  "share_recent": 0.00338,
+  "share_prev": 0.00414,
+  "growth": 0.816,
+  "eligible": false
+ },
+ {
+  "id": "T12377",
+  "name": "Digital Humanities and Scholarship",
+  "count_recent": 36,
+  "count_prev": 4,
+  "share_recent": 0.00329,
+  "share_prev": 0.00828,
+  "growth": 0.397,
+  "eligible": false
+ },
+ {
+  "id": "T12784",
+  "name": "Modular Robots and Swarm Intelligence",
+  "count_recent": 35,
+  "count_prev": 0,
+  "share_recent": 0.0032,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10444",
+  "name": "Context-Aware Activity Recognition Systems",
+  "count_recent": 34,
+  "count_prev": 0,
+  "share_recent": 0.00311,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10627",
+  "name": "Advanced Image and Video Retrieval Techniques",
+  "count_recent": 34,
+  "count_prev": 3,
+  "share_recent": 0.00311,
+  "share_prev": 0.00621,
+  "growth": 0.5,
+  "eligible": false
+ },
+ {
+  "id": "T10862",
+  "name": "AI in cancer detection",
+  "count_recent": 34,
+  "count_prev": 3,
+  "share_recent": 0.00311,
+  "share_prev": 0.00621,
+  "growth": 0.5,
+  "eligible": false
+ },
+ {
+  "id": "T11211",
+  "name": "3D Surveying and Cultural Heritage",
+  "count_recent": 34,
+  "count_prev": 0,
+  "share_recent": 0.00311,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11519",
+  "name": "Digital Mental Health Interventions",
+  "count_recent": 34,
+  "count_prev": 0,
+  "share_recent": 0.00311,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12072",
+  "name": "Machine Learning and Algorithms",
+  "count_recent": 34,
+  "count_prev": 3,
+  "share_recent": 0.00311,
+  "share_prev": 0.00621,
+  "growth": 0.5,
+  "eligible": false
+ },
+ {
+  "id": "T12262",
+  "name": "Hate Speech and Cyberbullying Detection",
+  "count_recent": 34,
+  "count_prev": 1,
+  "share_recent": 0.00311,
+  "share_prev": 0.00207,
+  "growth": 1.5,
+  "eligible": false
+ },
+ {
+  "id": "T12574",
+  "name": "Clinical Reasoning and Diagnostic Skills",
+  "count_recent": 34,
+  "count_prev": 0,
+  "share_recent": 0.00311,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10772",
+  "name": "Distributed systems and fault tolerance",
+  "count_recent": 33,
+  "count_prev": 0,
+  "share_recent": 0.00301,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11206",
+  "name": "Model Reduction and Neural Networks",
+  "count_recent": 33,
+  "count_prev": 1,
+  "share_recent": 0.00301,
+  "share_prev": 0.00207,
+  "growth": 1.456,
+  "eligible": false
+ },
+ {
+  "id": "T11734",
+  "name": "Decision Support System Applications",
+  "count_recent": 33,
+  "count_prev": 0,
+  "share_recent": 0.00301,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11938",
+  "name": "ERP Systems Implementation and Impact",
+  "count_recent": 33,
+  "count_prev": 2,
+  "share_recent": 0.00301,
+  "share_prev": 0.00414,
+  "growth": 0.728,
+  "eligible": false
+ },
+ {
+  "id": "T12203",
+  "name": "Mobile Agent-Based Network Management",
+  "count_recent": 33,
+  "count_prev": 0,
+  "share_recent": 0.00301,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12422",
+  "name": "Radiomics and Machine Learning in Medical Imaging",
+  "count_recent": 33,
+  "count_prev": 0,
+  "share_recent": 0.00301,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10121",
+  "name": "Building Energy and Comfort Optimization",
+  "count_recent": 32,
+  "count_prev": 3,
+  "share_recent": 0.00292,
+  "share_prev": 0.00621,
+  "growth": 0.471,
+  "eligible": false
+ },
+ {
+  "id": "T10551",
+  "name": "Scheduling and Optimization Algorithms",
+  "count_recent": 32,
+  "count_prev": 0,
+  "share_recent": 0.00292,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11147",
+  "name": "Misinformation and Its Impacts",
+  "count_recent": 32,
+  "count_prev": 0,
+  "share_recent": 0.00292,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11937",
+  "name": "Research Data Management Practices",
+  "count_recent": 32,
+  "count_prev": 1,
+  "share_recent": 0.00292,
+  "share_prev": 0.00207,
+  "growth": 1.412,
+  "eligible": false
+ },
+ {
+  "id": "T12885",
+  "name": "Digital Innovation in Industries",
+  "count_recent": 32,
+  "count_prev": 4,
+  "share_recent": 0.00292,
+  "share_prev": 0.00828,
+  "growth": 0.353,
+  "eligible": false
+ },
+ {
+  "id": "T13081",
+  "name": "Digital Education and Society",
+  "count_recent": 32,
+  "count_prev": 0,
+  "share_recent": 0.00292,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13197",
+  "name": "Spreadsheets and End-User Computing",
+  "count_recent": 31,
+  "count_prev": 0,
+  "share_recent": 0.00283,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14335",
+  "name": "Educational Robotics and Engineering",
+  "count_recent": 31,
+  "count_prev": 0,
+  "share_recent": 0.00283,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10100",
+  "name": "Metaheuristic Optimization Algorithms Research",
+  "count_recent": 30,
+  "count_prev": 0,
+  "share_recent": 0.00274,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10323",
+  "name": "Analog and Mixed-Signal Circuit Design",
+  "count_recent": 30,
+  "count_prev": 0,
+  "share_recent": 0.00274,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11615",
+  "name": "Control and Dynamics of Mobile Robots",
+  "count_recent": 30,
+  "count_prev": 1,
+  "share_recent": 0.00274,
+  "share_prev": 0.00207,
+  "growth": 1.323,
+  "eligible": false
+ },
+ {
+  "id": "T12034",
+  "name": "Digital and Cyber Forensics",
+  "count_recent": 30,
+  "count_prev": 0,
+  "share_recent": 0.00274,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13518",
+  "name": "Architecture and Computational Design",
+  "count_recent": 30,
+  "count_prev": 0,
+  "share_recent": 0.00274,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11977",
+  "name": "Technology Use by Older Adults",
+  "count_recent": 29,
+  "count_prev": 0,
+  "share_recent": 0.00265,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11995",
+  "name": "FinTech, Crowdfunding, Digital Finance",
+  "count_recent": 29,
+  "count_prev": 1,
+  "share_recent": 0.00265,
+  "share_prev": 0.00207,
+  "growth": 1.279,
+  "eligible": false
+ },
+ {
+  "id": "T12734",
+  "name": "Information Systems and Technology Applications",
+  "count_recent": 29,
+  "count_prev": 2,
+  "share_recent": 0.00265,
+  "share_prev": 0.00414,
+  "growth": 0.64,
+  "eligible": false
+ },
+ {
+  "id": "T10679",
+  "name": "Service-Oriented Architecture and Web Services",
+  "count_recent": 28,
+  "count_prev": 0,
+  "share_recent": 0.00256,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10759",
+  "name": "Translation Studies and Practices",
+  "count_recent": 28,
+  "count_prev": 2,
+  "share_recent": 0.00256,
+  "share_prev": 0.00414,
+  "growth": 0.618,
+  "eligible": false
+ },
+ {
+  "id": "T11241",
+  "name": "Advanced Malware Detection Techniques",
+  "count_recent": 28,
+  "count_prev": 1,
+  "share_recent": 0.00256,
+  "share_prev": 0.00207,
+  "growth": 1.235,
+  "eligible": false
+ },
+ {
+  "id": "T12207",
+  "name": "Assistive Technology in Communication and Mobility",
+  "count_recent": 28,
+  "count_prev": 0,
+  "share_recent": 0.00256,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14254",
+  "name": "Digital Media and Visual Art",
+  "count_recent": 28,
+  "count_prev": 0,
+  "share_recent": 0.00256,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10481",
+  "name": "Computer Graphics and Visualization Techniques",
+  "count_recent": 27,
+  "count_prev": 0,
+  "share_recent": 0.00247,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10953",
+  "name": "E-Government and Public Services",
+  "count_recent": 27,
+  "count_prev": 3,
+  "share_recent": 0.00247,
+  "share_prev": 0.00621,
+  "growth": 0.397,
+  "eligible": false
+ },
+ {
+  "id": "T11814",
+  "name": "Advanced Manufacturing and Logistics Optimization",
+  "count_recent": 27,
+  "count_prev": 0,
+  "share_recent": 0.00247,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14025",
+  "name": "Educational Technology and Assessment",
+  "count_recent": 27,
+  "count_prev": 0,
+  "share_recent": 0.00247,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11894",
+  "name": "Radiology practices and education",
+  "count_recent": 26,
+  "count_prev": 1,
+  "share_recent": 0.00237,
+  "share_prev": 0.00207,
+  "growth": 1.147,
+  "eligible": false
+ },
+ {
+  "id": "T12415",
+  "name": "Employer Branding and e-HRM",
+  "count_recent": 26,
+  "count_prev": 0,
+  "share_recent": 0.00237,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10888",
+  "name": "Augmented Reality Applications",
+  "count_recent": 25,
+  "count_prev": 1,
+  "share_recent": 0.00228,
+  "share_prev": 0.00207,
+  "growth": 1.103,
+  "eligible": false
+ },
+ {
+  "id": "T12000",
+  "name": "Systems Engineering Methodologies and Applications",
+  "count_recent": 25,
+  "count_prev": 0,
+  "share_recent": 0.00228,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13516",
+  "name": "Publishing and Scholarly Communication",
+  "count_recent": 25,
+  "count_prev": 4,
+  "share_recent": 0.00228,
+  "share_prev": 0.00828,
+  "growth": 0.276,
+  "eligible": false
+ },
+ {
+  "id": "T10429",
+  "name": "EEG and Brain-Computer Interfaces",
+  "count_recent": 24,
+  "count_prev": 1,
+  "share_recent": 0.00219,
+  "share_prev": 0.00207,
+  "growth": 1.059,
+  "eligible": false
+ },
+ {
+  "id": "T13523",
+  "name": "Mathematics, Computing, and Information Processing",
+  "count_recent": 24,
+  "count_prev": 3,
+  "share_recent": 0.00219,
+  "share_prev": 0.00621,
+  "growth": 0.353,
+  "eligible": false
+ },
+ {
+  "id": "T14098",
+  "name": "Energy Efficiency in Computing",
+  "count_recent": 24,
+  "count_prev": 0,
+  "share_recent": 0.00219,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14222",
+  "name": "Knowledge Management and Technology",
+  "count_recent": 24,
+  "count_prev": 0,
+  "share_recent": 0.00219,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10531",
+  "name": "Advanced Vision and Imaging",
+  "count_recent": 23,
+  "count_prev": 0,
+  "share_recent": 0.0021,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10799",
+  "name": "Data Visualization and Analytics",
+  "count_recent": 23,
+  "count_prev": 1,
+  "share_recent": 0.0021,
+  "share_prev": 0.00207,
+  "growth": 1.015,
+  "eligible": false
+ },
+ {
+  "id": "T10847",
+  "name": "Advanced Optical Network Technologies",
+  "count_recent": 23,
+  "count_prev": 0,
+  "share_recent": 0.0021,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11122",
+  "name": "Online Learning and Analytics",
+  "count_recent": 23,
+  "count_prev": 2,
+  "share_recent": 0.0021,
+  "share_prev": 0.00414,
+  "growth": 0.507,
+  "eligible": false
+ },
+ {
+  "id": "T11273",
+  "name": "Advanced Graph Neural Networks",
+  "count_recent": 23,
+  "count_prev": 2,
+  "share_recent": 0.0021,
+  "share_prev": 0.00414,
+  "growth": 0.507,
+  "eligible": false
+ },
+ {
+  "id": "T13625",
+  "name": "Journalism and Media Studies",
+  "count_recent": 23,
+  "count_prev": 0,
+  "share_recent": 0.0021,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13855",
+  "name": "Aerospace Engineering and Control Systems",
+  "count_recent": 23,
+  "count_prev": 0,
+  "share_recent": 0.0021,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14002",
+  "name": "Art, Technology, and Culture",
+  "count_recent": 23,
+  "count_prev": 2,
+  "share_recent": 0.0021,
+  "share_prev": 0.00414,
+  "growth": 0.507,
+  "eligible": false
+ },
+ {
+  "id": "T10320",
+  "name": "Neural Networks and Applications",
+  "count_recent": 22,
+  "count_prev": 3,
+  "share_recent": 0.00201,
+  "share_prev": 0.00621,
+  "growth": 0.323,
+  "eligible": false
+ },
+ {
+  "id": "T10603",
+  "name": "Smart Grid Energy Management",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00201,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11512",
+  "name": "Anomaly Detection Techniques and Applications",
+  "count_recent": 22,
+  "count_prev": 1,
+  "share_recent": 0.00201,
+  "share_prev": 0.00207,
+  "growth": 0.97,
+  "eligible": false
+ },
+ {
+  "id": "T11622",
+  "name": "Maritime Navigation and Safety",
+  "count_recent": 22,
+  "count_prev": 1,
+  "share_recent": 0.00201,
+  "share_prev": 0.00207,
+  "growth": 0.97,
+  "eligible": false
+ },
+ {
+  "id": "T13673",
+  "name": "Library Science and Information",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00201,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14185",
+  "name": "Research, Science, and Academia",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00201,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14400",
+  "name": "Medical Coding and Health Information",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00201,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10047",
+  "name": "Financial Markets and Investment Strategies",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00192,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11458",
+  "name": "Advanced Wireless Communication Technologies",
+  "count_recent": 21,
+  "count_prev": 1,
+  "share_recent": 0.00192,
+  "share_prev": 0.00207,
+  "growth": 0.926,
+  "eligible": false
+ },
+ {
+  "id": "T11800",
+  "name": "User Authentication and Security Systems",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00192,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12260",
+  "name": "Educational Technology and Pedagogy",
+  "count_recent": 21,
+  "count_prev": 1,
+  "share_recent": 0.00192,
+  "share_prev": 0.00207,
+  "growth": 0.926,
+  "eligible": false
+ },
+ {
+  "id": "T13607",
+  "name": "Academic Publishing and Open Access",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00192,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13681",
+  "name": "Engineering and Information Technology",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00192,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

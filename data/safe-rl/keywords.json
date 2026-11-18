@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "proximal-policy-optimization",
+  "name": "proximal policy optimization",
+  "count_recent": 58,
+  "count_prev": 1,
+  "share_recent": 0.01312,
+  "share_prev": 0.00089,
+  "growth": 14.815,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 141,
+  "count_prev": 4,
+  "share_recent": 0.0319,
+  "share_prev": 0.00354,
+  "growth": 9.004,
+  "eligible": true
+ },
+ {
+  "id": "actuator-constraints",
+  "name": "actuator constraints",
+  "count_recent": 42,
+  "count_prev": 1,
+  "share_recent": 0.0095,
+  "share_prev": 0.00089,
+  "growth": 10.728,
+  "eligible": true
+ },
+ {
+  "id": "mobile-robots",
+  "name": "mobile robots",
+  "count_recent": 37,
+  "count_prev": 1,
+  "share_recent": 0.00837,
+  "share_prev": 0.00089,
+  "growth": 9.451,
+  "eligible": true
+ },
+ {
+  "id": "character-education",
+  "name": "character education",
+  "count_recent": 33,
+  "count_prev": 1,
+  "share_recent": 0.00747,
+  "share_prev": 0.00089,
+  "growth": 8.429,
+  "eligible": true
+ },
+ {
+  "id": "multi-robot-coordination",
+  "name": "multi-robot coordination",
+  "count_recent": 29,
+  "count_prev": 1,
+  "share_recent": 0.00656,
+  "share_prev": 0.00089,
+  "growth": 7.407,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-observer",
+  "name": "disturbance observer",
+  "count_recent": 59,
+  "count_prev": 3,
+  "share_recent": 0.01335,
+  "share_prev": 0.00266,
+  "growth": 5.023,
+  "eligible": true
+ },
+ {
+  "id": "safety-filtering",
+  "name": "safety filtering",
+  "count_recent": 145,
+  "count_prev": 10,
+  "share_recent": 0.03281,
+  "share_prev": 0.00886,
+  "growth": 3.704,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence-in-education",
+  "name": "artificial intelligence in education",
+  "count_recent": 26,
+  "count_prev": 1,
+  "share_recent": 0.00588,
+  "share_prev": 0.00089,
+  "growth": 6.641,
+  "eligible": true
+ },
+ {
+  "id": "distributed-model-predictive-control",
+  "name": "distributed model predictive control",
+  "count_recent": 24,
+  "count_prev": 1,
+  "share_recent": 0.00543,
+  "share_prev": 0.00089,
+  "growth": 6.13,
+  "eligible": true
+ },
+ {
+  "id": "relative-degree",
+  "name": "relative degree",
+  "count_recent": 23,
+  "count_prev": 1,
+  "share_recent": 0.0052,
+  "share_prev": 0.00089,
+  "growth": 5.875,
+  "eligible": true
+ },
+ {
+  "id": "mobile-robot-navigation",
+  "name": "mobile robot navigation",
+  "count_recent": 22,
+  "count_prev": 1,
+  "share_recent": 0.00498,
+  "share_prev": 0.00089,
+  "growth": 5.619,
+  "eligible": true
+ },
+ {
+  "id": "lagrange-multiplier-method",
+  "name": "Lagrange multipliers",
+  "count_recent": 21,
+  "count_prev": 1,
+  "share_recent": 0.00475,
+  "share_prev": 0.00089,
+  "growth": 5.364,
+  "eligible": true
+ },
+ {
+  "id": "bullying",
+  "name": "bullying",
+  "count_recent": 45,
+  "count_prev": 3,
+  "share_recent": 0.01018,
+  "share_prev": 0.00266,
+  "growth": 3.831,
+  "eligible": true
+ },
+ {
+  "id": "child-protection",
+  "name": "child protection",
+  "count_recent": 20,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00089,
+  "growth": 5.109,
+  "eligible": true
+ },
+ {
+  "id": "partial-observability",
+  "name": "partial observability",
+  "count_recent": 20,
+  "count_prev": 1,
+  "share_recent": 0.00452,
+  "share_prev": 0.00089,
+  "growth": 5.109,
+  "eligible": true
+ },
+ {
+  "id": "actuator-saturation",
+  "name": "actuator saturation",
+  "count_recent": 32,
+  "count_prev": 2,
+  "share_recent": 0.00724,
+  "share_prev": 0.00177,
+  "growth": 4.087,
+  "eligible": true
+ },
+ {
+  "id": "safety-filters",
+  "name": "safety filters",
+  "count_recent": 187,
+  "count_prev": 19,
+  "share_recent": 0.04231,
+  "share_prev": 0.01683,
+  "growth": 2.514,
+  "eligible": true
+ },
+ {
+  "id": "recursive-feasibility",
+  "name": "recursive feasibility",
+  "count_recent": 42,
+  "count_prev": 3,
+  "share_recent": 0.0095,
+  "share_prev": 0.00266,
+  "growth": 3.576,
+  "eligible": true
+ },
+ {
+  "id": "self-confidence",
+  "name": "self-confidence",
+  "count_recent": 31,
+  "count_prev": 2,
+  "share_recent": 0.00701,
+  "share_prev": 0.00177,
+  "growth": 3.959,
+  "eligible": true
+ },
+ {
+  "id": "soft-actor-critic",
+  "name": "soft actor-critic",
+  "count_recent": 61,
+  "count_prev": 5,
+  "share_recent": 0.0138,
+  "share_prev": 0.00443,
+  "growth": 3.116,
+  "eligible": true
+ },
+ {
+  "id": "psychological-safety",
+  "name": "psychological safety",
+  "count_recent": 188,
+  "count_prev": 20,
+  "share_recent": 0.04253,
+  "share_prev": 0.01771,
+  "growth": 2.401,
+  "eligible": true
+ },
+ {
+  "id": "bullying-prevention",
+  "name": "bullying prevention",
+  "count_recent": 49,
+  "count_prev": 4,
+  "share_recent": 0.01109,
+  "share_prev": 0.00354,
+  "growth": 3.129,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 39,
+  "count_prev": 3,
+  "share_recent": 0.00882,
+  "share_prev": 0.00266,
+  "growth": 3.321,
+  "eligible": true
+ },
+ {
+  "id": "empathy",
+  "name": "empathy",
+  "count_recent": 39,
+  "count_prev": 3,
+  "share_recent": 0.00882,
+  "share_prev": 0.00266,
+  "growth": 3.321,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 54,
+  "count_prev": 0,
+  "share_recent": 0.01222,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-environments",
+  "name": "dynamic environments",
+  "count_recent": 36,
+  "count_prev": 3,
+  "share_recent": 0.00814,
+  "share_prev": 0.00266,
+  "growth": 3.065,
+  "eligible": true
+ },
+ {
+  "id": "conformal-prediction",
+  "name": "conformal prediction",
+  "count_recent": 35,
+  "count_prev": 0,
+  "share_recent": 0.00792,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "event-triggered-control",
+  "name": "event-triggered control",
+  "count_recent": 51,
+  "count_prev": 5,
+  "share_recent": 0.01154,
+  "share_prev": 0.00443,
+  "growth": 2.605,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-performance-control",
+  "name": "prescribed performance control",
+  "count_recent": 29,
+  "count_prev": 0,
+  "share_recent": 0.00656,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "parental-involvement",
+  "name": "parental involvement",
+  "count_recent": 28,
+  "count_prev": 0,
+  "share_recent": 0.00633,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "path-planning",
+  "name": "path planning",
+  "count_recent": 28,
+  "count_prev": 0,
+  "share_recent": 0.00633,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 50,
+  "count_prev": 5,
+  "share_recent": 0.01131,
+  "share_prev": 0.00443,
+  "growth": 2.554,
+  "eligible": true
+ },
+ {
+  "id": "emotion-regulation",
+  "name": "emotion regulation",
+  "count_recent": 25,
+  "count_prev": 0,
+  "share_recent": 0.00566,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "humanoid-robots",
+  "name": "humanoid robots",
+  "count_recent": 24,
+  "count_prev": 0,
+  "share_recent": 0.00543,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "hierarchical-control",
+  "name": "hierarchical control",
+  "count_recent": 56,
+  "count_prev": 6,
+  "share_recent": 0.01267,
+  "share_prev": 0.00531,
+  "growth": 2.384,
+  "eligible": true
+ },
+ {
+  "id": "ai-governance",
+  "name": "AI governance",
+  "count_recent": 23,
+  "count_prev": 0,
+  "share_recent": 0.0052,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "junior-high-school-students",
+  "name": "junior high school students",
+  "count_recent": 23,
+  "count_prev": 0,
+  "share_recent": 0.0052,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "hardware-in-the-loop-simulation",
+  "name": "hardware-in-the-loop",
+  "count_recent": 23,
+  "count_prev": 2,
+  "share_recent": 0.0052,
+  "share_prev": 0.00177,
+  "growth": 2.937,
+  "eligible": true
+ },
+ {
+  "id": "post-quantum-cryptography",
+  "name": "post-quantum cryptography",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00475,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "ai-alignment",
+  "name": "AI alignment",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "artificial-potential-field",
+  "name": "artificial potential field",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems-security",
+  "name": "cyber-physical security",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "quadruped-robot",
+  "name": "quadruped robot",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-action-models",
+  "name": "vision-language-action models",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-models",
+  "name": "vision-language models",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "ai-safety",
+  "name": "AI safety",
+  "count_recent": 43,
+  "count_prev": 5,
+  "share_recent": 0.00973,
+  "share_prev": 0.00443,
+  "growth": 2.197,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-obstacle-avoidance",
+  "name": "dynamic obstacle avoidance",
+  "count_recent": 43,
+  "count_prev": 5,
+  "share_recent": 0.00973,
+  "share_prev": 0.00443,
+  "growth": 2.197,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-reinforcement-learning",
+  "name": "multi-agent reinforcement learning",
+  "count_recent": 57,
+  "count_prev": 7,
+  "share_recent": 0.0129,
+  "share_prev": 0.0062,
+  "growth": 2.08,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 28,
+  "count_prev": 3,
+  "share_recent": 0.00633,
+  "share_prev": 0.00266,
+  "growth": 2.384,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 196,
+  "count_prev": 29,
+  "share_recent": 0.04434,
+  "share_prev": 0.02569,
+  "growth": 1.726,
+  "eligible": true
+ },
+ {
+  "id": "distribution-shift",
+  "name": "distribution shift",
+  "count_recent": 26,
+  "count_prev": 3,
+  "share_recent": 0.00588,
+  "share_prev": 0.00266,
+  "growth": 2.214,
+  "eligible": true
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 497,
+  "count_prev": 85,
+  "share_recent": 0.11244,
+  "share_prev": 0.07529,
+  "growth": 1.494,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-obstacles",
+  "name": "dynamic obstacles",
+  "count_recent": 76,
+  "count_prev": 11,
+  "share_recent": 0.01719,
+  "share_prev": 0.00974,
+  "growth": 1.765,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-underwater-vehicles",
+  "name": "autonomous underwater vehicles",
+  "count_recent": 25,
+  "count_prev": 3,
+  "share_recent": 0.00566,
+  "share_prev": 0.00266,
+  "growth": 2.129,
+  "eligible": true
+ },
+ {
+  "id": "hamilton-jacobi-reachability",
+  "name": "Hamilton-Jacobi reachability",
+  "count_recent": 25,
+  "count_prev": 3,
+  "share_recent": 0.00566,
+  "share_prev": 0.00266,
+  "growth": 2.129,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 115,
+  "count_prev": 18,
+  "share_recent": 0.02602,
+  "share_prev": 0.01594,
+  "growth": 1.632,
+  "eligible": true
+ },
+ {
+  "id": "constrained-markov-decision-process",
+  "name": "constrained Markov decision process",
+  "count_recent": 91,
+  "count_prev": 14,
+  "share_recent": 0.02059,
+  "share_prev": 0.0124,
+  "growth": 1.66,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-dynamic-programming",
+  "name": "adaptive dynamic programming",
+  "count_recent": 36,
+  "count_prev": 5,
+  "share_recent": 0.00814,
+  "share_prev": 0.00443,
+  "growth": 1.839,
+  "eligible": true
+ },
+ {
+  "id": "reflective-practice",
+  "name": "reflective practice",
+  "count_recent": 42,
+  "count_prev": 6,
+  "share_recent": 0.0095,
+  "share_prev": 0.00531,
+  "growth": 1.788,
+  "eligible": true
+ },
+ {
+  "id": "elementary-school-students",
+  "name": "elementary school students",
+  "count_recent": 48,
+  "count_prev": 7,
+  "share_recent": 0.01086,
+  "share_prev": 0.0062,
+  "growth": 1.752,
+  "eligible": true
+ },
+ {
+  "id": "early-childhood-education",
+  "name": "early childhood education",
+  "count_recent": 29,
+  "count_prev": 4,
+  "share_recent": 0.00656,
+  "share_prev": 0.00354,
+  "growth": 1.852,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-aerial-vehicles",
+  "name": "unmanned aerial vehicles",
+  "count_recent": 41,
+  "count_prev": 6,
+  "share_recent": 0.00928,
+  "share_prev": 0.00531,
+  "growth": 1.745,
+  "eligible": true
+ },
+ {
+  "id": "distributed-control",
+  "name": "distributed control",
+  "count_recent": 58,
+  "count_prev": 9,
+  "share_recent": 0.01312,
+  "share_prev": 0.00797,
+  "growth": 1.646,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-estimation",
+  "name": "disturbance estimation",
+  "count_recent": 22,
+  "count_prev": 3,
+  "share_recent": 0.00498,
+  "share_prev": 0.00266,
+  "growth": 1.873,
+  "eligible": true
+ },
+ {
+  "id": "emergency-preparedness",
+  "name": "disaster preparedness",
+  "count_recent": 28,
+  "count_prev": 4,
+  "share_recent": 0.00633,
+  "share_prev": 0.00354,
+  "growth": 1.788,
+  "eligible": true
+ },
+ {
+  "id": "forward-invariance",
+  "name": "forward invariance",
+  "count_recent": 181,
+  "count_prev": 32,
+  "share_recent": 0.04095,
+  "share_prev": 0.02834,
+  "growth": 1.445,
+  "eligible": true
+ },
+ {
+  "id": "human-robot-interaction",
+  "name": "human-robot interaction",
+  "count_recent": 56,
+  "count_prev": 9,
+  "share_recent": 0.01267,
+  "share_prev": 0.00797,
+  "growth": 1.589,
+  "eligible": true
+ },
+ {
+  "id": "attitude-control",
+  "name": "attitude control",
+  "count_recent": 21,
+  "count_prev": 3,
+  "share_recent": 0.00475,
+  "share_prev": 0.00266,
+  "growth": 1.788,
+  "eligible": true
+ },
+ {
+  "id": "underactuated-systems",
+  "name": "underactuated systems",
+  "count_recent": 21,
+  "count_prev": 3,
+  "share_recent": 0.00475,
+  "share_prev": 0.00266,
+  "growth": 1.788,
+  "eligible": true
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 43,
+  "count_prev": 7,
+  "share_recent": 0.00973,
+  "share_prev": 0.0062,
+  "growth": 1.569,
+  "eligible": true
+ },
+ {
+  "id": "clinical-reasoning",
+  "name": "clinical reasoning",
+  "count_recent": 26,
+  "count_prev": 4,
+  "share_recent": 0.00588,
+  "share_prev": 0.00354,
+  "growth": 1.66,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 26,
+  "count_prev": 4,
+  "share_recent": 0.00588,
+  "share_prev": 0.00354,
+  "growth": 1.66,
+  "eligible": true
+ },
+ {
+  "id": "sliding-mode-control",
+  "name": "sliding mode control",
+  "count_recent": 26,
+  "count_prev": 4,
+  "share_recent": 0.00588,
+  "share_prev": 0.00354,
+  "growth": 1.66,
+  "eligible": true
+ },
+ {
+  "id": "runtime-assurance",
+  "name": "runtime assurance",
+  "count_recent": 20,
+  "count_prev": 3,
+  "share_recent": 0.00452,
+  "share_prev": 0.00266,
+  "growth": 1.703,
+  "eligible": true
+ },
+ {
+  "id": "input-to-state-stability",
+  "name": "input-to-state stability",
+  "count_recent": 52,
+  "count_prev": 9,
+  "share_recent": 0.01176,
+  "share_prev": 0.00797,
+  "growth": 1.476,
+  "eligible": true
+ },
+ {
+  "id": "school-violence",
+  "name": "school violence",
+  "count_recent": 25,
+  "count_prev": 4,
+  "share_recent": 0.00566,
+  "share_prev": 0.00354,
+  "growth": 1.596,
+  "eligible": true
+ },
+ {
+  "id": "formation-control",
+  "name": "formation control",
+  "count_recent": 46,
+  "count_prev": 8,
+  "share_recent": 0.01041,
+  "share_prev": 0.00709,
+  "growth": 1.469,
+  "eligible": true
+ },
+ {
+  "id": "extended-state-observer",
+  "name": "extended state observer",
+  "count_recent": 35,
+  "count_prev": 6,
+  "share_recent": 0.00792,
+  "share_prev": 0.00531,
+  "growth": 1.49,
+  "eligible": true
+ },
+ {
+  "id": "robot-safety",
+  "name": "robot safety",
+  "count_recent": 71,
+  "count_prev": 13,
+  "share_recent": 0.01606,
+  "share_prev": 0.01151,
+  "growth": 1.395,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 323,
+  "count_prev": 65,
+  "share_recent": 0.07308,
+  "share_prev": 0.05757,
+  "growth": 1.269,
+  "eligible": true
+ },
+ {
+  "id": "robotic-manipulation",
+  "name": "robotic manipulation",
+  "count_recent": 24,
+  "count_prev": 4,
+  "share_recent": 0.00543,
+  "share_prev": 0.00354,
+  "growth": 1.533,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 99,
+  "count_prev": 19,
+  "share_recent": 0.0224,
+  "share_prev": 0.01683,
+  "growth": 1.331,
+  "eligible": true
+ },
+ {
+  "id": "high-order-control-barrier-functions",
+  "name": "high-order control barrier functions",
+  "count_recent": 118,
+  "count_prev": 23,
+  "share_recent": 0.0267,
+  "share_prev": 0.02037,
+  "growth": 1.31,
+  "eligible": true
+ },
+ {
+  "id": "robust-control",
+  "name": "robust control",
+  "count_recent": 64,
+  "count_prev": 12,
+  "share_recent": 0.01448,
+  "share_prev": 0.01063,
+  "growth": 1.362,
+  "eligible": true
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 1748,
+  "count_prev": 379,
+  "share_recent": 0.39548,
+  "share_prev": 0.3357,
+  "growth": 1.178,
+  "eligible": true
+ },
+ {
+  "id": "constrained-reinforcement-learning",
+  "name": "constrained reinforcement learning",
+  "count_recent": 23,
+  "count_prev": 4,
+  "share_recent": 0.0052,
+  "share_prev": 0.00354,
+  "growth": 1.469,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-planning",
+  "name": "trajectory planning",
+  "count_recent": 28,
+  "count_prev": 5,
+  "share_recent": 0.00633,
+  "share_prev": 0.00443,
+  "growth": 1.43,
+  "eligible": true
+ },
+ {
+  "id": "conditional-value-at-risk",
+  "name": "conditional value at risk",
+  "count_recent": 37,
+  "count_prev": 7,
+  "share_recent": 0.00837,
+  "share_prev": 0.0062,
+  "growth": 1.35,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-systems",
+  "name": "autonomous systems",
+  "count_recent": 22,
+  "count_prev": 4,
+  "share_recent": 0.00498,
+  "share_prev": 0.00354,
+  "growth": 1.405,
+  "eligible": true
+ },
+ {
+  "id": "secondary-school-students",
+  "name": "high school students",
+  "count_recent": 36,
+  "count_prev": 7,
+  "share_recent": 0.00814,
+  "share_prev": 0.0062,
+  "growth": 1.314,
+  "eligible": true
+ },
+ {
+  "id": "inclusive-learning-environment",
+  "name": "inclusive learning environment",
+  "count_recent": 31,
+  "count_prev": 6,
+  "share_recent": 0.00701,
+  "share_prev": 0.00531,
+  "growth": 1.32,
+  "eligible": true
+ },
+ {
+  "id": "uniform-ultimate-boundedness",
+  "name": "uniform ultimate boundedness",
+  "count_recent": 50,
+  "count_prev": 10,
+  "share_recent": 0.01131,
+  "share_prev": 0.00886,
+  "growth": 1.277,
+  "eligible": true
+ },
+ {
+  "id": "formal-verification",
+  "name": "formal verification",
+  "count_recent": 25,
+  "count_prev": 5,
+  "share_recent": 0.00566,
+  "share_prev": 0.00443,
+  "growth": 1.277,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 66,
+  "count_prev": 14,
+  "share_recent": 0.01493,
+  "share_prev": 0.0124,
+  "growth": 1.204,
+  "eligible": true
+ },
+ {
+  "id": "safety-verification",
+  "name": "safety verification",
+  "count_recent": 34,
+  "count_prev": 7,
+  "share_recent": 0.00769,
+  "share_prev": 0.0062,
+  "growth": 1.241,
+  "eligible": true
+ },
+ {
+  "id": "gaussian-process-regression",
+  "name": "Gaussian process regression",
+  "count_recent": 20,
+  "count_prev": 4,
+  "share_recent": 0.00452,
+  "share_prev": 0.00354,
+  "growth": 1.277,
+  "eligible": true
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 20,
+  "count_prev": 4,
+  "share_recent": 0.00452,
+  "share_prev": 0.00354,
+  "growth": 1.277,
+  "eligible": true
+ },
+ {
+  "id": "quadratic-programming",
+  "name": "quadratic programming",
+  "count_recent": 391,
+  "count_prev": 89,
+  "share_recent": 0.08846,
+  "share_prev": 0.07883,
+  "growth": 1.122,
+  "eligible": true
+ },
+ {
+  "id": "inclusive-education",
+  "name": "inclusive education",
+  "count_recent": 59,
+  "count_prev": 13,
+  "share_recent": 0.01335,
+  "share_prev": 0.01151,
+  "growth": 1.159,
+  "eligible": true
+ },
+ {
+  "id": "quadrotor",
+  "name": "quadrotor",
+  "count_recent": 72,
+  "count_prev": 16,
+  "share_recent": 0.01629,
+  "share_prev": 0.01417,
+  "growth": 1.149,
+  "eligible": true
+ },
+ {
+  "id": "formal-safety-guarantees",
+  "name": "formal safety guarantees",
+  "count_recent": 28,
+  "count_prev": 6,
+  "share_recent": 0.00633,
+  "share_prev": 0.00531,
+  "growth": 1.192,
+  "eligible": true
+ },
+ {
+  "id": "experiential-learning",
+  "name": "experiential learning",
+  "count_recent": 41,
+  "count_prev": 9,
+  "share_recent": 0.00928,
+  "share_prev": 0.00797,
+  "growth": 1.164,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 66,
+  "count_prev": 15,
+  "share_recent": 0.01493,
+  "share_prev": 0.01329,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 22,
+  "count_prev": 5,
+  "share_recent": 0.00498,
+  "share_prev": 0.00443,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "teacher-education",
+  "name": "teacher professional development",
+  "count_recent": 97,
+  "count_prev": 23,
+  "share_recent": 0.02195,
+  "share_prev": 0.02037,
+  "growth": 1.077,
+  "eligible": true
+ },
+ {
+  "id": "backstepping-control",
+  "name": "backstepping control",
+  "count_recent": 34,
+  "count_prev": 8,
+  "share_recent": 0.00769,
+  "share_prev": 0.00709,
+  "growth": 1.086,
+  "eligible": true
+ },
+ {
+  "id": "decentralized-control",
+  "name": "decentralized control",
+  "count_recent": 38,
+  "count_prev": 9,
+  "share_recent": 0.0086,
+  "share_prev": 0.00797,
+  "growth": 1.078,
+  "eligible": true
+ },
+ {
+  "id": "input-saturation",
+  "name": "input saturation",
+  "count_recent": 21,
+  "count_prev": 5,
+  "share_recent": 0.00475,
+  "share_prev": 0.00443,
+  "growth": 1.073,
+  "eligible": true
+ },
+ {
+  "id": "navigation-safety",
+  "name": "navigation safety",
+  "count_recent": 21,
+  "count_prev": 5,
+  "share_recent": 0.00475,
+  "share_prev": 0.00443,
+  "growth": 1.073,
+  "eligible": true
+ },
+ {
+  "id": "connected-and-automated-vehicles",
+  "name": "connected and automated vehicles",
+  "count_recent": 33,
+  "count_prev": 8,
+  "share_recent": 0.00747,
+  "share_prev": 0.00709,
+  "growth": 1.054,
+  "eligible": true
+ },
+ {
+  "id": "hamilton-jacobi-bellman-equation",
+  "name": "Hamilton-Jacobi-Bellman equation",
+  "count_recent": 33,
+  "count_prev": 8,
+  "share_recent": 0.00747,
+  "share_prev": 0.00709,
+  "growth": 1.054,
+  "eligible": true
+ },
+ {
+  "id": "safety-certification",
+  "name": "safety certification",
+  "count_recent": 45,
+  "count_prev": 11,
+  "share_recent": 0.01018,
+  "share_prev": 0.00974,
+  "growth": 1.045,
+  "eligible": true
+ },
+ {
+  "id": "school-safety",
+  "name": "school safety",
+  "count_recent": 69,
+  "count_prev": 17,
+  "share_recent": 0.01561,
+  "share_prev": 0.01506,
+  "growth": 1.037,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 105,
+  "count_prev": 26,
+  "share_recent": 0.02376,
+  "share_prev": 0.02303,
+  "growth": 1.032,
+  "eligible": true
+ },
+ {
+  "id": "motion-planning",
+  "name": "motion planning",
+  "count_recent": 36,
+  "count_prev": 9,
+  "share_recent": 0.00814,
+  "share_prev": 0.00797,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "student-centered-learning",
+  "name": "student-centered learning",
+  "count_recent": 28,
+  "count_prev": 7,
+  "share_recent": 0.00633,
+  "share_prev": 0.0062,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "convex-optimization",
+  "name": "convex optimization",
+  "count_recent": 24,
+  "count_prev": 6,
+  "share_recent": 0.00543,
+  "share_prev": 0.00531,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "mentoring",
+  "name": "mentoring",
+  "count_recent": 24,
+  "count_prev": 6,
+  "share_recent": 0.00543,
+  "share_prev": 0.00531,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "student-self-confidence",
+  "name": "student self-confidence",
+  "count_recent": 24,
+  "count_prev": 6,
+  "share_recent": 0.00543,
+  "share_prev": 0.00531,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "educational-games",
+  "name": "game-based learning",
+  "count_recent": 20,
+  "count_prev": 5,
+  "share_recent": 0.00452,
+  "share_prev": 0.00443,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-optimization",
+  "name": "trajectory optimization",
+  "count_recent": 20,
+  "count_prev": 5,
+  "share_recent": 0.00452,
+  "share_prev": 0.00443,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-surface-vessels",
+  "name": "unmanned surface vehicles",
+  "count_recent": 51,
+  "count_prev": 13,
+  "share_recent": 0.01154,
+  "share_prev": 0.01151,
+  "growth": 1.002,
+  "eligible": true
+ },
+ {
+  "id": "reward-shaping",
+  "name": "reward shaping",
+  "count_recent": 23,
+  "count_prev": 6,
+  "share_recent": 0.0052,
+  "share_prev": 0.00531,
+  "growth": 0.979,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems",
+  "name": "cyber-physical systems",
+  "count_recent": 30,
+  "count_prev": 8,
+  "share_recent": 0.00679,
+  "share_prev": 0.00709,
+  "growth": 0.958,
+  "eligible": true
+ },
+ {
+  "id": "constraint-violation",
+  "name": "constraint violation",
+  "count_recent": 22,
+  "count_prev": 6,
+  "share_recent": 0.00498,
+  "share_prev": 0.00531,
+  "growth": 0.937,
+  "eligible": true
+ },
+ {
+  "id": "collaborative-learning",
+  "name": "cooperative learning",
+  "count_recent": 29,
+  "count_prev": 8,
+  "share_recent": 0.00656,
+  "share_prev": 0.00709,
+  "growth": 0.926,
+  "eligible": true
+ },
+ {
+  "id": "imitation-learning",
+  "name": "imitation learning",
+  "count_recent": 29,
+  "count_prev": 8,
+  "share_recent": 0.00656,
+  "share_prev": 0.00709,
+  "growth": 0.926,
+  "eligible": true
+ },
+ {
+  "id": "safety-critical-control",
+  "name": "safety-critical control",
+  "count_recent": 412,
+  "count_prev": 112,
+  "share_recent": 0.09321,
+  "share_prev": 0.0992,
+  "growth": 0.94,
+  "eligible": true
+ },
+ {
+  "id": "unknown-dynamics",
+  "name": "unknown dynamics",
+  "count_recent": 24,
+  "count_prev": 7,
+  "share_recent": 0.00543,
+  "share_prev": 0.0062,
+  "growth": 0.876,
+  "eligible": true
+ },
+ {
+  "id": "safety-constraints",
+  "name": "safety constraints",
+  "count_recent": 246,
+  "count_prev": 68,
+  "share_recent": 0.05566,
+  "share_prev": 0.06023,
+  "growth": 0.924,
+  "eligible": true
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 31,
+  "count_prev": 9,
+  "share_recent": 0.00701,
+  "share_prev": 0.00797,
+  "growth": 0.88,
+  "eligible": true
+ },
+ {
+  "id": "constraint-satisfaction",
+  "name": "constraint satisfaction",
+  "count_recent": 52,
+  "count_prev": 15,
+  "share_recent": 0.01176,
+  "share_prev": 0.01329,
+  "growth": 0.885,
+  "eligible": true
+ },
+ {
+  "id": "feedback",
+  "name": "feedback",
+  "count_recent": 27,
+  "count_prev": 8,
+  "share_recent": 0.00611,
+  "share_prev": 0.00709,
+  "growth": 0.862,
+  "eligible": true
+ },
+ {
+  "id": "safety-control-measures",
+  "name": "safety control",
+  "count_recent": 30,
+  "count_prev": 9,
+  "share_recent": 0.00679,
+  "share_prev": 0.00797,
+  "growth": 0.851,
+  "eligible": true
+ },
+ {
+  "id": "communication-skills",
+  "name": "communication skills",
+  "count_recent": 33,
+  "count_prev": 10,
+  "share_recent": 0.00747,
+  "share_prev": 0.00886,
+  "growth": 0.843,
+  "eligible": true
+ },
+ {
+  "id": "critical-thinking",
+  "name": "critical thinking",
+  "count_recent": 26,
+  "count_prev": 8,
+  "share_recent": 0.00588,
+  "share_prev": 0.00709,
+  "growth": 0.83,
+  "eligible": true
+ },
+ {
+  "id": "curriculum-development",
+  "name": "curriculum development",
+  "count_recent": 26,
+  "count_prev": 8,
+  "share_recent": 0.00588,
+  "share_prev": 0.00709,
+  "growth": 0.83,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 81,
+  "count_prev": 24,
+  "share_recent": 0.01833,
+  "share_prev": 0.02126,
+  "growth": 0.862,
+  "eligible": true
+ },
+ {
+  "id": "external-disturbances",
+  "name": "external disturbances",
+  "count_recent": 22,
+  "count_prev": 7,
+  "share_recent": 0.00498,
+  "share_prev": 0.0062,
+  "growth": 0.803,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-systems",
+  "name": "nonlinear systems",
+  "count_recent": 69,
+  "count_prev": 21,
+  "share_recent": 0.01561,
+  "share_prev": 0.0186,
+  "growth": 0.839,
+  "eligible": true
+ },
+ {
+  "id": "parameter-uncertainty",
+  "name": "parameter uncertainty",
+  "count_recent": 34,
+  "count_prev": 11,
+  "share_recent": 0.00769,
+  "share_prev": 0.00974,
+  "growth": 0.79,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 54,
+  "count_prev": 17,
+  "share_recent": 0.01222,
+  "share_prev": 0.01506,
+  "growth": 0.811,
+  "eligible": true
+ },
+ {
+  "id": "student-motivation",
+  "name": "student motivation",
+  "count_recent": 60,
+  "count_prev": 19,
+  "share_recent": 0.01357,
+  "share_prev": 0.01683,
+  "growth": 0.807,
+  "eligible": true
+ },
+ {
+  "id": "teacher-perceptions",
+  "name": "teacher perceptions",
+  "count_recent": 27,
+  "count_prev": 9,
+  "share_recent": 0.00611,
+  "share_prev": 0.00797,
+  "growth": 0.766,
+  "eligible": true
+ },
+ {
+  "id": "student-well-being",
+  "name": "student well-being",
+  "count_recent": 40,
+  "count_prev": 13,
+  "share_recent": 0.00905,
+  "share_prev": 0.01151,
+  "growth": 0.786,
+  "eligible": true
+ },
+ {
+  "id": "reachability-analysis",
+  "name": "reachability analysis",
+  "count_recent": 20,
+  "count_prev": 7,
+  "share_recent": 0.00452,
+  "share_prev": 0.0062,
+  "growth": 0.73,
+  "eligible": true
+ },
+ {
+  "id": "convergence-analysis",
+  "name": "convergence analysis",
+  "count_recent": 23,
+  "count_prev": 8,
+  "share_recent": 0.0052,
+  "share_prev": 0.00709,
+  "growth": 0.734,
+  "eligible": true
+ },
+ {
+  "id": "human-robot-collaboration",
+  "name": "human-robot collaboration",
+  "count_recent": 23,
+  "count_prev": 8,
+  "share_recent": 0.0052,
+  "share_prev": 0.00709,
+  "growth": 0.734,
+  "eligible": true
+ },
+ {
+  "id": "safe-sets",
+  "name": "safe sets",
+  "count_recent": 22,
+  "count_prev": 8,
+  "share_recent": 0.00498,
+  "share_prev": 0.00709,
+  "growth": 0.702,
+  "eligible": true
+ },
+ {
+  "id": "college-students",
+  "name": "university students",
+  "count_recent": 25,
+  "count_prev": 9,
+  "share_recent": 0.00566,
+  "share_prev": 0.00797,
+  "growth": 0.71,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-function",
+  "name": "Lyapunov function",
+  "count_recent": 25,
+  "count_prev": 9,
+  "share_recent": 0.00566,
+  "share_prev": 0.00797,
+  "growth": 0.71,
+  "eligible": true
+ },
+ {
+  "id": "robot-manipulators",
+  "name": "robot manipulators",
+  "count_recent": 36,
+  "count_prev": 13,
+  "share_recent": 0.00814,
+  "share_prev": 0.01151,
+  "growth": 0.707,
+  "eligible": true
+ },
+ {
+  "id": "nursing-students",
+  "name": "nursing students",
+  "count_recent": 60,
+  "count_prev": 21,
+  "share_recent": 0.01357,
+  "share_prev": 0.0186,
+  "growth": 0.73,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 32,
+  "count_prev": 12,
+  "share_recent": 0.00724,
+  "share_prev": 0.01063,
+  "growth": 0.681,
+  "eligible": true
+ },
+ {
+  "id": "signal-temporal-logic",
+  "name": "signal temporal logic",
+  "count_recent": 23,
+  "count_prev": 9,
+  "share_recent": 0.0052,
+  "share_prev": 0.00797,
+  "growth": 0.653,
+  "eligible": true
+ },
+ {
+  "id": "unknown-environments",
+  "name": "unknown environments",
+  "count_recent": 23,
+  "count_prev": 9,
+  "share_recent": 0.0052,
+  "share_prev": 0.00797,
+  "growth": 0.653,
+  "eligible": true
+ },
+ {
+  "id": "control-affine-systems",
+  "name": "control-affine systems",
+  "count_recent": 25,
+  "count_prev": 10,
+  "share_recent": 0.00566,
+  "share_prev": 0.00886,
+  "growth": 0.639,
+  "eligible": true
+ },
+ {
+  "id": "virtual-reality",
+  "name": "virtual reality",
+  "count_recent": 25,
+  "count_prev": 10,
+  "share_recent": 0.00566,
+  "share_prev": 0.00886,
+  "growth": 0.639,
+  "eligible": true
+ },
+ {
+  "id": "nursing-education",
+  "name": "nursing education",
+  "count_recent": 66,
+  "count_prev": 24,
+  "share_recent": 0.01493,
+  "share_prev": 0.02126,
+  "growth": 0.702,
+  "eligible": true
+ },
+ {
+  "id": "academic-achievement",
+  "name": "academic performance",
+  "count_recent": 37,
+  "count_prev": 15,
+  "share_recent": 0.00837,
+  "share_prev": 0.01329,
+  "growth": 0.63,
+  "eligible": true
+ },
+ {
+  "id": "asymptotic-stability",
+  "name": "asymptotic stability",
+  "count_recent": 23,
+  "count_prev": 10,
+  "share_recent": 0.0052,
+  "share_prev": 0.00886,
+  "growth": 0.587,
+  "eligible": true
+ },
+ {
+  "id": "primary-school",
+  "name": "elementary school",
+  "count_recent": 20,
+  "count_prev": 9,
+  "share_recent": 0.00452,
+  "share_prev": 0.00797,
+  "growth": 0.568,
+  "eligible": true
+ },
+ {
+  "id": "student-perceptions",
+  "name": "student perceptions",
+  "count_recent": 50,
+  "count_prev": 20,
+  "share_recent": 0.01131,
+  "share_prev": 0.01771,
+  "growth": 0.639,
+  "eligible": true
+ },
+ {
+  "id": "actor-critic",
+  "name": "actor-critic",
+  "count_recent": 25,
+  "count_prev": 11,
+  "share_recent": 0.00566,
+  "share_prev": 0.00974,
+  "growth": 0.581,
+  "eligible": true
+ },
+ {
+  "id": "safe-reinforcement-learning",
+  "name": "safe reinforcement learning",
+  "count_recent": 485,
+  "count_prev": 166,
+  "share_recent": 0.10973,
+  "share_prev": 0.14703,
+  "growth": 0.746,
+  "eligible": true
+ },
+ {
+  "id": "sim-to-real-transfer",
+  "name": "sim-to-real transfer",
+  "count_recent": 30,
+  "count_prev": 13,
+  "share_recent": 0.00679,
+  "share_prev": 0.01151,
+  "growth": 0.589,
+  "eligible": true
+ },
+ {
+  "id": "professional-development",
+  "name": "professional development",
+  "count_recent": 24,
+  "count_prev": 11,
+  "share_recent": 0.00543,
+  "share_prev": 0.00974,
+  "growth": 0.557,
+  "eligible": true
+ },
+ {
+  "id": "robot-navigation",
+  "name": "robot navigation",
+  "count_recent": 24,
+  "count_prev": 11,
+  "share_recent": 0.00543,
+  "share_prev": 0.00974,
+  "growth": 0.557,
+  "eligible": true
+ },
+ {
+  "id": "safety-guarantees",
+  "name": "safety guarantees",
+  "count_recent": 114,
+  "count_prev": 44,
+  "share_recent": 0.02579,
+  "share_prev": 0.03897,
+  "growth": 0.662,
+  "eligible": true
+ },
+ {
+  "id": "student-engagement",
+  "name": "student engagement",
+  "count_recent": 58,
+  "count_prev": 24,
+  "share_recent": 0.01312,
+  "share_prev": 0.02126,
+  "growth": 0.617,
+  "eligible": true
+ },
+ {
+  "id": "safety-critical-systems",
+  "name": "safety-critical systems",
+  "count_recent": 79,
+  "count_prev": 32,
+  "share_recent": 0.01787,
+  "share_prev": 0.02834,
+  "growth": 0.631,
+  "eligible": true
+ },
+ {
+  "id": "simulation-based-education",
+  "name": "simulation-based education",
+  "count_recent": 38,
+  "count_prev": 17,
+  "share_recent": 0.0086,
+  "share_prev": 0.01506,
+  "growth": 0.571,
+  "eligible": true
+ },
+ {
+  "id": "safe-control",
+  "name": "safe control",
+  "count_recent": 25,
+  "count_prev": 12,
+  "share_recent": 0.00566,
+  "share_prev": 0.01063,
+  "growth": 0.532,
+  "eligible": true
+ },
+ {
+  "id": "control-lyapunov-function",
+  "name": "control Lyapunov function",
+  "count_recent": 159,
+  "count_prev": 61,
+  "share_recent": 0.03597,
+  "share_prev": 0.05403,
+  "growth": 0.666,
+  "eligible": true
+ },
+ {
+  "id": "state-constraints",
+  "name": "state constraints",
+  "count_recent": 45,
+  "count_prev": 20,
+  "share_recent": 0.01018,
+  "share_prev": 0.01771,
+  "growth": 0.575,
+  "eligible": true
+ },
+ {
+  "id": "sample-efficiency",
+  "name": "sample efficiency",
+  "count_recent": 24,
+  "count_prev": 12,
+  "share_recent": 0.00543,
+  "share_prev": 0.01063,
+  "growth": 0.511,
+  "eligible": true
+ },
+ {
+  "id": "debriefing",
+  "name": "debriefing",
+  "count_recent": 44,
+  "count_prev": 20,
+  "share_recent": 0.00995,
+  "share_prev": 0.01771,
+  "growth": 0.562,
+  "eligible": true
+ },
+ {
+  "id": "medical-education",
+  "name": "medical education",
+  "count_recent": 38,
+  "count_prev": 18,
+  "share_recent": 0.0086,
+  "share_prev": 0.01594,
+  "growth": 0.539,
+  "eligible": true
+ },
+ {
+  "id": "higher-education",
+  "name": "higher education",
+  "count_recent": 23,
+  "count_prev": 12,
+  "share_recent": 0.0052,
+  "share_prev": 0.01063,
+  "growth": 0.49,
+  "eligible": true
+ },
+ {
+  "id": "multi-robot-systems",
+  "name": "multi-robot systems",
+  "count_recent": 37,
+  "count_prev": 18,
+  "share_recent": 0.00837,
+  "share_prev": 0.01594,
+  "growth": 0.525,
+  "eligible": true
+ },
+ {
+  "id": "closed-loop-stability",
+  "name": "closed-loop stability",
+  "count_recent": 25,
+  "count_prev": 14,
+  "share_recent": 0.00566,
+  "share_prev": 0.0124,
+  "growth": 0.456,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-control",
+  "name": "data-driven control",
+  "count_recent": 25,
+  "count_prev": 14,
+  "share_recent": 0.00566,
+  "share_prev": 0.0124,
+  "growth": 0.456,
+  "eligible": true
+ },
+ {
+  "id": "safe-learning",
+  "name": "safe learning",
+  "count_recent": 25,
+  "count_prev": 14,
+  "share_recent": 0.00566,
+  "share_prev": 0.0124,
+  "growth": 0.456,
+  "eligible": true
+ },
+ {
+  "id": "medical-students",
+  "name": "medical students",
+  "count_recent": 39,
+  "count_prev": 20,
+  "share_recent": 0.00882,
+  "share_prev": 0.01771,
+  "growth": 0.498,
+  "eligible": true
+ },
+ {
+  "id": "model-uncertainty",
+  "name": "model uncertainty",
+  "count_recent": 58,
+  "count_prev": 28,
+  "share_recent": 0.01312,
+  "share_prev": 0.0248,
+  "growth": 0.529,
+  "eligible": true
+ },
+ {
+  "id": "self-efficacy",
+  "name": "self-efficacy",
+  "count_recent": 20,
+  "count_prev": 12,
+  "share_recent": 0.00452,
+  "share_prev": 0.01063,
+  "growth": 0.426,
+  "eligible": true
+ },
+ {
+  "id": "teacher-student-relationship",
+  "name": "teacher-student relationship",
+  "count_recent": 40,
+  "count_prev": 21,
+  "share_recent": 0.00905,
+  "share_prev": 0.0186,
+  "growth": 0.487,
+  "eligible": true
+ },
+ {
+  "id": "safe-learning-environment",
+  "name": "safe learning environment",
+  "count_recent": 282,
+  "count_prev": 117,
+  "share_recent": 0.0638,
+  "share_prev": 0.10363,
+  "growth": 0.616,
+  "eligible": true
+ },
+ {
+  "id": "model-free-reinforcement-learning",
+  "name": "model-free reinforcement learning",
+  "count_recent": 22,
+  "count_prev": 14,
+  "share_recent": 0.00498,
+  "share_prev": 0.0124,
+  "growth": 0.401,
+  "eligible": true
+ },
+ {
+  "id": "simulation-based-training",
+  "name": "simulation-based training",
+  "count_recent": 81,
+  "count_prev": 40,
+  "share_recent": 0.01833,
+  "share_prev": 0.03543,
+  "growth": 0.517,
+  "eligible": true
+ },
+ {
+  "id": "learning-environment",
+  "name": "learning environment",
+  "count_recent": 56,
+  "count_prev": 31,
+  "share_recent": 0.01267,
+  "share_prev": 0.02746,
+  "growth": 0.461,
+  "eligible": true
+ },
+ {
+  "id": "state-and-input-constraints",
+  "name": "state and input constraints",
+  "count_recent": 23,
+  "count_prev": 16,
+  "share_recent": 0.0052,
+  "share_prev": 0.01417,
+  "growth": 0.367,
+  "eligible": true
+ },
+ {
+  "id": "input-constraints",
+  "name": "input constraints",
+  "count_recent": 64,
+  "count_prev": 36,
+  "share_recent": 0.01448,
+  "share_prev": 0.03189,
+  "growth": 0.454,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-cruise-control",
+  "name": "adaptive cruise control",
+  "count_recent": 33,
+  "count_prev": 22,
+  "share_recent": 0.00747,
+  "share_prev": 0.01949,
+  "growth": 0.383,
+  "eligible": true
+ },
+ {
+  "id": "patient-safety",
+  "name": "patient safety",
+  "count_recent": 26,
+  "count_prev": 19,
+  "share_recent": 0.00588,
+  "share_prev": 0.01683,
+  "growth": 0.35,
+  "eligible": true
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 23,
+  "count_prev": 18,
+  "share_recent": 0.0052,
+  "share_prev": 0.01594,
+  "growth": 0.326,
+  "eligible": true
+ },
+ {
+  "id": "safe-exploration",
+  "name": "safe exploration",
+  "count_recent": 28,
+  "count_prev": 21,
+  "share_recent": 0.00633,
+  "share_prev": 0.0186,
+  "growth": 0.341,
+  "eligible": true
+ },
+ {
+  "id": "e-learning",
+  "name": "online learning",
+  "count_recent": 32,
+  "count_prev": 34,
+  "share_recent": 0.00724,
+  "share_prev": 0.03012,
+  "growth": 0.24,
+  "eligible": true
+ },
+ {
+  "id": "covid-19",
+  "name": "COVID-19 pandemic",
+  "count_recent": 26,
+  "count_prev": 72,
+  "share_recent": 0.00588,
+  "share_prev": 0.06377,
+  "growth": 0.092,
+  "eligible": true
+ }
+]

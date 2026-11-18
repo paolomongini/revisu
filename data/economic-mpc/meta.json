@@ -1,0 +1,27 @@
+{
+ "slug": "economic-mpc",
+ "label": "Economic MPC",
+ "group": "Focus: MPC & NN-SysID",
+ "query": "\"economic model predictive control\" OR \"economic MPC\"",
+ "generated_at": "2026-11-18T11:16:26",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 785,
+ "n_recent": 235,
+ "n_prev": 185,
+ "volume_growth": 1.27,
+ "min_count_for_hot": 15,
+ "api_calls": 105,
+ "cost_usd": 0.078,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

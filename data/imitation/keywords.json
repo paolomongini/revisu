@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "diffusion-policy",
+  "name": "diffusion policy",
+  "count_recent": 150,
+  "count_prev": 2,
+  "share_recent": 0.04236,
+  "share_prev": 0.00148,
+  "growth": 28.594,
+  "eligible": true
+ },
+ {
+  "id": "action-chunking",
+  "name": "action chunking",
+  "count_recent": 31,
+  "count_prev": 1,
+  "share_recent": 0.00875,
+  "share_prev": 0.00074,
+  "growth": 11.819,
+  "eligible": true
+ },
+ {
+  "id": "bimanual-manipulation",
+  "name": "bimanual manipulation",
+  "count_recent": 60,
+  "count_prev": 3,
+  "share_recent": 0.01694,
+  "share_prev": 0.00222,
+  "growth": 7.625,
+  "eligible": true
+ },
+ {
+  "id": "embodied-ai",
+  "name": "embodied AI",
+  "count_recent": 51,
+  "count_prev": 3,
+  "share_recent": 0.0144,
+  "share_prev": 0.00222,
+  "growth": 6.481,
+  "eligible": true
+ },
+ {
+  "id": "end-to-end-autonomous-driving",
+  "name": "end-to-end autonomous driving",
+  "count_recent": 25,
+  "count_prev": 1,
+  "share_recent": 0.00706,
+  "share_prev": 0.00074,
+  "growth": 9.531,
+  "eligible": true
+ },
+ {
+  "id": "long-horizon-manipulation",
+  "name": "long-horizon manipulation",
+  "count_recent": 45,
+  "count_prev": 3,
+  "share_recent": 0.01271,
+  "share_prev": 0.00222,
+  "growth": 5.719,
+  "eligible": true
+ },
+ {
+  "id": "knowledge-distillation",
+  "name": "knowledge distillation",
+  "count_recent": 31,
+  "count_prev": 2,
+  "share_recent": 0.00875,
+  "share_prev": 0.00148,
+  "growth": 5.909,
+  "eligible": true
+ },
+ {
+  "id": "world-models",
+  "name": "world models",
+  "count_recent": 66,
+  "count_prev": 6,
+  "share_recent": 0.01864,
+  "share_prev": 0.00444,
+  "growth": 4.194,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 127,
+  "count_prev": 14,
+  "share_recent": 0.03587,
+  "share_prev": 0.01037,
+  "growth": 3.458,
+  "eligible": true
+ },
+ {
+  "id": "sim-to-real-transfer",
+  "name": "sim-to-real transfer",
+  "count_recent": 155,
+  "count_prev": 18,
+  "share_recent": 0.04377,
+  "share_prev": 0.01333,
+  "growth": 3.283,
+  "eligible": true
+ },
+ {
+  "id": "out-of-distribution-robustness",
+  "name": "out-of-distribution robustness",
+  "count_recent": 29,
+  "count_prev": 2,
+  "share_recent": 0.00819,
+  "share_prev": 0.00148,
+  "growth": 5.528,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-action-models",
+  "name": "vision-language-action models",
+  "count_recent": 126,
+  "count_prev": 0,
+  "share_recent": 0.03558,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "diffusion-models",
+  "name": "diffusion models",
+  "count_recent": 81,
+  "count_prev": 10,
+  "share_recent": 0.02287,
+  "share_prev": 0.00741,
+  "growth": 3.088,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-models",
+  "name": "vision-language models",
+  "count_recent": 89,
+  "count_prev": 0,
+  "share_recent": 0.02513,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 24,
+  "count_prev": 2,
+  "share_recent": 0.00678,
+  "share_prev": 0.00148,
+  "growth": 4.575,
+  "eligible": true
+ },
+ {
+  "id": "contact-rich-manipulation",
+  "name": "contact-rich manipulation",
+  "count_recent": 86,
+  "count_prev": 11,
+  "share_recent": 0.02429,
+  "share_prev": 0.00815,
+  "growth": 2.981,
+  "eligible": true
+ },
+ {
+  "id": "flow-matching",
+  "name": "flow matching",
+  "count_recent": 69,
+  "count_prev": 0,
+  "share_recent": 0.01949,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "mobile-manipulation",
+  "name": "mobile manipulation",
+  "count_recent": 30,
+  "count_prev": 3,
+  "share_recent": 0.00847,
+  "share_prev": 0.00222,
+  "growth": 3.812,
+  "eligible": true
+ },
+ {
+  "id": "tactile-sensing",
+  "name": "tactile sensing",
+  "count_recent": 30,
+  "count_prev": 3,
+  "share_recent": 0.00847,
+  "share_prev": 0.00222,
+  "growth": 3.812,
+  "eligible": true
+ },
+ {
+  "id": "continual-learning",
+  "name": "continual learning",
+  "count_recent": 22,
+  "count_prev": 2,
+  "share_recent": 0.00621,
+  "share_prev": 0.00148,
+  "growth": 4.194,
+  "eligible": true
+ },
+ {
+  "id": "zero-shot-transfer",
+  "name": "zero-shot transfer",
+  "count_recent": 42,
+  "count_prev": 5,
+  "share_recent": 0.01186,
+  "share_prev": 0.0037,
+  "growth": 3.202,
+  "eligible": true
+ },
+ {
+  "id": "humanoid-robots",
+  "name": "humanoid robots",
+  "count_recent": 78,
+  "count_prev": 11,
+  "share_recent": 0.02203,
+  "share_prev": 0.00815,
+  "growth": 2.703,
+  "eligible": true
+ },
+ {
+  "id": "visuomotor-policies",
+  "name": "visuomotor policies",
+  "count_recent": 51,
+  "count_prev": 0,
+  "share_recent": 0.0144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "few-shot-learning",
+  "name": "few-shot learning",
+  "count_recent": 28,
+  "count_prev": 3,
+  "share_recent": 0.00791,
+  "share_prev": 0.00222,
+  "growth": 3.558,
+  "eligible": true
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 59,
+  "count_prev": 8,
+  "share_recent": 0.01666,
+  "share_prev": 0.00593,
+  "growth": 2.812,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 25,
+  "count_prev": 3,
+  "share_recent": 0.00706,
+  "share_prev": 0.00222,
+  "growth": 3.177,
+  "eligible": true
+ },
+ {
+  "id": "sim-to-real-gap",
+  "name": "sim-to-real gap",
+  "count_recent": 25,
+  "count_prev": 3,
+  "share_recent": 0.00706,
+  "share_prev": 0.00222,
+  "growth": 3.177,
+  "eligible": true
+ },
+ {
+  "id": "proprioception",
+  "name": "proprioception",
+  "count_recent": 24,
+  "count_prev": 0,
+  "share_recent": 0.00678,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-action-policies",
+  "name": "vision-language-action policies",
+  "count_recent": 24,
+  "count_prev": 0,
+  "share_recent": 0.00678,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "robotic-manipulation",
+  "name": "robotic manipulation",
+  "count_recent": 512,
+  "count_prev": 112,
+  "share_recent": 0.14459,
+  "share_prev": 0.08296,
+  "growth": 1.743,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 29,
+  "count_prev": 4,
+  "share_recent": 0.00819,
+  "share_prev": 0.00296,
+  "growth": 2.764,
+  "eligible": true
+ },
+ {
+  "id": "cross-attention",
+  "name": "cross-attention",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00621,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "quadruped-robot",
+  "name": "quadruped robot",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00621,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 17,
+  "count_prev": 2,
+  "share_recent": 0.0048,
+  "share_prev": 0.00148,
+  "growth": 3.241,
+  "eligible": true
+ },
+ {
+  "id": "humanoid-robot-locomotion",
+  "name": "humanoid locomotion",
+  "count_recent": 17,
+  "count_prev": 2,
+  "share_recent": 0.0048,
+  "share_prev": 0.00148,
+  "growth": 3.241,
+  "eligible": true
+ },
+ {
+  "id": "in-context-learning",
+  "name": "in-context learning",
+  "count_recent": 17,
+  "count_prev": 2,
+  "share_recent": 0.0048,
+  "share_prev": 0.00148,
+  "growth": 3.241,
+  "eligible": true
+ },
+ {
+  "id": "mixture-of-experts",
+  "name": "mixture of experts",
+  "count_recent": 21,
+  "count_prev": 0,
+  "share_recent": 0.00593,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "foundation-models",
+  "name": "foundation models",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00565,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "dexterous-manipulation",
+  "name": "dexterous manipulation",
+  "count_recent": 88,
+  "count_prev": 16,
+  "share_recent": 0.02485,
+  "share_prev": 0.01185,
+  "growth": 2.097,
+  "eligible": true
+ },
+ {
+  "id": "libero-benchmark",
+  "name": "LIBERO benchmark",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.00537,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "motion-retargeting",
+  "name": "motion retargeting",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.00537,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "multimodal-fusion",
+  "name": "multimodal fusion",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.00537,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "inference-latency",
+  "name": "inference latency",
+  "count_recent": 18,
+  "count_prev": 0,
+  "share_recent": 0.00508,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "multisensory-perception",
+  "name": "multisensory perception",
+  "count_recent": 18,
+  "count_prev": 0,
+  "share_recent": 0.00508,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "llm-based-agents",
+  "name": "LLM agents",
+  "count_recent": 17,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "supervised-fine-tuning",
+  "name": "supervised fine-tuning",
+  "count_recent": 17,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "contact-rich-tasks",
+  "name": "contact-rich tasks",
+  "count_recent": 16,
+  "count_prev": 2,
+  "share_recent": 0.00452,
+  "share_prev": 0.00148,
+  "growth": 3.05,
+  "eligible": true
+ },
+ {
+  "id": "multiagent-coordination",
+  "name": "multi-agent coordination",
+  "count_recent": 16,
+  "count_prev": 2,
+  "share_recent": 0.00452,
+  "share_prev": 0.00148,
+  "growth": 3.05,
+  "eligible": true
+ },
+ {
+  "id": "3d-gaussian-splatting",
+  "name": "3D Gaussian Splatting",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "libero",
+  "name": "LIBERO",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "loco-manipulation",
+  "name": "loco-manipulation",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "temporal-coherence",
+  "name": "temporal coherence",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "robot-policy-learning",
+  "name": "robot policy learning",
+  "count_recent": 21,
+  "count_prev": 3,
+  "share_recent": 0.00593,
+  "share_prev": 0.00222,
+  "growth": 2.669,
+  "eligible": true
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 26,
+  "count_prev": 4,
+  "share_recent": 0.00734,
+  "share_prev": 0.00296,
+  "growth": 2.478,
+  "eligible": true
+ },
+ {
+  "id": "partially-observable-markov-decision-processes",
+  "name": "partially observable Markov decision processes",
+  "count_recent": 15,
+  "count_prev": 2,
+  "share_recent": 0.00424,
+  "share_prev": 0.00148,
+  "growth": 2.859,
+  "eligible": true
+ },
+ {
+  "id": "out-of-distribution-generalization",
+  "name": "out-of-distribution generalization",
+  "count_recent": 40,
+  "count_prev": 7,
+  "share_recent": 0.0113,
+  "share_prev": 0.00519,
+  "growth": 2.179,
+  "eligible": true
+ },
+ {
+  "id": "path-planning",
+  "name": "path planning",
+  "count_recent": 40,
+  "count_prev": 7,
+  "share_recent": 0.0113,
+  "share_prev": 0.00519,
+  "growth": 2.179,
+  "eligible": true
+ },
+ {
+  "id": "exploration-exploitation-trade-off",
+  "name": "exploration-exploitation balance",
+  "count_recent": 20,
+  "count_prev": 3,
+  "share_recent": 0.00565,
+  "share_prev": 0.00222,
+  "growth": 2.542,
+  "eligible": true
+ },
+ {
+  "id": "twin-delayed-deep-deterministic-policy-gradient",
+  "name": "TD3",
+  "count_recent": 39,
+  "count_prev": 7,
+  "share_recent": 0.01101,
+  "share_prev": 0.00519,
+  "growth": 2.124,
+  "eligible": true
+ },
+ {
+  "id": "distribution-shift",
+  "name": "distribution shift",
+  "count_recent": 112,
+  "count_prev": 24,
+  "share_recent": 0.03163,
+  "share_prev": 0.01778,
+  "growth": 1.779,
+  "eligible": true
+ },
+ {
+  "id": "rlbench",
+  "name": "RLBench",
+  "count_recent": 19,
+  "count_prev": 3,
+  "share_recent": 0.00537,
+  "share_prev": 0.00222,
+  "growth": 2.415,
+  "eligible": true
+ },
+ {
+  "id": "interpretability",
+  "name": "interpretability",
+  "count_recent": 33,
+  "count_prev": 6,
+  "share_recent": 0.00932,
+  "share_prev": 0.00444,
+  "growth": 2.097,
+  "eligible": true
+ },
+ {
+  "id": "zero-shot-generalization",
+  "name": "zero-shot generalization",
+  "count_recent": 33,
+  "count_prev": 6,
+  "share_recent": 0.00932,
+  "share_prev": 0.00444,
+  "growth": 2.097,
+  "eligible": true
+ },
+ {
+  "id": "catastrophic-forgetting",
+  "name": "catastrophic forgetting",
+  "count_recent": 23,
+  "count_prev": 4,
+  "share_recent": 0.0065,
+  "share_prev": 0.00296,
+  "growth": 2.192,
+  "eligible": true
+ },
+ {
+  "id": "embodied-agents",
+  "name": "embodied agents",
+  "count_recent": 23,
+  "count_prev": 4,
+  "share_recent": 0.0065,
+  "share_prev": 0.00296,
+  "growth": 2.192,
+  "eligible": true
+ },
+ {
+  "id": "policy-distillation",
+  "name": "policy distillation",
+  "count_recent": 23,
+  "count_prev": 4,
+  "share_recent": 0.0065,
+  "share_prev": 0.00296,
+  "growth": 2.192,
+  "eligible": true
+ },
+ {
+  "id": "proximal-policy-optimization",
+  "name": "proximal policy optimization",
+  "count_recent": 126,
+  "count_prev": 29,
+  "share_recent": 0.03558,
+  "share_prev": 0.02148,
+  "growth": 1.656,
+  "eligible": true
+ },
+ {
+  "id": "inverse-kinematics",
+  "name": "inverse kinematics",
+  "count_recent": 18,
+  "count_prev": 3,
+  "share_recent": 0.00508,
+  "share_prev": 0.00222,
+  "growth": 2.287,
+  "eligible": true
+ },
+ {
+  "id": "fine-tuning",
+  "name": "fine-tuning",
+  "count_recent": 36,
+  "count_prev": 7,
+  "share_recent": 0.01017,
+  "share_prev": 0.00519,
+  "growth": 1.961,
+  "eligible": true
+ },
+ {
+  "id": "manipulation-tasks",
+  "name": "manipulation tasks",
+  "count_recent": 22,
+  "count_prev": 4,
+  "share_recent": 0.00621,
+  "share_prev": 0.00296,
+  "growth": 2.097,
+  "eligible": true
+ },
+ {
+  "id": "dual-arm-robot",
+  "name": "dual-arm robot",
+  "count_recent": 35,
+  "count_prev": 7,
+  "share_recent": 0.00988,
+  "share_prev": 0.00519,
+  "growth": 1.906,
+  "eligible": true
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 87,
+  "count_prev": 20,
+  "share_recent": 0.02457,
+  "share_prev": 0.01481,
+  "growth": 1.658,
+  "eligible": true
+ },
+ {
+  "id": "daggers",
+  "name": "daggers",
+  "count_recent": 47,
+  "count_prev": 10,
+  "share_recent": 0.01327,
+  "share_prev": 0.00741,
+  "growth": 1.792,
+  "eligible": true
+ },
+ {
+  "id": "behavioral-cloning",
+  "name": "behavior cloning",
+  "count_recent": 703,
+  "count_prev": 196,
+  "share_recent": 0.19853,
+  "share_prev": 0.14519,
+  "growth": 1.367,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-environments",
+  "name": "dynamic environments",
+  "count_recent": 16,
+  "count_prev": 3,
+  "share_recent": 0.00452,
+  "share_prev": 0.00222,
+  "growth": 2.033,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-time-warping",
+  "name": "dynamic time warping",
+  "count_recent": 16,
+  "count_prev": 3,
+  "share_recent": 0.00452,
+  "share_prev": 0.00222,
+  "growth": 2.033,
+  "eligible": true
+ },
+ {
+  "id": "monte-carlo-tree-search",
+  "name": "Monte Carlo tree search",
+  "count_recent": 16,
+  "count_prev": 3,
+  "share_recent": 0.00452,
+  "share_prev": 0.00222,
+  "growth": 2.033,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-prediction",
+  "name": "trajectory prediction",
+  "count_recent": 27,
+  "count_prev": 6,
+  "share_recent": 0.00762,
+  "share_prev": 0.00444,
+  "growth": 1.716,
+  "eligible": true
+ },
+ {
+  "id": "credit-assignment",
+  "name": "credit assignment",
+  "count_recent": 15,
+  "count_prev": 3,
+  "share_recent": 0.00424,
+  "share_prev": 0.00222,
+  "growth": 1.906,
+  "eligible": true
+ },
+ {
+  "id": "sensor-fusion",
+  "name": "sensor fusion",
+  "count_recent": 15,
+  "count_prev": 3,
+  "share_recent": 0.00424,
+  "share_prev": 0.00222,
+  "growth": 1.906,
+  "eligible": true
+ },
+ {
+  "id": "visuomotor-control",
+  "name": "visuomotor control",
+  "count_recent": 22,
+  "count_prev": 5,
+  "share_recent": 0.00621,
+  "share_prev": 0.0037,
+  "growth": 1.677,
+  "eligible": true
+ },
+ {
+  "id": "contrastive-learning",
+  "name": "contrastive learning",
+  "count_recent": 32,
+  "count_prev": 8,
+  "share_recent": 0.00904,
+  "share_prev": 0.00593,
+  "growth": 1.525,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 39,
+  "count_prev": 10,
+  "share_recent": 0.01101,
+  "share_prev": 0.00741,
+  "growth": 1.487,
+  "eligible": true
+ },
+ {
+  "id": "d4rl",
+  "name": "D4RL",
+  "count_recent": 17,
+  "count_prev": 4,
+  "share_recent": 0.0048,
+  "share_prev": 0.00296,
+  "growth": 1.62,
+  "eligible": true
+ },
+ {
+  "id": "long-horizon-tasks",
+  "name": "long-horizon tasks",
+  "count_recent": 38,
+  "count_prev": 10,
+  "share_recent": 0.01073,
+  "share_prev": 0.00741,
+  "growth": 1.449,
+  "eligible": true
+ },
+ {
+  "id": "robot-imitation-learning",
+  "name": "robot imitation learning",
+  "count_recent": 38,
+  "count_prev": 10,
+  "share_recent": 0.01073,
+  "share_prev": 0.00741,
+  "growth": 1.449,
+  "eligible": true
+ },
+ {
+  "id": "attention-mechanism",
+  "name": "attention mechanism",
+  "count_recent": 24,
+  "count_prev": 6,
+  "share_recent": 0.00678,
+  "share_prev": 0.00444,
+  "growth": 1.525,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 16,
+  "count_prev": 4,
+  "share_recent": 0.00452,
+  "share_prev": 0.00296,
+  "growth": 1.525,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-planning",
+  "name": "trajectory planning",
+  "count_recent": 46,
+  "count_prev": 13,
+  "share_recent": 0.01299,
+  "share_prev": 0.00963,
+  "growth": 1.349,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-navigation",
+  "name": "autonomous navigation",
+  "count_recent": 29,
+  "count_prev": 8,
+  "share_recent": 0.00819,
+  "share_prev": 0.00593,
+  "growth": 1.382,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-underwater-vehicles",
+  "name": "autonomous underwater vehicles",
+  "count_recent": 15,
+  "count_prev": 4,
+  "share_recent": 0.00424,
+  "share_prev": 0.00296,
+  "growth": 1.43,
+  "eligible": true
+ },
+ {
+  "id": "lstm",
+  "name": "LSTM",
+  "count_recent": 15,
+  "count_prev": 4,
+  "share_recent": 0.00424,
+  "share_prev": 0.00296,
+  "growth": 1.43,
+  "eligible": true
+ },
+ {
+  "id": "policy-robustness",
+  "name": "policy robustness",
+  "count_recent": 15,
+  "count_prev": 4,
+  "share_recent": 0.00424,
+  "share_prev": 0.00296,
+  "growth": 1.43,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-generation",
+  "name": "trajectory generation",
+  "count_recent": 60,
+  "count_prev": 18,
+  "share_recent": 0.01694,
+  "share_prev": 0.01333,
+  "growth": 1.271,
+  "eligible": true
+ },
+ {
+  "id": "domain-randomization",
+  "name": "domain randomization",
+  "count_recent": 31,
+  "count_prev": 9,
+  "share_recent": 0.00875,
+  "share_prev": 0.00667,
+  "growth": 1.313,
+  "eligible": true
+ },
+ {
+  "id": "teleoperation",
+  "name": "teleoperation",
+  "count_recent": 71,
+  "count_prev": 22,
+  "share_recent": 0.02005,
+  "share_prev": 0.0163,
+  "growth": 1.23,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 80,
+  "count_prev": 25,
+  "share_recent": 0.02259,
+  "share_prev": 0.01852,
+  "growth": 1.22,
+  "eligible": true
+ },
+ {
+  "id": "data-efficiency",
+  "name": "data efficiency",
+  "count_recent": 49,
+  "count_prev": 15,
+  "share_recent": 0.01384,
+  "share_prev": 0.01111,
+  "growth": 1.245,
+  "eligible": true
+ },
+ {
+  "id": "soft-actor-critic",
+  "name": "soft actor-critic",
+  "count_recent": 55,
+  "count_prev": 17,
+  "share_recent": 0.01553,
+  "share_prev": 0.01259,
+  "growth": 1.233,
+  "eligible": true
+ },
+ {
+  "id": "robot-learning",
+  "name": "robot learning",
+  "count_recent": 60,
+  "count_prev": 19,
+  "share_recent": 0.01694,
+  "share_prev": 0.01407,
+  "growth": 1.204,
+  "eligible": true
+ },
+ {
+  "id": "force-feedback",
+  "name": "force feedback",
+  "count_recent": 17,
+  "count_prev": 5,
+  "share_recent": 0.0048,
+  "share_prev": 0.0037,
+  "growth": 1.296,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 391,
+  "count_prev": 132,
+  "share_recent": 0.11042,
+  "share_prev": 0.09778,
+  "growth": 1.129,
+  "eligible": true
+ },
+ {
+  "id": "training-efficiency",
+  "name": "training efficiency",
+  "count_recent": 23,
+  "count_prev": 7,
+  "share_recent": 0.0065,
+  "share_prev": 0.00519,
+  "growth": 1.253,
+  "eligible": true
+ },
+ {
+  "id": "policy-generalization",
+  "name": "policy generalization",
+  "count_recent": 26,
+  "count_prev": 8,
+  "share_recent": 0.00734,
+  "share_prev": 0.00593,
+  "growth": 1.239,
+  "eligible": true
+ },
+ {
+  "id": "actor-critic",
+  "name": "actor-critic",
+  "count_recent": 31,
+  "count_prev": 10,
+  "share_recent": 0.00875,
+  "share_prev": 0.00741,
+  "growth": 1.182,
+  "eligible": true
+ },
+ {
+  "id": "robot-skill-learning",
+  "name": "robot skill learning",
+  "count_recent": 25,
+  "count_prev": 8,
+  "share_recent": 0.00706,
+  "share_prev": 0.00593,
+  "growth": 1.191,
+  "eligible": true
+ },
+ {
+  "id": "online-reinforcement-learning",
+  "name": "online reinforcement learning",
+  "count_recent": 19,
+  "count_prev": 6,
+  "share_recent": 0.00537,
+  "share_prev": 0.00444,
+  "growth": 1.207,
+  "eligible": true
+ },
+ {
+  "id": "q-learning",
+  "name": "Q-learning",
+  "count_recent": 19,
+  "count_prev": 6,
+  "share_recent": 0.00537,
+  "share_prev": 0.00444,
+  "growth": 1.207,
+  "eligible": true
+ },
+ {
+  "id": "pretraining",
+  "name": "pre-training",
+  "count_recent": 16,
+  "count_prev": 5,
+  "share_recent": 0.00452,
+  "share_prev": 0.0037,
+  "growth": 1.22,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-reinforcement-learning",
+  "name": "multi-agent reinforcement learning",
+  "count_recent": 63,
+  "count_prev": 21,
+  "share_recent": 0.01779,
+  "share_prev": 0.01556,
+  "growth": 1.144,
+  "eligible": true
+ },
+ {
+  "id": "benchmark",
+  "name": "benchmark",
+  "count_recent": 18,
+  "count_prev": 6,
+  "share_recent": 0.00508,
+  "share_prev": 0.00444,
+  "growth": 1.144,
+  "eligible": true
+ },
+ {
+  "id": "skill-transfer",
+  "name": "skill transfer",
+  "count_recent": 18,
+  "count_prev": 6,
+  "share_recent": 0.00508,
+  "share_prev": 0.00444,
+  "growth": 1.144,
+  "eligible": true
+ },
+ {
+  "id": "covariate-shift",
+  "name": "covariate shift",
+  "count_recent": 32,
+  "count_prev": 11,
+  "share_recent": 0.00904,
+  "share_prev": 0.00815,
+  "growth": 1.109,
+  "eligible": true
+ },
+ {
+  "id": "hierarchical-reinforcement-learning",
+  "name": "hierarchical reinforcement learning",
+  "count_recent": 31,
+  "count_prev": 11,
+  "share_recent": 0.00875,
+  "share_prev": 0.00815,
+  "growth": 1.074,
+  "eligible": true
+ },
+ {
+  "id": "deformable-object-manipulation",
+  "name": "deformable object manipulation",
+  "count_recent": 22,
+  "count_prev": 8,
+  "share_recent": 0.00621,
+  "share_prev": 0.00593,
+  "growth": 1.048,
+  "eligible": true
+ },
+ {
+  "id": "data-augmentation",
+  "name": "data augmentation",
+  "count_recent": 46,
+  "count_prev": 17,
+  "share_recent": 0.01299,
+  "share_prev": 0.01259,
+  "growth": 1.032,
+  "eligible": true
+ },
+ {
+  "id": "task-decomposition",
+  "name": "task decomposition",
+  "count_recent": 16,
+  "count_prev": 6,
+  "share_recent": 0.00452,
+  "share_prev": 0.00444,
+  "growth": 1.017,
+  "eligible": true
+ },
+ {
+  "id": "robotic-assembly",
+  "name": "robotic assembly",
+  "count_recent": 29,
+  "count_prev": 11,
+  "share_recent": 0.00819,
+  "share_prev": 0.00815,
+  "growth": 1.005,
+  "eligible": true
+ },
+ {
+  "id": "reward-function-learning",
+  "name": "reward function learning",
+  "count_recent": 21,
+  "count_prev": 8,
+  "share_recent": 0.00593,
+  "share_prev": 0.00593,
+  "growth": 1.001,
+  "eligible": true
+ },
+ {
+  "id": "dynamical-systems",
+  "name": "dynamical systems",
+  "count_recent": 15,
+  "count_prev": 6,
+  "share_recent": 0.00424,
+  "share_prev": 0.00444,
+  "growth": 0.953,
+  "eligible": true
+ },
+ {
+  "id": "franka-emika-panda",
+  "name": "Franka Emika Panda",
+  "count_recent": 15,
+  "count_prev": 6,
+  "share_recent": 0.00424,
+  "share_prev": 0.00444,
+  "growth": 0.953,
+  "eligible": true
+ },
+ {
+  "id": "model-free-reinforcement-learning",
+  "name": "model-free reinforcement learning",
+  "count_recent": 15,
+  "count_prev": 6,
+  "share_recent": 0.00424,
+  "share_prev": 0.00444,
+  "growth": 0.953,
+  "eligible": true
+ },
+ {
+  "id": "meta-learning",
+  "name": "meta-learning",
+  "count_recent": 20,
+  "count_prev": 8,
+  "share_recent": 0.00565,
+  "share_prev": 0.00593,
+  "growth": 0.953,
+  "eligible": true
+ },
+ {
+  "id": "human-in-the-loop-machine-learning",
+  "name": "human-in-the-loop learning",
+  "count_recent": 22,
+  "count_prev": 9,
+  "share_recent": 0.00621,
+  "share_prev": 0.00667,
+  "growth": 0.932,
+  "eligible": true
+ },
+ {
+  "id": "locomotion",
+  "name": "locomotion",
+  "count_recent": 17,
+  "count_prev": 7,
+  "share_recent": 0.0048,
+  "share_prev": 0.00519,
+  "growth": 0.926,
+  "eligible": true
+ },
+ {
+  "id": "graph-neural-networks",
+  "name": "graph neural networks",
+  "count_recent": 39,
+  "count_prev": 16,
+  "share_recent": 0.01101,
+  "share_prev": 0.01185,
+  "growth": 0.929,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 36,
+  "count_prev": 15,
+  "share_recent": 0.01017,
+  "share_prev": 0.01111,
+  "growth": 0.915,
+  "eligible": true
+ },
+ {
+  "id": "self-supervised-learning",
+  "name": "self-supervised learning",
+  "count_recent": 31,
+  "count_prev": 13,
+  "share_recent": 0.00875,
+  "share_prev": 0.00963,
+  "growth": 0.909,
+  "eligible": true
+ },
+ {
+  "id": "reward-function-design",
+  "name": "reward function design",
+  "count_recent": 70,
+  "count_prev": 29,
+  "share_recent": 0.01977,
+  "share_prev": 0.02148,
+  "growth": 0.92,
+  "eligible": true
+ },
+ {
+  "id": "mobile-robots",
+  "name": "mobile robots",
+  "count_recent": 21,
+  "count_prev": 9,
+  "share_recent": 0.00593,
+  "share_prev": 0.00667,
+  "growth": 0.89,
+  "eligible": true
+ },
+ {
+  "id": "generative-models",
+  "name": "generative models",
+  "count_recent": 16,
+  "count_prev": 7,
+  "share_recent": 0.00452,
+  "share_prev": 0.00519,
+  "growth": 0.871,
+  "eligible": true
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 18,
+  "count_prev": 8,
+  "share_recent": 0.00508,
+  "share_prev": 0.00593,
+  "growth": 0.858,
+  "eligible": true
+ },
+ {
+  "id": "robotic-grasping",
+  "name": "robotic grasping",
+  "count_recent": 25,
+  "count_prev": 11,
+  "share_recent": 0.00706,
+  "share_prev": 0.00815,
+  "growth": 0.866,
+  "eligible": true
+ },
+ {
+  "id": "gaussian-mixture-model",
+  "name": "Gaussian mixture model",
+  "count_recent": 22,
+  "count_prev": 10,
+  "share_recent": 0.00621,
+  "share_prev": 0.00741,
+  "growth": 0.839,
+  "eligible": true
+ },
+ {
+  "id": "safety-constraints",
+  "name": "safety constraints",
+  "count_recent": 15,
+  "count_prev": 7,
+  "share_recent": 0.00424,
+  "share_prev": 0.00519,
+  "growth": 0.817,
+  "eligible": true
+ },
+ {
+  "id": "mixed-integer-linear-programming",
+  "name": "mixed-integer linear programming",
+  "count_recent": 24,
+  "count_prev": 11,
+  "share_recent": 0.00678,
+  "share_prev": 0.00815,
+  "growth": 0.832,
+  "eligible": true
+ },
+ {
+  "id": "robot-navigation",
+  "name": "robot navigation",
+  "count_recent": 24,
+  "count_prev": 11,
+  "share_recent": 0.00678,
+  "share_prev": 0.00815,
+  "growth": 0.832,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 80,
+  "count_prev": 35,
+  "share_recent": 0.02259,
+  "share_prev": 0.02593,
+  "growth": 0.871,
+  "eligible": true
+ },
+ {
+  "id": "d4rl-benchmark",
+  "name": "D4RL benchmark",
+  "count_recent": 17,
+  "count_prev": 8,
+  "share_recent": 0.0048,
+  "share_prev": 0.00593,
+  "growth": 0.81,
+  "eligible": true
+ },
+ {
+  "id": "generalization",
+  "name": "generalization",
+  "count_recent": 49,
+  "count_prev": 22,
+  "share_recent": 0.01384,
+  "share_prev": 0.0163,
+  "growth": 0.849,
+  "eligible": true
+ },
+ {
+  "id": "offline-imitation-learning",
+  "name": "offline imitation learning",
+  "count_recent": 42,
+  "count_prev": 19,
+  "share_recent": 0.01186,
+  "share_prev": 0.01407,
+  "growth": 0.843,
+  "eligible": true
+ },
+ {
+  "id": "force-control",
+  "name": "force control",
+  "count_recent": 19,
+  "count_prev": 9,
+  "share_recent": 0.00537,
+  "share_prev": 0.00667,
+  "growth": 0.805,
+  "eligible": true
+ },
+ {
+  "id": "offline-reinforcement-learning",
+  "name": "offline reinforcement learning",
+  "count_recent": 146,
+  "count_prev": 64,
+  "share_recent": 0.04123,
+  "share_prev": 0.04741,
+  "growth": 0.87,
+  "eligible": true
+ },
+ {
+  "id": "visual-imitation-learning",
+  "name": "visual imitation learning",
+  "count_recent": 23,
+  "count_prev": 11,
+  "share_recent": 0.0065,
+  "share_prev": 0.00815,
+  "growth": 0.797,
+  "eligible": true
+ },
+ {
+  "id": "robot-manipulators",
+  "name": "robot manipulators",
+  "count_recent": 32,
+  "count_prev": 15,
+  "share_recent": 0.00904,
+  "share_prev": 0.01111,
+  "growth": 0.813,
+  "eligible": true
+ },
+ {
+  "id": "domain-adaptation",
+  "name": "domain adaptation",
+  "count_recent": 16,
+  "count_prev": 8,
+  "share_recent": 0.00452,
+  "share_prev": 0.00593,
+  "growth": 0.762,
+  "eligible": true
+ },
+ {
+  "id": "expert-trajectories",
+  "name": "expert trajectories",
+  "count_recent": 16,
+  "count_prev": 8,
+  "share_recent": 0.00452,
+  "share_prev": 0.00593,
+  "growth": 0.762,
+  "eligible": true
+ },
+ {
+  "id": "robustness-to-disturbances",
+  "name": "robustness to disturbances",
+  "count_recent": 16,
+  "count_prev": 8,
+  "share_recent": 0.00452,
+  "share_prev": 0.00593,
+  "growth": 0.762,
+  "eligible": true
+ },
+ {
+  "id": "multi-task-learning",
+  "name": "multi-task learning",
+  "count_recent": 36,
+  "count_prev": 17,
+  "share_recent": 0.01017,
+  "share_prev": 0.01259,
+  "growth": 0.807,
+  "eligible": true
+ },
+ {
+  "id": "deep-q-network",
+  "name": "deep Q-network",
+  "count_recent": 20,
+  "count_prev": 10,
+  "share_recent": 0.00565,
+  "share_prev": 0.00741,
+  "growth": 0.762,
+  "eligible": true
+ },
+ {
+  "id": "pick-and-place",
+  "name": "pick-and-place",
+  "count_recent": 44,
+  "count_prev": 21,
+  "share_recent": 0.01243,
+  "share_prev": 0.01556,
+  "growth": 0.799,
+  "eligible": true
+ },
+ {
+  "id": "visual-servoing",
+  "name": "visual servoing",
+  "count_recent": 24,
+  "count_prev": 12,
+  "share_recent": 0.00678,
+  "share_prev": 0.00889,
+  "growth": 0.762,
+  "eligible": true
+ },
+ {
+  "id": "e-learning",
+  "name": "online learning",
+  "count_recent": 15,
+  "count_prev": 8,
+  "share_recent": 0.00424,
+  "share_prev": 0.00593,
+  "growth": 0.715,
+  "eligible": true
+ },
+ {
+  "id": "robot-locomotion",
+  "name": "robot locomotion",
+  "count_recent": 17,
+  "count_prev": 9,
+  "share_recent": 0.0048,
+  "share_prev": 0.00667,
+  "growth": 0.72,
+  "eligible": true
+ },
+ {
+  "id": "partial-observability",
+  "name": "partial observability",
+  "count_recent": 19,
+  "count_prev": 10,
+  "share_recent": 0.00537,
+  "share_prev": 0.00741,
+  "growth": 0.724,
+  "eligible": true
+ },
+ {
+  "id": "branch-and-bound",
+  "name": "branch and bound",
+  "count_recent": 16,
+  "count_prev": 9,
+  "share_recent": 0.00452,
+  "share_prev": 0.00667,
+  "growth": 0.678,
+  "eligible": true
+ },
+ {
+  "id": "human-demonstrations",
+  "name": "human demonstrations",
+  "count_recent": 75,
+  "count_prev": 37,
+  "share_recent": 0.02118,
+  "share_prev": 0.02741,
+  "growth": 0.773,
+  "eligible": true
+ },
+ {
+  "id": "movement-primitives",
+  "name": "motion primitives",
+  "count_recent": 30,
+  "count_prev": 16,
+  "share_recent": 0.00847,
+  "share_prev": 0.01185,
+  "growth": 0.715,
+  "eligible": true
+ },
+ {
+  "id": "imitation-learning",
+  "name": "imitation learning",
+  "count_recent": 1969,
+  "count_prev": 883,
+  "share_recent": 0.55606,
+  "share_prev": 0.65407,
+  "growth": 0.85,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-optimization",
+  "name": "trajectory optimization",
+  "count_recent": 23,
+  "count_prev": 13,
+  "share_recent": 0.0065,
+  "share_prev": 0.00963,
+  "growth": 0.675,
+  "eligible": true
+ },
+ {
+  "id": "gaussian-mixture-regression",
+  "name": "Gaussian mixture regression",
+  "count_recent": 21,
+  "count_prev": 12,
+  "share_recent": 0.00593,
+  "share_prev": 0.00889,
+  "growth": 0.667,
+  "eligible": true
+ },
+ {
+  "id": "visual-navigation",
+  "name": "visual navigation",
+  "count_recent": 17,
+  "count_prev": 10,
+  "share_recent": 0.0048,
+  "share_prev": 0.00741,
+  "growth": 0.648,
+  "eligible": true
+ },
+ {
+  "id": "reward-shaping",
+  "name": "reward shaping",
+  "count_recent": 31,
+  "count_prev": 17,
+  "share_recent": 0.00875,
+  "share_prev": 0.01259,
+  "growth": 0.695,
+  "eligible": true
+ },
+ {
+  "id": "markov-decision-process",
+  "name": "Markov decision process",
+  "count_recent": 53,
+  "count_prev": 28,
+  "share_recent": 0.01497,
+  "share_prev": 0.02074,
+  "growth": 0.722,
+  "eligible": true
+ },
+ {
+  "id": "variable-impedance-control",
+  "name": "variable impedance control",
+  "count_recent": 16,
+  "count_prev": 10,
+  "share_recent": 0.00452,
+  "share_prev": 0.00741,
+  "growth": 0.61,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 195,
+  "count_prev": 98,
+  "share_recent": 0.05507,
+  "share_prev": 0.07259,
+  "growth": 0.759,
+  "eligible": true
+ },
+ {
+  "id": "self-imitation-learning",
+  "name": "self-imitation learning",
+  "count_recent": 23,
+  "count_prev": 14,
+  "share_recent": 0.0065,
+  "share_prev": 0.01037,
+  "growth": 0.626,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 60,
+  "count_prev": 33,
+  "share_recent": 0.01694,
+  "share_prev": 0.02444,
+  "growth": 0.693,
+  "eligible": true
+ },
+ {
+  "id": "robot-control",
+  "name": "robot control",
+  "count_recent": 50,
+  "count_prev": 28,
+  "share_recent": 0.01412,
+  "share_prev": 0.02074,
+  "growth": 0.681,
+  "eligible": true
+ },
+ {
+  "id": "curriculum-learning",
+  "name": "curriculum learning",
+  "count_recent": 42,
+  "count_prev": 24,
+  "share_recent": 0.01186,
+  "share_prev": 0.01778,
+  "growth": 0.667,
+  "eligible": true
+ },
+ {
+  "id": "sample-efficiency",
+  "name": "sample efficiency",
+  "count_recent": 144,
+  "count_prev": 75,
+  "share_recent": 0.04067,
+  "share_prev": 0.05556,
+  "growth": 0.732,
+  "eligible": true
+ },
+ {
+  "id": "sparse-rewards",
+  "name": "sparse rewards",
+  "count_recent": 65,
+  "count_prev": 36,
+  "share_recent": 0.01836,
+  "share_prev": 0.02667,
+  "growth": 0.688,
+  "eligible": true
+ },
+ {
+  "id": "end-to-end-learning",
+  "name": "end-to-end learning",
+  "count_recent": 22,
+  "count_prev": 14,
+  "share_recent": 0.00621,
+  "share_prev": 0.01037,
+  "growth": 0.599,
+  "eligible": true
+ },
+ {
+  "id": "sample-complexity",
+  "name": "sample complexity",
+  "count_recent": 22,
+  "count_prev": 14,
+  "share_recent": 0.00621,
+  "share_prev": 0.01037,
+  "growth": 0.599,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 187,
+  "count_prev": 97,
+  "share_recent": 0.05281,
+  "share_prev": 0.07185,
+  "growth": 0.735,
+  "eligible": true
+ },
+ {
+  "id": "carla-simulator",
+  "name": "CARLA simulator",
+  "count_recent": 33,
+  "count_prev": 20,
+  "share_recent": 0.00932,
+  "share_prev": 0.01481,
+  "growth": 0.629,
+  "eligible": true
+ },
+ {
+  "id": "generative-adversarial-imitation-learning",
+  "name": "generative adversarial imitation learning",
+  "count_recent": 142,
+  "count_prev": 76,
+  "share_recent": 0.0401,
+  "share_prev": 0.0563,
+  "growth": 0.712,
+  "eligible": true
+ },
+ {
+  "id": "policy-learning",
+  "name": "policy learning",
+  "count_recent": 24,
+  "count_prev": 16,
+  "share_recent": 0.00678,
+  "share_prev": 0.01185,
+  "growth": 0.572,
+  "eligible": true
+ },
+ {
+  "id": "model-based-reinforcement-learning",
+  "name": "model-based reinforcement learning",
+  "count_recent": 18,
+  "count_prev": 13,
+  "share_recent": 0.00508,
+  "share_prev": 0.00963,
+  "growth": 0.528,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-movement-primitives",
+  "name": "dynamic movement primitives",
+  "count_recent": 43,
+  "count_prev": 28,
+  "share_recent": 0.01214,
+  "share_prev": 0.02074,
+  "growth": 0.585,
+  "eligible": true
+ },
+ {
+  "id": "transfer-learning",
+  "name": "transfer learning",
+  "count_recent": 34,
+  "count_prev": 23,
+  "share_recent": 0.0096,
+  "share_prev": 0.01704,
+  "growth": 0.564,
+  "eligible": true
+ },
+ {
+  "id": "motion-planning",
+  "name": "motion planning",
+  "count_recent": 37,
+  "count_prev": 25,
+  "share_recent": 0.01045,
+  "share_prev": 0.01852,
+  "growth": 0.564,
+  "eligible": true
+ },
+ {
+  "id": "industrial-robots",
+  "name": "industrial robots",
+  "count_recent": 18,
+  "count_prev": 14,
+  "share_recent": 0.00508,
+  "share_prev": 0.01037,
+  "growth": 0.49,
+  "eligible": true
+ },
+ {
+  "id": "mujoco",
+  "name": "MuJoCo",
+  "count_recent": 23,
+  "count_prev": 18,
+  "share_recent": 0.0065,
+  "share_prev": 0.01333,
+  "growth": 0.487,
+  "eligible": true
+ },
+ {
+  "id": "human-robot-interaction",
+  "name": "human-robot interaction",
+  "count_recent": 147,
+  "count_prev": 91,
+  "share_recent": 0.04151,
+  "share_prev": 0.06741,
+  "growth": 0.616,
+  "eligible": true
+ },
+ {
+  "id": "continuous-control",
+  "name": "continuous control",
+  "count_recent": 46,
+  "count_prev": 33,
+  "share_recent": 0.01299,
+  "share_prev": 0.02444,
+  "growth": 0.531,
+  "eligible": true
+ },
+ {
+  "id": "expert-demonstrations",
+  "name": "expert demonstrations",
+  "count_recent": 95,
+  "count_prev": 62,
+  "share_recent": 0.02683,
+  "share_prev": 0.04593,
+  "growth": 0.584,
+  "eligible": true
+ },
+ {
+  "id": "ddpg",
+  "name": "deep deterministic policy gradient",
+  "count_recent": 24,
+  "count_prev": 20,
+  "share_recent": 0.00678,
+  "share_prev": 0.01481,
+  "growth": 0.457,
+  "eligible": true
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 15,
+  "count_prev": 15,
+  "share_recent": 0.00424,
+  "share_prev": 0.01111,
+  "growth": 0.381,
+  "eligible": true
+ },
+ {
+  "id": "adversarial-imitation-learning",
+  "name": "adversarial imitation learning",
+  "count_recent": 41,
+  "count_prev": 33,
+  "share_recent": 0.01158,
+  "share_prev": 0.02444,
+  "growth": 0.474,
+  "eligible": true
+ },
+ {
+  "id": "collaborative-robots",
+  "name": "collaborative robots",
+  "count_recent": 15,
+  "count_prev": 16,
+  "share_recent": 0.00424,
+  "share_prev": 0.01185,
+  "growth": 0.357,
+  "eligible": true
+ },
+ {
+  "id": "robot-learning-from-demonstration",
+  "name": "robot learning from demonstration",
+  "count_recent": 19,
+  "count_prev": 19,
+  "share_recent": 0.00537,
+  "share_prev": 0.01407,
+  "growth": 0.381,
+  "eligible": true
+ },
+ {
+  "id": "sequential-decision-making",
+  "name": "sequential decision making",
+  "count_recent": 20,
+  "count_prev": 20,
+  "share_recent": 0.00565,
+  "share_prev": 0.01481,
+  "growth": 0.381,
+  "eligible": true
+ },
+ {
+  "id": "inverse-reinforcement-learning",
+  "name": "inverse reinforcement learning",
+  "count_recent": 76,
+  "count_prev": 59,
+  "share_recent": 0.02146,
+  "share_prev": 0.0437,
+  "growth": 0.491,
+  "eligible": true
+ },
+ {
+  "id": "human-robot-collaboration",
+  "name": "human-robot collaboration",
+  "count_recent": 31,
+  "count_prev": 32,
+  "share_recent": 0.00875,
+  "share_prev": 0.0237,
+  "growth": 0.369,
+  "eligible": true
+ },
+ {
+  "id": "aerial-robots",
+  "name": "autonomous drones",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00395,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "benchmarking",
+  "name": "benchmarking",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00395,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "cluttered-environments",
+  "name": "cluttered environments",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00395,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "compounding-errors",
+  "name": "compounding errors",
+  "count_recent": 14,
+  "count_prev": 11,
+  "share_recent": 0.00395,
+  "share_prev": 0.00815,
+  "growth": 0.485,
+  "eligible": false
+ },
+ {
+  "id": "data-efficient-learning",
+  "name": "data-efficient learning",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00395,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

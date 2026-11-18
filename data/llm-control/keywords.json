@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 533,
+  "count_prev": 2,
+  "share_recent": 0.04868,
+  "share_prev": 0.00414,
+  "growth": 11.756,
+  "eligible": true
+ },
+ {
+  "id": "automation-bias",
+  "name": "automation bias",
+  "count_recent": 251,
+  "count_prev": 1,
+  "share_recent": 0.02292,
+  "share_prev": 0.00207,
+  "growth": 11.073,
+  "eligible": true
+ },
+ {
+  "id": "anomaly-detection",
+  "name": "anomaly detection",
+  "count_recent": 141,
+  "count_prev": 1,
+  "share_recent": 0.01288,
+  "share_prev": 0.00207,
+  "growth": 6.22,
+  "eligible": true
+ },
+ {
+  "id": "gpt-4o",
+  "name": "GPT-4o",
+  "count_recent": 129,
+  "count_prev": 1,
+  "share_recent": 0.01178,
+  "share_prev": 0.00207,
+  "growth": 5.691,
+  "eligible": true
+ },
+ {
+  "id": "llm-based-agents",
+  "name": "LLM agents",
+  "count_recent": 499,
+  "count_prev": 6,
+  "share_recent": 0.04557,
+  "share_prev": 0.01242,
+  "growth": 3.669,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 206,
+  "count_prev": 2,
+  "share_recent": 0.01881,
+  "share_prev": 0.00414,
+  "growth": 4.544,
+  "eligible": true
+ },
+ {
+  "id": "agentic-ai",
+  "name": "agentic AI",
+  "count_recent": 341,
+  "count_prev": 4,
+  "share_recent": 0.03114,
+  "share_prev": 0.00828,
+  "growth": 3.761,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-agents",
+  "name": "autonomous agents",
+  "count_recent": 104,
+  "count_prev": 1,
+  "share_recent": 0.0095,
+  "share_prev": 0.00207,
+  "growth": 4.588,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-action-models",
+  "name": "vision-language-action models",
+  "count_recent": 322,
+  "count_prev": 0,
+  "share_recent": 0.02941,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "electronic-design-automation",
+  "name": "electronic design automation",
+  "count_recent": 88,
+  "count_prev": 1,
+  "share_recent": 0.00804,
+  "share_prev": 0.00207,
+  "growth": 3.882,
+  "eligible": true
+ },
+ {
+  "id": "edge-computing",
+  "name": "edge computing",
+  "count_recent": 87,
+  "count_prev": 1,
+  "share_recent": 0.00795,
+  "share_prev": 0.00207,
+  "growth": 3.838,
+  "eligible": true
+ },
+ {
+  "id": "vision-language-models",
+  "name": "vision-language models",
+  "count_recent": 1298,
+  "count_prev": 25,
+  "share_recent": 0.11855,
+  "share_prev": 0.05176,
+  "growth": 2.29,
+  "eligible": true
+ },
+ {
+  "id": "retrieval-augmented-generation",
+  "name": "retrieval-augmented generation",
+  "count_recent": 625,
+  "count_prev": 11,
+  "share_recent": 0.05708,
+  "share_prev": 0.02277,
+  "growth": 2.506,
+  "eligible": true
+ },
+ {
+  "id": "model-context-protocol",
+  "name": "Model Context Protocol",
+  "count_recent": 121,
+  "count_prev": 0,
+  "share_recent": 0.01105,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "decision-support",
+  "name": "decision support",
+  "count_recent": 76,
+  "count_prev": 1,
+  "share_recent": 0.00694,
+  "share_prev": 0.00207,
+  "growth": 3.353,
+  "eligible": true
+ },
+ {
+  "id": "ai-literacy",
+  "name": "AI literacy",
+  "count_recent": 74,
+  "count_prev": 1,
+  "share_recent": 0.00676,
+  "share_prev": 0.00207,
+  "growth": 3.264,
+  "eligible": true
+ },
+ {
+  "id": "benchmarking",
+  "name": "benchmarking",
+  "count_recent": 99,
+  "count_prev": 0,
+  "share_recent": 0.00904,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "small-language-models",
+  "name": "small language models",
+  "count_recent": 91,
+  "count_prev": 0,
+  "share_recent": 0.00831,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "world-models",
+  "name": "world models",
+  "count_recent": 80,
+  "count_prev": 0,
+  "share_recent": 0.00731,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "tool-use",
+  "name": "tool use",
+  "count_recent": 78,
+  "count_prev": 0,
+  "share_recent": 0.00712,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "imitation-learning",
+  "name": "imitation learning",
+  "count_recent": 69,
+  "count_prev": 1,
+  "share_recent": 0.0063,
+  "share_prev": 0.00207,
+  "growth": 3.044,
+  "eligible": true
+ },
+ {
+  "id": "multimodal-fusion",
+  "name": "multimodal fusion",
+  "count_recent": 73,
+  "count_prev": 0,
+  "share_recent": 0.00667,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "low-rank-adaptation",
+  "name": "low-rank adaptation",
+  "count_recent": 72,
+  "count_prev": 0,
+  "share_recent": 0.00658,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "accountability",
+  "name": "accountability",
+  "count_recent": 71,
+  "count_prev": 0,
+  "share_recent": 0.00648,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "industrial-automation",
+  "name": "industrial automation",
+  "count_recent": 71,
+  "count_prev": 0,
+  "share_recent": 0.00648,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "robot-safety",
+  "name": "robot safety",
+  "count_recent": 69,
+  "count_prev": 0,
+  "share_recent": 0.0063,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "task-allocation",
+  "name": "task allocation",
+  "count_recent": 67,
+  "count_prev": 0,
+  "share_recent": 0.00612,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "edge-deployment",
+  "name": "edge deployment",
+  "count_recent": 66,
+  "count_prev": 0,
+  "share_recent": 0.00603,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "trustworthy-ai",
+  "name": "trustworthy AI",
+  "count_recent": 66,
+  "count_prev": 0,
+  "share_recent": 0.00603,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "optical-character-recognition",
+  "name": "optical character recognition",
+  "count_recent": 64,
+  "count_prev": 0,
+  "share_recent": 0.00585,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "responsible-ai",
+  "name": "responsible AI",
+  "count_recent": 64,
+  "count_prev": 0,
+  "share_recent": 0.00585,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "cybersecurity",
+  "name": "cybersecurity",
+  "count_recent": 67,
+  "count_prev": 1,
+  "share_recent": 0.00612,
+  "share_prev": 0.00207,
+  "growth": 2.956,
+  "eligible": true
+ },
+ {
+  "id": "eu-ai-act",
+  "name": "EU AI Act",
+  "count_recent": 63,
+  "count_prev": 0,
+  "share_recent": 0.00575,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "agent-cooperation",
+  "name": "agent cooperation",
+  "count_recent": 59,
+  "count_prev": 0,
+  "share_recent": 0.00539,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "natural-language-interfaces",
+  "name": "natural language interfaces",
+  "count_recent": 58,
+  "count_prev": 0,
+  "share_recent": 0.0053,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "test-case-generation",
+  "name": "test case generation",
+  "count_recent": 58,
+  "count_prev": 0,
+  "share_recent": 0.0053,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "llm-as-a-judge",
+  "name": "LLM-as-a-judge",
+  "count_recent": 56,
+  "count_prev": 0,
+  "share_recent": 0.00511,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "older-adults",
+  "name": "older adults",
+  "count_recent": 54,
+  "count_prev": 0,
+  "share_recent": 0.00493,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "robotic-surgery",
+  "name": "robotic surgery",
+  "count_recent": 52,
+  "count_prev": 0,
+  "share_recent": 0.00475,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "smart-manufacturing",
+  "name": "smart manufacturing",
+  "count_recent": 51,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "internet-of-things",
+  "name": "Internet of Things",
+  "count_recent": 64,
+  "count_prev": 1,
+  "share_recent": 0.00585,
+  "share_prev": 0.00207,
+  "growth": 2.823,
+  "eligible": true
+ },
+ {
+  "id": "knowledge-distillation",
+  "name": "knowledge distillation",
+  "count_recent": 49,
+  "count_prev": 0,
+  "share_recent": 0.00448,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "evidence-synthesis",
+  "name": "evidence synthesis",
+  "count_recent": 48,
+  "count_prev": 0,
+  "share_recent": 0.00438,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "parameter-efficient-fine-tuning",
+  "name": "parameter-efficient fine-tuning",
+  "count_recent": 48,
+  "count_prev": 0,
+  "share_recent": 0.00438,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "collaborative-robots",
+  "name": "collaborative robots",
+  "count_recent": 47,
+  "count_prev": 0,
+  "share_recent": 0.00429,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "edge-intelligence",
+  "name": "edge AI",
+  "count_recent": 47,
+  "count_prev": 0,
+  "share_recent": 0.00429,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "root-cause-analysis",
+  "name": "root cause analysis",
+  "count_recent": 47,
+  "count_prev": 0,
+  "share_recent": 0.00429,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "industrial-control-systems",
+  "name": "industrial control systems",
+  "count_recent": 63,
+  "count_prev": 1,
+  "share_recent": 0.00575,
+  "share_prev": 0.00207,
+  "growth": 2.779,
+  "eligible": true
+ },
+ {
+  "id": "robot-manipulators",
+  "name": "robot manipulators",
+  "count_recent": 45,
+  "count_prev": 0,
+  "share_recent": 0.00411,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "continual-learning",
+  "name": "continual learning",
+  "count_recent": 44,
+  "count_prev": 0,
+  "share_recent": 0.00402,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "adversarial-attacks",
+  "name": "adversarial attacks",
+  "count_recent": 43,
+  "count_prev": 0,
+  "share_recent": 0.00393,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "agentic-systems",
+  "name": "agentic systems",
+  "count_recent": 43,
+  "count_prev": 0,
+  "share_recent": 0.00393,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-decision-making",
+  "name": "autonomous decision-making",
+  "count_recent": 43,
+  "count_prev": 0,
+  "share_recent": 0.00393,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "design-automation",
+  "name": "design automation",
+  "count_recent": 43,
+  "count_prev": 0,
+  "share_recent": 0.00393,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "feedback-control",
+  "name": "feedback control",
+  "count_recent": 43,
+  "count_prev": 0,
+  "share_recent": 0.00393,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "benchmark",
+  "name": "benchmark",
+  "count_recent": 106,
+  "count_prev": 2,
+  "share_recent": 0.00968,
+  "share_prev": 0.00414,
+  "growth": 2.338,
+  "eligible": true
+ },
+ {
+  "id": "multimodal-large-language-models",
+  "name": "multimodal large language models",
+  "count_recent": 271,
+  "count_prev": 6,
+  "share_recent": 0.02475,
+  "share_prev": 0.01242,
+  "growth": 1.992,
+  "eligible": true
+ },
+ {
+  "id": "formal-verification",
+  "name": "formal verification",
+  "count_recent": 58,
+  "count_prev": 1,
+  "share_recent": 0.0053,
+  "share_prev": 0.00207,
+  "growth": 2.559,
+  "eligible": true
+ },
+ {
+  "id": "prompt-injection",
+  "name": "prompt injection",
+  "count_recent": 101,
+  "count_prev": 2,
+  "share_recent": 0.00922,
+  "share_prev": 0.00414,
+  "growth": 2.228,
+  "eligible": true
+ },
+ {
+  "id": "domestic-robots",
+  "name": "home robots",
+  "count_recent": 56,
+  "count_prev": 1,
+  "share_recent": 0.00511,
+  "share_prev": 0.00207,
+  "growth": 2.47,
+  "eligible": true
+ },
+ {
+  "id": "interpretability",
+  "name": "interpretability",
+  "count_recent": 142,
+  "count_prev": 3,
+  "share_recent": 0.01297,
+  "share_prev": 0.00621,
+  "growth": 2.088,
+  "eligible": true
+ },
+ {
+  "id": "hallucinations",
+  "name": "hallucinations",
+  "count_recent": 260,
+  "count_prev": 6,
+  "share_recent": 0.02375,
+  "share_prev": 0.01242,
+  "growth": 1.912,
+  "eligible": true
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 55,
+  "count_prev": 1,
+  "share_recent": 0.00502,
+  "share_prev": 0.00207,
+  "growth": 2.426,
+  "eligible": true
+ },
+ {
+  "id": "embodied-agents",
+  "name": "embodied agents",
+  "count_recent": 136,
+  "count_prev": 3,
+  "share_recent": 0.01242,
+  "share_prev": 0.00621,
+  "growth": 2.0,
+  "eligible": true
+ },
+ {
+  "id": "ai-hallucination",
+  "name": "AI hallucination",
+  "count_recent": 53,
+  "count_prev": 1,
+  "share_recent": 0.00484,
+  "share_prev": 0.00207,
+  "growth": 2.338,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems",
+  "name": "cyber-physical systems",
+  "count_recent": 52,
+  "count_prev": 1,
+  "share_recent": 0.00475,
+  "share_prev": 0.00207,
+  "growth": 2.294,
+  "eligible": true
+ },
+ {
+  "id": "llm-hallucination",
+  "name": "LLM hallucination",
+  "count_recent": 52,
+  "count_prev": 1,
+  "share_recent": 0.00475,
+  "share_prev": 0.00207,
+  "growth": 2.294,
+  "eligible": true
+ },
+ {
+  "id": "ai-governance",
+  "name": "AI governance",
+  "count_recent": 388,
+  "count_prev": 10,
+  "share_recent": 0.03544,
+  "share_prev": 0.0207,
+  "growth": 1.712,
+  "eligible": true
+ },
+ {
+  "id": "chain-of-thought-reasoning",
+  "name": "chain-of-thought reasoning",
+  "count_recent": 51,
+  "count_prev": 1,
+  "share_recent": 0.00466,
+  "share_prev": 0.00207,
+  "growth": 2.25,
+  "eligible": true
+ },
+ {
+  "id": "hallucination-mitigation",
+  "name": "hallucination mitigation",
+  "count_recent": 164,
+  "count_prev": 4,
+  "share_recent": 0.01498,
+  "share_prev": 0.00828,
+  "growth": 1.809,
+  "eligible": true
+ },
+ {
+  "id": "workflow-automation",
+  "name": "workflow automation",
+  "count_recent": 124,
+  "count_prev": 3,
+  "share_recent": 0.01133,
+  "share_prev": 0.00621,
+  "growth": 1.823,
+  "eligible": true
+ },
+ {
+  "id": "langchain",
+  "name": "LangChain",
+  "count_recent": 47,
+  "count_prev": 1,
+  "share_recent": 0.00429,
+  "share_prev": 0.00207,
+  "growth": 2.073,
+  "eligible": true
+ },
+ {
+  "id": "reproducibility",
+  "name": "reproducibility",
+  "count_recent": 120,
+  "count_prev": 3,
+  "share_recent": 0.01096,
+  "share_prev": 0.00621,
+  "growth": 1.765,
+  "eligible": true
+ },
+ {
+  "id": "benchmark-dataset",
+  "name": "benchmark dataset",
+  "count_recent": 46,
+  "count_prev": 1,
+  "share_recent": 0.0042,
+  "share_prev": 0.00207,
+  "growth": 2.029,
+  "eligible": true
+ },
+ {
+  "id": "path-planning",
+  "name": "path planning",
+  "count_recent": 45,
+  "count_prev": 1,
+  "share_recent": 0.00411,
+  "share_prev": 0.00207,
+  "growth": 1.985,
+  "eligible": true
+ },
+ {
+  "id": "human-ai-collaboration",
+  "name": "human-AI collaboration",
+  "count_recent": 286,
+  "count_prev": 8,
+  "share_recent": 0.02612,
+  "share_prev": 0.01656,
+  "growth": 1.577,
+  "eligible": true
+ },
+ {
+  "id": "embodied-ai",
+  "name": "embodied AI",
+  "count_recent": 285,
+  "count_prev": 8,
+  "share_recent": 0.02603,
+  "share_prev": 0.01656,
+  "growth": 1.572,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence-adoption",
+  "name": "artificial intelligence adoption",
+  "count_recent": 44,
+  "count_prev": 1,
+  "share_recent": 0.00402,
+  "share_prev": 0.00207,
+  "growth": 1.941,
+  "eligible": true
+ },
+ {
+  "id": "behavior-trees",
+  "name": "behavior trees",
+  "count_recent": 44,
+  "count_prev": 1,
+  "share_recent": 0.00402,
+  "share_prev": 0.00207,
+  "growth": 1.941,
+  "eligible": true
+ },
+ {
+  "id": "large-vision-language-models",
+  "name": "large vision-language models",
+  "count_recent": 44,
+  "count_prev": 1,
+  "share_recent": 0.00402,
+  "share_prev": 0.00207,
+  "growth": 1.941,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 43,
+  "count_prev": 1,
+  "share_recent": 0.00393,
+  "share_prev": 0.00207,
+  "growth": 1.897,
+  "eligible": true
+ },
+ {
+  "id": "diffusion-models",
+  "name": "diffusion models",
+  "count_recent": 77,
+  "count_prev": 2,
+  "share_recent": 0.00703,
+  "share_prev": 0.00414,
+  "growth": 1.698,
+  "eligible": true
+ },
+ {
+  "id": "human-in-the-loop",
+  "name": "human-in-the-loop",
+  "count_recent": 174,
+  "count_prev": 5,
+  "share_recent": 0.01589,
+  "share_prev": 0.01035,
+  "growth": 1.535,
+  "eligible": true
+ },
+ {
+  "id": "human-oversight",
+  "name": "human oversight",
+  "count_recent": 205,
+  "count_prev": 6,
+  "share_recent": 0.01872,
+  "share_prev": 0.01242,
+  "growth": 1.507,
+  "eligible": true
+ },
+ {
+  "id": "privacy",
+  "name": "privacy",
+  "count_recent": 75,
+  "count_prev": 2,
+  "share_recent": 0.00685,
+  "share_prev": 0.00414,
+  "growth": 1.654,
+  "eligible": true
+ },
+ {
+  "id": "auditability",
+  "name": "auditability",
+  "count_recent": 74,
+  "count_prev": 2,
+  "share_recent": 0.00676,
+  "share_prev": 0.00414,
+  "growth": 1.632,
+  "eligible": true
+ },
+ {
+  "id": "trust-in-ai",
+  "name": "trust in AI",
+  "count_recent": 74,
+  "count_prev": 2,
+  "share_recent": 0.00676,
+  "share_prev": 0.00414,
+  "growth": 1.632,
+  "eligible": true
+ },
+ {
+  "id": "intelligent-automation",
+  "name": "intelligent automation",
+  "count_recent": 66,
+  "count_prev": 2,
+  "share_recent": 0.00603,
+  "share_prev": 0.00414,
+  "growth": 1.456,
+  "eligible": true
+ },
+ {
+  "id": "knowledge-graphs",
+  "name": "knowledge graphs",
+  "count_recent": 180,
+  "count_prev": 6,
+  "share_recent": 0.01644,
+  "share_prev": 0.01242,
+  "growth": 1.323,
+  "eligible": true
+ },
+ {
+  "id": "ai-agents",
+  "name": "AI agents",
+  "count_recent": 208,
+  "count_prev": 7,
+  "share_recent": 0.019,
+  "share_prev": 0.01449,
+  "growth": 1.311,
+  "eligible": true
+ },
+ {
+  "id": "humanoid-robots",
+  "name": "humanoid robots",
+  "count_recent": 151,
+  "count_prev": 5,
+  "share_recent": 0.01379,
+  "share_prev": 0.01035,
+  "growth": 1.332,
+  "eligible": true
+ },
+ {
+  "id": "data-governance",
+  "name": "data governance",
+  "count_recent": 63,
+  "count_prev": 2,
+  "share_recent": 0.00575,
+  "share_prev": 0.00414,
+  "growth": 1.39,
+  "eligible": true
+ },
+ {
+  "id": "industry-5-0",
+  "name": "Industry 5.0",
+  "count_recent": 63,
+  "count_prev": 2,
+  "share_recent": 0.00575,
+  "share_prev": 0.00414,
+  "growth": 1.39,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence",
+  "name": "artificial intelligence",
+  "count_recent": 304,
+  "count_prev": 11,
+  "share_recent": 0.02777,
+  "share_prev": 0.02277,
+  "growth": 1.219,
+  "eligible": true
+ },
+ {
+  "id": "systematic-reviews",
+  "name": "systematic reviews",
+  "count_recent": 58,
+  "count_prev": 2,
+  "share_recent": 0.0053,
+  "share_prev": 0.00414,
+  "growth": 1.279,
+  "eligible": true
+ },
+ {
+  "id": "robotic-process-automation",
+  "name": "robotic process automation",
+  "count_recent": 85,
+  "count_prev": 3,
+  "share_recent": 0.00776,
+  "share_prev": 0.00621,
+  "growth": 1.25,
+  "eligible": true
+ },
+ {
+  "id": "robotic-grasping",
+  "name": "robotic grasping",
+  "count_recent": 57,
+  "count_prev": 2,
+  "share_recent": 0.00521,
+  "share_prev": 0.00414,
+  "growth": 1.257,
+  "eligible": true
+ },
+ {
+  "id": "human-robot-collaboration",
+  "name": "human-robot collaboration",
+  "count_recent": 186,
+  "count_prev": 7,
+  "share_recent": 0.01699,
+  "share_prev": 0.01449,
+  "growth": 1.172,
+  "eligible": true
+ },
+ {
+  "id": "multisensory-perception",
+  "name": "multisensory perception",
+  "count_recent": 55,
+  "count_prev": 2,
+  "share_recent": 0.00502,
+  "share_prev": 0.00414,
+  "growth": 1.213,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 54,
+  "count_prev": 2,
+  "share_recent": 0.00493,
+  "share_prev": 0.00414,
+  "growth": 1.191,
+  "eligible": true
+ },
+ {
+  "id": "long-horizon-tasks",
+  "name": "long-horizon tasks",
+  "count_recent": 53,
+  "count_prev": 2,
+  "share_recent": 0.00484,
+  "share_prev": 0.00414,
+  "growth": 1.169,
+  "eligible": true
+ },
+ {
+  "id": "vulnerability-detection",
+  "name": "vulnerability detection",
+  "count_recent": 53,
+  "count_prev": 2,
+  "share_recent": 0.00484,
+  "share_prev": 0.00414,
+  "growth": 1.169,
+  "eligible": true
+ },
+ {
+  "id": "task-planning",
+  "name": "task planning",
+  "count_recent": 122,
+  "count_prev": 5,
+  "share_recent": 0.01114,
+  "share_prev": 0.01035,
+  "growth": 1.076,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 233,
+  "count_prev": 10,
+  "share_recent": 0.02128,
+  "share_prev": 0.0207,
+  "growth": 1.028,
+  "eligible": true
+ },
+ {
+  "id": "self-driving-laboratories",
+  "name": "self-driving laboratories",
+  "count_recent": 47,
+  "count_prev": 2,
+  "share_recent": 0.00429,
+  "share_prev": 0.00414,
+  "growth": 1.037,
+  "eligible": true
+ },
+ {
+  "id": "visual-grounding",
+  "name": "visual grounding",
+  "count_recent": 47,
+  "count_prev": 2,
+  "share_recent": 0.00429,
+  "share_prev": 0.00414,
+  "growth": 1.037,
+  "eligible": true
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 46,
+  "count_prev": 2,
+  "share_recent": 0.0042,
+  "share_prev": 0.00414,
+  "growth": 1.015,
+  "eligible": true
+ },
+ {
+  "id": "industrial-robots",
+  "name": "industrial robots",
+  "count_recent": 46,
+  "count_prev": 2,
+  "share_recent": 0.0042,
+  "share_prev": 0.00414,
+  "growth": 1.015,
+  "eligible": true
+ },
+ {
+  "id": "quadruped-robot",
+  "name": "quadruped robot",
+  "count_recent": 46,
+  "count_prev": 2,
+  "share_recent": 0.0042,
+  "share_prev": 0.00414,
+  "growth": 1.015,
+  "eligible": true
+ },
+ {
+  "id": "code-generation",
+  "name": "code generation",
+  "count_recent": 203,
+  "count_prev": 9,
+  "share_recent": 0.01854,
+  "share_prev": 0.01863,
+  "growth": 0.995,
+  "eligible": true
+ },
+ {
+  "id": "robot-navigation",
+  "name": "robot navigation",
+  "count_recent": 203,
+  "count_prev": 9,
+  "share_recent": 0.01854,
+  "share_prev": 0.01863,
+  "growth": 0.995,
+  "eligible": true
+ },
+ {
+  "id": "intent-recognition",
+  "name": "intent classification",
+  "count_recent": 45,
+  "count_prev": 2,
+  "share_recent": 0.00411,
+  "share_prev": 0.00414,
+  "growth": 0.993,
+  "eligible": true
+ },
+ {
+  "id": "multimodal-artificial-intelligence",
+  "name": "multimodal AI",
+  "count_recent": 44,
+  "count_prev": 2,
+  "share_recent": 0.00402,
+  "share_prev": 0.00414,
+  "growth": 0.97,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-aerial-vehicles",
+  "name": "unmanned aerial vehicles",
+  "count_recent": 44,
+  "count_prev": 2,
+  "share_recent": 0.00402,
+  "share_prev": 0.00414,
+  "growth": 0.97,
+  "eligible": true
+ },
+ {
+  "id": "vision-and-language-navigation",
+  "name": "vision-and-language navigation",
+  "count_recent": 44,
+  "count_prev": 2,
+  "share_recent": 0.00402,
+  "share_prev": 0.00414,
+  "growth": 0.97,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 6543,
+  "count_prev": 293,
+  "share_recent": 0.59759,
+  "share_prev": 0.60663,
+  "growth": 0.985,
+  "eligible": true
+ },
+ {
+  "id": "ai-safety",
+  "name": "AI safety",
+  "count_recent": 88,
+  "count_prev": 4,
+  "share_recent": 0.00804,
+  "share_prev": 0.00828,
+  "growth": 0.97,
+  "eligible": true
+ },
+ {
+  "id": "ai-alignment",
+  "name": "AI alignment",
+  "count_recent": 43,
+  "count_prev": 2,
+  "share_recent": 0.00393,
+  "share_prev": 0.00414,
+  "growth": 0.948,
+  "eligible": true
+ },
+ {
+  "id": "explainable-ai",
+  "name": "explainable AI",
+  "count_recent": 218,
+  "count_prev": 10,
+  "share_recent": 0.01991,
+  "share_prev": 0.0207,
+  "growth": 0.962,
+  "eligible": true
+ },
+ {
+  "id": "explainability",
+  "name": "explainability",
+  "count_recent": 174,
+  "count_prev": 8,
+  "share_recent": 0.01589,
+  "share_prev": 0.01656,
+  "growth": 0.959,
+  "eligible": true
+ },
+ {
+  "id": "personalized-learning",
+  "name": "personalized learning",
+  "count_recent": 63,
+  "count_prev": 3,
+  "share_recent": 0.00575,
+  "share_prev": 0.00621,
+  "growth": 0.926,
+  "eligible": true
+ },
+ {
+  "id": "long-horizon-planning",
+  "name": "long-horizon planning",
+  "count_recent": 62,
+  "count_prev": 3,
+  "share_recent": 0.00566,
+  "share_prev": 0.00621,
+  "growth": 0.912,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 82,
+  "count_prev": 4,
+  "share_recent": 0.00749,
+  "share_prev": 0.00828,
+  "growth": 0.904,
+  "eligible": true
+ },
+ {
+  "id": "social-robots",
+  "name": "social robots",
+  "count_recent": 121,
+  "count_prev": 6,
+  "share_recent": 0.01105,
+  "share_prev": 0.01242,
+  "growth": 0.89,
+  "eligible": true
+ },
+ {
+  "id": "robotic-manipulation",
+  "name": "robotic manipulation",
+  "count_recent": 537,
+  "count_prev": 26,
+  "share_recent": 0.04905,
+  "share_prev": 0.05383,
+  "growth": 0.911,
+  "eligible": true
+ },
+ {
+  "id": "digital-transformation",
+  "name": "digital transformation",
+  "count_recent": 58,
+  "count_prev": 3,
+  "share_recent": 0.0053,
+  "share_prev": 0.00621,
+  "growth": 0.853,
+  "eligible": true
+ },
+ {
+  "id": "task-automation",
+  "name": "task automation",
+  "count_recent": 58,
+  "count_prev": 3,
+  "share_recent": 0.0053,
+  "share_prev": 0.00621,
+  "growth": 0.853,
+  "eligible": true
+ },
+ {
+  "id": "task-decomposition",
+  "name": "task decomposition",
+  "count_recent": 93,
+  "count_prev": 5,
+  "share_recent": 0.00849,
+  "share_prev": 0.01035,
+  "growth": 0.821,
+  "eligible": true
+ },
+ {
+  "id": "browser-automation",
+  "name": "browser automation",
+  "count_recent": 51,
+  "count_prev": 3,
+  "share_recent": 0.00466,
+  "share_prev": 0.00621,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "graph-neural-networks",
+  "name": "graph neural networks",
+  "count_recent": 68,
+  "count_prev": 4,
+  "share_recent": 0.00621,
+  "share_prev": 0.00828,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "named-entity-recognition",
+  "name": "named entity recognition",
+  "count_recent": 49,
+  "count_prev": 3,
+  "share_recent": 0.00448,
+  "share_prev": 0.00621,
+  "growth": 0.721,
+  "eligible": true
+ },
+ {
+  "id": "ai-ethics",
+  "name": "AI ethics",
+  "count_recent": 245,
+  "count_prev": 14,
+  "share_recent": 0.02238,
+  "share_prev": 0.02899,
+  "growth": 0.772,
+  "eligible": true
+ },
+ {
+  "id": "spatial-reasoning",
+  "name": "spatial reasoning",
+  "count_recent": 116,
+  "count_prev": 7,
+  "share_recent": 0.01059,
+  "share_prev": 0.01449,
+  "growth": 0.731,
+  "eligible": true
+ },
+ {
+  "id": "industry-4-0",
+  "name": "Industry 4.0",
+  "count_recent": 46,
+  "count_prev": 3,
+  "share_recent": 0.0042,
+  "share_prev": 0.00621,
+  "growth": 0.676,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-robots",
+  "name": "autonomous robots",
+  "count_recent": 80,
+  "count_prev": 5,
+  "share_recent": 0.00731,
+  "share_prev": 0.01035,
+  "growth": 0.706,
+  "eligible": true
+ },
+ {
+  "id": "mobile-robots",
+  "name": "mobile robots",
+  "count_recent": 62,
+  "count_prev": 4,
+  "share_recent": 0.00566,
+  "share_prev": 0.00828,
+  "growth": 0.684,
+  "eligible": true
+ },
+ {
+  "id": "laboratory-automation",
+  "name": "laboratory automation",
+  "count_recent": 45,
+  "count_prev": 3,
+  "share_recent": 0.00411,
+  "share_prev": 0.00621,
+  "growth": 0.662,
+  "eligible": true
+ },
+ {
+  "id": "predictive-analytics",
+  "name": "predictive analytics",
+  "count_recent": 45,
+  "count_prev": 3,
+  "share_recent": 0.00411,
+  "share_prev": 0.00621,
+  "growth": 0.662,
+  "eligible": true
+ },
+ {
+  "id": "human-ai-interaction",
+  "name": "human-AI interaction",
+  "count_recent": 112,
+  "count_prev": 7,
+  "share_recent": 0.01023,
+  "share_prev": 0.01449,
+  "growth": 0.706,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence-in-healthcare",
+  "name": "artificial intelligence in healthcare",
+  "count_recent": 94,
+  "count_prev": 6,
+  "share_recent": 0.00859,
+  "share_prev": 0.01242,
+  "growth": 0.691,
+  "eligible": true
+ },
+ {
+  "id": "fine-tuning",
+  "name": "fine-tuning",
+  "count_recent": 110,
+  "count_prev": 7,
+  "share_recent": 0.01005,
+  "share_prev": 0.01449,
+  "growth": 0.693,
+  "eligible": true
+ },
+ {
+  "id": "sim-to-real-transfer",
+  "name": "sim-to-real transfer",
+  "count_recent": 76,
+  "count_prev": 5,
+  "share_recent": 0.00694,
+  "share_prev": 0.01035,
+  "growth": 0.671,
+  "eligible": true
+ },
+ {
+  "id": "object-detection",
+  "name": "object detection",
+  "count_recent": 59,
+  "count_prev": 4,
+  "share_recent": 0.00539,
+  "share_prev": 0.00828,
+  "growth": 0.651,
+  "eligible": true
+ },
+ {
+  "id": "test-automation",
+  "name": "test automation",
+  "count_recent": 108,
+  "count_prev": 7,
+  "share_recent": 0.00986,
+  "share_prev": 0.01449,
+  "growth": 0.681,
+  "eligible": true
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 105,
+  "count_prev": 7,
+  "share_recent": 0.00959,
+  "share_prev": 0.01449,
+  "growth": 0.662,
+  "eligible": true
+ },
+ {
+  "id": "regulatory-compliance",
+  "name": "regulatory compliance",
+  "count_recent": 121,
+  "count_prev": 8,
+  "share_recent": 0.01105,
+  "share_prev": 0.01656,
+  "growth": 0.667,
+  "eligible": true
+ },
+ {
+  "id": "algorithmic-bias",
+  "name": "algorithmic bias",
+  "count_recent": 221,
+  "count_prev": 14,
+  "share_recent": 0.02018,
+  "share_prev": 0.02899,
+  "growth": 0.696,
+  "eligible": true
+ },
+ {
+  "id": "automation",
+  "name": "automation",
+  "count_recent": 104,
+  "count_prev": 7,
+  "share_recent": 0.0095,
+  "share_prev": 0.01449,
+  "growth": 0.655,
+  "eligible": true
+ },
+ {
+  "id": "llm-fine-tuning",
+  "name": "LLM fine-tuning",
+  "count_recent": 53,
+  "count_prev": 4,
+  "share_recent": 0.00484,
+  "share_prev": 0.00828,
+  "growth": 0.585,
+  "eligible": true
+ },
+ {
+  "id": "generative-ai",
+  "name": "generative AI",
+  "count_recent": 736,
+  "count_prev": 45,
+  "share_recent": 0.06722,
+  "share_prev": 0.09317,
+  "growth": 0.722,
+  "eligible": true
+ },
+ {
+  "id": "robot-planning",
+  "name": "robot planning",
+  "count_recent": 83,
+  "count_prev": 6,
+  "share_recent": 0.00758,
+  "share_prev": 0.01242,
+  "growth": 0.61,
+  "eligible": true
+ },
+ {
+  "id": "service-robots",
+  "name": "service robots",
+  "count_recent": 52,
+  "count_prev": 4,
+  "share_recent": 0.00475,
+  "share_prev": 0.00828,
+  "growth": 0.573,
+  "eligible": true
+ },
+ {
+  "id": "natural-language-commands",
+  "name": "natural language commands",
+  "count_recent": 66,
+  "count_prev": 5,
+  "share_recent": 0.00603,
+  "share_prev": 0.01035,
+  "growth": 0.582,
+  "eligible": true
+ },
+ {
+  "id": "machine-learning",
+  "name": "machine learning",
+  "count_recent": 126,
+  "count_prev": 9,
+  "share_recent": 0.01151,
+  "share_prev": 0.01863,
+  "growth": 0.618,
+  "eligible": true
+ },
+ {
+  "id": "academic-integrity",
+  "name": "academic integrity",
+  "count_recent": 49,
+  "count_prev": 4,
+  "share_recent": 0.00448,
+  "share_prev": 0.00828,
+  "growth": 0.54,
+  "eligible": true
+ },
+ {
+  "id": "scalability",
+  "name": "scalability",
+  "count_recent": 47,
+  "count_prev": 4,
+  "share_recent": 0.00429,
+  "share_prev": 0.00828,
+  "growth": 0.518,
+  "eligible": true
+ },
+ {
+  "id": "federated-learning",
+  "name": "federated learning",
+  "count_recent": 89,
+  "count_prev": 7,
+  "share_recent": 0.00813,
+  "share_prev": 0.01449,
+  "growth": 0.561,
+  "eligible": true
+ },
+ {
+  "id": "domain-adaptation",
+  "name": "domain adaptation",
+  "count_recent": 46,
+  "count_prev": 4,
+  "share_recent": 0.0042,
+  "share_prev": 0.00828,
+  "growth": 0.507,
+  "eligible": true
+ },
+ {
+  "id": "conversational-ai",
+  "name": "conversational AI",
+  "count_recent": 59,
+  "count_prev": 5,
+  "share_recent": 0.00539,
+  "share_prev": 0.01035,
+  "growth": 0.521,
+  "eligible": true
+ },
+ {
+  "id": "chain-of-thought-prompting",
+  "name": "chain-of-thought prompting",
+  "count_recent": 71,
+  "count_prev": 6,
+  "share_recent": 0.00648,
+  "share_prev": 0.01242,
+  "growth": 0.522,
+  "eligible": true
+ },
+ {
+  "id": "prompt-engineering",
+  "name": "prompt engineering",
+  "count_recent": 408,
+  "count_prev": 29,
+  "share_recent": 0.03726,
+  "share_prev": 0.06004,
+  "growth": 0.621,
+  "eligible": true
+ },
+ {
+  "id": "robotics",
+  "name": "robotics",
+  "count_recent": 125,
+  "count_prev": 10,
+  "share_recent": 0.01142,
+  "share_prev": 0.0207,
+  "growth": 0.551,
+  "eligible": true
+ },
+ {
+  "id": "in-context-learning",
+  "name": "in-context learning",
+  "count_recent": 69,
+  "count_prev": 6,
+  "share_recent": 0.0063,
+  "share_prev": 0.01242,
+  "growth": 0.507,
+  "eligible": true
+ },
+ {
+  "id": "robot-control",
+  "name": "robot control",
+  "count_recent": 136,
+  "count_prev": 11,
+  "share_recent": 0.01242,
+  "share_prev": 0.02277,
+  "growth": 0.545,
+  "eligible": true
+ },
+ {
+  "id": "computer-vision",
+  "name": "computer vision",
+  "count_recent": 66,
+  "count_prev": 6,
+  "share_recent": 0.00603,
+  "share_prev": 0.01242,
+  "growth": 0.485,
+  "eligible": true
+ },
+ {
+  "id": "artificial-general-intelligence",
+  "name": "artificial general intelligence",
+  "count_recent": 51,
+  "count_prev": 5,
+  "share_recent": 0.00466,
+  "share_prev": 0.01035,
+  "growth": 0.45,
+  "eligible": true
+ },
+ {
+  "id": "electronic-health-records",
+  "name": "electronic health records",
+  "count_recent": 63,
+  "count_prev": 6,
+  "share_recent": 0.00575,
+  "share_prev": 0.01242,
+  "growth": 0.463,
+  "eligible": true
+ },
+ {
+  "id": "ai-regulation",
+  "name": "AI regulation",
+  "count_recent": 101,
+  "count_prev": 9,
+  "share_recent": 0.00922,
+  "share_prev": 0.01863,
+  "growth": 0.495,
+  "eligible": true
+ },
+ {
+  "id": "zero-shot-generalization",
+  "name": "zero-shot generalization",
+  "count_recent": 62,
+  "count_prev": 6,
+  "share_recent": 0.00566,
+  "share_prev": 0.01242,
+  "growth": 0.456,
+  "eligible": true
+ },
+ {
+  "id": "clinical-decision-support",
+  "name": "clinical decision support",
+  "count_recent": 191,
+  "count_prev": 16,
+  "share_recent": 0.01744,
+  "share_prev": 0.03313,
+  "growth": 0.527,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence-in-education",
+  "name": "artificial intelligence in education",
+  "count_recent": 84,
+  "count_prev": 8,
+  "share_recent": 0.00767,
+  "share_prev": 0.01656,
+  "growth": 0.463,
+  "eligible": true
+ },
+ {
+  "id": "speech-recognition",
+  "name": "speech recognition",
+  "count_recent": 70,
+  "count_prev": 7,
+  "share_recent": 0.00639,
+  "share_prev": 0.01449,
+  "growth": 0.441,
+  "eligible": true
+ },
+ {
+  "id": "robot-learning",
+  "name": "robot learning",
+  "count_recent": 45,
+  "count_prev": 5,
+  "share_recent": 0.00411,
+  "share_prev": 0.01035,
+  "growth": 0.397,
+  "eligible": true
+ },
+ {
+  "id": "human-machine-interaction",
+  "name": "human-machine interaction",
+  "count_recent": 44,
+  "count_prev": 5,
+  "share_recent": 0.00402,
+  "share_prev": 0.01035,
+  "growth": 0.388,
+  "eligible": true
+ },
+ {
+  "id": "gpt-4",
+  "name": "GPT-4",
+  "count_recent": 167,
+  "count_prev": 15,
+  "share_recent": 0.01525,
+  "share_prev": 0.03106,
+  "growth": 0.491,
+  "eligible": true
+ },
+ {
+  "id": "customer-service-automation",
+  "name": "customer service automation",
+  "count_recent": 66,
+  "count_prev": 7,
+  "share_recent": 0.00603,
+  "share_prev": 0.01449,
+  "growth": 0.416,
+  "eligible": true
+ },
+ {
+  "id": "foundation-models",
+  "name": "foundation models",
+  "count_recent": 138,
+  "count_prev": 13,
+  "share_recent": 0.0126,
+  "share_prev": 0.02692,
+  "growth": 0.468,
+  "eligible": true
+ },
+ {
+  "id": "human-robot-interaction",
+  "name": "human-robot interaction",
+  "count_recent": 592,
+  "count_prev": 47,
+  "share_recent": 0.05407,
+  "share_prev": 0.09731,
+  "growth": 0.556,
+  "eligible": true
+ },
+ {
+  "id": "chatbots",
+  "name": "chatbots",
+  "count_recent": 226,
+  "count_prev": 20,
+  "share_recent": 0.02064,
+  "share_prev": 0.04141,
+  "growth": 0.498,
+  "eligible": true
+ },
+ {
+  "id": "visual-question-answering",
+  "name": "visual question answering",
+  "count_recent": 50,
+  "count_prev": 6,
+  "share_recent": 0.00457,
+  "share_prev": 0.01242,
+  "growth": 0.368,
+  "eligible": true
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 107,
+  "count_prev": 11,
+  "share_recent": 0.00977,
+  "share_prev": 0.02277,
+  "growth": 0.429,
+  "eligible": true
+ },
+ {
+  "id": "data-privacy",
+  "name": "data privacy",
+  "count_recent": 164,
+  "count_prev": 16,
+  "share_recent": 0.01498,
+  "share_prev": 0.03313,
+  "growth": 0.452,
+  "eligible": true
+ },
+ {
+  "id": "robot-perception",
+  "name": "robot perception",
+  "count_recent": 47,
+  "count_prev": 7,
+  "share_recent": 0.00429,
+  "share_prev": 0.01449,
+  "growth": 0.296,
+  "eligible": true
+ },
+ {
+  "id": "few-shot-learning",
+  "name": "few-shot learning",
+  "count_recent": 68,
+  "count_prev": 10,
+  "share_recent": 0.00621,
+  "share_prev": 0.0207,
+  "growth": 0.3,
+  "eligible": true
+ },
+ {
+  "id": "natural-language-processing",
+  "name": "natural language processing",
+  "count_recent": 157,
+  "count_prev": 21,
+  "share_recent": 0.01434,
+  "share_prev": 0.04348,
+  "growth": 0.33,
+  "eligible": true
+ },
+ {
+  "id": "natural-language-instructions",
+  "name": "natural language instructions",
+  "count_recent": 96,
+  "count_prev": 15,
+  "share_recent": 0.00877,
+  "share_prev": 0.03106,
+  "growth": 0.282,
+  "eligible": true
+ },
+ {
+  "id": "bert",
+  "name": "BERT",
+  "count_recent": 52,
+  "count_prev": 12,
+  "share_recent": 0.00475,
+  "share_prev": 0.02484,
+  "growth": 0.191,
+  "eligible": true
+ },
+ {
+  "id": "language-models",
+  "name": "language models",
+  "count_recent": 86,
+  "count_prev": 17,
+  "share_recent": 0.00785,
+  "share_prev": 0.0352,
+  "growth": 0.223,
+  "eligible": true
+ },
+ {
+  "id": "zero-shot-learning",
+  "name": "zero-shot learning",
+  "count_recent": 48,
+  "count_prev": 12,
+  "share_recent": 0.00438,
+  "share_prev": 0.02484,
+  "growth": 0.176,
+  "eligible": true
+ },
+ {
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "count_recent": 272,
+  "count_prev": 75,
+  "share_recent": 0.02484,
+  "share_prev": 0.15528,
+  "growth": 0.16,
+  "eligible": true
+ },
+ {
+  "id": "data-quality",
+  "name": "data quality",
+  "count_recent": 42,
+  "count_prev": 0,
+  "share_recent": 0.00384,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gemini",
+  "name": "Gemini",
+  "count_recent": 42,
+  "count_prev": 0,
+  "share_recent": 0.00384,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multiagent-coordination",
+  "name": "multi-agent coordination",
+  "count_recent": 42,
+  "count_prev": 0,
+  "share_recent": 0.00384,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "network-automation",
+  "name": "network automation",
+  "count_recent": 42,
+  "count_prev": 0,
+  "share_recent": 0.00384,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "transfer-learning",
+  "name": "transfer learning",
+  "count_recent": 42,
+  "count_prev": 11,
+  "share_recent": 0.00384,
+  "share_prev": 0.02277,
+  "growth": 0.168,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-ai-agents",
+  "name": "autonomous AI agents",
+  "count_recent": 41,
+  "count_prev": 0,
+  "share_recent": 0.00374,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multimodal-interaction",
+  "name": "multimodal interaction",
+  "count_recent": 41,
+  "count_prev": 3,
+  "share_recent": 0.00374,
+  "share_prev": 0.00621,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 41,
+  "count_prev": 0,
+  "share_recent": 0.00374,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "risk-assessment",
+  "name": "risk assessment",
+  "count_recent": 41,
+  "count_prev": 0,
+  "share_recent": 0.00374,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sentiment-analysis",
+  "name": "sentiment analysis",
+  "count_recent": 41,
+  "count_prev": 0,
+  "share_recent": 0.00374,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

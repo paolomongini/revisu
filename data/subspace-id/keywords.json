@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "damage-localization",
+  "name": "damage localization",
+  "count_recent": 15,
+  "count_prev": 2,
+  "share_recent": 0.02836,
+  "share_prev": 0.00548,
+  "growth": 5.175,
+  "eligible": true
+ },
+ {
+  "id": "dbscan",
+  "name": "DBSCAN",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.03592,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "ambient-vibration",
+  "name": "ambient vibration",
+  "count_recent": 26,
+  "count_prev": 8,
+  "share_recent": 0.04915,
+  "share_prev": 0.02192,
+  "growth": 2.242,
+  "eligible": true
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 19,
+  "count_prev": 6,
+  "share_recent": 0.03592,
+  "share_prev": 0.01644,
+  "growth": 2.185,
+  "eligible": true
+ },
+ {
+  "id": "damage-detection",
+  "name": "damage detection",
+  "count_recent": 23,
+  "count_prev": 10,
+  "share_recent": 0.04348,
+  "share_prev": 0.0274,
+  "growth": 1.587,
+  "eligible": true
+ },
+ {
+  "id": "finite-element-model-updating",
+  "name": "finite element model updating",
+  "count_recent": 23,
+  "count_prev": 10,
+  "share_recent": 0.04348,
+  "share_prev": 0.0274,
+  "growth": 1.587,
+  "eligible": true
+ },
+ {
+  "id": "structural-health-monitoring",
+  "name": "structural health monitoring",
+  "count_recent": 122,
+  "count_prev": 63,
+  "share_recent": 0.23062,
+  "share_prev": 0.1726,
+  "growth": 1.336,
+  "eligible": true
+ },
+ {
+  "id": "damping-ratio",
+  "name": "damping ratio",
+  "count_recent": 42,
+  "count_prev": 21,
+  "share_recent": 0.0794,
+  "share_prev": 0.05753,
+  "growth": 1.38,
+  "eligible": true
+ },
+ {
+  "id": "stabilization-diagram",
+  "name": "stabilization diagram",
+  "count_recent": 20,
+  "count_prev": 10,
+  "share_recent": 0.03781,
+  "share_prev": 0.0274,
+  "growth": 1.38,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-subspace-identification",
+  "name": "stochastic subspace identification",
+  "count_recent": 195,
+  "count_prev": 112,
+  "share_recent": 0.36862,
+  "share_prev": 0.30685,
+  "growth": 1.201,
+  "eligible": true
+ },
+ {
+  "id": "natural-frequencies",
+  "name": "natural frequencies",
+  "count_recent": 55,
+  "count_prev": 30,
+  "share_recent": 0.10397,
+  "share_prev": 0.08219,
+  "growth": 1.265,
+  "eligible": true
+ },
+ {
+  "id": "modal-identification",
+  "name": "modal parameter identification",
+  "count_recent": 102,
+  "count_prev": 58,
+  "share_recent": 0.19282,
+  "share_prev": 0.1589,
+  "growth": 1.213,
+  "eligible": true
+ },
+ {
+  "id": "operational-modal-analysis",
+  "name": "operational modal analysis",
+  "count_recent": 85,
+  "count_prev": 51,
+  "share_recent": 0.16068,
+  "share_prev": 0.13973,
+  "growth": 1.15,
+  "eligible": true
+ },
+ {
+  "id": "covariance-driven-stochastic-subspace-identification",
+  "name": "covariance-driven stochastic subspace identification",
+  "count_recent": 39,
+  "count_prev": 24,
+  "share_recent": 0.07372,
+  "share_prev": 0.06575,
+  "growth": 1.121,
+  "eligible": true
+ },
+ {
+  "id": "frequency-domain-decomposition",
+  "name": "frequency domain decomposition",
+  "count_recent": 19,
+  "count_prev": 13,
+  "share_recent": 0.03592,
+  "share_prev": 0.03562,
+  "growth": 1.008,
+  "eligible": true
+ },
+ {
+  "id": "model-order-selection",
+  "name": "model order selection",
+  "count_recent": 15,
+  "count_prev": 11,
+  "share_recent": 0.02836,
+  "share_prev": 0.03014,
+  "growth": 0.941,
+  "eligible": true
+ },
+ {
+  "id": "mode-shapes",
+  "name": "mode shapes",
+  "count_recent": 35,
+  "count_prev": 27,
+  "share_recent": 0.06616,
+  "share_prev": 0.07397,
+  "growth": 0.894,
+  "eligible": true
+ },
+ {
+  "id": "system-identification",
+  "name": "system identification",
+  "count_recent": 37,
+  "count_prev": 29,
+  "share_recent": 0.06994,
+  "share_prev": 0.07945,
+  "growth": 0.88,
+  "eligible": true
+ },
+ {
+  "id": "prediction-error-method",
+  "name": "prediction error method",
+  "count_recent": 43,
+  "count_prev": 36,
+  "share_recent": 0.08129,
+  "share_prev": 0.09863,
+  "growth": 0.824,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 16,
+  "count_prev": 16,
+  "share_recent": 0.03025,
+  "share_prev": 0.04384,
+  "growth": 0.69,
+  "eligible": true
+ },
+ {
+  "id": "state-space-models",
+  "name": "state-space model",
+  "count_recent": 24,
+  "count_prev": 23,
+  "share_recent": 0.04537,
+  "share_prev": 0.06301,
+  "growth": 0.72,
+  "eligible": true
+ },
+ {
+  "id": "subspace-identification",
+  "name": "subspace identification",
+  "count_recent": 123,
+  "count_prev": 118,
+  "share_recent": 0.23251,
+  "share_prev": 0.32329,
+  "growth": 0.719,
+  "eligible": true
+ },
+ {
+  "id": "ambient-vibration-test",
+  "name": "ambient vibration testing",
+  "count_recent": 14,
+  "count_prev": 12,
+  "share_recent": 0.02647,
+  "share_prev": 0.03288,
+  "growth": 0.805,
+  "eligible": false
+ },
+ {
+  "id": "modal-parameters",
+  "name": "modal parameters",
+  "count_recent": 14,
+  "count_prev": 10,
+  "share_recent": 0.02647,
+  "share_prev": 0.0274,
+  "growth": 0.966,
+  "eligible": false
+ },
+ {
+  "id": "natural-frequency-identification",
+  "name": "natural frequency identification",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.02647,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "kalman-filter",
+  "name": "Kalman filter",
+  "count_recent": 13,
+  "count_prev": 7,
+  "share_recent": 0.02457,
+  "share_prev": 0.01918,
+  "growth": 1.281,
+  "eligible": false
+ },
+ {
+  "id": "enhanced-frequency-domain-decomposition",
+  "name": "enhanced frequency domain decomposition",
+  "count_recent": 12,
+  "count_prev": 8,
+  "share_recent": 0.02268,
+  "share_prev": 0.02192,
+  "growth": 1.035,
+  "eligible": false
+ },
+ {
+  "id": "fault-detection",
+  "name": "fault detection",
+  "count_recent": 12,
+  "count_prev": 7,
+  "share_recent": 0.02268,
+  "share_prev": 0.01918,
+  "growth": 1.183,
+  "eligible": false
+ },
+ {
+  "id": "modal-assurance-criterion",
+  "name": "modal assurance criterion",
+  "count_recent": 12,
+  "count_prev": 5,
+  "share_recent": 0.02268,
+  "share_prev": 0.0137,
+  "growth": 1.656,
+  "eligible": false
+ },
+ {
+  "id": "model-reduction",
+  "name": "model reduction",
+  "count_recent": 12,
+  "count_prev": 3,
+  "share_recent": 0.02268,
+  "share_prev": 0.00822,
+  "growth": 2.76,
+  "eligible": false
+ },
+ {
+  "id": "output-only-modal-identification",
+  "name": "output-only modal identification",
+  "count_recent": 12,
+  "count_prev": 9,
+  "share_recent": 0.02268,
+  "share_prev": 0.02466,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "closed-loop-identification",
+  "name": "closed-loop identification",
+  "count_recent": 11,
+  "count_prev": 5,
+  "share_recent": 0.02079,
+  "share_prev": 0.0137,
+  "growth": 1.518,
+  "eligible": false
+ },
+ {
+  "id": "closely-spaced-modes",
+  "name": "closely spaced modes",
+  "count_recent": 11,
+  "count_prev": 8,
+  "share_recent": 0.02079,
+  "share_prev": 0.02192,
+  "growth": 0.949,
+  "eligible": false
+ },
+ {
+  "id": "mimo",
+  "name": "MIMO",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.02079,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-system-identification",
+  "name": "nonlinear system identification",
+  "count_recent": 11,
+  "count_prev": 18,
+  "share_recent": 0.02079,
+  "share_prev": 0.04932,
+  "growth": 0.422,
+  "eligible": false
+ },
+ {
+  "id": "singular-value-decomposition",
+  "name": "singular value decomposition",
+  "count_recent": 11,
+  "count_prev": 8,
+  "share_recent": 0.02079,
+  "share_prev": 0.02192,
+  "growth": 0.949,
+  "eligible": false
+ },
+ {
+  "id": "measurement-noise",
+  "name": "measurement noise",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0189,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "variational-mode-decomposition",
+  "name": "variational mode decomposition",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0189,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "vibration-based-damage-detection",
+  "name": "vibration-based damage detection",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0189,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "arx-model",
+  "name": "ARX model",
+  "count_recent": 9,
+  "count_prev": 2,
+  "share_recent": 0.01701,
+  "share_prev": 0.00548,
+  "growth": 3.105,
+  "eligible": false
+ },
+ {
+  "id": "automated-modal-identification",
+  "name": "automated modal identification",
+  "count_recent": 9,
+  "count_prev": 3,
+  "share_recent": 0.01701,
+  "share_prev": 0.00822,
+  "growth": 2.07,
+  "eligible": false
+ },
+ {
+  "id": "cantilever-beam",
+  "name": "cantilever beam",
+  "count_recent": 9,
+  "count_prev": 8,
+  "share_recent": 0.01701,
+  "share_prev": 0.02192,
+  "growth": 0.776,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-modeling",
+  "name": "data-driven modeling",
+  "count_recent": 9,
+  "count_prev": 6,
+  "share_recent": 0.01701,
+  "share_prev": 0.01644,
+  "growth": 1.035,
+  "eligible": false
+ },
+ {
+  "id": "hankel-matrix",
+  "name": "Hankel matrices",
+  "count_recent": 9,
+  "count_prev": 7,
+  "share_recent": 0.01701,
+  "share_prev": 0.01918,
+  "growth": 0.887,
+  "eligible": false
+ },
+ {
+  "id": "parameter-estimation",
+  "name": "parameter estimation",
+  "count_recent": 9,
+  "count_prev": 11,
+  "share_recent": 0.01701,
+  "share_prev": 0.03014,
+  "growth": 0.565,
+  "eligible": false
+ },
+ {
+  "id": "spurious-mode-elimination",
+  "name": "spurious mode elimination",
+  "count_recent": 9,
+  "count_prev": 7,
+  "share_recent": 0.01701,
+  "share_prev": 0.01918,
+  "growth": 0.887,
+  "eligible": false
+ },
+ {
+  "id": "vibration-based-structural-health-monitoring",
+  "name": "vibration-based structural health monitoring",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01701,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bridge-structural-health-monitoring",
+  "name": "bridge health monitoring",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.01512,
+  "share_prev": 0.00822,
+  "growth": 1.84,
+  "eligible": false
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.01512,
+  "share_prev": 0.00822,
+  "growth": 1.84,
+  "eligible": false
+ },
+ {
+  "id": "damping-ratio-estimation",
+  "name": "damping ratio estimation",
+  "count_recent": 8,
+  "count_prev": 7,
+  "share_recent": 0.01512,
+  "share_prev": 0.01918,
+  "growth": 0.789,
+  "eligible": false
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 8,
+  "count_prev": 4,
+  "share_recent": 0.01512,
+  "share_prev": 0.01096,
+  "growth": 1.38,
+  "eligible": false
+ },
+ {
+  "id": "natural-frequency-estimation",
+  "name": "natural frequency estimation",
+  "count_recent": 8,
+  "count_prev": 5,
+  "share_recent": 0.01512,
+  "share_prev": 0.0137,
+  "growth": 1.104,
+  "eligible": false
+ },
+ {
+  "id": "noise-robustness",
+  "name": "noise robustness",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01512,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "offshore-wind-turbines",
+  "name": "offshore wind turbines",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.01512,
+  "share_prev": 0.00822,
+  "growth": 1.84,
+  "eligible": false
+ },
+ {
+  "id": "random-decrement-technique",
+  "name": "random decrement technique",
+  "count_recent": 8,
+  "count_prev": 9,
+  "share_recent": 0.01512,
+  "share_prev": 0.02466,
+  "growth": 0.613,
+  "eligible": false
+ },
+ {
+  "id": "structural-damage-identification",
+  "name": "structural damage detection",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.01512,
+  "share_prev": 0.00822,
+  "growth": 1.84,
+  "eligible": false
+ },
+ {
+  "id": "structural-dynamics",
+  "name": "structural dynamics",
+  "count_recent": 8,
+  "count_prev": 15,
+  "share_recent": 0.01512,
+  "share_prev": 0.0411,
+  "growth": 0.368,
+  "eligible": false
+ },
+ {
+  "id": "super-high-rise-buildings",
+  "name": "super high-rise buildings",
+  "count_recent": 8,
+  "count_prev": 6,
+  "share_recent": 0.01512,
+  "share_prev": 0.01644,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-control",
+  "name": "data-driven control",
+  "count_recent": 7,
+  "count_prev": 8,
+  "share_recent": 0.01323,
+  "share_prev": 0.02192,
+  "growth": 0.604,
+  "eligible": false
+ },
+ {
+  "id": "distributed-fault-detection",
+  "name": "distributed fault detection",
+  "count_recent": 7,
+  "count_prev": 3,
+  "share_recent": 0.01323,
+  "share_prev": 0.00822,
+  "growth": 1.61,
+  "eligible": false
+ },
+ {
+  "id": "eigensystem-realization-algorithm",
+  "name": "eigensystem realization algorithm",
+  "count_recent": 7,
+  "count_prev": 4,
+  "share_recent": 0.01323,
+  "share_prev": 0.01096,
+  "growth": 1.207,
+  "eligible": false
+ },
+ {
+  "id": "grey-wolf-optimizer",
+  "name": "grey wolf optimizer",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01323,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "high-rise-buildings",
+  "name": "high-rise buildings",
+  "count_recent": 7,
+  "count_prev": 7,
+  "share_recent": 0.01323,
+  "share_prev": 0.01918,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "peak-picking",
+  "name": "peak picking",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01323,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "prediction-error",
+  "name": "prediction error",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01323,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "principal-component-analysis",
+  "name": "principal component analysis",
+  "count_recent": 7,
+  "count_prev": 3,
+  "share_recent": 0.01323,
+  "share_prev": 0.00822,
+  "growth": 1.61,
+  "eligible": false
+ },
+ {
+  "id": "recursive-subspace-identification",
+  "name": "recursive subspace identification",
+  "count_recent": 7,
+  "count_prev": 5,
+  "share_recent": 0.01323,
+  "share_prev": 0.0137,
+  "growth": 0.966,
+  "eligible": false
+ },
+ {
+  "id": "state-space-identification",
+  "name": "state-space model identification",
+  "count_recent": 7,
+  "count_prev": 4,
+  "share_recent": 0.01323,
+  "share_prev": 0.01096,
+  "growth": 1.207,
+  "eligible": false
+ },
+ {
+  "id": "stiffness-degradation",
+  "name": "stiffness degradation",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01323,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "identifiability",
+  "name": "identifiability",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "k-means-clustering",
+  "name": "K-means clustering",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "koopman-operator",
+  "name": "Koopman operator",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "modal-analysis",
+  "name": "modal analysis",
+  "count_recent": 6,
+  "count_prev": 5,
+  "share_recent": 0.01134,
+  "share_prev": 0.0137,
+  "growth": 0.828,
+  "eligible": false
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "n4sid",
+  "name": "N4SID",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.01134,
+  "share_prev": 0.00822,
+  "growth": 1.38,
+  "eligible": false
+ },
+ {
+  "id": "natural-excitation-technique",
+  "name": "natural excitation technique",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "noise-reduction",
+  "name": "noise reduction",
+  "count_recent": 6,
+  "count_prev": 6,
+  "share_recent": 0.01134,
+  "share_prev": 0.01644,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "non-destructive-testing",
+  "name": "non-destructive testing",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "numerical-stability",
+  "name": "numerical stability",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "pedestrian-bridge",
+  "name": "pedestrian bridge",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.01134,
+  "share_prev": 0.00822,
+  "growth": 1.38,
+  "eligible": false
+ },
+ {
+  "id": "temperature-effects",
+  "name": "temperature effects",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.01134,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "ambient-excitation",
+  "name": "ambient excitation",
+  "count_recent": 5,
+  "count_prev": 8,
+  "share_recent": 0.00945,
+  "share_prev": 0.02192,
+  "growth": 0.431,
+  "eligible": false
+ },
+ {
+  "id": "cable-stayed-bridges",
+  "name": "cable-stayed bridges",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00945,
+  "share_prev": 0.0137,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "consistency",
+  "name": "consistency",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "cyber-physical-systems",
+  "name": "cyber-physical systems",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00945,
+  "share_prev": 0.00548,
+  "growth": 1.725,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-fault-detection",
+  "name": "data-driven fault detection",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00945,
+  "share_prev": 0.00822,
+  "growth": 1.15,
+  "eligible": false
+ },
+ {
+  "id": "finite-element-model",
+  "name": "finite element model",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00945,
+  "share_prev": 0.00822,
+  "growth": 1.15,
+  "eligible": false
+ },
+ {
+  "id": "fuzzy-c-means-clustering",
+  "name": "fuzzy c-means clustering",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00945,
+  "share_prev": 0.0137,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "long-span-bridges",
+  "name": "long-span bridges",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00945,
+  "share_prev": 0.00822,
+  "growth": 1.15,
+  "eligible": false
+ },
+ {
+  "id": "markov-parameters",
+  "name": "Markov parameters",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00945,
+  "share_prev": 0.00822,
+  "growth": 1.15,
+  "eligible": false
+ },
+ {
+  "id": "maximum-likelihood-estimation",
+  "name": "maximum likelihood estimation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "modal-frequencies",
+  "name": "modal frequencies",
+  "count_recent": 5,
+  "count_prev": 4,
+  "share_recent": 0.00945,
+  "share_prev": 0.01096,
+  "growth": 0.862,
+  "eligible": false
+ },
+ {
+  "id": "model-updating",
+  "name": "model updating",
+  "count_recent": 5,
+  "count_prev": 7,
+  "share_recent": 0.00945,
+  "share_prev": 0.01918,
+  "growth": 0.493,
+  "eligible": false
+ },
+ {
+  "id": "railway-bridges",
+  "name": "railway bridges",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "random-excitation",
+  "name": "random excitation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "reinforced-concrete-buildings",
+  "name": "reinforced concrete buildings",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sensitivity-analysis",
+  "name": "sensitivity analysis",
+  "count_recent": 5,
+  "count_prev": 4,
+  "share_recent": 0.00945,
+  "share_prev": 0.01096,
+  "growth": 0.862,
+  "eligible": false
+ },
+ {
+  "id": "siso-systems",
+  "name": "SISO systems",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "soil-structure-interaction",
+  "name": "soil-structure interaction",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "white-noise-excitation",
+  "name": "white noise excitation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "accelerometer",
+  "name": "accelerometer",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bridge-monitoring",
+  "name": "bridge monitoring",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bridge-structures",
+  "name": "bridge structures",
+  "count_recent": 4,
+  "count_prev": 4,
+  "share_recent": 0.00756,
+  "share_prev": 0.01096,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "civil-engineering-structures",
+  "name": "civil engineering structures",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "condition-monitoring",
+  "name": "condition monitoring",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "damping-ratio-identification",
+  "name": "damping ratio identification",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00756,
+  "share_prev": 0.00548,
+  "growth": 1.38,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-system-identification",
+  "name": "data-driven system identification",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00756,
+  "share_prev": 0.00548,
+  "growth": 1.38,
+  "eligible": false
+ },
+ {
+  "id": "dimensionality-reduction",
+  "name": "dimensionality reduction",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "discrete-time-systems",
+  "name": "discrete-time systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "driving-comfort",
+  "name": "driver comfort",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dynamic-characteristics",
+  "name": "dynamic characteristics",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "dynamic-mode-decomposition",
+  "name": "dynamic mode decomposition",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "finite-element-analysis",
+  "name": "finite element analysis",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "fluid-structure-interaction",
+  "name": "fluid-structure interaction",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "historic-buildings",
+  "name": "historic buildings",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "instrumental-variables",
+  "name": "instrumental variables",
+  "count_recent": 4,
+  "count_prev": 4,
+  "share_recent": 0.00756,
+  "share_prev": 0.01096,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "linear-time-invariant-systems",
+  "name": "linear time-invariant systems",
+  "count_recent": 4,
+  "count_prev": 4,
+  "share_recent": 0.00756,
+  "share_prev": 0.01096,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "load-variation",
+  "name": "load variation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "modal-frequency-identification",
+  "name": "modal frequency identification",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "modal-parameter-uncertainty",
+  "name": "modal parameter uncertainty",
+  "count_recent": 4,
+  "count_prev": 4,
+  "share_recent": 0.00756,
+  "share_prev": 0.01096,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "nonconvex-optimization",
+  "name": "non-convex optimization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "observability-matrix",
+  "name": "observability matrix",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "online-parameter-estimation",
+  "name": "online parameter estimation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "online-system-identification",
+  "name": "online system identification",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "persistent-excitation",
+  "name": "persistent excitation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "predictive-maintenance",
+  "name": "predictive maintenance",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "progressive-damage",
+  "name": "progressive damage",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "real-time-structural-health-monitoring",
+  "name": "real-time structural health monitoring",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "residual-generation",
+  "name": "residual generation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "residual-generator",
+  "name": "residual generator",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "seismic-response",
+  "name": "seismic response",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "shaking-table-test",
+  "name": "shaking table test",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "steel-truss-bridge",
+  "name": "steel truss bridge",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "suspension-bridges",
+  "name": "suspension bridges",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "tangential-interpolation",
+  "name": "tangential interpolation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "time-frequency-analysis",
+  "name": "time-frequency analysis",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "truss-structures",
+  "name": "truss structures",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "vehicle-bridge-interaction",
+  "name": "vehicle-bridge interaction",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00756,
+  "share_prev": 0.00822,
+  "growth": 0.92,
+  "eligible": false
+ },
+ {
+  "id": "vibration-measurement",
+  "name": "vibration measurement",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "vibration-response",
+  "name": "vibration response",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00756,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "accelerometer-data",
+  "name": "accelerometer data",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "acoustic-feedback-cancellation",
+  "name": "acoustic feedback cancellation",
+  "count_recent": 3,
+  "count_prev": 5,
+  "share_recent": 0.00567,
+  "share_prev": 0.0137,
+  "growth": 0.414,
+  "eligible": false
+ },
+ {
+  "id": "aircraft-structures",
+  "name": "aircraft structures",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "anomaly-detection",
+  "name": "anomaly detection",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "arima-model",
+  "name": "ARIMA model",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "armax-model",
+  "name": "ARMAX model",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "asymptotic-efficiency",
+  "name": "asymptotic efficiency",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "autoencoder",
+  "name": "autoencoder",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "big-data",
+  "name": "big data",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bridge-maintenance",
+  "name": "bridge maintenance",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "cascade-control",
+  "name": "cascade control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "causal-discovery",
+  "name": "causal discovery",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "closed-loop-stability",
+  "name": "closed-loop stability",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "clustering",
+  "name": "clustering",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.00567,
+  "share_prev": 0.00822,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "compressed-sensing",
+  "name": "compressed sensing",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "computer-vision",
+  "name": "computer vision",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "consistent-estimation",
+  "name": "consistent estimation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convergence-rate",
+  "name": "convergence rate",
+  "count_recent": 3,
+  "count_prev": 5,
+  "share_recent": 0.00567,
+  "share_prev": 0.0137,
+  "growth": 0.414,
+  "eligible": false
+ },
+ {
+  "id": "correlation-analysis",
+  "name": "correlation analysis",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "cross-laminated-timber",
+  "name": "cross-laminated timber",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "cyber-physical-systems-security",
+  "name": "cyber-physical security",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dam-vibration",
+  "name": "dam vibration",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "damage-index",
+  "name": "damage index",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.00567,
+  "share_prev": 0.00548,
+  "growth": 1.035,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-model-predictive-control",
+  "name": "data-driven model predictive control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.00567,
+  "share_prev": 0.00822,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "deep-neural-network",
+  "name": "deep neural network",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.00567,
+  "share_prev": 0.00548,
+  "growth": 1.035,
+  "eligible": false
+ },
+ {
+  "id": "density-based-clustering",
+  "name": "density-based clustering",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "driving-safety",
+  "name": "driving safety",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "duffing-oscillator",
+  "name": "Duffing oscillator",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dynamic-amplification-factor",
+  "name": "dynamic amplification factor",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dynamic-modeling",
+  "name": "dynamic modeling",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "earthquake-records",
+  "name": "earthquake records",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "empirical-mode-decomposition",
+  "name": "empirical mode decomposition",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-dissipation",
+  "name": "energy dissipation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-economy",
+  "name": "energy economy",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "exogenous-inputs",
+  "name": "exogenous inputs",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "fault-diagnosis",
+  "name": "fault diagnosis",
+  "count_recent": 3,
+  "count_prev": 4,
+  "share_recent": 0.00567,
+  "share_prev": 0.01096,
+  "growth": 0.517,
+  "eligible": false
+ },
+ {
+  "id": "fiber-bragg-grating-sensors",
+  "name": "fiber Bragg grating sensors",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "finite-element-model-validation",
+  "name": "finite element model validation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "frequency-response-function",
+  "name": "frequency response function",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.00567,
+  "share_prev": 0.00822,
+  "growth": 0.69,
+  "eligible": false
+ },
+ {
+  "id": "historic-masonry-structures",
+  "name": "historic masonry structures",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "interconnected-systems",
+  "name": "interconnected systems",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "interpretability",
+  "name": "interpretability",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "inverse-heat-conduction-problem",
+  "name": "inverse heat conduction problem",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "linear-dynamical-systems",
+  "name": "linear dynamical systems",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "local-outlier-factor",
+  "name": "local outlier factor",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "long-term-structural-monitoring",
+  "name": "long-term structural monitoring",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mahalanobis-distance",
+  "name": "Mahalanobis distance",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "markov-chain-monte-carlo",
+  "name": "Markov chain Monte Carlo",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "modal-damping",
+  "name": "modal damping",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "modal-tracking",
+  "name": "modal tracking",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mode-choice",
+  "name": "mode choice",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "model-discrepancy",
+  "name": "model mismatch",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-objective-model-predictive-control",
+  "name": "multi-objective model predictive control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multivariable-control",
+  "name": "multivariable control",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.00567,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

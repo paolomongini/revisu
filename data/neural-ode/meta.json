@@ -1,0 +1,27 @@
+{
+ "slug": "neural-ode",
+ "label": "Neural ODEs & Continuous-time Learning",
+ "group": "System Identification",
+ "query": "\"neural ordinary differential equation\" OR \"neural ODE\" OR \"neural ODEs\" OR \"universal differential equation\"",
+ "generated_at": "2026-11-18T11:25:09",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 1953,
+ "n_recent": 1405,
+ "n_prev": 421,
+ "volume_growth": 3.337,
+ "min_count_for_hot": 15,
+ "api_calls": 28,
+ "cost_usd": 0.0226,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

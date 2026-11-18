@@ -1,0 +1,27 @@
+{
+ "slug": "nn-sysid",
+ "label": "Neural Networks for System Identification",
+ "group": "Focus: MPC & NN-SysID",
+ "query": "(\"system identification\" AND (\"neural network\" OR \"neural networks\" OR \"deep learning\" OR LSTM OR \"recurrent neural\")) OR \"neural state-space\" OR \"neural state space model\" OR \"deep system identification\"",
+ "generated_at": "2026-11-18T11:17:13",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 2281,
+ "n_recent": 670,
+ "n_prev": 387,
+ "volume_growth": 1.731,
+ "min_count_for_hot": 15,
+ "api_calls": 168,
+ "cost_usd": 0.1257,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

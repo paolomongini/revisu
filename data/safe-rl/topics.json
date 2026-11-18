@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "T10028",
+  "name": "Topic Modeling",
+  "count_recent": 77,
+  "count_prev": 2,
+  "share_recent": 0.01742,
+  "share_prev": 0.00177,
+  "growth": 9.834,
+  "eligible": true
+ },
+ {
+  "id": "T14414",
+  "name": "Artificial Intelligence in Education",
+  "count_recent": 42,
+  "count_prev": 1,
+  "share_recent": 0.0095,
+  "share_prev": 0.00089,
+  "growth": 10.728,
+  "eligible": true
+ },
+ {
+  "id": "T10883",
+  "name": "Ethics and Social Impacts of AI",
+  "count_recent": 138,
+  "count_prev": 6,
+  "share_recent": 0.03122,
+  "share_prev": 0.00531,
+  "growth": 5.875,
+  "eligible": true
+ },
+ {
+  "id": "T10868",
+  "name": "Soft Robotics and Applications",
+  "count_recent": 58,
+  "count_prev": 2,
+  "share_recent": 0.01312,
+  "share_prev": 0.00177,
+  "growth": 7.407,
+  "eligible": true
+ },
+ {
+  "id": "T14449",
+  "name": "Education and Character Development",
+  "count_recent": 51,
+  "count_prev": 2,
+  "share_recent": 0.01154,
+  "share_prev": 0.00177,
+  "growth": 6.513,
+  "eligible": true
+ },
+ {
+  "id": "T11701",
+  "name": "Space Satellite Systems and Control",
+  "count_recent": 48,
+  "count_prev": 2,
+  "share_recent": 0.01086,
+  "share_prev": 0.00177,
+  "growth": 6.13,
+  "eligible": true
+ },
+ {
+  "id": "T10917",
+  "name": "Smart Grid Security and Resilience",
+  "count_recent": 47,
+  "count_prev": 2,
+  "share_recent": 0.01063,
+  "share_prev": 0.00177,
+  "growth": 6.003,
+  "eligible": true
+ },
+ {
+  "id": "T10589",
+  "name": "Early Childhood Education and Development",
+  "count_recent": 61,
+  "count_prev": 3,
+  "share_recent": 0.0138,
+  "share_prev": 0.00266,
+  "growth": 5.194,
+  "eligible": true
+ },
+ {
+  "id": "T10181",
+  "name": "Natural Language Processing Techniques",
+  "count_recent": 28,
+  "count_prev": 1,
+  "share_recent": 0.00633,
+  "share_prev": 0.00089,
+  "growth": 7.152,
+  "eligible": true
+ },
+ {
+  "id": "T11394",
+  "name": "Dynamics and Control of Mechanical Systems",
+  "count_recent": 44,
+  "count_prev": 2,
+  "share_recent": 0.00995,
+  "share_prev": 0.00177,
+  "growth": 5.619,
+  "eligible": true
+ },
+ {
+  "id": "T13987",
+  "name": "Child Development and Education",
+  "count_recent": 24,
+  "count_prev": 1,
+  "share_recent": 0.00543,
+  "share_prev": 0.00089,
+  "growth": 6.13,
+  "eligible": true
+ },
+ {
+  "id": "T11424",
+  "name": "Security and Verification in Computing",
+  "count_recent": 36,
+  "count_prev": 2,
+  "share_recent": 0.00814,
+  "share_prev": 0.00177,
+  "growth": 4.598,
+  "eligible": true
+ },
+ {
+  "id": "T12531",
+  "name": "Values and Moral Education",
+  "count_recent": 21,
+  "count_prev": 1,
+  "share_recent": 0.00475,
+  "share_prev": 0.00089,
+  "growth": 5.364,
+  "eligible": true
+ },
+ {
+  "id": "T12026",
+  "name": "Explainable Artificial Intelligence (XAI)",
+  "count_recent": 19,
+  "count_prev": 1,
+  "share_recent": 0.0043,
+  "share_prev": 0.00089,
+  "growth": 4.853,
+  "eligible": true
+ },
+ {
+  "id": "T13101",
+  "name": "Legal and Social Justice Studies",
+  "count_recent": 19,
+  "count_prev": 1,
+  "share_recent": 0.0043,
+  "share_prev": 0.00089,
+  "growth": 4.853,
+  "eligible": true
+ },
+ {
+  "id": "T12262",
+  "name": "Hate Speech and Cyberbullying Detection",
+  "count_recent": 51,
+  "count_prev": 4,
+  "share_recent": 0.01154,
+  "share_prev": 0.00354,
+  "growth": 3.257,
+  "eligible": true
+ },
+ {
+  "id": "T11636",
+  "name": "Artificial Intelligence in Healthcare and Education",
+  "count_recent": 50,
+  "count_prev": 0,
+  "share_recent": 0.01131,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T13364",
+  "name": "Digitalization, Law, and Regulation",
+  "count_recent": 17,
+  "count_prev": 1,
+  "share_recent": 0.00385,
+  "share_prev": 0.00089,
+  "growth": 4.342,
+  "eligible": true
+ },
+ {
+  "id": "T11689",
+  "name": "Adversarial Robustness in Machine Learning",
+  "count_recent": 200,
+  "count_prev": 24,
+  "share_recent": 0.04525,
+  "share_prev": 0.02126,
+  "growth": 2.129,
+  "eligible": true
+ },
+ {
+  "id": "T13295",
+  "name": "Safety Systems Engineering in Autonomy",
+  "count_recent": 133,
+  "count_prev": 15,
+  "share_recent": 0.03009,
+  "share_prev": 0.01329,
+  "growth": 2.265,
+  "eligible": true
+ },
+ {
+  "id": "T10485",
+  "name": "Bullying, Victimization, and Aggression",
+  "count_recent": 99,
+  "count_prev": 11,
+  "share_recent": 0.0224,
+  "share_prev": 0.00974,
+  "growth": 2.299,
+  "eligible": true
+ },
+ {
+  "id": "T10424",
+  "name": "Electric Power System Optimization",
+  "count_recent": 59,
+  "count_prev": 6,
+  "share_recent": 0.01335,
+  "share_prev": 0.00531,
+  "growth": 2.512,
+  "eligible": true
+ },
+ {
+  "id": "T12357",
+  "name": "Digital Media Forensic Detection",
+  "count_recent": 24,
+  "count_prev": 2,
+  "share_recent": 0.00543,
+  "share_prev": 0.00177,
+  "growth": 3.065,
+  "eligible": true
+ },
+ {
+  "id": "T10663",
+  "name": "Battery Modeling and Management",
+  "count_recent": 23,
+  "count_prev": 0,
+  "share_recent": 0.0052,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T10927",
+  "name": "Access Control and Trust",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T13620",
+  "name": "Education for Peace and Conflict Resolution",
+  "count_recent": 20,
+  "count_prev": 0,
+  "share_recent": 0.00452,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T13830",
+  "name": "Educational Curriculum and Learning Methods",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.0043,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T14381",
+  "name": "Psychiatry, Mental Health, Neuroscience",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.0043,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "T11082",
+  "name": "Spacecraft Dynamics and Control",
+  "count_recent": 68,
+  "count_prev": 8,
+  "share_recent": 0.01538,
+  "share_prev": 0.00709,
+  "growth": 2.171,
+  "eligible": true
+ },
+ {
+  "id": "T10775",
+  "name": "Generative Adversarial Networks and Image Synthesis",
+  "count_recent": 30,
+  "count_prev": 3,
+  "share_recent": 0.00679,
+  "share_prev": 0.00266,
+  "growth": 2.554,
+  "eligible": true
+ },
+ {
+  "id": "T11489",
+  "name": "Air Traffic Management and Optimization",
+  "count_recent": 30,
+  "count_prev": 3,
+  "share_recent": 0.00679,
+  "share_prev": 0.00266,
+  "growth": 2.554,
+  "eligible": true
+ },
+ {
+  "id": "T10223",
+  "name": "Microgrid Control and Optimization",
+  "count_recent": 115,
+  "count_prev": 15,
+  "share_recent": 0.02602,
+  "share_prev": 0.01329,
+  "growth": 1.958,
+  "eligible": true
+ },
+ {
+  "id": "T12784",
+  "name": "Modular Robots and Swarm Intelligence",
+  "count_recent": 52,
+  "count_prev": 6,
+  "share_recent": 0.01176,
+  "share_prev": 0.00531,
+  "growth": 2.214,
+  "eligible": true
+ },
+ {
+  "id": "T11192",
+  "name": "Underwater Vehicles and Communication Systems",
+  "count_recent": 44,
+  "count_prev": 5,
+  "share_recent": 0.00995,
+  "share_prev": 0.00443,
+  "growth": 2.248,
+  "eligible": true
+ },
+ {
+  "id": "T11023",
+  "name": "Prosthetics and Rehabilitation Robotics",
+  "count_recent": 29,
+  "count_prev": 3,
+  "share_recent": 0.00656,
+  "share_prev": 0.00266,
+  "growth": 2.469,
+  "eligible": true
+ },
+ {
+  "id": "T10809",
+  "name": "Occupational Health and Safety Research",
+  "count_recent": 21,
+  "count_prev": 2,
+  "share_recent": 0.00475,
+  "share_prev": 0.00177,
+  "growth": 2.682,
+  "eligible": true
+ },
+ {
+  "id": "T10603",
+  "name": "Smart Grid Energy Management",
+  "count_recent": 71,
+  "count_prev": 9,
+  "share_recent": 0.01606,
+  "share_prev": 0.00797,
+  "growth": 2.015,
+  "eligible": true
+ },
+ {
+  "id": "T10879",
+  "name": "Robotic Locomotion and Control",
+  "count_recent": 62,
+  "count_prev": 8,
+  "share_recent": 0.01403,
+  "share_prev": 0.00709,
+  "growth": 1.98,
+  "eligible": true
+ },
+ {
+  "id": "T12831",
+  "name": "School Health and Nursing Education",
+  "count_recent": 55,
+  "count_prev": 7,
+  "share_recent": 0.01244,
+  "share_prev": 0.0062,
+  "growth": 2.007,
+  "eligible": true
+ },
+ {
+  "id": "T13855",
+  "name": "Aerospace Engineering and Control Systems",
+  "count_recent": 100,
+  "count_prev": 14,
+  "share_recent": 0.02262,
+  "share_prev": 0.0124,
+  "growth": 1.824,
+  "eligible": true
+ },
+ {
+  "id": "T10191",
+  "name": "Robotics and Sensor-Based Localization",
+  "count_recent": 58,
+  "count_prev": 8,
+  "share_recent": 0.01312,
+  "share_prev": 0.00709,
+  "growth": 1.852,
+  "eligible": true
+ },
+ {
+  "id": "T11133",
+  "name": "UAV Applications and Optimization",
+  "count_recent": 18,
+  "count_prev": 2,
+  "share_recent": 0.00407,
+  "share_prev": 0.00177,
+  "growth": 2.299,
+  "eligible": true
+ },
+ {
+  "id": "T10571",
+  "name": "Robotic Mechanisms and Dynamics",
+  "count_recent": 23,
+  "count_prev": 3,
+  "share_recent": 0.0052,
+  "share_prev": 0.00266,
+  "growth": 1.958,
+  "eligible": true
+ },
+ {
+  "id": "T10768",
+  "name": "Electric Vehicles and Infrastructure",
+  "count_recent": 35,
+  "count_prev": 5,
+  "share_recent": 0.00792,
+  "share_prev": 0.00443,
+  "growth": 1.788,
+  "eligible": true
+ },
+ {
+  "id": "T11647",
+  "name": "Workplace Violence and Bullying",
+  "count_recent": 58,
+  "count_prev": 9,
+  "share_recent": 0.01312,
+  "share_prev": 0.00797,
+  "growth": 1.646,
+  "eligible": true
+ },
+ {
+  "id": "T11548",
+  "name": "Sexual Assault and Victimization Studies",
+  "count_recent": 34,
+  "count_prev": 5,
+  "share_recent": 0.00769,
+  "share_prev": 0.00443,
+  "growth": 1.737,
+  "eligible": true
+ },
+ {
+  "id": "T11622",
+  "name": "Maritime Navigation and Safety",
+  "count_recent": 107,
+  "count_prev": 18,
+  "share_recent": 0.02421,
+  "share_prev": 0.01594,
+  "growth": 1.518,
+  "eligible": true
+ },
+ {
+  "id": "T10454",
+  "name": "Optimal Power Flow Distribution",
+  "count_recent": 73,
+  "count_prev": 12,
+  "share_recent": 0.01652,
+  "share_prev": 0.01063,
+  "growth": 1.554,
+  "eligible": true
+ },
+ {
+  "id": "T12998",
+  "name": "Education and Islamic Studies",
+  "count_recent": 33,
+  "count_prev": 5,
+  "share_recent": 0.00747,
+  "share_prev": 0.00443,
+  "growth": 1.686,
+  "eligible": true
+ },
+ {
+  "id": "T12158",
+  "name": "Guidance and Control Systems",
+  "count_recent": 88,
+  "count_prev": 15,
+  "share_recent": 0.01991,
+  "share_prev": 0.01329,
+  "growth": 1.499,
+  "eligible": true
+ },
+ {
+  "id": "T12277",
+  "name": "Frequency Control in Power Systems",
+  "count_recent": 32,
+  "count_prev": 5,
+  "share_recent": 0.00724,
+  "share_prev": 0.00443,
+  "growth": 1.635,
+  "eligible": true
+ },
+ {
+  "id": "T10586",
+  "name": "Robotic Path Planning Algorithms",
+  "count_recent": 658,
+  "count_prev": 132,
+  "share_recent": 0.14887,
+  "share_prev": 0.11692,
+  "growth": 1.273,
+  "eligible": true
+ },
+ {
+  "id": "T10249",
+  "name": "Distributed Control Multi-Agent Systems",
+  "count_recent": 377,
+  "count_prev": 75,
+  "share_recent": 0.08529,
+  "share_prev": 0.06643,
+  "growth": 1.284,
+  "eligible": true
+ },
+ {
+  "id": "T11615",
+  "name": "Control and Dynamics of Mobile Robots",
+  "count_recent": 289,
+  "count_prev": 57,
+  "share_recent": 0.06538,
+  "share_prev": 0.05049,
+  "growth": 1.295,
+  "eligible": true
+ },
+ {
+  "id": "T10273",
+  "name": "IoT and Edge/Fog Computing",
+  "count_recent": 19,
+  "count_prev": 3,
+  "share_recent": 0.0043,
+  "share_prev": 0.00266,
+  "growth": 1.618,
+  "eligible": true
+ },
+ {
+  "id": "T11687",
+  "name": "Teleoperation and Haptic Systems",
+  "count_recent": 40,
+  "count_prev": 7,
+  "share_recent": 0.00905,
+  "share_prev": 0.0062,
+  "growth": 1.46,
+  "eligible": true
+ },
+ {
+  "id": "T10959",
+  "name": "Student Assessment and Feedback",
+  "count_recent": 18,
+  "count_prev": 3,
+  "share_recent": 0.00407,
+  "share_prev": 0.00266,
+  "growth": 1.533,
+  "eligible": true
+ },
+ {
+  "id": "T13189",
+  "name": "Physical Education and Training Studies",
+  "count_recent": 18,
+  "count_prev": 3,
+  "share_recent": 0.00407,
+  "share_prev": 0.00266,
+  "growth": 1.533,
+  "eligible": true
+ },
+ {
+  "id": "T10653",
+  "name": "Robot Manipulation and Learning",
+  "count_recent": 234,
+  "count_prev": 48,
+  "share_recent": 0.05294,
+  "share_prev": 0.04252,
+  "growth": 1.245,
+  "eligible": true
+ },
+ {
+  "id": "T12591",
+  "name": "Inclusive Education and Diversity",
+  "count_recent": 27,
+  "count_prev": 5,
+  "share_recent": 0.00611,
+  "share_prev": 0.00443,
+  "growth": 1.379,
+  "eligible": true
+ },
+ {
+  "id": "T11500",
+  "name": "Evacuation and Crowd Dynamics",
+  "count_recent": 17,
+  "count_prev": 3,
+  "share_recent": 0.00385,
+  "share_prev": 0.00266,
+  "growth": 1.447,
+  "eligible": true
+ },
+ {
+  "id": "T11676",
+  "name": "Parental Involvement in Education",
+  "count_recent": 17,
+  "count_prev": 3,
+  "share_recent": 0.00385,
+  "share_prev": 0.00266,
+  "growth": 1.447,
+  "eligible": true
+ },
+ {
+  "id": "T13904",
+  "name": "Artificial Intelligence Applications",
+  "count_recent": 17,
+  "count_prev": 3,
+  "share_recent": 0.00385,
+  "share_prev": 0.00266,
+  "growth": 1.447,
+  "eligible": true
+ },
+ {
+  "id": "T11185",
+  "name": "Integrated Energy Systems Optimization",
+  "count_recent": 56,
+  "count_prev": 11,
+  "share_recent": 0.01267,
+  "share_prev": 0.00974,
+  "growth": 1.3,
+  "eligible": true
+ },
+ {
+  "id": "T10808",
+  "name": "Electric and Hybrid Vehicle Technologies",
+  "count_recent": 26,
+  "count_prev": 5,
+  "share_recent": 0.00588,
+  "share_prev": 0.00443,
+  "growth": 1.328,
+  "eligible": true
+ },
+ {
+  "id": "T12542",
+  "name": "Second Language Learning and Teaching",
+  "count_recent": 21,
+  "count_prev": 4,
+  "share_recent": 0.00475,
+  "share_prev": 0.00354,
+  "growth": 1.341,
+  "eligible": true
+ },
+ {
+  "id": "T10040",
+  "name": "Adaptive Control of Nonlinear Systems",
+  "count_recent": 451,
+  "count_prev": 100,
+  "share_recent": 0.10204,
+  "share_prev": 0.08857,
+  "growth": 1.152,
+  "eligible": true
+ },
+ {
+  "id": "T14017",
+  "name": "Legal Issues in Education",
+  "count_recent": 30,
+  "count_prev": 6,
+  "share_recent": 0.00679,
+  "share_prev": 0.00531,
+  "growth": 1.277,
+  "eligible": true
+ },
+ {
+  "id": "T10305",
+  "name": "Power System Optimization and Stability",
+  "count_recent": 25,
+  "count_prev": 5,
+  "share_recent": 0.00566,
+  "share_prev": 0.00443,
+  "growth": 1.277,
+  "eligible": true
+ },
+ {
+  "id": "T10426",
+  "name": "Child Abuse and Trauma",
+  "count_recent": 18,
+  "count_prev": 4,
+  "share_recent": 0.00407,
+  "share_prev": 0.00354,
+  "growth": 1.149,
+  "eligible": true
+ },
+ {
+  "id": "T10876",
+  "name": "Fault Detection and Control Systems",
+  "count_recent": 18,
+  "count_prev": 4,
+  "share_recent": 0.00407,
+  "share_prev": 0.00354,
+  "growth": 1.149,
+  "eligible": true
+ },
+ {
+  "id": "T11999",
+  "name": "Empathy and Medical Education",
+  "count_recent": 22,
+  "count_prev": 5,
+  "share_recent": 0.00498,
+  "share_prev": 0.00443,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "T14085",
+  "name": "Student Stress and Coping",
+  "count_recent": 26,
+  "count_prev": 6,
+  "share_recent": 0.00588,
+  "share_prev": 0.00531,
+  "growth": 1.107,
+  "eligible": true
+ },
+ {
+  "id": "T10906",
+  "name": "AI-based Problem Solving and Planning",
+  "count_recent": 34,
+  "count_prev": 8,
+  "share_recent": 0.00769,
+  "share_prev": 0.00709,
+  "growth": 1.086,
+  "eligible": true
+ },
+ {
+  "id": "T11556",
+  "name": "Poverty, Education, and Child Welfare",
+  "count_recent": 17,
+  "count_prev": 4,
+  "share_recent": 0.00385,
+  "share_prev": 0.00354,
+  "growth": 1.086,
+  "eligible": true
+ },
+ {
+  "id": "T10963",
+  "name": "Advanced Optimization Algorithms Research",
+  "count_recent": 25,
+  "count_prev": 6,
+  "share_recent": 0.00566,
+  "share_prev": 0.00531,
+  "growth": 1.064,
+  "eligible": true
+ },
+ {
+  "id": "T14203",
+  "name": "Education, Safety, and Science Studies",
+  "count_recent": 72,
+  "count_prev": 19,
+  "share_recent": 0.01629,
+  "share_prev": 0.01683,
+  "growth": 0.968,
+  "eligible": true
+ },
+ {
+  "id": "T12204",
+  "name": "African Education and Politics",
+  "count_recent": 26,
+  "count_prev": 7,
+  "share_recent": 0.00588,
+  "share_prev": 0.0062,
+  "growth": 0.949,
+  "eligible": true
+ },
+ {
+  "id": "T10547",
+  "name": "Education, Achievement, and Giftedness",
+  "count_recent": 22,
+  "count_prev": 6,
+  "share_recent": 0.00498,
+  "share_prev": 0.00531,
+  "growth": 0.937,
+  "eligible": true
+ },
+ {
+  "id": "T10636",
+  "name": "Innovative Teaching and Learning Methods",
+  "count_recent": 22,
+  "count_prev": 6,
+  "share_recent": 0.00498,
+  "share_prev": 0.00531,
+  "growth": 0.937,
+  "eligible": true
+ },
+ {
+  "id": "T10731",
+  "name": "Educational Games and Gamification",
+  "count_recent": 29,
+  "count_prev": 8,
+  "share_recent": 0.00656,
+  "share_prev": 0.00709,
+  "growth": 0.926,
+  "eligible": true
+ },
+ {
+  "id": "T10021",
+  "name": "EFL/ESL Teaching and Learning",
+  "count_recent": 77,
+  "count_prev": 21,
+  "share_recent": 0.01742,
+  "share_prev": 0.0186,
+  "growth": 0.937,
+  "eligible": true
+ },
+ {
+  "id": "T14410",
+  "name": "Safety and Risk Management",
+  "count_recent": 25,
+  "count_prev": 7,
+  "share_recent": 0.00566,
+  "share_prev": 0.0062,
+  "growth": 0.912,
+  "eligible": true
+ },
+ {
+  "id": "T10462",
+  "name": "Reinforcement Learning in Robotics",
+  "count_recent": 807,
+  "count_prev": 217,
+  "share_recent": 0.18258,
+  "share_prev": 0.19221,
+  "growth": 0.95,
+  "eligible": true
+ },
+ {
+  "id": "T11718",
+  "name": "Physical Education and Pedagogy",
+  "count_recent": 28,
+  "count_prev": 8,
+  "share_recent": 0.00633,
+  "share_prev": 0.00709,
+  "growth": 0.894,
+  "eligible": true
+ },
+ {
+  "id": "T10370",
+  "name": "Traffic and Road Safety",
+  "count_recent": 57,
+  "count_prev": 16,
+  "share_recent": 0.0129,
+  "share_prev": 0.01417,
+  "growth": 0.91,
+  "eligible": true
+ },
+ {
+  "id": "T10524",
+  "name": "Traffic control and management",
+  "count_recent": 132,
+  "count_prev": 37,
+  "share_recent": 0.02986,
+  "share_prev": 0.03277,
+  "growth": 0.911,
+  "eligible": true
+ },
+ {
+  "id": "T11906",
+  "name": "Gender, Sexuality, and Education",
+  "count_recent": 27,
+  "count_prev": 8,
+  "share_recent": 0.00611,
+  "share_prev": 0.00709,
+  "growth": 0.862,
+  "eligible": true
+ },
+ {
+  "id": "T10795",
+  "name": "Healthcare professionals’ stress and burnout",
+  "count_recent": 23,
+  "count_prev": 7,
+  "share_recent": 0.0052,
+  "share_prev": 0.0062,
+  "growth": 0.839,
+  "eligible": true
+ },
+ {
+  "id": "T10046",
+  "name": "Stability and Control of Uncertain Systems",
+  "count_recent": 125,
+  "count_prev": 38,
+  "share_recent": 0.02828,
+  "share_prev": 0.03366,
+  "growth": 0.84,
+  "eligible": true
+ },
+ {
+  "id": "T11099",
+  "name": "Autonomous Vehicle Technology and Safety",
+  "count_recent": 126,
+  "count_prev": 39,
+  "share_recent": 0.02851,
+  "share_prev": 0.03454,
+  "growth": 0.825,
+  "eligible": true
+ },
+ {
+  "id": "T10791",
+  "name": "Advanced Control Systems Optimization",
+  "count_recent": 958,
+  "count_prev": 282,
+  "share_recent": 0.21674,
+  "share_prev": 0.24978,
+  "growth": 0.868,
+  "eligible": true
+ },
+ {
+  "id": "T12194",
+  "name": "Cultural Competency in Health Care",
+  "count_recent": 23,
+  "count_prev": 8,
+  "share_recent": 0.0052,
+  "share_prev": 0.00709,
+  "growth": 0.734,
+  "eligible": true
+ },
+ {
+  "id": "T12593",
+  "name": "Communication in Education and Healthcare",
+  "count_recent": 48,
+  "count_prev": 16,
+  "share_recent": 0.01086,
+  "share_prev": 0.01417,
+  "growth": 0.766,
+  "eligible": true
+ },
+ {
+  "id": "T10186",
+  "name": "Nursing education and management",
+  "count_recent": 38,
+  "count_prev": 13,
+  "share_recent": 0.0086,
+  "share_prev": 0.01151,
+  "growth": 0.747,
+  "eligible": true
+ },
+ {
+  "id": "T12772",
+  "name": "Control and Stability of Dynamical Systems",
+  "count_recent": 99,
+  "count_prev": 32,
+  "share_recent": 0.0224,
+  "share_prev": 0.02834,
+  "growth": 0.79,
+  "eligible": true
+ },
+ {
+  "id": "T12952",
+  "name": "School Leadership and Teacher Performance",
+  "count_recent": 19,
+  "count_prev": 7,
+  "share_recent": 0.0043,
+  "share_prev": 0.0062,
+  "growth": 0.693,
+  "eligible": true
+ },
+ {
+  "id": "T10747",
+  "name": "Disaster Management and Resilience",
+  "count_recent": 34,
+  "count_prev": 12,
+  "share_recent": 0.00769,
+  "share_prev": 0.01063,
+  "growth": 0.724,
+  "eligible": true
+ },
+ {
+  "id": "T10142",
+  "name": "Formal Methods in Verification",
+  "count_recent": 801,
+  "count_prev": 249,
+  "share_recent": 0.18122,
+  "share_prev": 0.22055,
+  "growth": 0.822,
+  "eligible": true
+ },
+ {
+  "id": "T10121",
+  "name": "Building Energy and Comfort Optimization",
+  "count_recent": 17,
+  "count_prev": 7,
+  "share_recent": 0.00385,
+  "share_prev": 0.0062,
+  "growth": 0.62,
+  "eligible": true
+ },
+ {
+  "id": "T10648",
+  "name": "Virtual Reality Applications and Impacts",
+  "count_recent": 25,
+  "count_prev": 10,
+  "share_recent": 0.00566,
+  "share_prev": 0.00886,
+  "growth": 0.639,
+  "eligible": true
+ },
+ {
+  "id": "T10805",
+  "name": "Vehicle Dynamics and Control Systems",
+  "count_recent": 96,
+  "count_prev": 34,
+  "share_recent": 0.02172,
+  "share_prev": 0.03012,
+  "growth": 0.721,
+  "eligible": true
+ },
+ {
+  "id": "T14516",
+  "name": "English Language Learning and Teaching",
+  "count_recent": 19,
+  "count_prev": 9,
+  "share_recent": 0.0043,
+  "share_prev": 0.00797,
+  "growth": 0.539,
+  "eligible": true
+ },
+ {
+  "id": "T12574",
+  "name": "Clinical Reasoning and Diagnostic Skills",
+  "count_recent": 24,
+  "count_prev": 11,
+  "share_recent": 0.00543,
+  "share_prev": 0.00974,
+  "growth": 0.557,
+  "eligible": true
+ },
+ {
+  "id": "T12950",
+  "name": "Educational Environments and Student Outcomes",
+  "count_recent": 34,
+  "count_prev": 15,
+  "share_recent": 0.00769,
+  "share_prev": 0.01329,
+  "growth": 0.579,
+  "eligible": true
+ },
+ {
+  "id": "T10508",
+  "name": "Patient Safety and Medication Errors",
+  "count_recent": 42,
+  "count_prev": 18,
+  "share_recent": 0.0095,
+  "share_prev": 0.01594,
+  "growth": 0.596,
+  "eligible": true
+ },
+ {
+  "id": "T12244",
+  "name": "Healthcare Education and Workforce Issues",
+  "count_recent": 19,
+  "count_prev": 10,
+  "share_recent": 0.0043,
+  "share_prev": 0.00886,
+  "growth": 0.485,
+  "eligible": true
+ },
+ {
+  "id": "T11984",
+  "name": "Anatomy and Medical Technology",
+  "count_recent": 18,
+  "count_prev": 10,
+  "share_recent": 0.00407,
+  "share_prev": 0.00886,
+  "growth": 0.46,
+  "eligible": true
+ },
+ {
+  "id": "T12072",
+  "name": "Machine Learning and Algorithms",
+  "count_recent": 30,
+  "count_prev": 16,
+  "share_recent": 0.00679,
+  "share_prev": 0.01417,
+  "growth": 0.479,
+  "eligible": true
+ },
+ {
+  "id": "T12794",
+  "name": "Adaptive Dynamic Programming Control",
+  "count_recent": 400,
+  "count_prev": 164,
+  "share_recent": 0.0905,
+  "share_prev": 0.14526,
+  "growth": 0.623,
+  "eligible": true
+ },
+ {
+  "id": "T11236",
+  "name": "Control Systems and Identification",
+  "count_recent": 23,
+  "count_prev": 15,
+  "share_recent": 0.0052,
+  "share_prev": 0.01329,
+  "growth": 0.392,
+  "eligible": true
+ },
+ {
+  "id": "T12101",
+  "name": "Advanced Bandit Algorithms Research",
+  "count_recent": 36,
+  "count_prev": 23,
+  "share_recent": 0.00814,
+  "share_prev": 0.02037,
+  "growth": 0.4,
+  "eligible": true
+ },
+ {
+  "id": "T10008",
+  "name": "Teacher Education and Leadership Studies",
+  "count_recent": 31,
+  "count_prev": 21,
+  "share_recent": 0.00701,
+  "share_prev": 0.0186,
+  "growth": 0.377,
+  "eligible": true
+ },
+ {
+  "id": "T10916",
+  "name": "Surgical Simulation and Training",
+  "count_recent": 103,
+  "count_prev": 56,
+  "share_recent": 0.0233,
+  "share_prev": 0.0496,
+  "growth": 0.47,
+  "eligible": true
+ },
+ {
+  "id": "T11238",
+  "name": "Simulation-Based Education in Healthcare",
+  "count_recent": 180,
+  "count_prev": 91,
+  "share_recent": 0.04072,
+  "share_prev": 0.0806,
+  "growth": 0.505,
+  "eligible": true
+ },
+ {
+  "id": "T10254",
+  "name": "Innovations in Medical Education",
+  "count_recent": 290,
+  "count_prev": 141,
+  "share_recent": 0.06561,
+  "share_prev": 0.12489,
+  "growth": 0.525,
+  "eligible": true
+ },
+ {
+  "id": "T10162",
+  "name": "Online and Blended Learning",
+  "count_recent": 16,
+  "count_prev": 20,
+  "share_recent": 0.00362,
+  "share_prev": 0.01771,
+  "growth": 0.204,
+  "eligible": false
+ },
+ {
+  "id": "T10734",
+  "name": "Information and Cyber Security",
+  "count_recent": 16,
+  "count_prev": 2,
+  "share_recent": 0.00362,
+  "share_prev": 0.00177,
+  "growth": 2.043,
+  "eligible": false
+ },
+ {
+  "id": "T11307",
+  "name": "Domain Adaptation and Few-Shot Learning",
+  "count_recent": 16,
+  "count_prev": 9,
+  "share_recent": 0.00362,
+  "share_prev": 0.00797,
+  "growth": 0.454,
+  "eligible": false
+ },
+ {
+  "id": "T11526",
+  "name": "Innovative Teaching Methods",
+  "count_recent": 16,
+  "count_prev": 10,
+  "share_recent": 0.00362,
+  "share_prev": 0.00886,
+  "growth": 0.409,
+  "eligible": false
+ },
+ {
+  "id": "T12451",
+  "name": "Smart Grid and Power Systems",
+  "count_recent": 16,
+  "count_prev": 3,
+  "share_recent": 0.00362,
+  "share_prev": 0.00266,
+  "growth": 1.362,
+  "eligible": false
+ },
+ {
+  "id": "T12500",
+  "name": "Reflective Practices in Education",
+  "count_recent": 16,
+  "count_prev": 6,
+  "share_recent": 0.00362,
+  "share_prev": 0.00531,
+  "growth": 0.681,
+  "eligible": false
+ },
+ {
+  "id": "T13529",
+  "name": "Education Systems and Policies",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00362,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14277",
+  "name": "Social Skills and Education",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00362,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14483",
+  "name": "Education and Teacher Training",
+  "count_recent": 16,
+  "count_prev": 5,
+  "share_recent": 0.00362,
+  "share_prev": 0.00443,
+  "growth": 0.817,
+  "eligible": false
+ },
+ {
+  "id": "T10764",
+  "name": "Privacy-Preserving Technologies in Data",
+  "count_recent": 15,
+  "count_prev": 4,
+  "share_recent": 0.00339,
+  "share_prev": 0.00354,
+  "growth": 0.958,
+  "eligible": false
+ },
+ {
+  "id": "T10826",
+  "name": "Behavioral and Psychological Studies",
+  "count_recent": 15,
+  "count_prev": 5,
+  "share_recent": 0.00339,
+  "share_prev": 0.00443,
+  "growth": 0.766,
+  "eligible": false
+ },
+ {
+  "id": "T11497",
+  "name": "Interprofessional Education and Collaboration",
+  "count_recent": 15,
+  "count_prev": 11,
+  "share_recent": 0.00339,
+  "share_prev": 0.00974,
+  "growth": 0.348,
+  "eligible": false
+ },
+ {
+  "id": "T11749",
+  "name": "Iterative Learning Control Systems",
+  "count_recent": 15,
+  "count_prev": 9,
+  "share_recent": 0.00339,
+  "share_prev": 0.00797,
+  "growth": 0.426,
+  "eligible": false
+ },
+ {
+  "id": "T12993",
+  "name": "Psychology of Development and Education",
+  "count_recent": 15,
+  "count_prev": 0,
+  "share_recent": 0.00339,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13382",
+  "name": "Robotics and Automated Systems",
+  "count_recent": 15,
+  "count_prev": 0,
+  "share_recent": 0.00339,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13769",
+  "name": "Fusion and Plasma Physics Studies",
+  "count_recent": 15,
+  "count_prev": 0,
+  "share_recent": 0.00339,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10504",
+  "name": "Sensorless Control of Electric Motors",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00317,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10531",
+  "name": "Advanced Vision and Imaging",
+  "count_recent": 14,
+  "count_prev": 4,
+  "share_recent": 0.00317,
+  "share_prev": 0.00354,
+  "growth": 0.894,
+  "eligible": false
+ },
+ {
+  "id": "T11299",
+  "name": "Problem and Project Based Learning",
+  "count_recent": 14,
+  "count_prev": 3,
+  "share_recent": 0.00317,
+  "share_prev": 0.00266,
+  "growth": 1.192,
+  "eligible": false
+ },
+ {
+  "id": "T11714",
+  "name": "Multimodal Machine Learning Applications",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00317,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13014",
+  "name": "Peace and Human Rights Education",
+  "count_recent": 14,
+  "count_prev": 3,
+  "share_recent": 0.00317,
+  "share_prev": 0.00266,
+  "growth": 1.192,
+  "eligible": false
+ },
+ {
+  "id": "T13424",
+  "name": "Ukraine: War, Education, Health",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00317,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14083",
+  "name": "Extremum Seeking Control Systems",
+  "count_recent": 14,
+  "count_prev": 3,
+  "share_recent": 0.00317,
+  "share_prev": 0.00266,
+  "growth": 1.192,
+  "eligible": false
+ },
+ {
+  "id": "T14299",
+  "name": "Complex Systems and Dynamics",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00317,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10346",
+  "name": "Magnetic confinement fusion research",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10709",
+  "name": "Social Robot Interaction and HRI",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10714",
+  "name": "Software-Defined Networks and 5G",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10933",
+  "name": "Real-Time Systems Scheduling",
+  "count_recent": 13,
+  "count_prev": 3,
+  "share_recent": 0.00294,
+  "share_prev": 0.00266,
+  "growth": 1.107,
+  "eligible": false
+ },
+ {
+  "id": "T11039",
+  "name": "Evaluation of Teaching Practices",
+  "count_recent": 13,
+  "count_prev": 9,
+  "share_recent": 0.00294,
+  "share_prev": 0.00797,
+  "growth": 0.369,
+  "eligible": false
+ },
+ {
+  "id": "T11295",
+  "name": "Counseling Practices and Supervision",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11587",
+  "name": "Second Language Acquisition and Learning",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13106",
+  "name": "Neuroscience, Education and Cognitive Function",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13652",
+  "name": "Education and Social Development in Ukraine",
+  "count_recent": 13,
+  "count_prev": 4,
+  "share_recent": 0.00294,
+  "share_prev": 0.00354,
+  "growth": 0.83,
+  "eligible": false
+ },
+ {
+  "id": "T13840",
+  "name": "Chemical Safety and Risk Management",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14207",
+  "name": "Higher Education Practises and Engagement",
+  "count_recent": 13,
+  "count_prev": 3,
+  "share_recent": 0.00294,
+  "share_prev": 0.00266,
+  "growth": 1.107,
+  "eligible": false
+ },
+ {
+  "id": "T14444",
+  "name": "Power Systems and Renewable Energy",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00294,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10126",
+  "name": "Logic, programming, and type systems",
+  "count_recent": 12,
+  "count_prev": 2,
+  "share_recent": 0.00271,
+  "share_prev": 0.00177,
+  "growth": 1.533,
+  "eligible": false
+ },
+ {
+  "id": "T10182",
+  "name": "Child and Adolescent Psychosocial and Emotional Development",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00271,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10286",
+  "name": "Information Retrieval and Search Behavior",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00271,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10456",
+  "name": "Multi-Agent Systems and Negotiation",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00271,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10545",
+  "name": "Optimization and Variational Analysis",
+  "count_recent": 12,
+  "count_prev": 3,
+  "share_recent": 0.00271,
+  "share_prev": 0.00266,
+  "growth": 1.022,
+  "eligible": false
+ },
+ {
+  "id": "T10843",
+  "name": "Diversity and Career in Medicine",
+  "count_recent": 12,
+  "count_prev": 6,
+  "share_recent": 0.00271,
+  "share_prev": 0.00531,
+  "growth": 0.511,
+  "eligible": false
+ },
+ {
+  "id": "T10888",
+  "name": "Augmented Reality Applications",
+  "count_recent": 12,
+  "count_prev": 5,
+  "share_recent": 0.00271,
+  "share_prev": 0.00443,
+  "growth": 0.613,
+  "eligible": false
+ },
+ {
+  "id": "T12125",
+  "name": "Aerospace and Aviation Technology",
+  "count_recent": 12,
+  "count_prev": 4,
+  "share_recent": 0.00271,
+  "share_prev": 0.00354,
+  "growth": 0.766,
+  "eligible": false
+ },
+ {
+  "id": "T12127",
+  "name": "Software System Performance and Reliability",
+  "count_recent": 12,
+  "count_prev": 3,
+  "share_recent": 0.00271,
+  "share_prev": 0.00266,
+  "growth": 1.022,
+  "eligible": false
+ },
+ {
+  "id": "T12978",
+  "name": "Innovative Teaching Methodologies in Social Sciences",
+  "count_recent": 12,
+  "count_prev": 4,
+  "share_recent": 0.00271,
+  "share_prev": 0.00354,
+  "growth": 0.766,
+  "eligible": false
+ },
+ {
+  "id": "T13084",
+  "name": "Education during COVID-19 pandemic",
+  "count_recent": 12,
+  "count_prev": 38,
+  "share_recent": 0.00271,
+  "share_prev": 0.03366,
+  "growth": 0.081,
+  "eligible": false
+ },
+ {
+  "id": "T13085",
+  "name": "Education, Psychology, and Social Research",
+  "count_recent": 12,
+  "count_prev": 3,
+  "share_recent": 0.00271,
+  "share_prev": 0.00266,
+  "growth": 1.022,
+  "eligible": false
+ },
+ {
+  "id": "T14111",
+  "name": "Diverse Research Studies Overview",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00271,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10177",
+  "name": "Palliative Care and End-of-Life Issues",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.00249,
+  "share_prev": 0.00266,
+  "growth": 0.937,
+  "eligible": false
+ },
+ {
+  "id": "T10228",
+  "name": "Multilevel Inverters and Converters",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10525",
+  "name": "Human-Automation Interaction and Safety",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11010",
+  "name": "Logic, Reasoning, and Knowledge",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11409",
+  "name": "Advanced Wireless Network Optimization",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11902",
+  "name": "Intelligent Tutoring Systems and Adaptive Learning",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12290",
+  "name": "Human Motion and Animation",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13040",
+  "name": "Gender, Education, and Development Issues",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13315",
+  "name": "Occupational Health and Safety in Workplaces",
+  "count_recent": 11,
+  "count_prev": 4,
+  "share_recent": 0.00249,
+  "share_prev": 0.00354,
+  "growth": 0.702,
+  "eligible": false
+ },
+ {
+  "id": "T14251",
+  "name": "Multicultural Education and Local Wisdom",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00249,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10101",
+  "name": "Cloud Computing and Resource Management",
+  "count_recent": 10,
+  "count_prev": 5,
+  "share_recent": 0.00226,
+  "share_prev": 0.00443,
+  "growth": 0.511,
+  "eligible": false
+ },
+ {
+  "id": "T10156",
+  "name": "LGBTQ Health, Identity, and Policy",
+  "count_recent": 10,
+  "count_prev": 6,
+  "share_recent": 0.00226,
+  "share_prev": 0.00531,
+  "growth": 0.426,
+  "eligible": false
+ },
+ {
+  "id": "T10265",
+  "name": "Multilingual Education and Policy",
+  "count_recent": 10,
+  "count_prev": 4,
+  "share_recent": 0.00226,
+  "share_prev": 0.00354,
+  "growth": 0.639,
+  "eligible": false
+ },
+ {
+  "id": "T10278",
+  "name": "Electric Motor Design and Analysis",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10327",
+  "name": "Adolescent Sexual and Reproductive Health",
+  "count_recent": 10,
+  "count_prev": 2,
+  "share_recent": 0.00226,
+  "share_prev": 0.00177,
+  "growth": 1.277,
+  "eligible": false
+ },
+ {
+  "id": "T10400",
+  "name": "Network Security and Intrusion Detection",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10726",
+  "name": "Career Development and Diversity",
+  "count_recent": 10,
+  "count_prev": 3,
+  "share_recent": 0.00226,
+  "share_prev": 0.00266,
+  "growth": 0.851,
+  "eligible": false
+ },
+ {
+  "id": "T11007",
+  "name": "Hybrid Renewable Energy Systems",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T11028",
+  "name": "Social Work Education and Practice",
+  "count_recent": 10,
+  "count_prev": 6,
+  "share_recent": 0.00226,
+  "share_prev": 0.00531,
+  "growth": 0.426,
+  "eligible": false
+ },
+ {
+  "id": "T11206",
+  "name": "Model Reduction and Neural Networks",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T12031",
+  "name": "Speech and dialogue systems",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13063",
+  "name": "Education and experiences of immigrants and refugees",
+  "count_recent": 10,
+  "count_prev": 5,
+  "share_recent": 0.00226,
+  "share_prev": 0.00443,
+  "growth": 0.511,
+  "eligible": false
+ },
+ {
+  "id": "T13851",
+  "name": "Law, AI, and Intellectual Property",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13898",
+  "name": "Diverse Interdisciplinary Research Studies",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T13981",
+  "name": "Violence, Education, and Gender Studies",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14060",
+  "name": "Education and Communication Studies",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T14354",
+  "name": "Emergency Medicine Education and Research",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00226,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10203",
+  "name": "Recommender Systems and Techniques",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00204,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10270",
+  "name": "Blockchain Technology Applications and Security",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00204,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10348",
+  "name": "Indigenous Health, Education, and Rights",
+  "count_recent": 9,
+  "count_prev": 6,
+  "share_recent": 0.00204,
+  "share_prev": 0.00531,
+  "growth": 0.383,
+  "eligible": false
+ },
+ {
+  "id": "T10380",
+  "name": "Intimate Partner and Family Violence",
+  "count_recent": 9,
+  "count_prev": 2,
+  "share_recent": 0.00204,
+  "share_prev": 0.00177,
+  "growth": 1.149,
+  "eligible": false
+ },
+ {
+  "id": "T10616",
+  "name": "Smart Agriculture and AI",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00204,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "T10761",
+  "name": "Vehicular Ad Hoc Networks (VANETs)",
+  "count_recent": 9,
+  "count_prev": 2,
+  "share_recent": 0.00204,
+  "share_prev": 0.00177,
+  "growth": 1.149,
+  "eligible": false
+ },
+ {
+  "id": "T11081",
+  "name": "Advanced Control Systems Design",
+  "count_recent": 9,
+  "count_prev": 4,
+  "share_recent": 0.00204,
+  "share_prev": 0.00354,
+  "growth": 0.575,
+  "eligible": false
+ },
+ {
+  "id": "T11344",
+  "name": "Traffic Prediction and Management Techniques",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00204,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

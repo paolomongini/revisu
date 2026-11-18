@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "regulatory-compliance",
+  "name": "regulatory compliance",
+  "count_recent": 142,
+  "count_prev": 2,
+  "share_recent": 0.00951,
+  "share_prev": 0.00054,
+  "growth": 17.663,
+  "eligible": true
+ },
+ {
+  "id": "generative-ai",
+  "name": "generative AI",
+  "count_recent": 270,
+  "count_prev": 6,
+  "share_recent": 0.01808,
+  "share_prev": 0.00162,
+  "growth": 11.195,
+  "eligible": true
+ },
+ {
+  "id": "precision-agriculture",
+  "name": "precision agriculture",
+  "count_recent": 118,
+  "count_prev": 2,
+  "share_recent": 0.0079,
+  "share_prev": 0.00054,
+  "growth": 14.678,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence-in-manufacturing",
+  "name": "artificial intelligence in manufacturing",
+  "count_recent": 115,
+  "count_prev": 2,
+  "share_recent": 0.0077,
+  "share_prev": 0.00054,
+  "growth": 14.305,
+  "eligible": true
+ },
+ {
+  "id": "data-quality",
+  "name": "data quality",
+  "count_recent": 115,
+  "count_prev": 2,
+  "share_recent": 0.0077,
+  "share_prev": 0.00054,
+  "growth": 14.305,
+  "eligible": true
+ },
+ {
+  "id": "physics-informed-machine-learning",
+  "name": "physics-informed machine learning",
+  "count_recent": 171,
+  "count_prev": 4,
+  "share_recent": 0.01145,
+  "share_prev": 0.00108,
+  "growth": 10.635,
+  "eligible": true
+ },
+ {
+  "id": "model-interpretability",
+  "name": "model interpretability",
+  "count_recent": 105,
+  "count_prev": 2,
+  "share_recent": 0.00703,
+  "share_prev": 0.00054,
+  "growth": 13.061,
+  "eligible": true
+ },
+ {
+  "id": "load-forecasting",
+  "name": "load forecasting",
+  "count_recent": 94,
+  "count_prev": 2,
+  "share_recent": 0.00629,
+  "share_prev": 0.00054,
+  "growth": 11.693,
+  "eligible": true
+ },
+ {
+  "id": "thermal-management",
+  "name": "thermal management",
+  "count_recent": 90,
+  "count_prev": 2,
+  "share_recent": 0.00603,
+  "share_prev": 0.00054,
+  "growth": 11.195,
+  "eligible": true
+ },
+ {
+  "id": "physics-informed-neural-networks",
+  "name": "physics-informed neural networks",
+  "count_recent": 257,
+  "count_prev": 9,
+  "share_recent": 0.01721,
+  "share_prev": 0.00242,
+  "growth": 7.104,
+  "eligible": true
+ },
+ {
+  "id": "life-cycle-assessment",
+  "name": "life cycle assessment",
+  "count_recent": 151,
+  "count_prev": 5,
+  "share_recent": 0.01011,
+  "share_prev": 0.00135,
+  "growth": 7.513,
+  "eligible": true
+ },
+ {
+  "id": "battery-degradation",
+  "name": "battery degradation",
+  "count_recent": 78,
+  "count_prev": 2,
+  "share_recent": 0.00522,
+  "share_prev": 0.00054,
+  "growth": 9.702,
+  "eligible": true
+ },
+ {
+  "id": "explainable-ai",
+  "name": "explainable AI",
+  "count_recent": 504,
+  "count_prev": 27,
+  "share_recent": 0.03375,
+  "share_prev": 0.00727,
+  "growth": 4.644,
+  "eligible": true
+ },
+ {
+  "id": "generative-design",
+  "name": "generative design",
+  "count_recent": 69,
+  "count_prev": 2,
+  "share_recent": 0.00462,
+  "share_prev": 0.00054,
+  "growth": 8.583,
+  "eligible": true
+ },
+ {
+  "id": "enterprise-resource-planning",
+  "name": "enterprise resource planning",
+  "count_recent": 89,
+  "count_prev": 3,
+  "share_recent": 0.00596,
+  "share_prev": 0.00081,
+  "growth": 7.38,
+  "eligible": true
+ },
+ {
+  "id": "operational-efficiency",
+  "name": "operational efficiency",
+  "count_recent": 108,
+  "count_prev": 4,
+  "share_recent": 0.00723,
+  "share_prev": 0.00108,
+  "growth": 6.717,
+  "eligible": true
+ },
+ {
+  "id": "predictive-analytics",
+  "name": "predictive analytics",
+  "count_recent": 330,
+  "count_prev": 20,
+  "share_recent": 0.0221,
+  "share_prev": 0.00538,
+  "growth": 4.105,
+  "eligible": true
+ },
+ {
+  "id": "explainability",
+  "name": "explainability",
+  "count_recent": 91,
+  "count_prev": 4,
+  "share_recent": 0.00609,
+  "share_prev": 0.00108,
+  "growth": 5.66,
+  "eligible": true
+ },
+ {
+  "id": "federated-learning",
+  "name": "federated learning",
+  "count_recent": 426,
+  "count_prev": 31,
+  "share_recent": 0.02853,
+  "share_prev": 0.00834,
+  "growth": 3.419,
+  "eligible": true
+ },
+ {
+  "id": "data-scarcity",
+  "name": "data scarcity",
+  "count_recent": 85,
+  "count_prev": 4,
+  "share_recent": 0.00569,
+  "share_prev": 0.00108,
+  "growth": 5.287,
+  "eligible": true
+ },
+ {
+  "id": "cybersecurity",
+  "name": "cybersecurity",
+  "count_recent": 521,
+  "count_prev": 40,
+  "share_recent": 0.03489,
+  "share_prev": 0.01077,
+  "growth": 3.24,
+  "eligible": true
+ },
+ {
+  "id": "traceability",
+  "name": "traceability",
+  "count_recent": 80,
+  "count_prev": 4,
+  "share_recent": 0.00536,
+  "share_prev": 0.00108,
+  "growth": 4.976,
+  "eligible": true
+ },
+ {
+  "id": "xgboost",
+  "name": "XGBoost",
+  "count_recent": 80,
+  "count_prev": 4,
+  "share_recent": 0.00536,
+  "share_prev": 0.00108,
+  "growth": 4.976,
+  "eligible": true
+ },
+ {
+  "id": "multimodal-fusion",
+  "name": "multimodal fusion",
+  "count_recent": 78,
+  "count_prev": 4,
+  "share_recent": 0.00522,
+  "share_prev": 0.00108,
+  "growth": 4.851,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 361,
+  "count_prev": 0,
+  "share_recent": 0.02417,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "circular-economy",
+  "name": "circular economy",
+  "count_recent": 264,
+  "count_prev": 22,
+  "share_recent": 0.01768,
+  "share_prev": 0.00592,
+  "growth": 2.985,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-reinforcement-learning",
+  "name": "multi-agent reinforcement learning",
+  "count_recent": 104,
+  "count_prev": 7,
+  "share_recent": 0.00696,
+  "share_prev": 0.00188,
+  "growth": 3.696,
+  "eligible": true
+ },
+ {
+  "id": "industry-5-0",
+  "name": "Industry 5.0",
+  "count_recent": 543,
+  "count_prev": 52,
+  "share_recent": 0.03636,
+  "share_prev": 0.014,
+  "growth": 2.598,
+  "eligible": true
+ },
+ {
+  "id": "graph-neural-networks",
+  "name": "graph neural networks",
+  "count_recent": 147,
+  "count_prev": 11,
+  "share_recent": 0.00984,
+  "share_prev": 0.00296,
+  "growth": 3.325,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 600,
+  "count_prev": 59,
+  "share_recent": 0.04018,
+  "share_prev": 0.01588,
+  "growth": 2.53,
+  "eligible": true
+ },
+ {
+  "id": "waste-reduction",
+  "name": "waste reduction",
+  "count_recent": 78,
+  "count_prev": 5,
+  "share_recent": 0.00522,
+  "share_prev": 0.00135,
+  "growth": 3.881,
+  "eligible": true
+ },
+ {
+  "id": "edge-intelligence",
+  "name": "edge AI",
+  "count_recent": 182,
+  "count_prev": 15,
+  "share_recent": 0.01219,
+  "share_prev": 0.00404,
+  "growth": 3.019,
+  "eligible": true
+ },
+ {
+  "id": "supply-chain-resilience",
+  "name": "supply chain resilience",
+  "count_recent": 258,
+  "count_prev": 23,
+  "share_recent": 0.01728,
+  "share_prev": 0.00619,
+  "growth": 2.791,
+  "eligible": true
+ },
+ {
+  "id": "sustainable-manufacturing",
+  "name": "sustainable manufacturing",
+  "count_recent": 270,
+  "count_prev": 26,
+  "share_recent": 0.01808,
+  "share_prev": 0.007,
+  "growth": 2.583,
+  "eligible": true
+ },
+ {
+  "id": "data-privacy",
+  "name": "data privacy",
+  "count_recent": 159,
+  "count_prev": 14,
+  "share_recent": 0.01065,
+  "share_prev": 0.00377,
+  "growth": 2.825,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 214,
+  "count_prev": 20,
+  "share_recent": 0.01433,
+  "share_prev": 0.00538,
+  "growth": 2.662,
+  "eligible": true
+ },
+ {
+  "id": "ai-governance",
+  "name": "AI governance",
+  "count_recent": 117,
+  "count_prev": 0,
+  "share_recent": 0.00783,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "agentic-ai",
+  "name": "agentic AI",
+  "count_recent": 112,
+  "count_prev": 0,
+  "share_recent": 0.0075,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "lstm",
+  "name": "LSTM",
+  "count_recent": 99,
+  "count_prev": 8,
+  "share_recent": 0.00663,
+  "share_prev": 0.00215,
+  "growth": 3.079,
+  "eligible": true
+ },
+ {
+  "id": "demand-forecasting",
+  "name": "demand forecasting",
+  "count_recent": 117,
+  "count_prev": 10,
+  "share_recent": 0.00783,
+  "share_prev": 0.00269,
+  "growth": 2.911,
+  "eligible": true
+ },
+ {
+  "id": "shap",
+  "name": "SHAP",
+  "count_recent": 79,
+  "count_prev": 0,
+  "share_recent": 0.00529,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "battery-management-systems",
+  "name": "battery management systems",
+  "count_recent": 73,
+  "count_prev": 6,
+  "share_recent": 0.00489,
+  "share_prev": 0.00162,
+  "growth": 3.027,
+  "eligible": true
+ },
+ {
+  "id": "decarbonization",
+  "name": "decarbonization",
+  "count_recent": 92,
+  "count_prev": 8,
+  "share_recent": 0.00616,
+  "share_prev": 0.00215,
+  "growth": 2.861,
+  "eligible": true
+ },
+ {
+  "id": "algorithmic-bias",
+  "name": "algorithmic bias",
+  "count_recent": 73,
+  "count_prev": 0,
+  "share_recent": 0.00489,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "pharmaceutical-manufacturing",
+  "name": "pharmaceutical manufacturing",
+  "count_recent": 80,
+  "count_prev": 7,
+  "share_recent": 0.00536,
+  "share_prev": 0.00188,
+  "growth": 2.843,
+  "eligible": true
+ },
+ {
+  "id": "co2-emissions",
+  "name": "CO2 emissions",
+  "count_recent": 88,
+  "count_prev": 8,
+  "share_recent": 0.00589,
+  "share_prev": 0.00215,
+  "growth": 2.737,
+  "eligible": true
+ },
+ {
+  "id": "data-governance",
+  "name": "data governance",
+  "count_recent": 190,
+  "count_prev": 20,
+  "share_recent": 0.01272,
+  "share_prev": 0.00538,
+  "growth": 2.363,
+  "eligible": true
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 243,
+  "count_prev": 27,
+  "share_recent": 0.01627,
+  "share_prev": 0.00727,
+  "growth": 2.239,
+  "eligible": true
+ },
+ {
+  "id": "multiphysics-simulation",
+  "name": "multiphysics simulation",
+  "count_recent": 129,
+  "count_prev": 13,
+  "share_recent": 0.00864,
+  "share_prev": 0.0035,
+  "growth": 2.469,
+  "eligible": true
+ },
+ {
+  "id": "scalability",
+  "name": "scalability",
+  "count_recent": 101,
+  "count_prev": 10,
+  "share_recent": 0.00676,
+  "share_prev": 0.00269,
+  "growth": 2.513,
+  "eligible": true
+ },
+ {
+  "id": "anomaly-detection",
+  "name": "anomaly detection",
+  "count_recent": 465,
+  "count_prev": 58,
+  "share_recent": 0.03114,
+  "share_prev": 0.01561,
+  "growth": 1.995,
+  "eligible": true
+ },
+ {
+  "id": "edge-cloud-computing",
+  "name": "edge-cloud computing",
+  "count_recent": 99,
+  "count_prev": 10,
+  "share_recent": 0.00663,
+  "share_prev": 0.00269,
+  "growth": 2.463,
+  "eligible": true
+ },
+ {
+  "id": "predictive-maintenance",
+  "name": "predictive maintenance",
+  "count_recent": 1335,
+  "count_prev": 188,
+  "share_recent": 0.0894,
+  "share_prev": 0.05061,
+  "growth": 1.767,
+  "eligible": true
+ },
+ {
+  "id": "6g-networks",
+  "name": "6G",
+  "count_recent": 212,
+  "count_prev": 25,
+  "share_recent": 0.0142,
+  "share_prev": 0.00673,
+  "growth": 2.11,
+  "eligible": true
+ },
+ {
+  "id": "bayesian-optimization",
+  "name": "Bayesian optimization",
+  "count_recent": 71,
+  "count_prev": 7,
+  "share_recent": 0.00475,
+  "share_prev": 0.00188,
+  "growth": 2.523,
+  "eligible": true
+ },
+ {
+  "id": "cybersecurity-risks",
+  "name": "cybersecurity risks",
+  "count_recent": 79,
+  "count_prev": 8,
+  "share_recent": 0.00529,
+  "share_prev": 0.00215,
+  "growth": 2.457,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 270,
+  "count_prev": 34,
+  "share_recent": 0.01808,
+  "share_prev": 0.00915,
+  "growth": 1.976,
+  "eligible": true
+ },
+ {
+  "id": "human-ai-collaboration",
+  "name": "human-AI collaboration",
+  "count_recent": 77,
+  "count_prev": 8,
+  "share_recent": 0.00516,
+  "share_prev": 0.00215,
+  "growth": 2.394,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence",
+  "name": "artificial intelligence",
+  "count_recent": 1399,
+  "count_prev": 207,
+  "share_recent": 0.09369,
+  "share_prev": 0.05572,
+  "growth": 1.681,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 342,
+  "count_prev": 45,
+  "share_recent": 0.0229,
+  "share_prev": 0.01211,
+  "growth": 1.891,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 195,
+  "count_prev": 24,
+  "share_recent": 0.01306,
+  "share_prev": 0.00646,
+  "growth": 2.021,
+  "eligible": true
+ },
+ {
+  "id": "computational-fluid-dynamics",
+  "name": "computational fluid dynamics",
+  "count_recent": 98,
+  "count_prev": 11,
+  "share_recent": 0.00656,
+  "share_prev": 0.00296,
+  "growth": 2.216,
+  "eligible": true
+ },
+ {
+  "id": "sustainable-construction",
+  "name": "sustainable construction",
+  "count_recent": 82,
+  "count_prev": 9,
+  "share_recent": 0.00549,
+  "share_prev": 0.00242,
+  "growth": 2.267,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 496,
+  "count_prev": 69,
+  "share_recent": 0.03322,
+  "share_prev": 0.01857,
+  "growth": 1.788,
+  "eligible": true
+ },
+ {
+  "id": "mqtt",
+  "name": "MQTT",
+  "count_recent": 74,
+  "count_prev": 8,
+  "share_recent": 0.00496,
+  "share_prev": 0.00215,
+  "growth": 2.301,
+  "eligible": true
+ },
+ {
+  "id": "multi-source-data-fusion",
+  "name": "multi-source data fusion",
+  "count_recent": 81,
+  "count_prev": 9,
+  "share_recent": 0.00542,
+  "share_prev": 0.00242,
+  "growth": 2.239,
+  "eligible": true
+ },
+ {
+  "id": "standardization",
+  "name": "standardization",
+  "count_recent": 73,
+  "count_prev": 8,
+  "share_recent": 0.00489,
+  "share_prev": 0.00215,
+  "growth": 2.27,
+  "eligible": true
+ },
+ {
+  "id": "data-interoperability",
+  "name": "data interoperability",
+  "count_recent": 125,
+  "count_prev": 15,
+  "share_recent": 0.00837,
+  "share_prev": 0.00404,
+  "growth": 2.073,
+  "eligible": true
+ },
+ {
+  "id": "proximal-policy-optimization",
+  "name": "proximal policy optimization",
+  "count_recent": 88,
+  "count_prev": 10,
+  "share_recent": 0.00589,
+  "share_prev": 0.00269,
+  "growth": 2.189,
+  "eligible": true
+ },
+ {
+  "id": "risk-management",
+  "name": "risk management",
+  "count_recent": 78,
+  "count_prev": 9,
+  "share_recent": 0.00522,
+  "share_prev": 0.00242,
+  "growth": 2.156,
+  "eligible": true
+ },
+ {
+  "id": "human-machine-collaboration",
+  "name": "human-machine collaboration",
+  "count_recent": 121,
+  "count_prev": 15,
+  "share_recent": 0.0081,
+  "share_prev": 0.00404,
+  "growth": 2.007,
+  "eligible": true
+ },
+ {
+  "id": "smart-agriculture",
+  "name": "smart agriculture",
+  "count_recent": 70,
+  "count_prev": 8,
+  "share_recent": 0.00469,
+  "share_prev": 0.00215,
+  "growth": 2.177,
+  "eligible": true
+ },
+ {
+  "id": "feedback-control",
+  "name": "feedback control",
+  "count_recent": 282,
+  "count_prev": 39,
+  "share_recent": 0.01888,
+  "share_prev": 0.0105,
+  "growth": 1.799,
+  "eligible": true
+ },
+ {
+  "id": "predictive-control",
+  "name": "predictive control",
+  "count_recent": 111,
+  "count_prev": 14,
+  "share_recent": 0.00743,
+  "share_prev": 0.00377,
+  "growth": 1.972,
+  "eligible": true
+ },
+ {
+  "id": "random-forest",
+  "name": "random forest",
+  "count_recent": 97,
+  "count_prev": 12,
+  "share_recent": 0.0065,
+  "share_prev": 0.00323,
+  "growth": 2.011,
+  "eligible": true
+ },
+ {
+  "id": "defect-detection",
+  "name": "defect detection",
+  "count_recent": 144,
+  "count_prev": 19,
+  "share_recent": 0.00964,
+  "share_prev": 0.00511,
+  "growth": 1.885,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 164,
+  "count_prev": 22,
+  "share_recent": 0.01098,
+  "share_prev": 0.00592,
+  "growth": 1.855,
+  "eligible": true
+ },
+ {
+  "id": "surrogate-modeling",
+  "name": "surrogate models",
+  "count_recent": 249,
+  "count_prev": 35,
+  "share_recent": 0.01667,
+  "share_prev": 0.00942,
+  "growth": 1.77,
+  "eligible": true
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 313,
+  "count_prev": 45,
+  "share_recent": 0.02096,
+  "share_prev": 0.01211,
+  "growth": 1.73,
+  "eligible": true
+ },
+ {
+  "id": "inventory-management",
+  "name": "inventory management",
+  "count_recent": 82,
+  "count_prev": 10,
+  "share_recent": 0.00549,
+  "share_prev": 0.00269,
+  "growth": 2.04,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 306,
+  "count_prev": 44,
+  "share_recent": 0.02049,
+  "share_prev": 0.01184,
+  "growth": 1.73,
+  "eligible": true
+ },
+ {
+  "id": "data-integrity",
+  "name": "data integrity",
+  "count_recent": 79,
+  "count_prev": 10,
+  "share_recent": 0.00529,
+  "share_prev": 0.00269,
+  "growth": 1.965,
+  "eligible": true
+ },
+ {
+  "id": "transfer-learning",
+  "name": "transfer learning",
+  "count_recent": 106,
+  "count_prev": 14,
+  "share_recent": 0.0071,
+  "share_prev": 0.00377,
+  "growth": 1.884,
+  "eligible": true
+ },
+ {
+  "id": "battery-energy-storage",
+  "name": "battery energy storage",
+  "count_recent": 89,
+  "count_prev": 12,
+  "share_recent": 0.00596,
+  "share_prev": 0.00323,
+  "growth": 1.845,
+  "eligible": true
+ },
+ {
+  "id": "interoperability",
+  "name": "interoperability",
+  "count_recent": 517,
+  "count_prev": 83,
+  "share_recent": 0.03462,
+  "share_prev": 0.02234,
+  "growth": 1.55,
+  "eligible": true
+ },
+ {
+  "id": "predictive-modeling",
+  "name": "predictive modeling",
+  "count_recent": 82,
+  "count_prev": 11,
+  "share_recent": 0.00549,
+  "share_prev": 0.00296,
+  "growth": 1.855,
+  "eligible": true
+ },
+ {
+  "id": "sustainability",
+  "name": "sustainability",
+  "count_recent": 201,
+  "count_prev": 30,
+  "share_recent": 0.01346,
+  "share_prev": 0.00808,
+  "growth": 1.667,
+  "eligible": true
+ },
+ {
+  "id": "technology-adoption-barriers",
+  "name": "technology adoption barriers",
+  "count_recent": 74,
+  "count_prev": 10,
+  "share_recent": 0.00496,
+  "share_prev": 0.00269,
+  "growth": 1.841,
+  "eligible": true
+ },
+ {
+  "id": "robotics",
+  "name": "robotics",
+  "count_recent": 127,
+  "count_prev": 19,
+  "share_recent": 0.0085,
+  "share_prev": 0.00511,
+  "growth": 1.663,
+  "eligible": true
+ },
+ {
+  "id": "energy-management",
+  "name": "energy management",
+  "count_recent": 133,
+  "count_prev": 20,
+  "share_recent": 0.00891,
+  "share_prev": 0.00538,
+  "growth": 1.654,
+  "eligible": true
+ },
+ {
+  "id": "quality-control",
+  "name": "quality control",
+  "count_recent": 186,
+  "count_prev": 29,
+  "share_recent": 0.01246,
+  "share_prev": 0.00781,
+  "growth": 1.596,
+  "eligible": true
+ },
+ {
+  "id": "edge-computing",
+  "name": "edge computing",
+  "count_recent": 588,
+  "count_prev": 100,
+  "share_recent": 0.03938,
+  "share_prev": 0.02692,
+  "growth": 1.463,
+  "eligible": true
+ },
+ {
+  "id": "online-process-monitoring",
+  "name": "real-time process monitoring",
+  "count_recent": 100,
+  "count_prev": 15,
+  "share_recent": 0.0067,
+  "share_prev": 0.00404,
+  "growth": 1.659,
+  "eligible": true
+ },
+ {
+  "id": "personalized-medicine",
+  "name": "personalized medicine",
+  "count_recent": 94,
+  "count_prev": 14,
+  "share_recent": 0.00629,
+  "share_prev": 0.00377,
+  "growth": 1.67,
+  "eligible": true
+ },
+ {
+  "id": "machine-learning",
+  "name": "machine learning",
+  "count_recent": 866,
+  "count_prev": 154,
+  "share_recent": 0.05799,
+  "share_prev": 0.04145,
+  "growth": 1.399,
+  "eligible": true
+ },
+ {
+  "id": "energy-consumption-reduction",
+  "name": "energy consumption reduction",
+  "count_recent": 104,
+  "count_prev": 16,
+  "share_recent": 0.00696,
+  "share_prev": 0.00431,
+  "growth": 1.617,
+  "eligible": true
+ },
+ {
+  "id": "industrial-control-systems",
+  "name": "industrial control systems",
+  "count_recent": 97,
+  "count_prev": 15,
+  "share_recent": 0.0065,
+  "share_prev": 0.00404,
+  "growth": 1.609,
+  "eligible": true
+ },
+ {
+  "id": "computer-vision",
+  "name": "computer vision",
+  "count_recent": 154,
+  "count_prev": 25,
+  "share_recent": 0.01031,
+  "share_prev": 0.00673,
+  "growth": 1.532,
+  "eligible": true
+ },
+ {
+  "id": "smart-grid",
+  "name": "smart grid",
+  "count_recent": 136,
+  "count_prev": 22,
+  "share_recent": 0.00911,
+  "share_prev": 0.00592,
+  "growth": 1.538,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin-simulation",
+  "name": "digital twin simulation",
+  "count_recent": 77,
+  "count_prev": 12,
+  "share_recent": 0.00516,
+  "share_prev": 0.00323,
+  "growth": 1.596,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-aerial-vehicles",
+  "name": "unmanned aerial vehicles",
+  "count_recent": 143,
+  "count_prev": 24,
+  "share_recent": 0.00958,
+  "share_prev": 0.00646,
+  "growth": 1.482,
+  "eligible": true
+ },
+ {
+  "id": "distributed-energy-resources",
+  "name": "distributed energy resources",
+  "count_recent": 87,
+  "count_prev": 14,
+  "share_recent": 0.00583,
+  "share_prev": 0.00377,
+  "growth": 1.546,
+  "eligible": true
+ },
+ {
+  "id": "asset-management",
+  "name": "asset management",
+  "count_recent": 74,
+  "count_prev": 12,
+  "share_recent": 0.00496,
+  "share_prev": 0.00323,
+  "growth": 1.534,
+  "eligible": true
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 129,
+  "count_prev": 22,
+  "share_recent": 0.00864,
+  "share_prev": 0.00592,
+  "growth": 1.459,
+  "eligible": true
+ },
+ {
+  "id": "supply-chain-management",
+  "name": "supply chain management",
+  "count_recent": 118,
+  "count_prev": 20,
+  "share_recent": 0.0079,
+  "share_prev": 0.00538,
+  "growth": 1.468,
+  "eligible": true
+ },
+ {
+  "id": "scada",
+  "name": "SCADA",
+  "count_recent": 96,
+  "count_prev": 16,
+  "share_recent": 0.00643,
+  "share_prev": 0.00431,
+  "growth": 1.493,
+  "eligible": true
+ },
+ {
+  "id": "energy-optimization",
+  "name": "energy optimization",
+  "count_recent": 101,
+  "count_prev": 17,
+  "share_recent": 0.00676,
+  "share_prev": 0.00458,
+  "growth": 1.478,
+  "eligible": true
+ },
+ {
+  "id": "smart-buildings",
+  "name": "smart buildings",
+  "count_recent": 95,
+  "count_prev": 16,
+  "share_recent": 0.00636,
+  "share_prev": 0.00431,
+  "growth": 1.477,
+  "eligible": true
+ },
+ {
+  "id": "digital-transformation",
+  "name": "digital transformation",
+  "count_recent": 431,
+  "count_prev": 80,
+  "share_recent": 0.02886,
+  "share_prev": 0.02153,
+  "growth": 1.34,
+  "eligible": true
+ },
+ {
+  "id": "iot-sensors",
+  "name": "IoT sensors",
+  "count_recent": 122,
+  "count_prev": 21,
+  "share_recent": 0.00817,
+  "share_prev": 0.00565,
+  "growth": 1.445,
+  "eligible": true
+ },
+ {
+  "id": "knowledge-graphs",
+  "name": "knowledge graphs",
+  "count_recent": 105,
+  "count_prev": 18,
+  "share_recent": 0.00703,
+  "share_prev": 0.00485,
+  "growth": 1.451,
+  "eligible": true
+ },
+ {
+  "id": "genetic-algorithm",
+  "name": "genetic algorithm",
+  "count_recent": 125,
+  "count_prev": 22,
+  "share_recent": 0.00837,
+  "share_prev": 0.00592,
+  "growth": 1.414,
+  "eligible": true
+ },
+ {
+  "id": "network-digital-twin",
+  "name": "network digital twin",
+  "count_recent": 82,
+  "count_prev": 14,
+  "share_recent": 0.00549,
+  "share_prev": 0.00377,
+  "growth": 1.457,
+  "eligible": true
+ },
+ {
+  "id": "lean-manufacturing",
+  "name": "lean manufacturing",
+  "count_recent": 76,
+  "count_prev": 13,
+  "share_recent": 0.00509,
+  "share_prev": 0.0035,
+  "growth": 1.454,
+  "eligible": true
+ },
+ {
+  "id": "process-parameter-optimization",
+  "name": "process parameter optimization",
+  "count_recent": 123,
+  "count_prev": 22,
+  "share_recent": 0.00824,
+  "share_prev": 0.00592,
+  "growth": 1.391,
+  "eligible": true
+ },
+ {
+  "id": "sim-to-real-transfer",
+  "name": "sim-to-real transfer",
+  "count_recent": 70,
+  "count_prev": 12,
+  "share_recent": 0.00469,
+  "share_prev": 0.00323,
+  "growth": 1.451,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-modeling",
+  "name": "hybrid modeling",
+  "count_recent": 85,
+  "count_prev": 15,
+  "share_recent": 0.00569,
+  "share_prev": 0.00404,
+  "growth": 1.41,
+  "eligible": true
+ },
+ {
+  "id": "process-optimization",
+  "name": "process optimization",
+  "count_recent": 229,
+  "count_prev": 43,
+  "share_recent": 0.01534,
+  "share_prev": 0.01157,
+  "growth": 1.325,
+  "eligible": true
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 90,
+  "count_prev": 16,
+  "share_recent": 0.00603,
+  "share_prev": 0.00431,
+  "growth": 1.399,
+  "eligible": true
+ },
+ {
+  "id": "carbon-emission-reduction",
+  "name": "carbon emission reduction",
+  "count_recent": 73,
+  "count_prev": 13,
+  "share_recent": 0.00489,
+  "share_prev": 0.0035,
+  "growth": 1.397,
+  "eligible": true
+ },
+ {
+  "id": "sensor-fusion",
+  "name": "sensor fusion",
+  "count_recent": 137,
+  "count_prev": 26,
+  "share_recent": 0.00917,
+  "share_prev": 0.007,
+  "growth": 1.311,
+  "eligible": true
+ },
+ {
+  "id": "quality-by-design",
+  "name": "quality by design",
+  "count_recent": 81,
+  "count_prev": 15,
+  "share_recent": 0.00542,
+  "share_prev": 0.00404,
+  "growth": 1.343,
+  "eligible": true
+ },
+ {
+  "id": "finite-element-analysis",
+  "name": "finite element analysis",
+  "count_recent": 150,
+  "count_prev": 29,
+  "share_recent": 0.01004,
+  "share_prev": 0.00781,
+  "growth": 1.287,
+  "eligible": true
+ },
+ {
+  "id": "multiscale-modeling",
+  "name": "multiscale modeling",
+  "count_recent": 120,
+  "count_prev": 23,
+  "share_recent": 0.00804,
+  "share_prev": 0.00619,
+  "growth": 1.298,
+  "eligible": true
+ },
+ {
+  "id": "remaining-useful-life-prediction",
+  "name": "remaining useful life prediction",
+  "count_recent": 120,
+  "count_prev": 23,
+  "share_recent": 0.00804,
+  "share_prev": 0.00619,
+  "growth": 1.298,
+  "eligible": true
+ },
+ {
+  "id": "model-reduction",
+  "name": "model reduction",
+  "count_recent": 164,
+  "count_prev": 32,
+  "share_recent": 0.01098,
+  "share_prev": 0.00861,
+  "growth": 1.275,
+  "eligible": true
+ },
+ {
+  "id": "manufacturing-execution-system",
+  "name": "manufacturing execution system",
+  "count_recent": 69,
+  "count_prev": 13,
+  "share_recent": 0.00462,
+  "share_prev": 0.0035,
+  "growth": 1.32,
+  "eligible": true
+ },
+ {
+  "id": "blockchain",
+  "name": "blockchain",
+  "count_recent": 517,
+  "count_prev": 107,
+  "share_recent": 0.03462,
+  "share_prev": 0.0288,
+  "growth": 1.202,
+  "eligible": true
+ },
+ {
+  "id": "implementation-barriers",
+  "name": "implementation barriers",
+  "count_recent": 77,
+  "count_prev": 15,
+  "share_recent": 0.00516,
+  "share_prev": 0.00404,
+  "growth": 1.277,
+  "eligible": true
+ },
+ {
+  "id": "fault-prediction",
+  "name": "fault prediction",
+  "count_recent": 115,
+  "count_prev": 23,
+  "share_recent": 0.0077,
+  "share_prev": 0.00619,
+  "growth": 1.244,
+  "eligible": true
+ },
+ {
+  "id": "small-and-medium-sized-enterprises",
+  "name": "small and medium-sized enterprises",
+  "count_recent": 110,
+  "count_prev": 22,
+  "share_recent": 0.00737,
+  "share_prev": 0.00592,
+  "growth": 1.244,
+  "eligible": true
+ },
+ {
+  "id": "cognitive-digital-twin",
+  "name": "cognitive digital twin",
+  "count_recent": 70,
+  "count_prev": 14,
+  "share_recent": 0.00469,
+  "share_prev": 0.00377,
+  "growth": 1.244,
+  "eligible": true
+ },
+ {
+  "id": "opc-ua",
+  "name": "OPC UA",
+  "count_recent": 103,
+  "count_prev": 21,
+  "share_recent": 0.0069,
+  "share_prev": 0.00565,
+  "growth": 1.22,
+  "eligible": true
+ },
+ {
+  "id": "structural-health-monitoring",
+  "name": "structural health monitoring",
+  "count_recent": 157,
+  "count_prev": 33,
+  "share_recent": 0.01051,
+  "share_prev": 0.00888,
+  "growth": 1.184,
+  "eligible": true
+ },
+ {
+  "id": "energy-consumption",
+  "name": "energy consumption",
+  "count_recent": 136,
+  "count_prev": 29,
+  "share_recent": 0.00911,
+  "share_prev": 0.00781,
+  "growth": 1.167,
+  "eligible": true
+ },
+ {
+  "id": "process-analytical-technology",
+  "name": "process analytical technology",
+  "count_recent": 108,
+  "count_prev": 23,
+  "share_recent": 0.00723,
+  "share_prev": 0.00619,
+  "growth": 1.168,
+  "eligible": true
+ },
+ {
+  "id": "real-time-monitoring",
+  "name": "real-time monitoring",
+  "count_recent": 470,
+  "count_prev": 104,
+  "share_recent": 0.03147,
+  "share_prev": 0.02799,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 98,
+  "count_prev": 21,
+  "share_recent": 0.00656,
+  "share_prev": 0.00565,
+  "growth": 1.161,
+  "eligible": true
+ },
+ {
+  "id": "fault-diagnosis",
+  "name": "fault diagnosis",
+  "count_recent": 219,
+  "count_prev": 48,
+  "share_recent": 0.01467,
+  "share_prev": 0.01292,
+  "growth": 1.135,
+  "eligible": true
+ },
+ {
+  "id": "soft-sensors",
+  "name": "soft sensors",
+  "count_recent": 84,
+  "count_prev": 18,
+  "share_recent": 0.00563,
+  "share_prev": 0.00485,
+  "growth": 1.161,
+  "eligible": true
+ },
+ {
+  "id": "industrial-automation",
+  "name": "industrial automation",
+  "count_recent": 160,
+  "count_prev": 35,
+  "share_recent": 0.01071,
+  "share_prev": 0.00942,
+  "growth": 1.137,
+  "eligible": true
+ },
+ {
+  "id": "key-performance-indicators",
+  "name": "key performance indicators",
+  "count_recent": 70,
+  "count_prev": 15,
+  "share_recent": 0.00469,
+  "share_prev": 0.00404,
+  "growth": 1.161,
+  "eligible": true
+ },
+ {
+  "id": "automation",
+  "name": "automation",
+  "count_recent": 86,
+  "count_prev": 19,
+  "share_recent": 0.00576,
+  "share_prev": 0.00511,
+  "growth": 1.126,
+  "eligible": true
+ },
+ {
+  "id": "digital-shadow",
+  "name": "digital shadow",
+  "count_recent": 77,
+  "count_prev": 17,
+  "share_recent": 0.00516,
+  "share_prev": 0.00458,
+  "growth": 1.127,
+  "eligible": true
+ },
+ {
+  "id": "metal-additive-manufacturing",
+  "name": "metal additive manufacturing",
+  "count_recent": 81,
+  "count_prev": 18,
+  "share_recent": 0.00542,
+  "share_prev": 0.00485,
+  "growth": 1.12,
+  "eligible": true
+ },
+ {
+  "id": "human-centric-manufacturing",
+  "name": "human-centric manufacturing",
+  "count_recent": 72,
+  "count_prev": 16,
+  "share_recent": 0.00482,
+  "share_prev": 0.00431,
+  "growth": 1.12,
+  "eligible": true
+ },
+ {
+  "id": "data-integration",
+  "name": "data integration",
+  "count_recent": 115,
+  "count_prev": 26,
+  "share_recent": 0.0077,
+  "share_prev": 0.007,
+  "growth": 1.1,
+  "eligible": true
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 197,
+  "count_prev": 45,
+  "share_recent": 0.01319,
+  "share_prev": 0.01211,
+  "growth": 1.089,
+  "eligible": true
+ },
+ {
+  "id": "decision-support",
+  "name": "decision support",
+  "count_recent": 229,
+  "count_prev": 53,
+  "share_recent": 0.01534,
+  "share_prev": 0.01427,
+  "growth": 1.075,
+  "eligible": true
+ },
+ {
+  "id": "resource-allocation",
+  "name": "resource allocation",
+  "count_recent": 125,
+  "count_prev": 29,
+  "share_recent": 0.00837,
+  "share_prev": 0.00781,
+  "growth": 1.072,
+  "eligible": true
+ },
+ {
+  "id": "model-validation",
+  "name": "model validation",
+  "count_recent": 98,
+  "count_prev": 23,
+  "share_recent": 0.00656,
+  "share_prev": 0.00619,
+  "growth": 1.06,
+  "eligible": true
+ },
+ {
+  "id": "extended-reality",
+  "name": "extended reality",
+  "count_recent": 88,
+  "count_prev": 21,
+  "share_recent": 0.00589,
+  "share_prev": 0.00565,
+  "growth": 1.042,
+  "eligible": true
+ },
+ {
+  "id": "data-security",
+  "name": "data security",
+  "count_recent": 92,
+  "count_prev": 22,
+  "share_recent": 0.00616,
+  "share_prev": 0.00592,
+  "growth": 1.04,
+  "eligible": true
+ },
+ {
+  "id": "internet-of-things",
+  "name": "Internet of Things",
+  "count_recent": 1333,
+  "count_prev": 324,
+  "share_recent": 0.08927,
+  "share_prev": 0.08721,
+  "growth": 1.024,
+  "eligible": true
+ },
+ {
+  "id": "electric-vehicles",
+  "name": "electric vehicles",
+  "count_recent": 112,
+  "count_prev": 27,
+  "share_recent": 0.0075,
+  "share_prev": 0.00727,
+  "growth": 1.032,
+  "eligible": true
+ },
+ {
+  "id": "smart-contracts",
+  "name": "smart contracts",
+  "count_recent": 70,
+  "count_prev": 17,
+  "share_recent": 0.00469,
+  "share_prev": 0.00458,
+  "growth": 1.024,
+  "eligible": true
+ },
+ {
+  "id": "building-information-modeling",
+  "name": "building information modeling",
+  "count_recent": 424,
+  "count_prev": 104,
+  "share_recent": 0.02839,
+  "share_prev": 0.02799,
+  "growth": 1.014,
+  "eligible": true
+ },
+ {
+  "id": "big-data-analytics",
+  "name": "big data analytics",
+  "count_recent": 190,
+  "count_prev": 47,
+  "share_recent": 0.01272,
+  "share_prev": 0.01265,
+  "growth": 1.006,
+  "eligible": true
+ },
+ {
+  "id": "asset-administration-shell",
+  "name": "Asset Administration Shell",
+  "count_recent": 91,
+  "count_prev": 23,
+  "share_recent": 0.00609,
+  "share_prev": 0.00619,
+  "growth": 0.984,
+  "eligible": true
+ },
+ {
+  "id": "lithium-ion-batteries",
+  "name": "lithium-ion batteries",
+  "count_recent": 84,
+  "count_prev": 22,
+  "share_recent": 0.00563,
+  "share_prev": 0.00592,
+  "growth": 0.95,
+  "eligible": true
+ },
+ {
+  "id": "condition-monitoring",
+  "name": "condition monitoring",
+  "count_recent": 173,
+  "count_prev": 45,
+  "share_recent": 0.01159,
+  "share_prev": 0.01211,
+  "growth": 0.956,
+  "eligible": true
+ },
+ {
+  "id": "production-efficiency",
+  "name": "production efficiency",
+  "count_recent": 80,
+  "count_prev": 21,
+  "share_recent": 0.00536,
+  "share_prev": 0.00565,
+  "growth": 0.948,
+  "eligible": true
+ },
+ {
+  "id": "additive-manufacturing",
+  "name": "additive manufacturing",
+  "count_recent": 427,
+  "count_prev": 111,
+  "share_recent": 0.02859,
+  "share_prev": 0.02988,
+  "growth": 0.957,
+  "eligible": true
+ },
+ {
+  "id": "fault-detection",
+  "name": "fault detection",
+  "count_recent": 210,
+  "count_prev": 55,
+  "share_recent": 0.01406,
+  "share_prev": 0.0148,
+  "growth": 0.95,
+  "eligible": true
+ },
+ {
+  "id": "production-scheduling",
+  "name": "production scheduling",
+  "count_recent": 113,
+  "count_prev": 31,
+  "share_recent": 0.00757,
+  "share_prev": 0.00834,
+  "growth": 0.907,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 12665,
+  "count_prev": 3312,
+  "share_recent": 0.84812,
+  "share_prev": 0.89152,
+  "growth": 0.951,
+  "eligible": true
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 127,
+  "count_prev": 35,
+  "share_recent": 0.0085,
+  "share_prev": 0.00942,
+  "growth": 0.903,
+  "eligible": true
+ },
+ {
+  "id": "digital-thread",
+  "name": "digital thread",
+  "count_recent": 76,
+  "count_prev": 23,
+  "share_recent": 0.00509,
+  "share_prev": 0.00619,
+  "growth": 0.822,
+  "eligible": true
+ },
+ {
+  "id": "parameter-estimation",
+  "name": "parameter estimation",
+  "count_recent": 100,
+  "count_prev": 30,
+  "share_recent": 0.0067,
+  "share_prev": 0.00808,
+  "growth": 0.829,
+  "eligible": true
+ },
+ {
+  "id": "collaborative-robots",
+  "name": "collaborative robots",
+  "count_recent": 144,
+  "count_prev": 43,
+  "share_recent": 0.00964,
+  "share_prev": 0.01157,
+  "growth": 0.833,
+  "eligible": true
+ },
+ {
+  "id": "hardware-in-the-loop-simulation",
+  "name": "hardware-in-the-loop",
+  "count_recent": 105,
+  "count_prev": 33,
+  "share_recent": 0.00703,
+  "share_prev": 0.00888,
+  "growth": 0.792,
+  "eligible": true
+ },
+ {
+  "id": "laser-powder-bed-fusion",
+  "name": "laser powder bed fusion",
+  "count_recent": 74,
+  "count_prev": 24,
+  "share_recent": 0.00496,
+  "share_prev": 0.00646,
+  "growth": 0.767,
+  "eligible": true
+ },
+ {
+  "id": "5g",
+  "name": "5G",
+  "count_recent": 110,
+  "count_prev": 35,
+  "share_recent": 0.00737,
+  "share_prev": 0.00942,
+  "growth": 0.782,
+  "eligible": true
+ },
+ {
+  "id": "smart-cities",
+  "name": "smart cities",
+  "count_recent": 217,
+  "count_prev": 68,
+  "share_recent": 0.01453,
+  "share_prev": 0.0183,
+  "growth": 0.794,
+  "eligible": true
+ },
+ {
+  "id": "decision-support-system",
+  "name": "decision support system",
+  "count_recent": 98,
+  "count_prev": 32,
+  "share_recent": 0.00656,
+  "share_prev": 0.00861,
+  "growth": 0.762,
+  "eligible": true
+ },
+ {
+  "id": "process-control",
+  "name": "process control",
+  "count_recent": 110,
+  "count_prev": 36,
+  "share_recent": 0.00737,
+  "share_prev": 0.00969,
+  "growth": 0.76,
+  "eligible": true
+ },
+ {
+  "id": "3d-printing",
+  "name": "3D printing",
+  "count_recent": 113,
+  "count_prev": 37,
+  "share_recent": 0.00757,
+  "share_prev": 0.00996,
+  "growth": 0.76,
+  "eligible": true
+ },
+ {
+  "id": "process-monitoring",
+  "name": "process monitoring",
+  "count_recent": 105,
+  "count_prev": 35,
+  "share_recent": 0.00703,
+  "share_prev": 0.00942,
+  "growth": 0.746,
+  "eligible": true
+ },
+ {
+  "id": "manufacturing-industry",
+  "name": "manufacturing industry",
+  "count_recent": 267,
+  "count_prev": 85,
+  "share_recent": 0.01788,
+  "share_prev": 0.02288,
+  "growth": 0.781,
+  "eligible": true
+ },
+ {
+  "id": "intelligent-transportation-systems",
+  "name": "intelligent transportation systems",
+  "count_recent": 72,
+  "count_prev": 26,
+  "share_recent": 0.00482,
+  "share_prev": 0.007,
+  "growth": 0.689,
+  "eligible": true
+ },
+ {
+  "id": "human-robot-collaboration",
+  "name": "human-robot collaboration",
+  "count_recent": 176,
+  "count_prev": 60,
+  "share_recent": 0.01179,
+  "share_prev": 0.01615,
+  "growth": 0.73,
+  "eligible": true
+ },
+ {
+  "id": "product-lifecycle-management",
+  "name": "product lifecycle management",
+  "count_recent": 77,
+  "count_prev": 28,
+  "share_recent": 0.00516,
+  "share_prev": 0.00754,
+  "growth": 0.684,
+  "eligible": true
+ },
+ {
+  "id": "research-trends",
+  "name": "research trends",
+  "count_recent": 77,
+  "count_prev": 28,
+  "share_recent": 0.00516,
+  "share_prev": 0.00754,
+  "growth": 0.684,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-modeling",
+  "name": "data-driven modeling",
+  "count_recent": 80,
+  "count_prev": 29,
+  "share_recent": 0.00536,
+  "share_prev": 0.00781,
+  "growth": 0.686,
+  "eligible": true
+ },
+ {
+  "id": "discrete-event-simulation",
+  "name": "discrete event simulation",
+  "count_recent": 100,
+  "count_prev": 36,
+  "share_recent": 0.0067,
+  "share_prev": 0.00969,
+  "growth": 0.691,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems",
+  "name": "cyber-physical systems",
+  "count_recent": 647,
+  "count_prev": 212,
+  "share_recent": 0.04333,
+  "share_prev": 0.05707,
+  "growth": 0.759,
+  "eligible": true
+ },
+ {
+  "id": "industrial-internet-of-things",
+  "name": "Industrial Internet of Things",
+  "count_recent": 381,
+  "count_prev": 130,
+  "share_recent": 0.02551,
+  "share_prev": 0.03499,
+  "growth": 0.729,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin-architecture",
+  "name": "digital twin architecture",
+  "count_recent": 120,
+  "count_prev": 45,
+  "share_recent": 0.00804,
+  "share_prev": 0.01211,
+  "growth": 0.663,
+  "eligible": true
+ },
+ {
+  "id": "cloud-computing",
+  "name": "cloud computing",
+  "count_recent": 215,
+  "count_prev": 80,
+  "share_recent": 0.0144,
+  "share_prev": 0.02153,
+  "growth": 0.669,
+  "eligible": true
+ },
+ {
+  "id": "real-time-simulation",
+  "name": "real-time simulation",
+  "count_recent": 96,
+  "count_prev": 40,
+  "share_recent": 0.00643,
+  "share_prev": 0.01077,
+  "growth": 0.597,
+  "eligible": true
+ },
+ {
+  "id": "digitalization",
+  "name": "digitalization",
+  "count_recent": 97,
+  "count_prev": 43,
+  "share_recent": 0.0065,
+  "share_prev": 0.01157,
+  "growth": 0.561,
+  "eligible": true
+ },
+ {
+  "id": "smart-manufacturing",
+  "name": "smart manufacturing",
+  "count_recent": 783,
+  "count_prev": 292,
+  "share_recent": 0.05243,
+  "share_prev": 0.0786,
+  "growth": 0.667,
+  "eligible": true
+ },
+ {
+  "id": "industrial-robots",
+  "name": "industrial robots",
+  "count_recent": 69,
+  "count_prev": 33,
+  "share_recent": 0.00462,
+  "share_prev": 0.00888,
+  "growth": 0.52,
+  "eligible": true
+ },
+ {
+  "id": "virtual-reality",
+  "name": "virtual reality",
+  "count_recent": 192,
+  "count_prev": 83,
+  "share_recent": 0.01286,
+  "share_prev": 0.02234,
+  "growth": 0.575,
+  "eligible": true
+ },
+ {
+  "id": "augmented-reality",
+  "name": "augmented reality",
+  "count_recent": 178,
+  "count_prev": 81,
+  "share_recent": 0.01192,
+  "share_prev": 0.0218,
+  "growth": 0.547,
+  "eligible": true
+ },
+ {
+  "id": "industry-4-0",
+  "name": "Industry 4.0",
+  "count_recent": 1277,
+  "count_prev": 494,
+  "share_recent": 0.08552,
+  "share_prev": 0.13297,
+  "growth": 0.643,
+  "eligible": true
+ },
+ {
+  "id": "human-machine-interaction",
+  "name": "human-machine interaction",
+  "count_recent": 106,
+  "count_prev": 54,
+  "share_recent": 0.0071,
+  "share_prev": 0.01454,
+  "growth": 0.488,
+  "eligible": true
+ },
+ {
+  "id": "big-data",
+  "name": "big data",
+  "count_recent": 131,
+  "count_prev": 65,
+  "share_recent": 0.00877,
+  "share_prev": 0.0175,
+  "growth": 0.501,
+  "eligible": true
+ },
+ {
+  "id": "smart-factory",
+  "name": "smart factory",
+  "count_recent": 144,
+  "count_prev": 73,
+  "share_recent": 0.00964,
+  "share_prev": 0.01965,
+  "growth": 0.491,
+  "eligible": true
+ },
+ {
+  "id": "metaverse",
+  "name": "metaverse",
+  "count_recent": 80,
+  "count_prev": 48,
+  "share_recent": 0.00536,
+  "share_prev": 0.01292,
+  "growth": 0.415,
+  "eligible": true
+ }
+]

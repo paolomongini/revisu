@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "predefined-time-control",
+  "name": "predefined-time control",
+  "count_recent": 259,
+  "count_prev": 56,
+  "share_recent": 0.01883,
+  "share_prev": 0.00523,
+  "growth": 3.6,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-time-control",
+  "name": "prescribed-time control",
+  "count_recent": 216,
+  "count_prev": 49,
+  "share_recent": 0.0157,
+  "share_prev": 0.00458,
+  "growth": 3.431,
+  "eligible": true
+ },
+ {
+  "id": "hamilton-jacobi-bellman-equation",
+  "name": "Hamilton-Jacobi-Bellman equation",
+  "count_recent": 136,
+  "count_prev": 36,
+  "share_recent": 0.00989,
+  "share_prev": 0.00336,
+  "growth": 2.94,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 238,
+  "count_prev": 73,
+  "share_recent": 0.0173,
+  "share_prev": 0.00682,
+  "growth": 2.538,
+  "eligible": true
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 259,
+  "count_prev": 82,
+  "share_recent": 0.01883,
+  "share_prev": 0.00766,
+  "growth": 2.458,
+  "eligible": true
+ },
+ {
+  "id": "false-data-injection-attacks",
+  "name": "false data injection attacks",
+  "count_recent": 120,
+  "count_prev": 33,
+  "share_recent": 0.00872,
+  "share_prev": 0.00308,
+  "growth": 2.83,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-control",
+  "name": "data-driven control",
+  "count_recent": 123,
+  "count_prev": 36,
+  "share_recent": 0.00894,
+  "share_prev": 0.00336,
+  "growth": 2.659,
+  "eligible": true
+ },
+ {
+  "id": "cyber-physical-systems-security",
+  "name": "cyber-physical security",
+  "count_recent": 100,
+  "count_prev": 31,
+  "share_recent": 0.00727,
+  "share_prev": 0.0029,
+  "growth": 2.511,
+  "eligible": true
+ },
+ {
+  "id": "safety-critical-control",
+  "name": "safety-critical control",
+  "count_recent": 106,
+  "count_prev": 35,
+  "share_recent": 0.00771,
+  "share_prev": 0.00327,
+  "growth": 2.357,
+  "eligible": true
+ },
+ {
+  "id": "fractional-order-epidemic-model",
+  "name": "fractional-order epidemic model",
+  "count_recent": 86,
+  "count_prev": 28,
+  "share_recent": 0.00625,
+  "share_prev": 0.00262,
+  "growth": 2.391,
+  "eligible": true
+ },
+ {
+  "id": "denial-of-service-attacks",
+  "name": "denial-of-service attacks",
+  "count_recent": 314,
+  "count_prev": 127,
+  "share_recent": 0.02283,
+  "share_prev": 0.01186,
+  "growth": 1.924,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-surface-vessels",
+  "name": "unmanned surface vehicles",
+  "count_recent": 186,
+  "count_prev": 71,
+  "share_recent": 0.01352,
+  "share_prev": 0.00663,
+  "growth": 2.039,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-dynamic-programming",
+  "name": "adaptive dynamic programming",
+  "count_recent": 90,
+  "count_prev": 33,
+  "share_recent": 0.00654,
+  "share_prev": 0.00308,
+  "growth": 2.123,
+  "eligible": true
+ },
+ {
+  "id": "zeno-behavior",
+  "name": "Zeno behavior",
+  "count_recent": 115,
+  "count_prev": 46,
+  "share_recent": 0.00836,
+  "share_prev": 0.0043,
+  "growth": 1.946,
+  "eligible": true
+ },
+ {
+  "id": "resilient-control",
+  "name": "resilient control",
+  "count_recent": 88,
+  "count_prev": 34,
+  "share_recent": 0.0064,
+  "share_prev": 0.00318,
+  "growth": 2.015,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 74,
+  "count_prev": 28,
+  "share_recent": 0.00538,
+  "share_prev": 0.00262,
+  "growth": 2.057,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 157,
+  "count_prev": 68,
+  "share_recent": 0.01141,
+  "share_prev": 0.00635,
+  "growth": 1.797,
+  "eligible": true
+ },
+ {
+  "id": "quadratic-programming",
+  "name": "quadratic programming",
+  "count_recent": 142,
+  "count_prev": 61,
+  "share_recent": 0.01032,
+  "share_prev": 0.0057,
+  "growth": 1.812,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 84,
+  "count_prev": 35,
+  "share_recent": 0.00611,
+  "share_prev": 0.00327,
+  "growth": 1.868,
+  "eligible": true
+ },
+ {
+  "id": "hierarchical-control",
+  "name": "hierarchical control",
+  "count_recent": 85,
+  "count_prev": 36,
+  "share_recent": 0.00618,
+  "share_prev": 0.00336,
+  "growth": 1.838,
+  "eligible": true
+ },
+ {
+  "id": "barrier-function",
+  "name": "barrier function",
+  "count_recent": 76,
+  "count_prev": 32,
+  "share_recent": 0.00552,
+  "share_prev": 0.00299,
+  "growth": 1.849,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-performance-control",
+  "name": "prescribed performance control",
+  "count_recent": 406,
+  "count_prev": 205,
+  "share_recent": 0.02951,
+  "share_prev": 0.01915,
+  "growth": 1.542,
+  "eligible": true
+ },
+ {
+  "id": "deception-attacks",
+  "name": "deception attacks",
+  "count_recent": 133,
+  "count_prev": 61,
+  "share_recent": 0.00967,
+  "share_prev": 0.0057,
+  "growth": 1.697,
+  "eligible": true
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 200,
+  "count_prev": 96,
+  "share_recent": 0.01454,
+  "share_prev": 0.00897,
+  "growth": 1.622,
+  "eligible": true
+ },
+ {
+  "id": "super-twisting-sliding-mode-control",
+  "name": "super-twisting sliding mode control",
+  "count_recent": 86,
+  "count_prev": 38,
+  "share_recent": 0.00625,
+  "share_prev": 0.00355,
+  "growth": 1.762,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-event-triggered-control",
+  "name": "dynamic event-triggered control",
+  "count_recent": 84,
+  "count_prev": 38,
+  "share_recent": 0.00611,
+  "share_prev": 0.00355,
+  "growth": 1.721,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 93,
+  "count_prev": 44,
+  "share_recent": 0.00676,
+  "share_prev": 0.00411,
+  "growth": 1.645,
+  "eligible": true
+ },
+ {
+  "id": "sensitivity-analysis",
+  "name": "sensitivity analysis",
+  "count_recent": 222,
+  "count_prev": 114,
+  "share_recent": 0.01614,
+  "share_prev": 0.01065,
+  "growth": 1.516,
+  "eligible": true
+ },
+ {
+  "id": "convergence-rate",
+  "name": "convergence rate",
+  "count_recent": 135,
+  "count_prev": 69,
+  "share_recent": 0.00981,
+  "share_prev": 0.00644,
+  "growth": 1.523,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-dynamics",
+  "name": "nonlinear dynamics",
+  "count_recent": 80,
+  "count_prev": 39,
+  "share_recent": 0.00582,
+  "share_prev": 0.00364,
+  "growth": 1.597,
+  "eligible": true
+ },
+ {
+  "id": "hardware-in-the-loop-simulation",
+  "name": "hardware-in-the-loop",
+  "count_recent": 108,
+  "count_prev": 56,
+  "share_recent": 0.00785,
+  "share_prev": 0.00523,
+  "growth": 1.501,
+  "eligible": true
+ },
+ {
+  "id": "uniform-ultimate-boundedness",
+  "name": "uniform ultimate boundedness",
+  "count_recent": 332,
+  "count_prev": 187,
+  "share_recent": 0.02413,
+  "share_prev": 0.01747,
+  "growth": 1.382,
+  "eligible": true
+ },
+ {
+  "id": "input-quantization",
+  "name": "input quantization",
+  "count_recent": 95,
+  "count_prev": 50,
+  "share_recent": 0.00691,
+  "share_prev": 0.00467,
+  "growth": 1.479,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-multiagent-systems",
+  "name": "nonlinear multi-agent systems",
+  "count_recent": 310,
+  "count_prev": 177,
+  "share_recent": 0.02254,
+  "share_prev": 0.01653,
+  "growth": 1.363,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 717,
+  "count_prev": 429,
+  "share_recent": 0.05212,
+  "share_prev": 0.04007,
+  "growth": 1.301,
+  "eligible": true
+ },
+ {
+  "id": "impulsive-control",
+  "name": "impulsive control",
+  "count_recent": 76,
+  "count_prev": 40,
+  "share_recent": 0.00552,
+  "share_prev": 0.00374,
+  "growth": 1.479,
+  "eligible": true
+ },
+ {
+  "id": "zeno-behavior-exclusion",
+  "name": "Zeno behavior exclusion",
+  "count_recent": 106,
+  "count_prev": 59,
+  "share_recent": 0.00771,
+  "share_prev": 0.00551,
+  "growth": 1.398,
+  "eligible": true
+ },
+ {
+  "id": "actuator-saturation",
+  "name": "actuator saturation",
+  "count_recent": 245,
+  "count_prev": 145,
+  "share_recent": 0.01781,
+  "share_prev": 0.01354,
+  "growth": 1.315,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-stability-analysis",
+  "name": "Lyapunov stability analysis",
+  "count_recent": 78,
+  "count_prev": 43,
+  "share_recent": 0.00567,
+  "share_prev": 0.00402,
+  "growth": 1.412,
+  "eligible": true
+ },
+ {
+  "id": "control-lyapunov-function",
+  "name": "control Lyapunov function",
+  "count_recent": 285,
+  "count_prev": 171,
+  "share_recent": 0.02072,
+  "share_prev": 0.01597,
+  "growth": 1.297,
+  "eligible": true
+ },
+ {
+  "id": "fixed-time-stability",
+  "name": "fixed-time stability",
+  "count_recent": 94,
+  "count_prev": 53,
+  "share_recent": 0.00683,
+  "share_prev": 0.00495,
+  "growth": 1.38,
+  "eligible": true
+ },
+ {
+  "id": "exponential-convergence",
+  "name": "exponential convergence",
+  "count_recent": 84,
+  "count_prev": 47,
+  "share_recent": 0.00611,
+  "share_prev": 0.00439,
+  "growth": 1.391,
+  "eligible": true
+ },
+ {
+  "id": "convergence-analysis",
+  "name": "convergence analysis",
+  "count_recent": 115,
+  "count_prev": 66,
+  "share_recent": 0.00836,
+  "share_prev": 0.00616,
+  "growth": 1.356,
+  "eligible": true
+ },
+ {
+  "id": "switching-topologies",
+  "name": "switching topologies",
+  "count_recent": 84,
+  "count_prev": 48,
+  "share_recent": 0.00611,
+  "share_prev": 0.00448,
+  "growth": 1.362,
+  "eligible": true
+ },
+ {
+  "id": "mean-square-stability",
+  "name": "mean square stability",
+  "count_recent": 81,
+  "count_prev": 47,
+  "share_recent": 0.00589,
+  "share_prev": 0.00439,
+  "growth": 1.341,
+  "eligible": true
+ },
+ {
+  "id": "chattering-reduction",
+  "name": "chattering reduction",
+  "count_recent": 361,
+  "count_prev": 226,
+  "share_recent": 0.02624,
+  "share_prev": 0.02111,
+  "growth": 1.243,
+  "eligible": true
+ },
+ {
+  "id": "linear-quadratic-regulator",
+  "name": "linear quadratic regulator",
+  "count_recent": 103,
+  "count_prev": 62,
+  "share_recent": 0.00749,
+  "share_prev": 0.00579,
+  "growth": 1.293,
+  "eligible": true
+ },
+ {
+  "id": "stability-of-equilibrium",
+  "name": "equilibrium stability",
+  "count_recent": 98,
+  "count_prev": 59,
+  "share_recent": 0.00712,
+  "share_prev": 0.00551,
+  "growth": 1.293,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-compensation",
+  "name": "disturbance compensation",
+  "count_recent": 197,
+  "count_prev": 124,
+  "share_recent": 0.01432,
+  "share_prev": 0.01158,
+  "growth": 1.237,
+  "eligible": true
+ },
+ {
+  "id": "dc-microgrid",
+  "name": "DC microgrid",
+  "count_recent": 84,
+  "count_prev": 51,
+  "share_recent": 0.00611,
+  "share_prev": 0.00476,
+  "growth": 1.282,
+  "eligible": true
+ },
+ {
+  "id": "caputo-fractional-derivative",
+  "name": "Caputo fractional derivative",
+  "count_recent": 132,
+  "count_prev": 83,
+  "share_recent": 0.0096,
+  "share_prev": 0.00775,
+  "growth": 1.238,
+  "eligible": true
+ },
+ {
+  "id": "zeno-phenomenon-avoidance",
+  "name": "Zeno behavior avoidance",
+  "count_recent": 159,
+  "count_prev": 101,
+  "share_recent": 0.01156,
+  "share_prev": 0.00943,
+  "growth": 1.225,
+  "eligible": true
+ },
+ {
+  "id": "model-uncertainty",
+  "name": "model uncertainty",
+  "count_recent": 328,
+  "count_prev": 214,
+  "share_recent": 0.02384,
+  "share_prev": 0.01999,
+  "growth": 1.193,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 840,
+  "count_prev": 563,
+  "share_recent": 0.06106,
+  "share_prev": 0.05258,
+  "growth": 1.161,
+  "eligible": true
+ },
+ {
+  "id": "communication-burden-reduction",
+  "name": "communication burden reduction",
+  "count_recent": 134,
+  "count_prev": 85,
+  "share_recent": 0.00974,
+  "share_prev": 0.00794,
+  "growth": 1.227,
+  "eligible": true
+ },
+ {
+  "id": "event-triggered-control",
+  "name": "event-triggered control",
+  "count_recent": 986,
+  "count_prev": 664,
+  "share_recent": 0.07168,
+  "share_prev": 0.06202,
+  "growth": 1.156,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 193,
+  "count_prev": 125,
+  "share_recent": 0.01403,
+  "share_prev": 0.01167,
+  "growth": 1.202,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking-control",
+  "name": "trajectory tracking control",
+  "count_recent": 243,
+  "count_prev": 161,
+  "share_recent": 0.01767,
+  "share_prev": 0.01504,
+  "growth": 1.175,
+  "eligible": true
+ },
+ {
+  "id": "input-delay",
+  "name": "input delay",
+  "count_recent": 119,
+  "count_prev": 77,
+  "share_recent": 0.00865,
+  "share_prev": 0.00719,
+  "growth": 1.203,
+  "eligible": true
+ },
+ {
+  "id": "active-disturbance-rejection-control",
+  "name": "active disturbance rejection control",
+  "count_recent": 105,
+  "count_prev": 68,
+  "share_recent": 0.00763,
+  "share_prev": 0.00635,
+  "growth": 1.202,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-estimation",
+  "name": "disturbance estimation",
+  "count_recent": 267,
+  "count_prev": 179,
+  "share_recent": 0.01941,
+  "share_prev": 0.01672,
+  "growth": 1.161,
+  "eligible": true
+ },
+ {
+  "id": "hopf-bifurcation",
+  "name": "Hopf bifurcation",
+  "count_recent": 97,
+  "count_prev": 63,
+  "share_recent": 0.00705,
+  "share_prev": 0.00588,
+  "growth": 1.198,
+  "eligible": true
+ },
+ {
+  "id": "formation-control",
+  "name": "formation control",
+  "count_recent": 150,
+  "count_prev": 99,
+  "share_recent": 0.0109,
+  "share_prev": 0.00925,
+  "growth": 1.179,
+  "eligible": true
+ },
+ {
+  "id": "fixed-time-control",
+  "name": "fixed-time control",
+  "count_recent": 338,
+  "count_prev": 229,
+  "share_recent": 0.02457,
+  "share_prev": 0.02139,
+  "growth": 1.149,
+  "eligible": true
+ },
+ {
+  "id": "communication-resource-reduction",
+  "name": "communication resource reduction",
+  "count_recent": 149,
+  "count_prev": 99,
+  "share_recent": 0.01083,
+  "share_prev": 0.00925,
+  "growth": 1.171,
+  "eligible": true
+ },
+ {
+  "id": "fuzzy-observer",
+  "name": "fuzzy observer",
+  "count_recent": 105,
+  "count_prev": 70,
+  "share_recent": 0.00763,
+  "share_prev": 0.00654,
+  "growth": 1.168,
+  "eligible": true
+ },
+ {
+  "id": "extended-state-observer",
+  "name": "extended state observer",
+  "count_recent": 280,
+  "count_prev": 194,
+  "share_recent": 0.02035,
+  "share_prev": 0.01812,
+  "growth": 1.123,
+  "eligible": true
+ },
+ {
+  "id": "controller-tuning",
+  "name": "controller tuning",
+  "count_recent": 93,
+  "count_prev": 63,
+  "share_recent": 0.00676,
+  "share_prev": 0.00588,
+  "growth": 1.149,
+  "eligible": true
+ },
+ {
+  "id": "fuzzy-logic-control",
+  "name": "fuzzy logic control",
+  "count_recent": 113,
+  "count_prev": 77,
+  "share_recent": 0.00821,
+  "share_prev": 0.00719,
+  "growth": 1.142,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-underwater-vehicles",
+  "name": "autonomous underwater vehicles",
+  "count_recent": 114,
+  "count_prev": 78,
+  "share_recent": 0.00829,
+  "share_prev": 0.00728,
+  "growth": 1.138,
+  "eligible": true
+ },
+ {
+  "id": "basic-reproduction-number",
+  "name": "basic reproduction number",
+  "count_recent": 510,
+  "count_prev": 361,
+  "share_recent": 0.03707,
+  "share_prev": 0.03372,
+  "growth": 1.1,
+  "eligible": true
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 257,
+  "count_prev": 181,
+  "share_recent": 0.01868,
+  "share_prev": 0.0169,
+  "growth": 1.105,
+  "eligible": true
+ },
+ {
+  "id": "vaccination",
+  "name": "vaccination",
+  "count_recent": 96,
+  "count_prev": 67,
+  "share_recent": 0.00698,
+  "share_prev": 0.00626,
+  "growth": 1.115,
+  "eligible": true
+ },
+ {
+  "id": "unknown-disturbances",
+  "name": "unknown disturbances",
+  "count_recent": 133,
+  "count_prev": 94,
+  "share_recent": 0.00967,
+  "share_prev": 0.00878,
+  "growth": 1.101,
+  "eligible": true
+ },
+ {
+  "id": "distributed-control",
+  "name": "distributed control",
+  "count_recent": 245,
+  "count_prev": 176,
+  "share_recent": 0.01781,
+  "share_prev": 0.01644,
+  "growth": 1.084,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-dynamical-systems",
+  "name": "nonlinear dynamical systems",
+  "count_recent": 81,
+  "count_prev": 57,
+  "share_recent": 0.00589,
+  "share_prev": 0.00532,
+  "growth": 1.106,
+  "eligible": true
+ },
+ {
+  "id": "sensor-faults",
+  "name": "sensor faults",
+  "count_recent": 111,
+  "count_prev": 79,
+  "share_recent": 0.00807,
+  "share_prev": 0.00738,
+  "growth": 1.094,
+  "eligible": true
+ },
+ {
+  "id": "underactuated-systems",
+  "name": "underactuated systems",
+  "count_recent": 166,
+  "count_prev": 119,
+  "share_recent": 0.01207,
+  "share_prev": 0.01111,
+  "growth": 1.086,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 445,
+  "count_prev": 324,
+  "share_recent": 0.03235,
+  "share_prev": 0.03026,
+  "growth": 1.069,
+  "eligible": true
+ },
+ {
+  "id": "endemic-equilibrium",
+  "name": "endemic equilibrium",
+  "count_recent": 315,
+  "count_prev": 229,
+  "share_recent": 0.0229,
+  "share_prev": 0.02139,
+  "growth": 1.071,
+  "eligible": true
+ },
+ {
+  "id": "speed-control",
+  "name": "speed control",
+  "count_recent": 88,
+  "count_prev": 63,
+  "share_recent": 0.0064,
+  "share_prev": 0.00588,
+  "growth": 1.087,
+  "eligible": true
+ },
+ {
+  "id": "domain-of-attraction",
+  "name": "domain of attraction",
+  "count_recent": 103,
+  "count_prev": 74,
+  "share_recent": 0.00749,
+  "share_prev": 0.00691,
+  "growth": 1.083,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-performance",
+  "name": "prescribed performance",
+  "count_recent": 90,
+  "count_prev": 65,
+  "share_recent": 0.00654,
+  "share_prev": 0.00607,
+  "growth": 1.078,
+  "eligible": true
+ },
+ {
+  "id": "leader-following-consensus",
+  "name": "leader-following consensus",
+  "count_recent": 159,
+  "count_prev": 116,
+  "share_recent": 0.01156,
+  "share_prev": 0.01083,
+  "growth": 1.067,
+  "eligible": true
+ },
+ {
+  "id": "command-filtered-backstepping",
+  "name": "command filtered backstepping",
+  "count_recent": 117,
+  "count_prev": 85,
+  "share_recent": 0.00851,
+  "share_prev": 0.00794,
+  "growth": 1.071,
+  "eligible": true
+ },
+ {
+  "id": "pid-control",
+  "name": "PID control",
+  "count_recent": 103,
+  "count_prev": 75,
+  "share_recent": 0.00749,
+  "share_prev": 0.007,
+  "growth": 1.069,
+  "eligible": true
+ },
+ {
+  "id": "coordinate-transformation",
+  "name": "coordinate transformation",
+  "count_recent": 89,
+  "count_prev": 65,
+  "share_recent": 0.00647,
+  "share_prev": 0.00607,
+  "growth": 1.066,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-disturbance-observer",
+  "name": "nonlinear disturbance observer",
+  "count_recent": 116,
+  "count_prev": 85,
+  "share_recent": 0.00843,
+  "share_prev": 0.00794,
+  "growth": 1.062,
+  "eligible": true
+ },
+ {
+  "id": "disease-free-equilibrium",
+  "name": "disease-free equilibrium",
+  "count_recent": 293,
+  "count_prev": 217,
+  "share_recent": 0.0213,
+  "share_prev": 0.02027,
+  "growth": 1.051,
+  "eligible": true
+ },
+ {
+  "id": "quadrotor",
+  "name": "quadrotor",
+  "count_recent": 303,
+  "count_prev": 225,
+  "share_recent": 0.02203,
+  "share_prev": 0.02101,
+  "growth": 1.048,
+  "eligible": true
+ },
+ {
+  "id": "consensus-control",
+  "name": "consensus control",
+  "count_recent": 73,
+  "count_prev": 54,
+  "share_recent": 0.00531,
+  "share_prev": 0.00504,
+  "growth": 1.052,
+  "eligible": true
+ },
+ {
+  "id": "integral-sliding-mode-control",
+  "name": "integral sliding mode control",
+  "count_recent": 101,
+  "count_prev": 75,
+  "share_recent": 0.00734,
+  "share_prev": 0.007,
+  "growth": 1.048,
+  "eligible": true
+ },
+ {
+  "id": "lasalle-s-invariance-principle",
+  "name": "LaSalle invariance principle",
+  "count_recent": 104,
+  "count_prev": 78,
+  "share_recent": 0.00756,
+  "share_prev": 0.00728,
+  "growth": 1.038,
+  "eligible": true
+ },
+ {
+  "id": "finite-time-convergence",
+  "name": "finite-time convergence",
+  "count_recent": 164,
+  "count_prev": 124,
+  "share_recent": 0.01192,
+  "share_prev": 0.01158,
+  "growth": 1.029,
+  "eligible": true
+ },
+ {
+  "id": "global-asymptotic-stability",
+  "name": "global asymptotic stability",
+  "count_recent": 309,
+  "count_prev": 235,
+  "share_recent": 0.02246,
+  "share_prev": 0.02195,
+  "growth": 1.023,
+  "eligible": true
+ },
+ {
+  "id": "unmodeled-dynamics",
+  "name": "unmodeled dynamics",
+  "count_recent": 149,
+  "count_prev": 113,
+  "share_recent": 0.01083,
+  "share_prev": 0.01055,
+  "growth": 1.026,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 1662,
+  "count_prev": 1275,
+  "share_recent": 0.12082,
+  "share_prev": 0.11908,
+  "growth": 1.015,
+  "eligible": true
+ },
+ {
+  "id": "backstepping-sliding-mode-control",
+  "name": "backstepping sliding mode control",
+  "count_recent": 79,
+  "count_prev": 60,
+  "share_recent": 0.00574,
+  "share_prev": 0.0056,
+  "growth": 1.025,
+  "eligible": true
+ },
+ {
+  "id": "permanent-magnet-synchronous-motor",
+  "name": "permanent magnet synchronous motor",
+  "count_recent": 144,
+  "count_prev": 110,
+  "share_recent": 0.01047,
+  "share_prev": 0.01027,
+  "growth": 1.019,
+  "eligible": true
+ },
+ {
+  "id": "networked-control-systems",
+  "name": "networked control systems",
+  "count_recent": 162,
+  "count_prev": 125,
+  "share_recent": 0.01178,
+  "share_prev": 0.01167,
+  "growth": 1.009,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-sliding-mode-control",
+  "name": "adaptive sliding mode control",
+  "count_recent": 88,
+  "count_prev": 68,
+  "share_recent": 0.0064,
+  "share_prev": 0.00635,
+  "growth": 1.007,
+  "eligible": true
+ },
+ {
+  "id": "strict-feedback-nonlinear-systems",
+  "name": "strict-feedback nonlinear systems",
+  "count_recent": 164,
+  "count_prev": 127,
+  "share_recent": 0.01192,
+  "share_prev": 0.01186,
+  "growth": 1.005,
+  "eligible": true
+ },
+ {
+  "id": "actuator-faults",
+  "name": "actuator faults",
+  "count_recent": 530,
+  "count_prev": 413,
+  "share_recent": 0.03853,
+  "share_prev": 0.03857,
+  "growth": 0.999,
+  "eligible": true
+ },
+ {
+  "id": "command-filtering",
+  "name": "command filter",
+  "count_recent": 313,
+  "count_prev": 244,
+  "share_recent": 0.02275,
+  "share_prev": 0.02279,
+  "growth": 0.998,
+  "eligible": true
+ },
+ {
+  "id": "fault-tolerant-control",
+  "name": "fault-tolerant control",
+  "count_recent": 483,
+  "count_prev": 378,
+  "share_recent": 0.03511,
+  "share_prev": 0.0353,
+  "growth": 0.995,
+  "eligible": true
+ },
+ {
+  "id": "input-constraints",
+  "name": "input constraints",
+  "count_recent": 125,
+  "count_prev": 98,
+  "share_recent": 0.00909,
+  "share_prev": 0.00915,
+  "growth": 0.993,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-aerial-vehicles",
+  "name": "unmanned aerial vehicles",
+  "count_recent": 135,
+  "count_prev": 106,
+  "share_recent": 0.00981,
+  "share_prev": 0.0099,
+  "growth": 0.991,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-function",
+  "name": "Lyapunov function",
+  "count_recent": 2521,
+  "count_prev": 1979,
+  "share_recent": 0.18327,
+  "share_prev": 0.18483,
+  "growth": 0.992,
+  "eligible": true
+ },
+ {
+  "id": "attitude-tracking",
+  "name": "attitude tracking",
+  "count_recent": 77,
+  "count_prev": 61,
+  "share_recent": 0.0056,
+  "share_prev": 0.0057,
+  "growth": 0.983,
+  "eligible": true
+ },
+ {
+  "id": "stationary-distribution",
+  "name": "stationary distribution",
+  "count_recent": 159,
+  "count_prev": 126,
+  "share_recent": 0.01156,
+  "share_prev": 0.01177,
+  "growth": 0.982,
+  "eligible": true
+ },
+ {
+  "id": "boundary-control",
+  "name": "boundary control",
+  "count_recent": 117,
+  "count_prev": 93,
+  "share_recent": 0.00851,
+  "share_prev": 0.00869,
+  "growth": 0.979,
+  "eligible": true
+ },
+ {
+  "id": "well-posedness",
+  "name": "well-posedness",
+  "count_recent": 113,
+  "count_prev": 90,
+  "share_recent": 0.00821,
+  "share_prev": 0.00841,
+  "growth": 0.977,
+  "eligible": true
+ },
+ {
+  "id": "strict-feedback-systems",
+  "name": "strict-feedback systems",
+  "count_recent": 128,
+  "count_prev": 102,
+  "share_recent": 0.00931,
+  "share_prev": 0.00953,
+  "growth": 0.977,
+  "eligible": true
+ },
+ {
+  "id": "robot-manipulators",
+  "name": "robot manipulators",
+  "count_recent": 172,
+  "count_prev": 137,
+  "share_recent": 0.0125,
+  "share_prev": 0.0128,
+  "growth": 0.977,
+  "eligible": true
+ },
+ {
+  "id": "input-to-state-stability",
+  "name": "input-to-state stability",
+  "count_recent": 199,
+  "count_prev": 159,
+  "share_recent": 0.01447,
+  "share_prev": 0.01485,
+  "growth": 0.974,
+  "eligible": true
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 100,
+  "count_prev": 81,
+  "share_recent": 0.00727,
+  "share_prev": 0.00757,
+  "growth": 0.961,
+  "eligible": true
+ },
+ {
+  "id": "unknown-dynamics",
+  "name": "unknown dynamics",
+  "count_recent": 90,
+  "count_prev": 73,
+  "share_recent": 0.00654,
+  "share_prev": 0.00682,
+  "growth": 0.96,
+  "eligible": true
+ },
+ {
+  "id": "exponential-stability",
+  "name": "exponential stability",
+  "count_recent": 284,
+  "count_prev": 229,
+  "share_recent": 0.02065,
+  "share_prev": 0.02139,
+  "growth": 0.965,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 817,
+  "count_prev": 657,
+  "share_recent": 0.05939,
+  "share_prev": 0.06136,
+  "growth": 0.968,
+  "eligible": true
+ },
+ {
+  "id": "high-order-nonlinear-systems",
+  "name": "high-order nonlinear systems",
+  "count_recent": 107,
+  "count_prev": 88,
+  "share_recent": 0.00778,
+  "share_prev": 0.00822,
+  "growth": 0.946,
+  "eligible": true
+ },
+ {
+  "id": "sliding-mode-control",
+  "name": "sliding mode control",
+  "count_recent": 582,
+  "count_prev": 472,
+  "share_recent": 0.04231,
+  "share_prev": 0.04408,
+  "growth": 0.96,
+  "eligible": true
+ },
+ {
+  "id": "observer-based-control",
+  "name": "observer-based control",
+  "count_recent": 113,
+  "count_prev": 93,
+  "share_recent": 0.00821,
+  "share_prev": 0.00869,
+  "growth": 0.946,
+  "eligible": true
+ },
+ {
+  "id": "unknown-nonlinearities",
+  "name": "unknown nonlinearities",
+  "count_recent": 85,
+  "count_prev": 71,
+  "share_recent": 0.00618,
+  "share_prev": 0.00663,
+  "growth": 0.932,
+  "eligible": true
+ },
+ {
+  "id": "external-disturbances",
+  "name": "external disturbances",
+  "count_recent": 487,
+  "count_prev": 400,
+  "share_recent": 0.0354,
+  "share_prev": 0.03736,
+  "growth": 0.948,
+  "eligible": true
+ },
+ {
+  "id": "disease-extinction",
+  "name": "disease extinction",
+  "count_recent": 98,
+  "count_prev": 82,
+  "share_recent": 0.00712,
+  "share_prev": 0.00766,
+  "growth": 0.93,
+  "eligible": true
+ },
+ {
+  "id": "backstepping-control",
+  "name": "backstepping control",
+  "count_recent": 3056,
+  "count_prev": 2483,
+  "share_recent": 0.22216,
+  "share_prev": 0.2319,
+  "growth": 0.958,
+  "eligible": true
+ },
+ {
+  "id": "radial-basis-function-neural-network",
+  "name": "radial basis function neural network",
+  "count_recent": 481,
+  "count_prev": 396,
+  "share_recent": 0.03497,
+  "share_prev": 0.03699,
+  "growth": 0.945,
+  "eligible": true
+ },
+ {
+  "id": "attitude-control",
+  "name": "attitude control",
+  "count_recent": 162,
+  "count_prev": 136,
+  "share_recent": 0.01178,
+  "share_prev": 0.0127,
+  "growth": 0.927,
+  "eligible": true
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 93,
+  "count_prev": 79,
+  "share_recent": 0.00676,
+  "share_prev": 0.00738,
+  "growth": 0.916,
+  "eligible": true
+ },
+ {
+  "id": "fractional-order-systems",
+  "name": "fractional-order systems",
+  "count_recent": 106,
+  "count_prev": 90,
+  "share_recent": 0.00771,
+  "share_prev": 0.00841,
+  "growth": 0.917,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-epidemic-model",
+  "name": "stochastic epidemic model",
+  "count_recent": 141,
+  "count_prev": 120,
+  "share_recent": 0.01025,
+  "share_prev": 0.01121,
+  "growth": 0.915,
+  "eligible": true
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 284,
+  "count_prev": 239,
+  "share_recent": 0.02065,
+  "share_prev": 0.02232,
+  "growth": 0.925,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-systems",
+  "name": "nonlinear systems",
+  "count_recent": 476,
+  "count_prev": 402,
+  "share_recent": 0.0346,
+  "share_prev": 0.03755,
+  "growth": 0.922,
+  "eligible": true
+ },
+ {
+  "id": "synchronization",
+  "name": "synchronization",
+  "count_recent": 96,
+  "count_prev": 84,
+  "share_recent": 0.00698,
+  "share_prev": 0.00785,
+  "growth": 0.89,
+  "eligible": true
+ },
+ {
+  "id": "stabilization",
+  "name": "stabilization",
+  "count_recent": 104,
+  "count_prev": 91,
+  "share_recent": 0.00756,
+  "share_prev": 0.0085,
+  "growth": 0.89,
+  "eligible": true
+ },
+ {
+  "id": "input-saturation",
+  "name": "input saturation",
+  "count_recent": 381,
+  "count_prev": 326,
+  "share_recent": 0.0277,
+  "share_prev": 0.03045,
+  "growth": 0.91,
+  "eligible": true
+ },
+ {
+  "id": "dc-link-voltage-control",
+  "name": "DC bus voltage regulation",
+  "count_recent": 108,
+  "count_prev": 95,
+  "share_recent": 0.00785,
+  "share_prev": 0.00887,
+  "growth": 0.885,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-tracking-control",
+  "name": "adaptive tracking control",
+  "count_recent": 93,
+  "count_prev": 83,
+  "share_recent": 0.00676,
+  "share_prev": 0.00775,
+  "growth": 0.872,
+  "eligible": true
+ },
+ {
+  "id": "existence-and-uniqueness-of-solutions",
+  "name": "existence and uniqueness of solutions",
+  "count_recent": 94,
+  "count_prev": 84,
+  "share_recent": 0.00683,
+  "share_prev": 0.00785,
+  "growth": 0.871,
+  "eligible": true
+ },
+ {
+  "id": "global-stability",
+  "name": "global stability",
+  "count_recent": 460,
+  "count_prev": 397,
+  "share_recent": 0.03344,
+  "share_prev": 0.03708,
+  "growth": 0.902,
+  "eligible": true
+ },
+ {
+  "id": "robust-stability",
+  "name": "robust stability",
+  "count_recent": 76,
+  "count_prev": 70,
+  "share_recent": 0.00552,
+  "share_prev": 0.00654,
+  "growth": 0.845,
+  "eligible": true
+ },
+ {
+  "id": "robust-control",
+  "name": "robust control",
+  "count_recent": 580,
+  "count_prev": 509,
+  "share_recent": 0.04216,
+  "share_prev": 0.04754,
+  "growth": 0.887,
+  "eligible": true
+ },
+ {
+  "id": "global-positive-solution",
+  "name": "global positive solution",
+  "count_recent": 110,
+  "count_prev": 101,
+  "share_recent": 0.008,
+  "share_prev": 0.00943,
+  "growth": 0.848,
+  "eligible": true
+ },
+ {
+  "id": "neural-network-approximation",
+  "name": "neural network approximation",
+  "count_recent": 136,
+  "count_prev": 124,
+  "share_recent": 0.00989,
+  "share_prev": 0.01158,
+  "growth": 0.854,
+  "eligible": true
+ },
+ {
+  "id": "state-feedback-control",
+  "name": "state feedback control",
+  "count_recent": 145,
+  "count_prev": 132,
+  "share_recent": 0.01054,
+  "share_prev": 0.01233,
+  "growth": 0.855,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-observer",
+  "name": "disturbance observer",
+  "count_recent": 338,
+  "count_prev": 301,
+  "share_recent": 0.02457,
+  "share_prev": 0.02811,
+  "growth": 0.874,
+  "eligible": true
+ },
+ {
+  "id": "closed-loop-stability",
+  "name": "closed-loop stability",
+  "count_recent": 195,
+  "count_prev": 178,
+  "share_recent": 0.01418,
+  "share_prev": 0.01662,
+  "growth": 0.853,
+  "eligible": true
+ },
+ {
+  "id": "h-infinity-control",
+  "name": "H-infinity control",
+  "count_recent": 126,
+  "count_prev": 117,
+  "share_recent": 0.00916,
+  "share_prev": 0.01093,
+  "growth": 0.838,
+  "eligible": true
+ },
+ {
+  "id": "switched-systems",
+  "name": "switched systems",
+  "count_recent": 185,
+  "count_prev": 171,
+  "share_recent": 0.01345,
+  "share_prev": 0.01597,
+  "growth": 0.842,
+  "eligible": true
+ },
+ {
+  "id": "output-constraints",
+  "name": "output constraints",
+  "count_recent": 198,
+  "count_prev": 184,
+  "share_recent": 0.01439,
+  "share_prev": 0.01719,
+  "growth": 0.838,
+  "eligible": true
+ },
+ {
+  "id": "parameter-estimation",
+  "name": "parameter estimation",
+  "count_recent": 168,
+  "count_prev": 158,
+  "share_recent": 0.01221,
+  "share_prev": 0.01476,
+  "growth": 0.828,
+  "eligible": true
+ },
+ {
+  "id": "quadratic-lyapunov-function",
+  "name": "quadratic Lyapunov function",
+  "count_recent": 91,
+  "count_prev": 88,
+  "share_recent": 0.00662,
+  "share_prev": 0.00822,
+  "growth": 0.805,
+  "eligible": true
+ },
+ {
+  "id": "chaos-synchronization",
+  "name": "chaos synchronization",
+  "count_recent": 85,
+  "count_prev": 83,
+  "share_recent": 0.00618,
+  "share_prev": 0.00775,
+  "growth": 0.797,
+  "eligible": true
+ },
+ {
+  "id": "finite-time-stability",
+  "name": "finite-time stability",
+  "count_recent": 190,
+  "count_prev": 180,
+  "share_recent": 0.01381,
+  "share_prev": 0.01681,
+  "growth": 0.822,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-krasovskii-functional",
+  "name": "Lyapunov-Krasovskii functional",
+  "count_recent": 105,
+  "count_prev": 102,
+  "share_recent": 0.00763,
+  "share_prev": 0.00953,
+  "growth": 0.801,
+  "eligible": true
+ },
+ {
+  "id": "time-delay-systems",
+  "name": "time-delay systems",
+  "count_recent": 137,
+  "count_prev": 132,
+  "share_recent": 0.00996,
+  "share_prev": 0.01233,
+  "growth": 0.808,
+  "eligible": true
+ },
+ {
+  "id": "stability-analysis",
+  "name": "stability analysis",
+  "count_recent": 394,
+  "count_prev": 366,
+  "share_recent": 0.02864,
+  "share_prev": 0.03418,
+  "growth": 0.838,
+  "eligible": true
+ },
+ {
+  "id": "feedback-linearization",
+  "name": "feedback linearization",
+  "count_recent": 464,
+  "count_prev": 430,
+  "share_recent": 0.03373,
+  "share_prev": 0.04016,
+  "growth": 0.84,
+  "eligible": true
+ },
+ {
+  "id": "discrete-time-systems",
+  "name": "discrete-time systems",
+  "count_recent": 137,
+  "count_prev": 133,
+  "share_recent": 0.00996,
+  "share_prev": 0.01242,
+  "growth": 0.802,
+  "eligible": true
+ },
+ {
+  "id": "state-constraints",
+  "name": "state constraints",
+  "count_recent": 331,
+  "count_prev": 311,
+  "share_recent": 0.02406,
+  "share_prev": 0.02905,
+  "growth": 0.828,
+  "eligible": true
+ },
+ {
+  "id": "parameter-uncertainty",
+  "name": "parameter uncertainty",
+  "count_recent": 528,
+  "count_prev": 491,
+  "share_recent": 0.03838,
+  "share_prev": 0.04586,
+  "growth": 0.837,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-control",
+  "name": "nonlinear control",
+  "count_recent": 671,
+  "count_prev": 621,
+  "share_recent": 0.04878,
+  "share_prev": 0.058,
+  "growth": 0.841,
+  "eligible": true
+ },
+ {
+  "id": "maximum-power-point-tracking",
+  "name": "maximum power point tracking",
+  "count_recent": 152,
+  "count_prev": 149,
+  "share_recent": 0.01105,
+  "share_prev": 0.01392,
+  "growth": 0.794,
+  "eligible": true
+ },
+ {
+  "id": "multiple-lyapunov-functions",
+  "name": "multiple Lyapunov functions",
+  "count_recent": 177,
+  "count_prev": 174,
+  "share_recent": 0.01287,
+  "share_prev": 0.01625,
+  "growth": 0.792,
+  "eligible": true
+ },
+ {
+  "id": "robust-adaptive-control",
+  "name": "robust adaptive control",
+  "count_recent": 144,
+  "count_prev": 143,
+  "share_recent": 0.01047,
+  "share_prev": 0.01336,
+  "growth": 0.784,
+  "eligible": true
+ },
+ {
+  "id": "robustness",
+  "name": "robustness",
+  "count_recent": 113,
+  "count_prev": 114,
+  "share_recent": 0.00821,
+  "share_prev": 0.01065,
+  "growth": 0.772,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-stability",
+  "name": "stochastic stability",
+  "count_recent": 78,
+  "count_prev": 81,
+  "share_recent": 0.00567,
+  "share_prev": 0.00757,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "decentralized-control",
+  "name": "decentralized control",
+  "count_recent": 84,
+  "count_prev": 87,
+  "share_recent": 0.00611,
+  "share_prev": 0.00813,
+  "growth": 0.752,
+  "eligible": true
+ },
+ {
+  "id": "takagi-sugeno-fuzzy-systems",
+  "name": "Takagi-Sugeno fuzzy systems",
+  "count_recent": 112,
+  "count_prev": 114,
+  "share_recent": 0.00814,
+  "share_prev": 0.01065,
+  "growth": 0.765,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-control-systems",
+  "name": "nonlinear control systems",
+  "count_recent": 140,
+  "count_prev": 141,
+  "share_recent": 0.01018,
+  "share_prev": 0.01317,
+  "growth": 0.773,
+  "eligible": true
+ },
+ {
+  "id": "state-observer",
+  "name": "state observer",
+  "count_recent": 171,
+  "count_prev": 171,
+  "share_recent": 0.01243,
+  "share_prev": 0.01597,
+  "growth": 0.778,
+  "eligible": true
+ },
+ {
+  "id": "barrier-lyapunov-function",
+  "name": "barrier Lyapunov function",
+  "count_recent": 770,
+  "count_prev": 728,
+  "share_recent": 0.05598,
+  "share_prev": 0.06799,
+  "growth": 0.823,
+  "eligible": true
+ },
+ {
+  "id": "local-stability",
+  "name": "local stability",
+  "count_recent": 110,
+  "count_prev": 115,
+  "share_recent": 0.008,
+  "share_prev": 0.01074,
+  "growth": 0.745,
+  "eligible": true
+ },
+ {
+  "id": "uncertain-nonlinear-systems",
+  "name": "uncertain nonlinear systems",
+  "count_recent": 262,
+  "count_prev": 262,
+  "share_recent": 0.01905,
+  "share_prev": 0.02447,
+  "growth": 0.778,
+  "eligible": true
+ },
+ {
+  "id": "tracking-control",
+  "name": "tracking control",
+  "count_recent": 468,
+  "count_prev": 464,
+  "share_recent": 0.03402,
+  "share_prev": 0.04334,
+  "growth": 0.785,
+  "eligible": true
+ },
+ {
+  "id": "average-dwell-time",
+  "name": "average dwell time",
+  "count_recent": 137,
+  "count_prev": 145,
+  "share_recent": 0.00996,
+  "share_prev": 0.01354,
+  "growth": 0.735,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-nonlinear-systems",
+  "name": "nonlinear stochastic systems",
+  "count_recent": 163,
+  "count_prev": 172,
+  "share_recent": 0.01185,
+  "share_prev": 0.01606,
+  "growth": 0.738,
+  "eligible": true
+ },
+ {
+  "id": "semi-global-uniform-ultimate-boundedness",
+  "name": "semi-global uniform ultimate boundedness",
+  "count_recent": 196,
+  "count_prev": 205,
+  "share_recent": 0.01425,
+  "share_prev": 0.01915,
+  "growth": 0.744,
+  "eligible": true
+ },
+ {
+  "id": "fuzzy-systems",
+  "name": "fuzzy systems",
+  "count_recent": 248,
+  "count_prev": 257,
+  "share_recent": 0.01803,
+  "share_prev": 0.024,
+  "growth": 0.751,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-fuzzy-control",
+  "name": "adaptive fuzzy control",
+  "count_recent": 381,
+  "count_prev": 387,
+  "share_recent": 0.0277,
+  "share_prev": 0.03614,
+  "growth": 0.766,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-backstepping-control",
+  "name": "adaptive backstepping control",
+  "count_recent": 399,
+  "count_prev": 405,
+  "share_recent": 0.02901,
+  "share_prev": 0.03783,
+  "growth": 0.767,
+  "eligible": true
+ },
+ {
+  "id": "finite-time-control",
+  "name": "finite-time control",
+  "count_recent": 287,
+  "count_prev": 296,
+  "share_recent": 0.02086,
+  "share_prev": 0.02765,
+  "growth": 0.755,
+  "eligible": true
+ },
+ {
+  "id": "output-feedback-control",
+  "name": "output feedback control",
+  "count_recent": 267,
+  "count_prev": 278,
+  "share_recent": 0.01941,
+  "share_prev": 0.02596,
+  "growth": 0.748,
+  "eligible": true
+ },
+ {
+  "id": "takagi-sugeno-fuzzy-model",
+  "name": "Takagi-Sugeno fuzzy model",
+  "count_recent": 74,
+  "count_prev": 84,
+  "share_recent": 0.00538,
+  "share_prev": 0.00785,
+  "growth": 0.686,
+  "eligible": true
+ },
+ {
+  "id": "time-varying-delays",
+  "name": "time-varying delays",
+  "count_recent": 157,
+  "count_prev": 170,
+  "share_recent": 0.01141,
+  "share_prev": 0.01588,
+  "growth": 0.719,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-perturbation",
+  "name": "random perturbations",
+  "count_recent": 89,
+  "count_prev": 101,
+  "share_recent": 0.00647,
+  "share_prev": 0.00943,
+  "growth": 0.686,
+  "eligible": true
+ },
+ {
+  "id": "time-delay",
+  "name": "time delay",
+  "count_recent": 169,
+  "count_prev": 185,
+  "share_recent": 0.01229,
+  "share_prev": 0.01728,
+  "growth": 0.711,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-surface-control",
+  "name": "dynamic surface control",
+  "count_recent": 303,
+  "count_prev": 324,
+  "share_recent": 0.02203,
+  "share_prev": 0.03026,
+  "growth": 0.728,
+  "eligible": true
+ },
+ {
+  "id": "full-state-constraints",
+  "name": "full-state constraints",
+  "count_recent": 126,
+  "count_prev": 144,
+  "share_recent": 0.00916,
+  "share_prev": 0.01345,
+  "growth": 0.681,
+  "eligible": true
+ },
+ {
+  "id": "vibration-reduction",
+  "name": "vibration suppression",
+  "count_recent": 75,
+  "count_prev": 91,
+  "share_recent": 0.00545,
+  "share_prev": 0.0085,
+  "growth": 0.641,
+  "eligible": true
+ },
+ {
+  "id": "nussbaum-function",
+  "name": "Nussbaum function",
+  "count_recent": 112,
+  "count_prev": 133,
+  "share_recent": 0.00814,
+  "share_prev": 0.01242,
+  "growth": 0.655,
+  "eligible": true
+ },
+ {
+  "id": "output-feedback",
+  "name": "output feedback",
+  "count_recent": 88,
+  "count_prev": 108,
+  "share_recent": 0.0064,
+  "share_prev": 0.01009,
+  "growth": 0.634,
+  "eligible": true
+ },
+ {
+  "id": "common-lyapunov-function",
+  "name": "common Lyapunov function",
+  "count_recent": 85,
+  "count_prev": 105,
+  "share_recent": 0.00618,
+  "share_prev": 0.00981,
+  "growth": 0.63,
+  "eligible": true
+ },
+ {
+  "id": "complexity-explosion",
+  "name": "explosion of complexity",
+  "count_recent": 305,
+  "count_prev": 344,
+  "share_recent": 0.02217,
+  "share_prev": 0.03213,
+  "growth": 0.69,
+  "eligible": true
+ },
+ {
+  "id": "asymptotic-stability",
+  "name": "asymptotic stability",
+  "count_recent": 293,
+  "count_prev": 332,
+  "share_recent": 0.0213,
+  "share_prev": 0.03101,
+  "growth": 0.687,
+  "eligible": true
+ },
+ {
+  "id": "switched-nonlinear-systems",
+  "name": "switched nonlinear systems",
+  "count_recent": 117,
+  "count_prev": 146,
+  "share_recent": 0.00851,
+  "share_prev": 0.01364,
+  "growth": 0.624,
+  "eligible": true
+ },
+ {
+  "id": "uncertain-systems",
+  "name": "uncertain systems",
+  "count_recent": 92,
+  "count_prev": 124,
+  "share_recent": 0.00669,
+  "share_prev": 0.01158,
+  "growth": 0.577,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-neural-network-control",
+  "name": "adaptive neural network control",
+  "count_recent": 276,
+  "count_prev": 335,
+  "share_recent": 0.02006,
+  "share_prev": 0.03129,
+  "growth": 0.641,
+  "eligible": true
+ },
+ {
+  "id": "linear-matrix-inequalities",
+  "name": "linear matrix inequalities",
+  "count_recent": 444,
+  "count_prev": 537,
+  "share_recent": 0.03228,
+  "share_prev": 0.05015,
+  "growth": 0.644,
+  "eligible": true
+ },
+ {
+  "id": "covid-19",
+  "name": "COVID-19 pandemic",
+  "count_recent": 77,
+  "count_prev": 120,
+  "share_recent": 0.0056,
+  "share_prev": 0.01121,
+  "growth": 0.499,
+  "eligible": true
+ }
+]

@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "yolov8",
+  "name": "YOLOv8",
+  "count_recent": 124,
+  "count_prev": 8,
+  "share_recent": 0.00751,
+  "share_prev": 0.00098,
+  "growth": 7.663,
+  "eligible": true
+ },
+ {
+  "id": "electronic-warfare",
+  "name": "electronic warfare",
+  "count_recent": 101,
+  "count_prev": 7,
+  "share_recent": 0.00612,
+  "share_prev": 0.00086,
+  "growth": 7.133,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 255,
+  "count_prev": 31,
+  "share_recent": 0.01545,
+  "share_prev": 0.0038,
+  "growth": 4.067,
+  "eligible": true
+ },
+ {
+  "id": "integrated-sensing-and-communication",
+  "name": "integrated sensing and communication",
+  "count_recent": 94,
+  "count_prev": 9,
+  "share_recent": 0.00569,
+  "share_prev": 0.0011,
+  "growth": 5.163,
+  "eligible": true
+ },
+ {
+  "id": "soft-actor-critic",
+  "name": "soft actor-critic",
+  "count_recent": 84,
+  "count_prev": 9,
+  "share_recent": 0.00509,
+  "share_prev": 0.0011,
+  "growth": 4.614,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-reinforcement-learning",
+  "name": "multi-agent reinforcement learning",
+  "count_recent": 237,
+  "count_prev": 35,
+  "share_recent": 0.01435,
+  "share_prev": 0.00429,
+  "growth": 3.348,
+  "eligible": true
+ },
+ {
+  "id": "proximal-policy-optimization",
+  "name": "proximal policy optimization",
+  "count_recent": 197,
+  "count_prev": 28,
+  "share_recent": 0.01193,
+  "share_prev": 0.00343,
+  "growth": 3.478,
+  "eligible": true
+ },
+ {
+  "id": "yolo",
+  "name": "YOLO",
+  "count_recent": 98,
+  "count_prev": 12,
+  "share_recent": 0.00594,
+  "share_prev": 0.00147,
+  "growth": 4.037,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 156,
+  "count_prev": 0,
+  "share_recent": 0.00945,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "agricultural-robotics",
+  "name": "agricultural robotics",
+  "count_recent": 79,
+  "count_prev": 11,
+  "share_recent": 0.00478,
+  "share_prev": 0.00135,
+  "growth": 3.55,
+  "eligible": true
+ },
+ {
+  "id": "small-object-detection",
+  "name": "small object detection",
+  "count_recent": 109,
+  "count_prev": 17,
+  "share_recent": 0.0066,
+  "share_prev": 0.00208,
+  "growth": 3.17,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence-in-agriculture",
+  "name": "artificial intelligence in agriculture",
+  "count_recent": 71,
+  "count_prev": 10,
+  "share_recent": 0.0043,
+  "share_prev": 0.00123,
+  "growth": 3.51,
+  "eligible": true
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 207,
+  "count_prev": 38,
+  "share_recent": 0.01254,
+  "share_prev": 0.00466,
+  "growth": 2.693,
+  "eligible": true
+ },
+ {
+  "id": "russia-ukraine-war",
+  "name": "Russian invasion of Ukraine",
+  "count_recent": 111,
+  "count_prev": 18,
+  "share_recent": 0.00672,
+  "share_prev": 0.00221,
+  "growth": 3.049,
+  "eligible": true
+ },
+ {
+  "id": "low-altitude-economy",
+  "name": "low-altitude economy",
+  "count_recent": 93,
+  "count_prev": 0,
+  "share_recent": 0.00563,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "disaster-response",
+  "name": "disaster response",
+  "count_recent": 109,
+  "count_prev": 19,
+  "share_recent": 0.0066,
+  "share_prev": 0.00233,
+  "growth": 2.836,
+  "eligible": true
+ },
+ {
+  "id": "integrated-pest-management",
+  "name": "integrated pest management",
+  "count_recent": 70,
+  "count_prev": 11,
+  "share_recent": 0.00424,
+  "share_prev": 0.00135,
+  "growth": 3.146,
+  "eligible": true
+ },
+ {
+  "id": "food-security",
+  "name": "food security",
+  "count_recent": 112,
+  "count_prev": 20,
+  "share_recent": 0.00678,
+  "share_prev": 0.00245,
+  "growth": 2.768,
+  "eligible": true
+ },
+ {
+  "id": "predefined-time-control",
+  "name": "predefined-time control",
+  "count_recent": 71,
+  "count_prev": 0,
+  "share_recent": 0.0043,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-time-control",
+  "name": "prescribed-time control",
+  "count_recent": 70,
+  "count_prev": 0,
+  "share_recent": 0.00424,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "sustainable-agriculture",
+  "name": "sustainable agriculture",
+  "count_recent": 146,
+  "count_prev": 32,
+  "share_recent": 0.00884,
+  "share_prev": 0.00392,
+  "growth": 2.256,
+  "eligible": true
+ },
+ {
+  "id": "6g-networks",
+  "name": "6G",
+  "count_recent": 191,
+  "count_prev": 44,
+  "share_recent": 0.01157,
+  "share_prev": 0.00539,
+  "growth": 2.146,
+  "eligible": true
+ },
+ {
+  "id": "sim-to-real-transfer",
+  "name": "sim-to-real transfer",
+  "count_recent": 78,
+  "count_prev": 16,
+  "share_recent": 0.00472,
+  "share_prev": 0.00196,
+  "growth": 2.41,
+  "eligible": true
+ },
+ {
+  "id": "precision-agriculture",
+  "name": "precision agriculture",
+  "count_recent": 564,
+  "count_prev": 153,
+  "share_recent": 0.03416,
+  "share_prev": 0.01875,
+  "growth": 1.822,
+  "eligible": true
+ },
+ {
+  "id": "environmental-monitoring",
+  "name": "environmental monitoring",
+  "count_recent": 108,
+  "count_prev": 25,
+  "share_recent": 0.00654,
+  "share_prev": 0.00306,
+  "growth": 2.136,
+  "eligible": true
+ },
+ {
+  "id": "uav-inspection",
+  "name": "UAV inspection",
+  "count_recent": 69,
+  "count_prev": 15,
+  "share_recent": 0.00418,
+  "share_prev": 0.00184,
+  "growth": 2.274,
+  "eligible": true
+ },
+ {
+  "id": "attention-mechanism",
+  "name": "attention mechanism",
+  "count_recent": 77,
+  "count_prev": 18,
+  "share_recent": 0.00466,
+  "share_prev": 0.00221,
+  "growth": 2.115,
+  "eligible": true
+ },
+ {
+  "id": "pest-management",
+  "name": "pest control",
+  "count_recent": 97,
+  "count_prev": 24,
+  "share_recent": 0.00588,
+  "share_prev": 0.00294,
+  "growth": 1.998,
+  "eligible": true
+ },
+ {
+  "id": "federated-learning",
+  "name": "federated learning",
+  "count_recent": 84,
+  "count_prev": 21,
+  "share_recent": 0.00509,
+  "share_prev": 0.00257,
+  "growth": 1.977,
+  "eligible": true
+ },
+ {
+  "id": "uav-trajectory-planning",
+  "name": "UAV trajectory planning",
+  "count_recent": 111,
+  "count_prev": 29,
+  "share_recent": 0.00672,
+  "share_prev": 0.00355,
+  "growth": 1.892,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence",
+  "name": "artificial intelligence",
+  "count_recent": 237,
+  "count_prev": 69,
+  "share_recent": 0.01435,
+  "share_prev": 0.00845,
+  "growth": 1.698,
+  "eligible": true
+ },
+ {
+  "id": "lidar",
+  "name": "LiDAR",
+  "count_recent": 167,
+  "count_prev": 47,
+  "share_recent": 0.01012,
+  "share_prev": 0.00576,
+  "growth": 1.757,
+  "eligible": true
+ },
+ {
+  "id": "edge-computing",
+  "name": "edge computing",
+  "count_recent": 191,
+  "count_prev": 55,
+  "share_recent": 0.01157,
+  "share_prev": 0.00674,
+  "growth": 1.717,
+  "eligible": true
+ },
+ {
+  "id": "reconfigurable-intelligent-surface",
+  "name": "reconfigurable intelligent surface",
+  "count_recent": 168,
+  "count_prev": 48,
+  "share_recent": 0.01018,
+  "share_prev": 0.00588,
+  "growth": 1.73,
+  "eligible": true
+ },
+ {
+  "id": "weed-control",
+  "name": "weed control",
+  "count_recent": 111,
+  "count_prev": 31,
+  "share_recent": 0.00672,
+  "share_prev": 0.0038,
+  "growth": 1.77,
+  "eligible": true
+ },
+ {
+  "id": "task-offloading",
+  "name": "task offloading",
+  "count_recent": 94,
+  "count_prev": 26,
+  "share_recent": 0.00569,
+  "share_prev": 0.00319,
+  "growth": 1.787,
+  "eligible": true
+ },
+ {
+  "id": "event-triggered-control",
+  "name": "event-triggered control",
+  "count_recent": 225,
+  "count_prev": 69,
+  "share_recent": 0.01363,
+  "share_prev": 0.00845,
+  "growth": 1.612,
+  "eligible": true
+ },
+ {
+  "id": "multi-uav-coordination",
+  "name": "multi-UAV coordination",
+  "count_recent": 159,
+  "count_prev": 48,
+  "share_recent": 0.00963,
+  "share_prev": 0.00588,
+  "growth": 1.638,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-weapons",
+  "name": "autonomous weapons",
+  "count_recent": 72,
+  "count_prev": 20,
+  "share_recent": 0.00436,
+  "share_prev": 0.00245,
+  "growth": 1.78,
+  "eligible": true
+ },
+ {
+  "id": "drone-detection",
+  "name": "drone detection",
+  "count_recent": 118,
+  "count_prev": 35,
+  "share_recent": 0.00715,
+  "share_prev": 0.00429,
+  "growth": 1.667,
+  "eligible": true
+ },
+ {
+  "id": "task-allocation",
+  "name": "task allocation",
+  "count_recent": 93,
+  "count_prev": 27,
+  "share_recent": 0.00563,
+  "share_prev": 0.00331,
+  "growth": 1.703,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-deep-reinforcement-learning",
+  "name": "multi-agent deep reinforcement learning",
+  "count_recent": 76,
+  "count_prev": 22,
+  "share_recent": 0.0046,
+  "share_prev": 0.0027,
+  "growth": 1.708,
+  "eligible": true
+ },
+ {
+  "id": "denial-of-service-attacks",
+  "name": "denial-of-service attacks",
+  "count_recent": 75,
+  "count_prev": 22,
+  "share_recent": 0.00454,
+  "share_prev": 0.0027,
+  "growth": 1.685,
+  "eligible": true
+ },
+ {
+  "id": "uav-path-planning",
+  "name": "UAV path planning",
+  "count_recent": 195,
+  "count_prev": 63,
+  "share_recent": 0.01181,
+  "share_prev": 0.00772,
+  "growth": 1.53,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 430,
+  "count_prev": 148,
+  "share_recent": 0.02604,
+  "share_prev": 0.01813,
+  "growth": 1.436,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 349,
+  "count_prev": 119,
+  "share_recent": 0.02114,
+  "share_prev": 0.01458,
+  "growth": 1.45,
+  "eligible": true
+ },
+ {
+  "id": "uav-lidar",
+  "name": "UAV LiDAR",
+  "count_recent": 84,
+  "count_prev": 26,
+  "share_recent": 0.00509,
+  "share_prev": 0.00319,
+  "growth": 1.597,
+  "eligible": true
+ },
+ {
+  "id": "uav-swarms",
+  "name": "UAV swarms",
+  "count_recent": 649,
+  "count_prev": 235,
+  "share_recent": 0.03931,
+  "share_prev": 0.02879,
+  "growth": 1.365,
+  "eligible": true
+ },
+ {
+  "id": "sensor-fusion",
+  "name": "sensor fusion",
+  "count_recent": 147,
+  "count_prev": 49,
+  "share_recent": 0.0089,
+  "share_prev": 0.006,
+  "growth": 1.483,
+  "eligible": true
+ },
+ {
+  "id": "uav-navigation",
+  "name": "UAV navigation",
+  "count_recent": 191,
+  "count_prev": 65,
+  "share_recent": 0.01157,
+  "share_prev": 0.00796,
+  "growth": 1.453,
+  "eligible": true
+ },
+ {
+  "id": "situational-awareness",
+  "name": "situational awareness",
+  "count_recent": 82,
+  "count_prev": 26,
+  "share_recent": 0.00497,
+  "share_prev": 0.00319,
+  "growth": 1.559,
+  "eligible": true
+ },
+ {
+  "id": "hierarchical-control",
+  "name": "hierarchical control",
+  "count_recent": 140,
+  "count_prev": 47,
+  "share_recent": 0.00848,
+  "share_prev": 0.00576,
+  "growth": 1.473,
+  "eligible": true
+ },
+ {
+  "id": "extended-state-observer",
+  "name": "extended state observer",
+  "count_recent": 152,
+  "count_prev": 53,
+  "share_recent": 0.00921,
+  "share_prev": 0.00649,
+  "growth": 1.418,
+  "eligible": true
+ },
+ {
+  "id": "computer-vision",
+  "name": "computer vision",
+  "count_recent": 111,
+  "count_prev": 38,
+  "share_recent": 0.00672,
+  "share_prev": 0.00466,
+  "growth": 1.444,
+  "eligible": true
+ },
+ {
+  "id": "energy-optimization",
+  "name": "energy optimization",
+  "count_recent": 78,
+  "count_prev": 26,
+  "share_recent": 0.00472,
+  "share_prev": 0.00319,
+  "growth": 1.483,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 148,
+  "count_prev": 52,
+  "share_recent": 0.00896,
+  "share_prev": 0.00637,
+  "growth": 1.407,
+  "eligible": true
+ },
+ {
+  "id": "smart-agriculture",
+  "name": "smart agriculture",
+  "count_recent": 121,
+  "count_prev": 42,
+  "share_recent": 0.00733,
+  "share_prev": 0.00515,
+  "growth": 1.424,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 402,
+  "count_prev": 150,
+  "share_recent": 0.02435,
+  "share_prev": 0.01838,
+  "growth": 1.325,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-unmanned-aerial-vehicles",
+  "name": "autonomous aerial vehicles",
+  "count_recent": 77,
+  "count_prev": 26,
+  "share_recent": 0.00466,
+  "share_prev": 0.00319,
+  "growth": 1.464,
+  "eligible": true
+ },
+ {
+  "id": "remote-sensing",
+  "name": "remote sensing",
+  "count_recent": 142,
+  "count_prev": 51,
+  "share_recent": 0.0086,
+  "share_prev": 0.00625,
+  "growth": 1.376,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 89,
+  "count_prev": 32,
+  "share_recent": 0.00539,
+  "share_prev": 0.00392,
+  "growth": 1.375,
+  "eligible": true
+ },
+ {
+  "id": "multi-uav-formation-control",
+  "name": "multi-UAV formation control",
+  "count_recent": 73,
+  "count_prev": 26,
+  "share_recent": 0.00442,
+  "share_prev": 0.00319,
+  "growth": 1.388,
+  "eligible": true
+ },
+ {
+  "id": "cluttered-environments",
+  "name": "cluttered environments",
+  "count_recent": 72,
+  "count_prev": 26,
+  "share_recent": 0.00436,
+  "share_prev": 0.00319,
+  "growth": 1.369,
+  "eligible": true
+ },
+ {
+  "id": "urban-air-mobility",
+  "name": "urban air mobility",
+  "count_recent": 89,
+  "count_prev": 33,
+  "share_recent": 0.00539,
+  "share_prev": 0.00404,
+  "growth": 1.333,
+  "eligible": true
+ },
+ {
+  "id": "search-and-rescue",
+  "name": "search and rescue",
+  "count_recent": 164,
+  "count_prev": 63,
+  "share_recent": 0.00993,
+  "share_prev": 0.00772,
+  "growth": 1.287,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 393,
+  "count_prev": 157,
+  "share_recent": 0.0238,
+  "share_prev": 0.01924,
+  "growth": 1.237,
+  "eligible": true
+ },
+ {
+  "id": "swarm-intelligence",
+  "name": "swarm intelligence",
+  "count_recent": 90,
+  "count_prev": 34,
+  "share_recent": 0.00545,
+  "share_prev": 0.00417,
+  "growth": 1.309,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-optimization",
+  "name": "trajectory optimization",
+  "count_recent": 127,
+  "count_prev": 49,
+  "share_recent": 0.00769,
+  "share_prev": 0.006,
+  "growth": 1.281,
+  "eligible": true
+ },
+ {
+  "id": "agricultural-drones",
+  "name": "agricultural drones",
+  "count_recent": 215,
+  "count_prev": 85,
+  "share_recent": 0.01302,
+  "share_prev": 0.01041,
+  "growth": 1.25,
+  "eligible": true
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 119,
+  "count_prev": 46,
+  "share_recent": 0.00721,
+  "share_prev": 0.00564,
+  "growth": 1.279,
+  "eligible": true
+ },
+ {
+  "id": "artificial-potential-field",
+  "name": "artificial potential field",
+  "count_recent": 116,
+  "count_prev": 45,
+  "share_recent": 0.00703,
+  "share_prev": 0.00551,
+  "growth": 1.274,
+  "eligible": true
+ },
+ {
+  "id": "random-forest",
+  "name": "random forest",
+  "count_recent": 81,
+  "count_prev": 31,
+  "share_recent": 0.00491,
+  "share_prev": 0.0038,
+  "growth": 1.292,
+  "eligible": true
+ },
+ {
+  "id": "prescribed-performance-control",
+  "name": "prescribed performance control",
+  "count_recent": 108,
+  "count_prev": 42,
+  "share_recent": 0.00654,
+  "share_prev": 0.00515,
+  "growth": 1.271,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 662,
+  "count_prev": 276,
+  "share_recent": 0.0401,
+  "share_prev": 0.03382,
+  "growth": 1.186,
+  "eligible": true
+ },
+ {
+  "id": "uav-trajectory-optimization",
+  "name": "UAV trajectory optimization",
+  "count_recent": 215,
+  "count_prev": 88,
+  "share_recent": 0.01302,
+  "share_prev": 0.01078,
+  "growth": 1.208,
+  "eligible": true
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 109,
+  "count_prev": 44,
+  "share_recent": 0.0066,
+  "share_prev": 0.00539,
+  "growth": 1.225,
+  "eligible": true
+ },
+ {
+  "id": "machine-learning",
+  "name": "machine learning",
+  "count_recent": 111,
+  "count_prev": 45,
+  "share_recent": 0.00672,
+  "share_prev": 0.00551,
+  "growth": 1.219,
+  "eligible": true
+ },
+ {
+  "id": "markov-decision-process",
+  "name": "Markov decision process",
+  "count_recent": 82,
+  "count_prev": 33,
+  "share_recent": 0.00497,
+  "share_prev": 0.00404,
+  "growth": 1.228,
+  "eligible": true
+ },
+ {
+  "id": "smart-cities",
+  "name": "smart cities",
+  "count_recent": 82,
+  "count_prev": 33,
+  "share_recent": 0.00497,
+  "share_prev": 0.00404,
+  "growth": 1.228,
+  "eligible": true
+ },
+ {
+  "id": "heterogeneous-multi-agent-systems",
+  "name": "heterogeneous multi-agent systems",
+  "count_recent": 70,
+  "count_prev": 28,
+  "share_recent": 0.00424,
+  "share_prev": 0.00343,
+  "growth": 1.236,
+  "eligible": true
+ },
+ {
+  "id": "gps-denied-navigation",
+  "name": "GPS-denied navigation",
+  "count_recent": 79,
+  "count_prev": 32,
+  "share_recent": 0.00478,
+  "share_prev": 0.00392,
+  "growth": 1.22,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 137,
+  "count_prev": 57,
+  "share_recent": 0.0083,
+  "share_prev": 0.00698,
+  "growth": 1.188,
+  "eligible": true
+ },
+ {
+  "id": "actuator-saturation",
+  "name": "actuator saturation",
+  "count_recent": 99,
+  "count_prev": 41,
+  "share_recent": 0.006,
+  "share_prev": 0.00502,
+  "growth": 1.194,
+  "eligible": true
+ },
+ {
+  "id": "reward-function-design",
+  "name": "reward function design",
+  "count_recent": 75,
+  "count_prev": 31,
+  "share_recent": 0.00454,
+  "share_prev": 0.0038,
+  "growth": 1.196,
+  "eligible": true
+ },
+ {
+  "id": "ddpg",
+  "name": "deep deterministic policy gradient",
+  "count_recent": 107,
+  "count_prev": 45,
+  "share_recent": 0.00648,
+  "share_prev": 0.00551,
+  "growth": 1.175,
+  "eligible": true
+ },
+ {
+  "id": "uav-control",
+  "name": "UAV control",
+  "count_recent": 243,
+  "count_prev": 105,
+  "share_recent": 0.01472,
+  "share_prev": 0.01286,
+  "growth": 1.144,
+  "eligible": true
+ },
+ {
+  "id": "software-in-the-loop",
+  "name": "software-in-the-loop simulation",
+  "count_recent": 79,
+  "count_prev": 33,
+  "share_recent": 0.00478,
+  "share_prev": 0.00404,
+  "growth": 1.183,
+  "eligible": true
+ },
+ {
+  "id": "power-allocation",
+  "name": "power allocation",
+  "count_recent": 90,
+  "count_prev": 38,
+  "share_recent": 0.00545,
+  "share_prev": 0.00466,
+  "growth": 1.171,
+  "eligible": true
+ },
+ {
+  "id": "plant-disease-detection",
+  "name": "plant disease detection",
+  "count_recent": 69,
+  "count_prev": 29,
+  "share_recent": 0.00418,
+  "share_prev": 0.00355,
+  "growth": 1.176,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-compensation",
+  "name": "disturbance compensation",
+  "count_recent": 134,
+  "count_prev": 58,
+  "share_recent": 0.00812,
+  "share_prev": 0.00711,
+  "growth": 1.142,
+  "eligible": true
+ },
+ {
+  "id": "internet-of-things",
+  "name": "Internet of Things",
+  "count_recent": 396,
+  "count_prev": 176,
+  "share_recent": 0.02399,
+  "share_prev": 0.02156,
+  "growth": 1.112,
+  "eligible": true
+ },
+ {
+  "id": "wind-disturbance-rejection",
+  "name": "wind disturbance rejection",
+  "count_recent": 113,
+  "count_prev": 49,
+  "share_recent": 0.00684,
+  "share_prev": 0.006,
+  "growth": 1.14,
+  "eligible": true
+ },
+ {
+  "id": "path-planning",
+  "name": "path planning",
+  "count_recent": 211,
+  "count_prev": 93,
+  "share_recent": 0.01278,
+  "share_prev": 0.01139,
+  "growth": 1.122,
+  "eligible": true
+ },
+ {
+  "id": "infrared-thermography",
+  "name": "infrared thermography",
+  "count_recent": 99,
+  "count_prev": 43,
+  "share_recent": 0.006,
+  "share_prev": 0.00527,
+  "growth": 1.138,
+  "eligible": true
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 610,
+  "count_prev": 275,
+  "share_recent": 0.03695,
+  "share_prev": 0.03369,
+  "growth": 1.097,
+  "eligible": true
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 148,
+  "count_prev": 65,
+  "share_recent": 0.00896,
+  "share_prev": 0.00796,
+  "growth": 1.126,
+  "eligible": true
+ },
+ {
+  "id": "uniform-ultimate-boundedness",
+  "name": "uniform ultimate boundedness",
+  "count_recent": 103,
+  "count_prev": 45,
+  "share_recent": 0.00624,
+  "share_prev": 0.00551,
+  "growth": 1.132,
+  "eligible": true
+ },
+ {
+  "id": "hardware-in-the-loop-simulation",
+  "name": "hardware-in-the-loop",
+  "count_recent": 99,
+  "count_prev": 44,
+  "share_recent": 0.006,
+  "share_prev": 0.00539,
+  "growth": 1.112,
+  "eligible": true
+ },
+ {
+  "id": "crop-monitoring",
+  "name": "crop monitoring",
+  "count_recent": 103,
+  "count_prev": 46,
+  "share_recent": 0.00624,
+  "share_prev": 0.00564,
+  "growth": 1.107,
+  "eligible": true
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 251,
+  "count_prev": 115,
+  "share_recent": 0.0152,
+  "share_prev": 0.01409,
+  "growth": 1.079,
+  "eligible": true
+ },
+ {
+  "id": "wind-disturbance",
+  "name": "wind disturbance",
+  "count_recent": 171,
+  "count_prev": 78,
+  "share_recent": 0.01036,
+  "share_prev": 0.00956,
+  "growth": 1.084,
+  "eligible": true
+ },
+ {
+  "id": "aircraft-stability",
+  "name": "flight stability",
+  "count_recent": 99,
+  "count_prev": 45,
+  "share_recent": 0.006,
+  "share_prev": 0.00551,
+  "growth": 1.088,
+  "eligible": true
+ },
+ {
+  "id": "multi-uav-systems",
+  "name": "multi-UAV systems",
+  "count_recent": 195,
+  "count_prev": 90,
+  "share_recent": 0.01181,
+  "share_prev": 0.01103,
+  "growth": 1.071,
+  "eligible": true
+ },
+ {
+  "id": "resource-allocation",
+  "name": "resource allocation",
+  "count_recent": 159,
+  "count_prev": 74,
+  "share_recent": 0.00963,
+  "share_prev": 0.00907,
+  "growth": 1.062,
+  "eligible": true
+ },
+ {
+  "id": "quadrotor-control",
+  "name": "quadrotor control",
+  "count_recent": 120,
+  "count_prev": 56,
+  "share_recent": 0.00727,
+  "share_prev": 0.00686,
+  "growth": 1.059,
+  "eligible": true
+ },
+ {
+  "id": "energy-consumption",
+  "name": "energy consumption",
+  "count_recent": 179,
+  "count_prev": 84,
+  "share_recent": 0.01084,
+  "share_prev": 0.01029,
+  "growth": 1.053,
+  "eligible": true
+ },
+ {
+  "id": "uav-remote-sensing",
+  "name": "UAV remote sensing",
+  "count_recent": 143,
+  "count_prev": 67,
+  "share_recent": 0.00866,
+  "share_prev": 0.00821,
+  "growth": 1.055,
+  "eligible": true
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 165,
+  "count_prev": 78,
+  "share_recent": 0.00999,
+  "share_prev": 0.00956,
+  "growth": 1.046,
+  "eligible": true
+ },
+ {
+  "id": "aerial-robots",
+  "name": "autonomous drones",
+  "count_recent": 222,
+  "count_prev": 107,
+  "share_recent": 0.01345,
+  "share_prev": 0.01311,
+  "growth": 1.026,
+  "eligible": true
+ },
+ {
+  "id": "fault-tolerance",
+  "name": "fault tolerance",
+  "count_recent": 85,
+  "count_prev": 41,
+  "share_recent": 0.00515,
+  "share_prev": 0.00502,
+  "growth": 1.025,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 307,
+  "count_prev": 149,
+  "share_recent": 0.01859,
+  "share_prev": 0.01826,
+  "growth": 1.019,
+  "eligible": true
+ },
+ {
+  "id": "control-allocation",
+  "name": "control allocation",
+  "count_recent": 90,
+  "count_prev": 44,
+  "share_recent": 0.00545,
+  "share_prev": 0.00539,
+  "growth": 1.011,
+  "eligible": true
+ },
+ {
+  "id": "weed-detection",
+  "name": "weed detection",
+  "count_recent": 95,
+  "count_prev": 47,
+  "share_recent": 0.00575,
+  "share_prev": 0.00576,
+  "growth": 0.999,
+  "eligible": true
+ },
+ {
+  "id": "uav-multispectral-imagery",
+  "name": "UAV multispectral imagery",
+  "count_recent": 131,
+  "count_prev": 65,
+  "share_recent": 0.00793,
+  "share_prev": 0.00796,
+  "growth": 0.996,
+  "eligible": true
+ },
+ {
+  "id": "metaheuristic-optimization",
+  "name": "metaheuristic optimization",
+  "count_recent": 78,
+  "count_prev": 39,
+  "share_recent": 0.00472,
+  "share_prev": 0.00478,
+  "growth": 0.989,
+  "eligible": true
+ },
+ {
+  "id": "actuator-faults",
+  "name": "actuator faults",
+  "count_recent": 267,
+  "count_prev": 134,
+  "share_recent": 0.01617,
+  "share_prev": 0.01642,
+  "growth": 0.985,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-navigation",
+  "name": "autonomous navigation",
+  "count_recent": 151,
+  "count_prev": 76,
+  "share_recent": 0.00915,
+  "share_prev": 0.00931,
+  "growth": 0.982,
+  "eligible": true
+ },
+ {
+  "id": "uav-imagery",
+  "name": "UAV imagery",
+  "count_recent": 482,
+  "count_prev": 244,
+  "share_recent": 0.02919,
+  "share_prev": 0.02989,
+  "growth": 0.977,
+  "eligible": true
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 80,
+  "count_prev": 41,
+  "share_recent": 0.00485,
+  "share_prev": 0.00502,
+  "growth": 0.965,
+  "eligible": true
+ },
+ {
+  "id": "object-detection",
+  "name": "object detection",
+  "count_recent": 156,
+  "count_prev": 81,
+  "share_recent": 0.00945,
+  "share_prev": 0.00992,
+  "growth": 0.952,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-ground-vehicles",
+  "name": "unmanned ground vehicles",
+  "count_recent": 119,
+  "count_prev": 62,
+  "share_recent": 0.00721,
+  "share_prev": 0.0076,
+  "growth": 0.949,
+  "eligible": true
+ },
+ {
+  "id": "radial-basis-function-neural-network",
+  "name": "radial basis function neural network",
+  "count_recent": 121,
+  "count_prev": 63,
+  "share_recent": 0.00733,
+  "share_prev": 0.00772,
+  "growth": 0.949,
+  "eligible": true
+ },
+ {
+  "id": "uav-assisted-communication",
+  "name": "UAV-assisted communication",
+  "count_recent": 82,
+  "count_prev": 43,
+  "share_recent": 0.00497,
+  "share_prev": 0.00527,
+  "growth": 0.943,
+  "eligible": true
+ },
+ {
+  "id": "visual-servoing",
+  "name": "visual servoing",
+  "count_recent": 82,
+  "count_prev": 43,
+  "share_recent": 0.00497,
+  "share_prev": 0.00527,
+  "growth": 0.943,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-obstacles",
+  "name": "dynamic obstacles",
+  "count_recent": 75,
+  "count_prev": 40,
+  "share_recent": 0.00454,
+  "share_prev": 0.0049,
+  "growth": 0.927,
+  "eligible": true
+ },
+ {
+  "id": "uav-networks",
+  "name": "UAV networks",
+  "count_recent": 187,
+  "count_prev": 99,
+  "share_recent": 0.01133,
+  "share_prev": 0.01213,
+  "growth": 0.934,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-planning",
+  "name": "trajectory planning",
+  "count_recent": 182,
+  "count_prev": 97,
+  "share_recent": 0.01102,
+  "share_prev": 0.01188,
+  "growth": 0.928,
+  "eligible": true
+ },
+ {
+  "id": "mobile-edge-computing",
+  "name": "mobile edge computing",
+  "count_recent": 75,
+  "count_prev": 41,
+  "share_recent": 0.00454,
+  "share_prev": 0.00502,
+  "growth": 0.904,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 481,
+  "count_prev": 258,
+  "share_recent": 0.02913,
+  "share_prev": 0.03161,
+  "growth": 0.922,
+  "eligible": true
+ },
+ {
+  "id": "normalized-difference-vegetation-index",
+  "name": "NDVI",
+  "count_recent": 107,
+  "count_prev": 59,
+  "share_recent": 0.00648,
+  "share_prev": 0.00723,
+  "growth": 0.897,
+  "eligible": true
+ },
+ {
+  "id": "fixed-time-control",
+  "name": "fixed-time control",
+  "count_recent": 101,
+  "count_prev": 56,
+  "share_recent": 0.00612,
+  "share_prev": 0.00686,
+  "growth": 0.892,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-estimation",
+  "name": "disturbance estimation",
+  "count_recent": 160,
+  "count_prev": 88,
+  "share_recent": 0.00969,
+  "share_prev": 0.01078,
+  "growth": 0.899,
+  "eligible": true
+ },
+ {
+  "id": "vegetation-index",
+  "name": "vegetation indices",
+  "count_recent": 129,
+  "count_prev": 72,
+  "share_recent": 0.00781,
+  "share_prev": 0.00882,
+  "growth": 0.886,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-surface-vessels",
+  "name": "unmanned surface vehicles",
+  "count_recent": 96,
+  "count_prev": 54,
+  "share_recent": 0.00581,
+  "share_prev": 0.00662,
+  "growth": 0.879,
+  "eligible": true
+ },
+ {
+  "id": "stability-analysis",
+  "name": "stability analysis",
+  "count_recent": 83,
+  "count_prev": 47,
+  "share_recent": 0.00503,
+  "share_prev": 0.00576,
+  "growth": 0.873,
+  "eligible": true
+ },
+ {
+  "id": "fuzzy-logic-control",
+  "name": "fuzzy logic control",
+  "count_recent": 82,
+  "count_prev": 47,
+  "share_recent": 0.00497,
+  "share_prev": 0.00576,
+  "growth": 0.863,
+  "eligible": true
+ },
+ {
+  "id": "active-disturbance-rejection-control",
+  "name": "active disturbance rejection control",
+  "count_recent": 86,
+  "count_prev": 50,
+  "share_recent": 0.00521,
+  "share_prev": 0.00613,
+  "growth": 0.85,
+  "eligible": true
+ },
+ {
+  "id": "leader-follower-formation",
+  "name": "leader-follower formation",
+  "count_recent": 77,
+  "count_prev": 45,
+  "share_recent": 0.00466,
+  "share_prev": 0.00551,
+  "growth": 0.846,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 951,
+  "count_prev": 525,
+  "share_recent": 0.0576,
+  "share_prev": 0.06432,
+  "growth": 0.896,
+  "eligible": true
+ },
+ {
+  "id": "chattering-reduction",
+  "name": "chattering reduction",
+  "count_recent": 183,
+  "count_prev": 105,
+  "share_recent": 0.01108,
+  "share_prev": 0.01286,
+  "growth": 0.862,
+  "eligible": true
+ },
+ {
+  "id": "finite-time-control",
+  "name": "finite-time control",
+  "count_recent": 90,
+  "count_prev": 53,
+  "share_recent": 0.00545,
+  "share_prev": 0.00649,
+  "growth": 0.839,
+  "eligible": true
+ },
+ {
+  "id": "uav-formation-control",
+  "name": "UAV formation control",
+  "count_recent": 91,
+  "count_prev": 54,
+  "share_recent": 0.00551,
+  "share_prev": 0.00662,
+  "growth": 0.833,
+  "eligible": true
+ },
+ {
+  "id": "blockchain",
+  "name": "blockchain",
+  "count_recent": 115,
+  "count_prev": 68,
+  "share_recent": 0.00697,
+  "share_prev": 0.00833,
+  "growth": 0.836,
+  "eligible": true
+ },
+ {
+  "id": "uav-communication",
+  "name": "UAV communication",
+  "count_recent": 139,
+  "count_prev": 82,
+  "share_recent": 0.00842,
+  "share_prev": 0.01005,
+  "growth": 0.838,
+  "eligible": true
+ },
+ {
+  "id": "input-saturation",
+  "name": "input saturation",
+  "count_recent": 95,
+  "count_prev": 57,
+  "share_recent": 0.00575,
+  "share_prev": 0.00698,
+  "growth": 0.824,
+  "eligible": true
+ },
+ {
+  "id": "linear-quadratic-regulator",
+  "name": "linear quadratic regulator",
+  "count_recent": 100,
+  "count_prev": 60,
+  "share_recent": 0.00606,
+  "share_prev": 0.00735,
+  "growth": 0.824,
+  "eligible": true
+ },
+ {
+  "id": "fault-tolerant-control",
+  "name": "fault-tolerant control",
+  "count_recent": 297,
+  "count_prev": 173,
+  "share_recent": 0.01799,
+  "share_prev": 0.0212,
+  "growth": 0.849,
+  "eligible": true
+ },
+ {
+  "id": "target-tracking",
+  "name": "target tracking",
+  "count_recent": 102,
+  "count_prev": 62,
+  "share_recent": 0.00618,
+  "share_prev": 0.0076,
+  "growth": 0.813,
+  "eligible": true
+ },
+ {
+  "id": "pid-controller-tuning",
+  "name": "PID controller tuning",
+  "count_recent": 81,
+  "count_prev": 50,
+  "share_recent": 0.00491,
+  "share_prev": 0.00613,
+  "growth": 0.801,
+  "eligible": true
+ },
+ {
+  "id": "decentralized-control",
+  "name": "decentralized control",
+  "count_recent": 104,
+  "count_prev": 64,
+  "share_recent": 0.0063,
+  "share_prev": 0.00784,
+  "growth": 0.803,
+  "eligible": true
+ },
+ {
+  "id": "genetic-algorithm",
+  "name": "genetic algorithm",
+  "count_recent": 69,
+  "count_prev": 44,
+  "share_recent": 0.00418,
+  "share_prev": 0.00539,
+  "growth": 0.775,
+  "eligible": true
+ },
+ {
+  "id": "pid-control",
+  "name": "PID control",
+  "count_recent": 233,
+  "count_prev": 141,
+  "share_recent": 0.01411,
+  "share_prev": 0.01728,
+  "growth": 0.817,
+  "eligible": true
+ },
+ {
+  "id": "sliding-mode-control",
+  "name": "sliding mode control",
+  "count_recent": 286,
+  "count_prev": 172,
+  "share_recent": 0.01732,
+  "share_prev": 0.02107,
+  "growth": 0.822,
+  "eligible": true
+ },
+ {
+  "id": "vertical-takeoff-and-landing",
+  "name": "vertical takeoff and landing",
+  "count_recent": 88,
+  "count_prev": 56,
+  "share_recent": 0.00533,
+  "share_prev": 0.00686,
+  "growth": 0.777,
+  "eligible": true
+ },
+ {
+  "id": "attitude-stabilization",
+  "name": "attitude stabilization",
+  "count_recent": 71,
+  "count_prev": 46,
+  "share_recent": 0.0043,
+  "share_prev": 0.00564,
+  "growth": 0.763,
+  "eligible": true
+ },
+ {
+  "id": "cooperative-control",
+  "name": "cooperative control",
+  "count_recent": 80,
+  "count_prev": 52,
+  "share_recent": 0.00485,
+  "share_prev": 0.00637,
+  "growth": 0.761,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-observer",
+  "name": "disturbance observer",
+  "count_recent": 174,
+  "count_prev": 109,
+  "share_recent": 0.01054,
+  "share_prev": 0.01335,
+  "growth": 0.789,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-sliding-mode-control",
+  "name": "adaptive sliding mode control",
+  "count_recent": 81,
+  "count_prev": 53,
+  "share_recent": 0.00491,
+  "share_prev": 0.00649,
+  "growth": 0.756,
+  "eligible": true
+ },
+ {
+  "id": "drone-delivery",
+  "name": "drone delivery",
+  "count_recent": 71,
+  "count_prev": 47,
+  "share_recent": 0.0043,
+  "share_prev": 0.00576,
+  "growth": 0.747,
+  "eligible": true
+ },
+ {
+  "id": "distributed-control",
+  "name": "distributed control",
+  "count_recent": 188,
+  "count_prev": 119,
+  "share_recent": 0.01139,
+  "share_prev": 0.01458,
+  "growth": 0.781,
+  "eligible": true
+ },
+ {
+  "id": "flight-control",
+  "name": "flight control",
+  "count_recent": 126,
+  "count_prev": 82,
+  "share_recent": 0.00763,
+  "share_prev": 0.01005,
+  "growth": 0.76,
+  "eligible": true
+ },
+ {
+  "id": "formation-control",
+  "name": "formation control",
+  "count_recent": 195,
+  "count_prev": 124,
+  "share_recent": 0.01181,
+  "share_prev": 0.01519,
+  "growth": 0.777,
+  "eligible": true
+ },
+ {
+  "id": "model-uncertainty",
+  "name": "model uncertainty",
+  "count_recent": 157,
+  "count_prev": 101,
+  "share_recent": 0.00951,
+  "share_prev": 0.01237,
+  "growth": 0.768,
+  "eligible": true
+ },
+ {
+  "id": "inertial-measurement-unit",
+  "name": "inertial measurement unit",
+  "count_recent": 79,
+  "count_prev": 54,
+  "share_recent": 0.00478,
+  "share_prev": 0.00662,
+  "growth": 0.723,
+  "eligible": true
+ },
+ {
+  "id": "quality-of-service",
+  "name": "quality of service",
+  "count_recent": 77,
+  "count_prev": 53,
+  "share_recent": 0.00466,
+  "share_prev": 0.00649,
+  "growth": 0.718,
+  "eligible": true
+ },
+ {
+  "id": "attitude-tracking",
+  "name": "attitude tracking",
+  "count_recent": 148,
+  "count_prev": 98,
+  "share_recent": 0.00896,
+  "share_prev": 0.01201,
+  "growth": 0.747,
+  "eligible": true
+ },
+ {
+  "id": "uav-photogrammetry",
+  "name": "UAV photogrammetry",
+  "count_recent": 337,
+  "count_prev": 215,
+  "share_recent": 0.02041,
+  "share_prev": 0.02634,
+  "growth": 0.775,
+  "eligible": true
+ },
+ {
+  "id": "kalman-filter",
+  "name": "Kalman filter",
+  "count_recent": 73,
+  "count_prev": 51,
+  "share_recent": 0.00442,
+  "share_prev": 0.00625,
+  "growth": 0.708,
+  "eligible": true
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 120,
+  "count_prev": 82,
+  "share_recent": 0.00727,
+  "share_prev": 0.01005,
+  "growth": 0.723,
+  "eligible": true
+ },
+ {
+  "id": "digital-elevation-model",
+  "name": "digital elevation model",
+  "count_recent": 90,
+  "count_prev": 65,
+  "share_recent": 0.00545,
+  "share_prev": 0.00796,
+  "growth": 0.685,
+  "eligible": true
+ },
+ {
+  "id": "underactuated-systems",
+  "name": "underactuated systems",
+  "count_recent": 140,
+  "count_prev": 98,
+  "share_recent": 0.00848,
+  "share_prev": 0.01201,
+  "growth": 0.706,
+  "eligible": true
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 76,
+  "count_prev": 56,
+  "share_recent": 0.0046,
+  "share_prev": 0.00686,
+  "growth": 0.671,
+  "eligible": true
+ },
+ {
+  "id": "flying-ad-hoc-networks",
+  "name": "flying ad hoc networks",
+  "count_recent": 79,
+  "count_prev": 58,
+  "share_recent": 0.00478,
+  "share_prev": 0.00711,
+  "growth": 0.673,
+  "eligible": true
+ },
+ {
+  "id": "controller-tuning",
+  "name": "controller tuning",
+  "count_recent": 70,
+  "count_prev": 52,
+  "share_recent": 0.00424,
+  "share_prev": 0.00637,
+  "growth": 0.665,
+  "eligible": true
+ },
+ {
+  "id": "fixed-wing-uav",
+  "name": "fixed-wing UAV",
+  "count_recent": 379,
+  "count_prev": 252,
+  "share_recent": 0.02296,
+  "share_prev": 0.03087,
+  "growth": 0.744,
+  "eligible": true
+ },
+ {
+  "id": "multi-rotor-uav",
+  "name": "multirotor drones",
+  "count_recent": 284,
+  "count_prev": 192,
+  "share_recent": 0.0172,
+  "share_prev": 0.02352,
+  "growth": 0.731,
+  "eligible": true
+ },
+ {
+  "id": "backstepping-control",
+  "name": "backstepping control",
+  "count_recent": 243,
+  "count_prev": 168,
+  "share_recent": 0.01472,
+  "share_prev": 0.02058,
+  "growth": 0.715,
+  "eligible": true
+ },
+ {
+  "id": "cascade-control",
+  "name": "cascade control",
+  "count_recent": 81,
+  "count_prev": 61,
+  "share_recent": 0.00491,
+  "share_prev": 0.00747,
+  "growth": 0.656,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 521,
+  "count_prev": 348,
+  "share_recent": 0.03156,
+  "share_prev": 0.04264,
+  "growth": 0.74,
+  "eligible": true
+ },
+ {
+  "id": "extended-kalman-filter",
+  "name": "extended Kalman filter",
+  "count_recent": 73,
+  "count_prev": 56,
+  "share_recent": 0.00442,
+  "share_prev": 0.00686,
+  "growth": 0.644,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-flight",
+  "name": "autonomous flight",
+  "count_recent": 86,
+  "count_prev": 65,
+  "share_recent": 0.00521,
+  "share_prev": 0.00796,
+  "growth": 0.654,
+  "eligible": true
+ },
+ {
+  "id": "power-control",
+  "name": "power control",
+  "count_recent": 116,
+  "count_prev": 86,
+  "share_recent": 0.00703,
+  "share_prev": 0.01054,
+  "growth": 0.667,
+  "eligible": true
+ },
+ {
+  "id": "successive-convex-approximation",
+  "name": "successive convex approximation",
+  "count_recent": 70,
+  "count_prev": 56,
+  "share_recent": 0.00424,
+  "share_prev": 0.00686,
+  "growth": 0.618,
+  "eligible": true
+ },
+ {
+  "id": "external-disturbances",
+  "name": "external disturbances",
+  "count_recent": 203,
+  "count_prev": 148,
+  "share_recent": 0.0123,
+  "share_prev": 0.01813,
+  "growth": 0.678,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking-control",
+  "name": "trajectory tracking control",
+  "count_recent": 121,
+  "count_prev": 92,
+  "share_recent": 0.00733,
+  "share_prev": 0.01127,
+  "growth": 0.65,
+  "eligible": true
+ },
+ {
+  "id": "robust-control",
+  "name": "robust control",
+  "count_recent": 358,
+  "count_prev": 253,
+  "share_recent": 0.02168,
+  "share_prev": 0.031,
+  "growth": 0.7,
+  "eligible": true
+ },
+ {
+  "id": "finite-time-convergence",
+  "name": "finite-time convergence",
+  "count_recent": 71,
+  "count_prev": 58,
+  "share_recent": 0.0043,
+  "share_prev": 0.00711,
+  "growth": 0.605,
+  "eligible": true
+ },
+ {
+  "id": "ground-control-station",
+  "name": "ground control station",
+  "count_recent": 106,
+  "count_prev": 84,
+  "share_recent": 0.00642,
+  "share_prev": 0.01029,
+  "growth": 0.624,
+  "eligible": true
+ },
+ {
+  "id": "unmanned-aerial-vehicles",
+  "name": "unmanned aerial vehicles",
+  "count_recent": 3789,
+  "count_prev": 2447,
+  "share_recent": 0.2295,
+  "share_prev": 0.2998,
+  "growth": 0.765,
+  "eligible": true
+ },
+ {
+  "id": "flight-altitude",
+  "name": "flight altitude",
+  "count_recent": 79,
+  "count_prev": 67,
+  "share_recent": 0.00478,
+  "share_prev": 0.00821,
+  "growth": 0.583,
+  "eligible": true
+ },
+ {
+  "id": "altitude-control",
+  "name": "altitude control",
+  "count_recent": 93,
+  "count_prev": 78,
+  "share_recent": 0.00563,
+  "share_prev": 0.00956,
+  "growth": 0.589,
+  "eligible": true
+ },
+ {
+  "id": "small-unmanned-aerial-vehicles",
+  "name": "small unmanned aerial vehicles",
+  "count_recent": 71,
+  "count_prev": 62,
+  "share_recent": 0.0043,
+  "share_prev": 0.0076,
+  "growth": 0.566,
+  "eligible": true
+ },
+ {
+  "id": "parameter-uncertainty",
+  "name": "parameter uncertainty",
+  "count_recent": 155,
+  "count_prev": 131,
+  "share_recent": 0.00939,
+  "share_prev": 0.01605,
+  "growth": 0.585,
+  "eligible": true
+ },
+ {
+  "id": "position-control",
+  "name": "position control",
+  "count_recent": 104,
+  "count_prev": 96,
+  "share_recent": 0.0063,
+  "share_prev": 0.01176,
+  "growth": 0.536,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-control",
+  "name": "nonlinear control",
+  "count_recent": 72,
+  "count_prev": 70,
+  "share_recent": 0.00436,
+  "share_prev": 0.00858,
+  "growth": 0.508,
+  "eligible": true
+ },
+ {
+  "id": "nonconvex-optimization",
+  "name": "non-convex optimization",
+  "count_recent": 73,
+  "count_prev": 73,
+  "share_recent": 0.00442,
+  "share_prev": 0.00894,
+  "growth": 0.494,
+  "eligible": true
+ },
+ {
+  "id": "quadrotor",
+  "name": "quadrotor",
+  "count_recent": 1687,
+  "count_prev": 1269,
+  "share_recent": 0.10218,
+  "share_prev": 0.15548,
+  "growth": 0.657,
+  "eligible": true
+ },
+ {
+  "id": "attitude-control",
+  "name": "attitude control",
+  "count_recent": 430,
+  "count_prev": 367,
+  "share_recent": 0.02604,
+  "share_prev": 0.04496,
+  "growth": 0.579,
+  "eligible": true
+ },
+ {
+  "id": "structure-from-motion",
+  "name": "structure from motion",
+  "count_recent": 76,
+  "count_prev": 81,
+  "share_recent": 0.0046,
+  "share_prev": 0.00992,
+  "growth": 0.464,
+  "eligible": true
+ },
+ {
+  "id": "ground-control-points",
+  "name": "ground control points",
+  "count_recent": 245,
+  "count_prev": 238,
+  "share_recent": 0.01484,
+  "share_prev": 0.02916,
+  "growth": 0.509,
+  "eligible": true
+ }
+]

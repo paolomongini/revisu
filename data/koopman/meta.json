@@ -1,0 +1,27 @@
+{
+ "slug": "koopman",
+ "label": "Koopman Operator",
+ "group": "Learning & Control",
+ "query": "\"Koopman operator\"",
+ "generated_at": "2026-11-18T09:55:26",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 1754,
+ "n_recent": 1078,
+ "n_prev": 414,
+ "volume_growth": 2.604,
+ "min_count_for_hot": 15,
+ "api_calls": 20,
+ "cost_usd": 0.0155,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

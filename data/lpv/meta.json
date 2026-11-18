@@ -1,0 +1,27 @@
+{
+ "slug": "lpv",
+ "label": "LPV Systems",
+ "group": "System Identification",
+ "query": "\"linear parameter-varying\" OR \"LPV system\" OR \"LPV model\"",
+ "generated_at": "2026-11-18T11:25:44",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 3821,
+ "n_recent": 753,
+ "n_prev": 726,
+ "volume_growth": 1.037,
+ "min_count_for_hot": 15,
+ "api_calls": 55,
+ "cost_usd": 0.0442,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

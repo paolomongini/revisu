@@ -1,0 +1,1017 @@
+{
+ "updated": "2026-11-18T12:22:36",
+ "topics": [
+  {
+   "slug": "adaptive-control",
+   "label": "Adaptive Control",
+   "group": "Classical & Modern Control",
+   "query": "\"adaptive control\"",
+   "generated_at": "2026-11-18T11:43:56",
+   "total": 34721,
+   "volume_growth": 2.306,
+   "n_recent": 11074,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "autonomous-driving",
+   "label": "Autonomous Vehicles Control",
+   "group": "Applications",
+   "query": "(\"autonomous vehicle\" OR \"autonomous driving\" OR \"automated driving\") AND (control OR MPC OR \"motion planning\")",
+   "generated_at": "2026-11-18T11:53:30",
+   "total": 15394,
+   "volume_growth": 1.875,
+   "n_recent": 7296,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "bayes-opt",
+   "label": "Bayesian Optimization for Controller Tuning",
+   "group": "Learning & Control",
+   "query": "\"Bayesian optimization\" AND (controller OR control OR tuning)",
+   "generated_at": "2026-11-18T11:34:31",
+   "total": 5218,
+   "volume_growth": 4.141,
+   "n_recent": 3876,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "data-driven-control",
+   "label": "Data-driven Control",
+   "group": "Learning & Control",
+   "query": "\"data-driven control\" OR \"behavioral systems\" OR \"Willems fundamental lemma\" OR \"direct data-driven\"",
+   "generated_at": "2026-11-18T11:30:00",
+   "total": 4094,
+   "volume_growth": 2.274,
+   "n_recent": 1744,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "diff-opt",
+   "label": "Differentiable Optimization & Control",
+   "group": "Learning & Control",
+   "query": "\"differentiable MPC\" OR \"differentiable optimization\" OR \"differentiable predictive control\" OR \"differentiable simulation\"",
+   "generated_at": "2026-11-18T11:36:35",
+   "total": 1019,
+   "volume_growth": 5.188,
+   "n_recent": 664,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "digital-twin",
+   "label": "Digital Twin",
+   "group": "System Identification",
+   "query": "\"digital twin\" AND (control OR automation OR manufacturing)",
+   "generated_at": "2026-11-18T11:28:52",
+   "total": 19553,
+   "volume_growth": 4.02,
+   "n_recent": 14933,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "distributed-control",
+   "label": "Distributed & Multi-agent Control",
+   "group": "Classical & Modern Control",
+   "query": "\"distributed control\" OR \"multi-agent systems\" OR \"distributed MPC\" OR \"consensus control\" OR \"plug-and-play control\" OR (\"large-scale systems\" AND control)",
+   "generated_at": "2026-11-18T11:50:19",
+   "total": 36206,
+   "volume_growth": 2.156,
+   "n_recent": 12321,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "economic-mpc",
+   "label": "Economic MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"economic model predictive control\" OR \"economic MPC\"",
+   "generated_at": "2026-11-18T11:16:26",
+   "total": 785,
+   "volume_growth": 1.27,
+   "n_recent": 235,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": true,
+   "has_review": true,
+   "report_mtime": 1795000460
+  },
+  {
+   "slug": "embedded-mpc",
+   "label": "Embedded & Fast MPC (GPU/FPGA)",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "(\"model predictive control\" OR MPC) AND (embedded OR FPGA OR GPU OR \"real-time\")",
+   "generated_at": "2026-11-18T11:16:58",
+   "total": 10419,
+   "volume_growth": 2.846,
+   "n_recent": 5547,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "event-triggered",
+   "label": "Event-triggered & Networked Control",
+   "group": "Classical & Modern Control",
+   "query": "\"event-triggered control\" OR \"networked control system\" OR \"self-triggered control\"",
+   "generated_at": "2026-11-18T11:48:03",
+   "total": 10871,
+   "volume_growth": 1.23,
+   "n_recent": 2643,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "explicit-mpc",
+   "label": "Explicit & Approximate MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"explicit MPC\" OR \"explicit model predictive control\" OR \"approximate MPC\" OR \"neural network approximation of MPC\"",
+   "generated_at": "2026-11-18T11:16:38",
+   "total": 417,
+   "volume_growth": 1.174,
+   "n_recent": 108,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "gp-dynamics",
+   "label": "Gaussian Processes for Dynamics",
+   "group": "System Identification",
+   "query": "\"Gaussian process\" AND (\"dynamical system\" OR \"system identification\" OR \"state-space\" OR control)",
+   "generated_at": "2026-11-18T11:20:02",
+   "total": 5110,
+   "volume_growth": 2.213,
+   "n_recent": 2514,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "hybrid-systems",
+   "label": "Hybrid & Switched Systems",
+   "group": "Classical & Modern Control",
+   "query": "\"hybrid systems\" OR \"switched systems\" OR (\"piecewise affine\" AND control)",
+   "generated_at": "2026-11-18T11:49:11",
+   "total": 60611,
+   "volume_growth": 1.876,
+   "n_recent": 17368,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "ilc",
+   "label": "Iterative Learning Control",
+   "group": "Learning & Control",
+   "query": "\"iterative learning control\" OR \"repetitive control\"",
+   "generated_at": "2026-11-18T11:35:32",
+   "total": 5849,
+   "volume_growth": 1.251,
+   "n_recent": 1123,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "imitation",
+   "label": "Imitation Learning & Policy Learning",
+   "group": "Learning & Control",
+   "query": "\"imitation learning\" OR \"behavior cloning\" OR \"learning from demonstration\"",
+   "generated_at": "2026-11-18T11:33:23",
+   "total": 6114,
+   "volume_growth": 2.623,
+   "n_recent": 3541,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "in-context-sysid",
+   "label": "In-context Learning & Foundation Models for Dynamics",
+   "group": "System Identification",
+   "query": "(\"in-context learning\" OR \"foundation model\") AND (\"system identification\" OR \"dynamical system\" OR \"control system\")",
+   "generated_at": "2026-11-18T11:27:44",
+   "total": 43,
+   "volume_growth": 19.0,
+   "n_recent": 38,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "koopman",
+   "label": "Koopman Operator",
+   "group": "System Identification",
+   "query": "\"Koopman operator\"",
+   "generated_at": "2026-11-18T09:55:26",
+   "total": 1754,
+   "volume_growth": 2.604,
+   "n_recent": 1078,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "learning-mpc",
+   "label": "Learning-based / Data-driven MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"learning-based model predictive control\" OR \"learning-based MPC\" OR \"data-driven MPC\" OR \"data-driven predictive control\" OR \"data-enabled predictive control\" OR DeePC OR \"Gaussian process MPC\" OR \"neural network MPC\" OR \"learning model predictive control\"",
+   "generated_at": "2026-11-18T11:15:37",
+   "total": 999,
+   "volume_growth": 2.498,
+   "n_recent": 612,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "llm-control",
+   "label": "LLMs for Control & Automation",
+   "group": "Learning & Control",
+   "query": "(\"large language model\" OR LLM OR \"language models\") AND (\"control system\" OR automation OR PLC OR robotics OR \"control engineering\")",
+   "generated_at": "2026-11-18T11:39:49",
+   "total": 11549,
+   "volume_growth": 22.669,
+   "n_recent": 10949,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "lpv",
+   "label": "LPV Systems",
+   "group": "System Identification",
+   "query": "\"linear parameter-varying\" OR \"LPV system\" OR \"LPV model\"",
+   "generated_at": "2026-11-18T11:25:44",
+   "total": 3821,
+   "volume_growth": 1.037,
+   "n_recent": 753,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "ml-optimization",
+   "label": "Learning to Optimize / Amortized Optimization",
+   "group": "Learning & Control",
+   "query": "(\"learning to optimize\" OR \"amortized optimization\") AND (control OR MPC)",
+   "generated_at": "2026-11-18T11:40:42",
+   "total": 268,
+   "volume_growth": 4.628,
+   "n_recent": 199,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "mpc",
+   "label": "Model Predictive Control",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"model predictive control\" OR \"receding horizon control\"",
+   "generated_at": "2026-11-18T11:15:22",
+   "total": 37446,
+   "volume_growth": 1.75,
+   "n_recent": 14360,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "neural-ode",
+   "label": "Neural ODEs & Continuous-time Learning",
+   "group": "System Identification",
+   "query": "\"neural ordinary differential equation\" OR \"neural ODE\" OR \"neural ODEs\" OR \"universal differential equation\"",
+   "generated_at": "2026-11-18T11:25:09",
+   "total": 1953,
+   "volume_growth": 3.337,
+   "n_recent": 1405,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "nn-closed-loop",
+   "label": "Neural Network Controllers with Guarantees (REN, port-Hamiltonian, boosting)",
+   "group": "Learning & Control",
+   "query": "\"recurrent equilibrium network\" OR \"recurrent equilibrium networks\" OR \"performance boosting\" OR \"port-Hamiltonian neural network\" OR \"Hamiltonian deep neural networks\" OR \"Lipschitz-bounded neural network\" OR \"contractive neural network\" OR (\"unconstrained parametrization\" AND control) OR (\"neural network controller\" AND \"closed-loop stability\")",
+   "generated_at": "2026-11-18T11:38:39",
+   "total": 2071,
+   "volume_growth": 1.66,
+   "n_recent": 858,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "nn-sysid",
+   "label": "Neural Networks for System Identification",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "(\"system identification\" AND (\"neural network\" OR \"neural networks\" OR \"deep learning\" OR LSTM OR \"recurrent neural\")) OR \"neural state-space\" OR \"neural state space model\" OR \"deep system identification\"",
+   "generated_at": "2026-11-18T11:17:13",
+   "total": 2281,
+   "volume_growth": 1.731,
+   "n_recent": 670,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "nn-verification",
+   "label": "Neural Network Controllers: Stability & Verification",
+   "group": "Learning & Control",
+   "query": "((\"neural network controller\" OR \"neural network control policy\") AND (stability OR verification OR robustness)) OR \"neural Lyapunov\"",
+   "generated_at": "2026-11-18T11:37:37",
+   "total": 1279,
+   "volume_growth": 1.582,
+   "n_recent": 291,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "nonlinear-control",
+   "label": "Nonlinear Control & Lyapunov",
+   "group": "Classical & Modern Control",
+   "query": "\"nonlinear control\" OR \"Lyapunov function\" OR backstepping OR \"feedback linearization\"",
+   "generated_at": "2026-11-18T11:44:58",
+   "total": 57207,
+   "volume_growth": 1.285,
+   "n_recent": 13756,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "nonlinear-mpc",
+   "label": "Nonlinear MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"nonlinear model predictive control\" OR \"nonlinear MPC\" OR NMPC",
+   "generated_at": "2026-11-18T11:15:57",
+   "total": 5101,
+   "volume_growth": 1.857,
+   "n_recent": 1991,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "nonlinear-sysid",
+   "label": "Nonlinear System Identification",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"nonlinear system identification\" OR \"black-box identification\" OR \"grey-box identification\" OR \"gray-box model\" OR \"NARX model\" OR \"Wiener-Hammerstein\"",
+   "generated_at": "2026-11-18T11:17:27",
+   "total": 3159,
+   "volume_growth": 1.202,
+   "n_recent": 701,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "optimal-control",
+   "label": "Optimal Control",
+   "group": "Classical & Modern Control",
+   "query": "\"optimal control\" AND (\"trajectory optimization\" OR \"Pontryagin\" OR \"dynamic programming\" OR \"linear quadratic\")",
+   "generated_at": "2026-11-18T11:41:44",
+   "total": 13248,
+   "volume_growth": 1.458,
+   "n_recent": 3602,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "physics-informed",
+   "label": "Physics-informed Learning for Dynamics",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "(\"physics-informed neural network\" OR \"physics-informed machine learning\" OR \"physics-guided\") AND (control OR identification OR dynamical)",
+   "generated_at": "2026-11-18T11:18:23",
+   "total": 6086,
+   "volume_growth": 11.235,
+   "n_recent": 5539,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "pid",
+   "label": "PID Control & Tuning",
+   "group": "Classical & Modern Control",
+   "query": "\"PID controller\" OR \"PID control\" OR \"PID tuning\"",
+   "generated_at": "2026-11-18T11:47:01",
+   "total": 41272,
+   "volume_growth": 1.476,
+   "n_recent": 8828,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "rl-control",
+   "label": "Reinforcement Learning for Control",
+   "group": "Learning & Control",
+   "query": "\"reinforcement learning\" AND (\"optimal control\" OR \"feedback control\" OR \"process control\" OR \"control system\")",
+   "generated_at": "2026-11-18T11:31:08",
+   "total": 6249,
+   "volume_growth": 2.276,
+   "n_recent": 3502,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "robot-control",
+   "label": "Robot Control & Motion Planning",
+   "group": "Applications",
+   "query": "(robot OR manipulator OR \"legged robot\") AND (\"motion planning\" OR \"trajectory optimization\" OR \"whole-body control\" OR \"robot control\")",
+   "generated_at": "2026-11-18T11:54:35",
+   "total": 18223,
+   "volume_growth": 1.957,
+   "n_recent": 6148,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "robust-control",
+   "label": "Robust Control",
+   "group": "Classical & Modern Control",
+   "query": "\"robust control\" OR \"H-infinity control\" OR \"mu-synthesis\"",
+   "generated_at": "2026-11-18T11:42:49",
+   "total": 19242,
+   "volume_growth": 1.584,
+   "n_recent": 4650,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "robust-mpc",
+   "label": "Robust & Stochastic MPC",
+   "group": "Focus: MPC & NN-SysID",
+   "query": "\"robust MPC\" OR \"tube-based MPC\" OR \"tube MPC\" OR \"stochastic MPC\" OR \"stochastic model predictive control\" OR \"robust model predictive control\"",
+   "generated_at": "2026-11-18T11:16:13",
+   "total": 2551,
+   "volume_growth": 1.619,
+   "n_recent": 934,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": true,
+   "has_review": true,
+   "report_mtime": 1795000945
+  },
+  {
+   "slug": "safe-rl",
+   "label": "Safe RL & Control Barrier Functions",
+   "group": "Learning & Control",
+   "query": "\"safe reinforcement learning\" OR \"control barrier function\" OR \"safety filter\" OR \"safe learning\"",
+   "generated_at": "2026-11-18T11:32:15",
+   "total": 6549,
+   "volume_growth": 3.915,
+   "n_recent": 4420,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "sindy",
+   "label": "Sparse Identification (SINDy)",
+   "group": "System Identification",
+   "query": "\"sparse identification of nonlinear dynamics\" OR SINDy OR (\"equation discovery\" AND dynamics) OR (\"symbolic regression\" AND \"dynamical system\")",
+   "generated_at": "2026-11-18T11:20:52",
+   "total": 962,
+   "volume_growth": 3.733,
+   "n_recent": 672,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "sliding-mode",
+   "label": "Sliding Mode Control",
+   "group": "Classical & Modern Control",
+   "query": "\"sliding mode control\"",
+   "generated_at": "2026-11-18T11:46:00",
+   "total": 27479,
+   "volume_growth": 1.409,
+   "n_recent": 7545,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "state-estimation",
+   "label": "State Estimation & Observers",
+   "group": "Classical & Modern Control",
+   "query": "\"state estimation\" OR \"moving horizon estimation\" OR \"Kalman filter\" OR \"state observer\"",
+   "generated_at": "2026-11-18T11:51:21",
+   "total": 98094,
+   "volume_growth": 1.585,
+   "n_recent": 26631,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "stochastic-control",
+   "label": "Stochastic Control & Uncertainty",
+   "group": "Classical & Modern Control",
+   "query": "\"stochastic control\" OR (\"chance constraints\" AND control) OR (\"distributionally robust\" AND control)",
+   "generated_at": "2026-11-18T11:52:26",
+   "total": 6473,
+   "volume_growth": 1.948,
+   "n_recent": 2082,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "subspace-id",
+   "label": "Subspace & Linear Identification",
+   "group": "System Identification",
+   "query": "\"subspace identification\" OR \"prediction error method\" OR \"kernel-based system identification\" OR \"regularized system identification\"",
+   "generated_at": "2026-11-18T11:19:14",
+   "total": 2478,
+   "volume_growth": 1.449,
+   "n_recent": 529,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "time-series-dl",
+   "label": "Deep Learning for Dynamical Time Series",
+   "group": "System Identification",
+   "query": "(transformer OR LSTM OR \"temporal convolutional\") AND (\"dynamical system\" OR \"system identification\" OR \"multi-step prediction\")",
+   "generated_at": "2026-11-18T11:26:53",
+   "total": 1444,
+   "volume_growth": 3.915,
+   "n_recent": 1014,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  },
+  {
+   "slug": "uav",
+   "label": "UAV & Quadrotor Control",
+   "group": "Applications",
+   "query": "(UAV OR quadrotor OR drone OR multirotor) AND control",
+   "generated_at": "2026-11-18T11:55:37",
+   "total": 36933,
+   "volume_growth": 2.023,
+   "n_recent": 16510,
+   "windows": {
+    "recent": [
+     2024,
+     2026
+    ],
+    "previous": [
+     2021,
+     2023
+    ]
+   },
+   "has_report": false,
+   "has_review": false,
+   "report_mtime": null
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "robust-mpc",
+ "label": "Robust & Stochastic MPC",
+ "group": "Focus: MPC & NN-SysID",
+ "query": "\"robust MPC\" OR \"tube-based MPC\" OR \"tube MPC\" OR \"stochastic MPC\" OR \"stochastic model predictive control\" OR \"robust model predictive control\"",
+ "generated_at": "2026-11-18T11:16:13",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 2551,
+ "n_recent": 934,
+ "n_prev": 577,
+ "volume_growth": 1.619,
+ "min_count_for_hot": 15,
+ "api_calls": 87,
+ "cost_usd": 0.0654,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

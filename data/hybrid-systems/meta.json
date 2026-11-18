@@ -1,0 +1,27 @@
+{
+ "slug": "hybrid-systems",
+ "label": "Hybrid & Switched Systems",
+ "group": "Classical & Modern Control",
+ "query": "\"hybrid systems\" OR \"switched systems\" OR (\"piecewise affine\" AND control)",
+ "generated_at": "2026-11-18T11:49:11",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 60611,
+ "n_recent": 17368,
+ "n_prev": 9258,
+ "volume_growth": 1.876,
+ "min_count_for_hot": 69,
+ "api_calls": 640,
+ "cost_usd": 0.5131,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

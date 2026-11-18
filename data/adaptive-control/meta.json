@@ -1,0 +1,27 @@
+{
+ "slug": "adaptive-control",
+ "label": "Adaptive Control",
+ "group": "Classical & Modern Control",
+ "query": "\"adaptive control\"",
+ "generated_at": "2026-11-18T11:43:56",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 34721,
+ "n_recent": 11074,
+ "n_prev": 4803,
+ "volume_growth": 2.306,
+ "min_count_for_hot": 44,
+ "api_calls": 508,
+ "cost_usd": 0.4081,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

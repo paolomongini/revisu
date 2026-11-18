@@ -1,0 +1,27 @@
+{
+ "slug": "time-series-dl",
+ "label": "Deep Learning for Dynamical Time Series",
+ "group": "System Identification",
+ "query": "(transformer OR LSTM OR \"temporal convolutional\") AND (\"dynamical system\" OR \"system identification\" OR \"multi-step prediction\")",
+ "generated_at": "2026-11-18T11:26:53",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 1444,
+ "n_recent": 1014,
+ "n_prev": 259,
+ "volume_growth": 3.915,
+ "min_count_for_hot": 15,
+ "api_calls": 83,
+ "cost_usd": 0.0668,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

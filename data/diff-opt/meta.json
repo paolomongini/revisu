@@ -1,0 +1,27 @@
+{
+ "slug": "diff-opt",
+ "label": "Differentiable Optimization & Control",
+ "group": "Learning & Control",
+ "query": "\"differentiable MPC\" OR \"differentiable optimization\" OR \"differentiable predictive control\" OR \"differentiable simulation\"",
+ "generated_at": "2026-11-18T11:36:35",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 1019,
+ "n_recent": 664,
+ "n_prev": 128,
+ "volume_growth": 5.188,
+ "min_count_for_hot": 15,
+ "api_calls": 323,
+ "cost_usd": 0.2609,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

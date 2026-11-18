@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/radar.py:*)",
+      "Bash(python3 scripts/radar.py:*)",
+      "Read(./data/**)",
+      "Read(./config/**)",
+      "Edit(./data/**)",
+      "Edit(./WORKFLOW_LOG.md)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Edit(./.env)",
+      "Edit(./scripts/**)",
+      "Edit(./.claude/**)",
+      "WebFetch",
+      "WebSearch",
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(Invoke-WebRequest:*)",
+      "Bash(rm:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}

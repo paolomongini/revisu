@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 39,
+  "count_prev": 4,
+  "share_recent": 0.04545,
+  "share_prev": 0.00774,
+  "growth": 5.875,
+  "eligible": true
+ },
+ {
+  "id": "closed-loop-stability",
+  "name": "closed-loop stability",
+  "count_recent": 17,
+  "count_prev": 4,
+  "share_recent": 0.01981,
+  "share_prev": 0.00774,
+  "growth": 2.561,
+  "eligible": true
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 17,
+  "count_prev": 4,
+  "share_recent": 0.01981,
+  "share_prev": 0.00774,
+  "growth": 2.561,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 18,
+  "count_prev": 5,
+  "share_recent": 0.02098,
+  "share_prev": 0.00967,
+  "growth": 2.169,
+  "eligible": true
+ },
+ {
+  "id": "class-imbalance",
+  "name": "class imbalance",
+  "count_recent": 21,
+  "count_prev": 7,
+  "share_recent": 0.02448,
+  "share_prev": 0.01354,
+  "growth": 1.808,
+  "eligible": true
+ },
+ {
+  "id": "transfer-learning",
+  "name": "transfer learning",
+  "count_recent": 18,
+  "count_prev": 10,
+  "share_recent": 0.02098,
+  "share_prev": 0.01934,
+  "growth": 1.085,
+  "eligible": true
+ },
+ {
+  "id": "data-augmentation",
+  "name": "data augmentation",
+  "count_recent": 16,
+  "count_prev": 11,
+  "share_recent": 0.01865,
+  "share_prev": 0.02128,
+  "growth": 0.876,
+  "eligible": true
+ },
+ {
+  "id": "fine-tuning",
+  "name": "fine-tuning",
+  "count_recent": 14,
+  "count_prev": 7,
+  "share_recent": 0.01632,
+  "share_prev": 0.01354,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "graph-neural-networks",
+  "name": "graph neural networks",
+  "count_recent": 13,
+  "count_prev": 7,
+  "share_recent": 0.01515,
+  "share_prev": 0.01354,
+  "growth": 1.119,
+  "eligible": false
+ },
+ {
+  "id": "charge-separation",
+  "name": "charge separation",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.01399,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 12,
+  "count_prev": 20,
+  "share_recent": 0.01399,
+  "share_prev": 0.03868,
+  "growth": 0.362,
+  "eligible": false
+ },
+ {
+  "id": "hyperparameter-optimization",
+  "name": "hyperparameter optimization",
+  "count_recent": 12,
+  "count_prev": 5,
+  "share_recent": 0.01399,
+  "share_prev": 0.00967,
+  "growth": 1.446,
+  "eligible": false
+ },
+ {
+  "id": "vision-transformer",
+  "name": "vision transformer",
+  "count_recent": 12,
+  "count_prev": 5,
+  "share_recent": 0.01399,
+  "share_prev": 0.00967,
+  "growth": 1.446,
+  "eligible": false
+ },
+ {
+  "id": "attention-mechanism",
+  "name": "attention mechanism",
+  "count_recent": 11,
+  "count_prev": 8,
+  "share_recent": 0.01282,
+  "share_prev": 0.01547,
+  "growth": 0.829,
+  "eligible": false
+ },
+ {
+  "id": "metaheuristic-optimization",
+  "name": "metaheuristic optimization",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.01282,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 11,
+  "count_prev": 5,
+  "share_recent": 0.01282,
+  "share_prev": 0.00967,
+  "growth": 1.326,
+  "eligible": false
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.01282,
+  "share_prev": 0.0058,
+  "growth": 2.209,
+  "eligible": false
+ },
+ {
+  "id": "retrieval-augmented-generation",
+  "name": "retrieval-augmented generation",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.01166,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "external-quantum-efficiency",
+  "name": "external quantum efficiency",
+  "count_recent": 9,
+  "count_prev": 3,
+  "share_recent": 0.01049,
+  "share_prev": 0.0058,
+  "growth": 1.808,
+  "eligible": false
+ },
+ {
+  "id": "feature-selection",
+  "name": "feature selection",
+  "count_recent": 9,
+  "count_prev": 4,
+  "share_recent": 0.01049,
+  "share_prev": 0.00774,
+  "growth": 1.356,
+  "eligible": false
+ },
+ {
+  "id": "self-supervised-learning",
+  "name": "self-supervised learning",
+  "count_recent": 9,
+  "count_prev": 4,
+  "share_recent": 0.01049,
+  "share_prev": 0.00774,
+  "growth": 1.356,
+  "eligible": false
+ },
+ {
+  "id": "smote",
+  "name": "SMOTE",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01049,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "vision-language-models",
+  "name": "vision-language models",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01049,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "esg-performance",
+  "name": "ESG performance",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00932,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gpu-acceleration",
+  "name": "GPU acceleration",
+  "count_recent": 8,
+  "count_prev": 4,
+  "share_recent": 0.00932,
+  "share_prev": 0.00774,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "knowledge-distillation",
+  "name": "knowledge distillation",
+  "count_recent": 8,
+  "count_prev": 7,
+  "share_recent": 0.00932,
+  "share_prev": 0.01354,
+  "growth": 0.689,
+  "eligible": false
+ },
+ {
+  "id": "medical-image-segmentation",
+  "name": "medical image segmentation",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00932,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "power-density",
+  "name": "power density",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00932,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "proton-exchange-membrane-fuel-cells",
+  "name": "proton exchange membrane fuel cells",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00932,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "semi-supervised-learning",
+  "name": "semi-supervised learning",
+  "count_recent": 8,
+  "count_prev": 5,
+  "share_recent": 0.00932,
+  "share_prev": 0.00967,
+  "growth": 0.964,
+  "eligible": false
+ },
+ {
+  "id": "contrastive-learning",
+  "name": "contrastive learning",
+  "count_recent": 7,
+  "count_prev": 9,
+  "share_recent": 0.00816,
+  "share_prev": 0.01741,
+  "growth": 0.469,
+  "eligible": false
+ },
+ {
+  "id": "domain-shift",
+  "name": "domain shift",
+  "count_recent": 7,
+  "count_prev": 3,
+  "share_recent": 0.00816,
+  "share_prev": 0.0058,
+  "growth": 1.406,
+  "eligible": false
+ },
+ {
+  "id": "explainable-ai",
+  "name": "explainable AI",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00816,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hydrothermal-synthesis",
+  "name": "hydrothermal synthesis",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00816,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00816,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "oxygen-evolution-reaction",
+  "name": "oxygen evolution reaction",
+  "count_recent": 7,
+  "count_prev": 3,
+  "share_recent": 0.00816,
+  "share_prev": 0.0058,
+  "growth": 1.406,
+  "eligible": false
+ },
+ {
+  "id": "perovskite-solar-cells",
+  "name": "perovskite solar cells",
+  "count_recent": 7,
+  "count_prev": 6,
+  "share_recent": 0.00816,
+  "share_prev": 0.01161,
+  "growth": 0.703,
+  "eligible": false
+ },
+ {
+  "id": "port-hamiltonian-systems",
+  "name": "port-Hamiltonian systems",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00816,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "power-conversion-efficiency",
+  "name": "power conversion efficiency",
+  "count_recent": 7,
+  "count_prev": 7,
+  "share_recent": 0.00816,
+  "share_prev": 0.01354,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "reconfigurable-intelligent-surface",
+  "name": "reconfigurable intelligent surface",
+  "count_recent": 7,
+  "count_prev": 4,
+  "share_recent": 0.00816,
+  "share_prev": 0.00774,
+  "growth": 1.054,
+  "eligible": false
+ },
+ {
+  "id": "shap",
+  "name": "SHAP",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00816,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "wastewater-treatment",
+  "name": "wastewater treatment",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00816,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "zero-shot-learning",
+  "name": "zero-shot learning",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00816,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "cycling-stability",
+  "name": "cycling stability",
+  "count_recent": 6,
+  "count_prev": 8,
+  "share_recent": 0.00699,
+  "share_prev": 0.01547,
+  "growth": 0.452,
+  "eligible": false
+ },
+ {
+  "id": "dc-microgrid",
+  "name": "DC microgrid",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 6,
+  "count_prev": 5,
+  "share_recent": 0.00699,
+  "share_prev": 0.00967,
+  "growth": 0.723,
+  "eligible": false
+ },
+ {
+  "id": "energy-density",
+  "name": "energy density",
+  "count_recent": 6,
+  "count_prev": 2,
+  "share_recent": 0.00699,
+  "share_prev": 0.00387,
+  "growth": 1.808,
+  "eligible": false
+ },
+ {
+  "id": "firm-performance",
+  "name": "firm performance",
+  "count_recent": 6,
+  "count_prev": 4,
+  "share_recent": 0.00699,
+  "share_prev": 0.00774,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "growth-performance",
+  "name": "growth performance",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "image-classification",
+  "name": "image classification",
+  "count_recent": 6,
+  "count_prev": 13,
+  "share_recent": 0.00699,
+  "share_prev": 0.02515,
+  "growth": 0.278,
+  "eligible": false
+ },
+ {
+  "id": "job-satisfaction",
+  "name": "job satisfaction",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00699,
+  "share_prev": 0.0058,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "parallel-computing",
+  "name": "parallel computing",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00699,
+  "share_prev": 0.0058,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "recurrent-neural-networks",
+  "name": "recurrent neural networks",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "specific-detectivity",
+  "name": "detectivity",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "uncertainty-estimation",
+  "name": "uncertainty estimation",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "visible-light-photocatalysis",
+  "name": "visible light photocatalysis",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00699,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "academic-achievement",
+  "name": "academic performance",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adolescents",
+  "name": "adolescents",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "antioxidant-activity",
+  "name": "antioxidant activity",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00583,
+  "share_prev": 0.00387,
+  "growth": 1.506,
+  "eligible": false
+ },
+ {
+  "id": "charge-carrier-mobility",
+  "name": "carrier mobility",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "controller-tuning",
+  "name": "controller tuning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "corporate-governance",
+  "name": "corporate governance",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "domain-adaptation",
+  "name": "domain adaptation",
+  "count_recent": 5,
+  "count_prev": 6,
+  "share_recent": 0.00583,
+  "share_prev": 0.01161,
+  "growth": 0.502,
+  "eligible": false
+ },
+ {
+  "id": "ensemble-learning",
+  "name": "ensemble learning",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00583,
+  "share_prev": 0.00967,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "feed-conversion-ratio",
+  "name": "feed conversion ratio",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "few-shot-learning",
+  "name": "few-shot learning",
+  "count_recent": 5,
+  "count_prev": 4,
+  "share_recent": 0.00583,
+  "share_prev": 0.00774,
+  "growth": 0.753,
+  "eligible": false
+ },
+ {
+  "id": "gender-differences",
+  "name": "gender differences",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "internet-of-things",
+  "name": "Internet of Things",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00583,
+  "share_prev": 0.0058,
+  "growth": 1.004,
+  "eligible": false
+ },
+ {
+  "id": "lightgbm",
+  "name": "LightGBM",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "limited-labeled-data",
+  "name": "limited labeled data",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00583,
+  "share_prev": 0.0058,
+  "growth": 1.004,
+  "eligible": false
+ },
+ {
+  "id": "lithium-ion-batteries",
+  "name": "lithium-ion batteries",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "low-resource-languages",
+  "name": "low-resource languages",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00583,
+  "share_prev": 0.0058,
+  "growth": 1.004,
+  "eligible": false
+ },
+ {
+  "id": "mamba",
+  "name": "Mamba",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mathematical-reasoning",
+  "name": "mathematical reasoning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "moderating-effect",
+  "name": "moderating effect",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-task-learning",
+  "name": "multi-task learning",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00583,
+  "share_prev": 0.00967,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "multilayer-perceptron",
+  "name": "multilayer perceptron",
+  "count_recent": 5,
+  "count_prev": 4,
+  "share_recent": 0.00583,
+  "share_prev": 0.00774,
+  "growth": 0.753,
+  "eligible": false
+ },
+ {
+  "id": "multiscale-feature-fusion",
+  "name": "multi-scale feature fusion",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "non-orthogonal-multiple-access",
+  "name": "non-orthogonal multiple access",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "pseudo-labeling",
+  "name": "pseudo-labeling",
+  "count_recent": 5,
+  "count_prev": 12,
+  "share_recent": 0.00583,
+  "share_prev": 0.02321,
+  "growth": 0.251,
+  "eligible": false
+ },
+ {
+  "id": "random-forest",
+  "name": "random forest",
+  "count_recent": 5,
+  "count_prev": 7,
+  "share_recent": 0.00583,
+  "share_prev": 0.01354,
+  "growth": 0.43,
+  "eligible": false
+ },
+ {
+  "id": "reduced-graphene-oxide",
+  "name": "reduced graphene oxide",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "resource-allocation",
+  "name": "resource allocation",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00583,
+  "share_prev": 0.0058,
+  "growth": 1.004,
+  "eligible": false
+ },
+ {
+  "id": "scaps-1d-simulation",
+  "name": "SCAPS-1D simulation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "semantic-segmentation",
+  "name": "semantic segmentation",
+  "count_recent": 5,
+  "count_prev": 9,
+  "share_recent": 0.00583,
+  "share_prev": 0.01741,
+  "growth": 0.335,
+  "eligible": false
+ },
+ {
+  "id": "student-engagement",
+  "name": "student engagement",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "student-motivation",
+  "name": "student motivation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "supervised-fine-tuning",
+  "name": "supervised fine-tuning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "thermal-stability",
+  "name": "thermal stability",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "unlabeled-data",
+  "name": "unlabeled data",
+  "count_recent": 5,
+  "count_prev": 6,
+  "share_recent": 0.00583,
+  "share_prev": 0.01161,
+  "growth": 0.502,
+  "eligible": false
+ },
+ {
+  "id": "xgboost",
+  "name": "XGBoost",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00583,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "6g-networks",
+  "name": "6G",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adversarial-robustness",
+  "name": "adversarial robustness",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00466,
+  "share_prev": 0.00387,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-driving-perception",
+  "name": "autonomous driving perception",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "band-alignment",
+  "name": "band alignment",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bit-error-rate",
+  "name": "bit error rate",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00466,
+  "share_prev": 0.00387,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "boosting",
+  "name": "boosting",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "carbon-dots",
+  "name": "carbon dots",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "catalyst-stability",
+  "name": "catalyst stability",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "children",
+  "name": "children",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "clinical-decision-support",
+  "name": "clinical decision support",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00466,
+  "share_prev": 0.00387,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "clip",
+  "name": "CLIP",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00466,
+  "share_prev": 0.0058,
+  "growth": 0.803,
+  "eligible": false
+ },
+ {
+  "id": "code-generation",
+  "name": "code generation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "device-stability",
+  "name": "device stability",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00466,
+  "share_prev": 0.00387,
+  "growth": 1.205,
+  "eligible": false
+ },
+ {
+  "id": "dielectric-properties",
+  "name": "dielectric properties",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "distribution-shift",
+  "name": "distribution shift",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "doping",
+  "name": "doping",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "duffing-oscillator",
+  "name": "Duffing oscillator",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dye-sensitized-solar-cells",
+  "name": "dye-sensitized solar cells",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "e-learning",
+  "name": "online learning",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-storage",
+  "name": "energy storage",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "exergy-analysis",
+  "name": "exergy analysis",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "financial-performance",
+  "name": "financial performance",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "foundation-models",
+  "name": "foundation models",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gender-stereotypes",
+  "name": "gender stereotypes",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "generative-ai",
+  "name": "generative AI",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "genetic-algorithm",
+  "name": "genetic algorithm",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hydrogen-evolution-reaction",
+  "name": "hydrogen evolution reaction",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00466,
+  "share_prev": 0.0058,
+  "growth": 0.803,
+  "eligible": false
+ },
+ {
+  "id": "hydrogen-production",
+  "name": "hydrogen production",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "interfacial-charge-transfer",
+  "name": "interfacial charge transfer",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "internal-model-control",
+  "name": "internal model control",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "intrusion-detection",
+  "name": "intrusion detection",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "job-performance",
+  "name": "employee performance",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "llm-based-agents",
+  "name": "LLM agents",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "logistic-regression",
+  "name": "logistic regression",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "low-rank-adaptation",
+  "name": "low-rank adaptation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "model-uncertainty",
+  "name": "model uncertainty",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "motivation",
+  "name": "motivation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multimodal-fusion",
+  "name": "multimodal fusion",
+  "count_recent": 4,
+  "count_prev": 6,
+  "share_recent": 0.00466,
+  "share_prev": 0.01161,
+  "growth": 0.402,
+  "eligible": false
+ },
+ {
+  "id": "noise-robustness",
+  "name": "noise robustness",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "oxygen-reduction-reaction",
+  "name": "oxygen reduction reaction",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "oxygen-vacancies",
+  "name": "oxygen vacancies",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "parameter-efficient-fine-tuning",
+  "name": "parameter-efficient fine-tuning",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "passivity",
+  "name": "passivity",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "principal-component-analysis",
+  "name": "principal component analysis",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "prompt-engineering",
+  "name": "prompt engineering",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "pseudocapacitance",
+  "name": "pseudocapacitance",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "public-praise",
+  "name": "public praise",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "publicity",
+  "name": "publicity",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "rate-capability",
+  "name": "rate capability",
+  "count_recent": 4,
+  "count_prev": 4,
+  "share_recent": 0.00466,
+  "share_prev": 0.00774,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "responsivity",
+  "name": "responsivity",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "scalability",
+  "name": "scalability",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "sentiment-analysis",
+  "name": "sentiment analysis",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "silver-nanoparticles",
+  "name": "silver nanoparticles",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "specific-capacitance",
+  "name": "specific capacitance",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "spectral-efficiency",
+  "name": "spectral efficiency",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00466,
+  "share_prev": 0.0058,
+  "growth": 0.803,
+  "eligible": false
+ },
+ {
+  "id": "supercapacitors",
+  "name": "supercapacitors",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "synthetic-data-generation",
+  "name": "synthetic data generation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "system-identification",
+  "name": "system identification",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "teacher-student-learning",
+  "name": "teacher-student learning",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "time-series-forecasting",
+  "name": "time series forecasting",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "unsupervised-domain-adaptation",
+  "name": "unsupervised domain adaptation",
+  "count_recent": 4,
+  "count_prev": 6,
+  "share_recent": 0.00466,
+  "share_prev": 0.01161,
+  "growth": 0.402,
+  "eligible": false
+ },
+ {
+  "id": "zinc-oxide-nanoparticles",
+  "name": "zinc oxide nanoparticles",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00466,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "alternating-direction-method-of-multipliers",
+  "name": "alternating direction method of multipliers",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.0035,
+  "share_prev": 0.0058,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "annotation-cost-reduction",
+  "name": "annotation cost reduction",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "antioxidant-capacity",
+  "name": "antioxidant capacity",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "asymmetric-supercapacitor",
+  "name": "asymmetric supercapacitor",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "barium-titanate",
+  "name": "barium titanate",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bayesian-optimization",
+  "name": "Bayesian optimization",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "bert",
+  "name": "BERT",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bidentate-nitrate",
+  "name": "bidentate nitrate",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "boost-converter",
+  "name": "boost converter",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "brain-computer-interface",
+  "name": "brain-computer interface",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "chain-of-thought-prompting",
+  "name": "chain-of-thought prompting",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "charge-transfer",
+  "name": "charge transfer",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "chinese-listed-companies",
+  "name": "Chinese listed companies",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "competitive-advantage",
+  "name": "competitive advantage",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.0035,
+  "share_prev": 0.0058,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "compressive-strength",
+  "name": "compressive strength",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "computational-fluid-dynamics",
+  "name": "computational fluid dynamics",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convergence-acceleration",
+  "name": "convergence acceleration",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "corporate-social-responsibility",
+  "name": "corporate social responsibility",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "covid-19",
+  "name": "COVID-19 pandemic",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "data-scarcity",
+  "name": "data scarcity",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "decision-tree",
+  "name": "decision tree",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "dermoscopic-images",
+  "name": "dermoscopic images",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "domain-of-attraction",
+  "name": "domain of attraction",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dynamic-resource-allocation",
+  "name": "dynamic resource allocation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "edge-computing",
+  "name": "edge computing",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "efficientnet",
+  "name": "EfficientNet",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "employability",
+  "name": "employability",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "employee-engagement",
+  "name": "employee engagement",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.0035,
+  "share_prev": 0.0058,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "employee-motivation",
+  "name": "employee motivation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "employee-well-being",
+  "name": "employee well-being",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-dissipation",
+  "name": "energy dissipation",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-harvesting",
+  "name": "energy harvesting",
+  "count_recent": 3,
+  "count_prev": 2,
+  "share_recent": 0.0035,
+  "share_prev": 0.00387,
+  "growth": 0.904,
+  "eligible": false
+ },
+ {
+  "id": "energy-level-alignment",
+  "name": "energy level alignment",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-recovery",
+  "name": "energy recovery",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "fake-news-detection",
+  "name": "fake news detection",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "federated-learning",
+  "name": "federated learning",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.0035,
+  "share_prev": 0.0058,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "feed-additives",
+  "name": "feed additives",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gamification",
+  "name": "gamification",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "generative-models",
+  "name": "generative models",
+  "count_recent": 3,
+  "count_prev": 3,
+  "share_recent": 0.0035,
+  "share_prev": 0.0058,
+  "growth": 0.603,
+  "eligible": false
+ },
+ {
+  "id": "grey-wolf-optimizer",
+  "name": "grey wolf optimizer",
+  "count_recent": 3,
+  "count_prev": 0,
+  "share_recent": 0.0035,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

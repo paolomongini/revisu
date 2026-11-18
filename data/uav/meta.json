@@ -1,0 +1,27 @@
+{
+ "slug": "uav",
+ "label": "UAV & Quadrotor Control",
+ "group": "Applications",
+ "query": "(UAV OR quadrotor OR drone OR multirotor) AND control",
+ "generated_at": "2026-11-18T11:55:37",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 36933,
+ "n_recent": 16510,
+ "n_prev": 8162,
+ "volume_growth": 2.023,
+ "min_count_for_hot": 66,
+ "api_calls": 801,
+ "cost_usd": 0.6417,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

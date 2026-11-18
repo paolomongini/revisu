@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "targeted-drug-delivery",
+  "name": "targeted drug delivery",
+  "count_recent": 124,
+  "count_prev": 2,
+  "share_recent": 0.00714,
+  "share_prev": 0.00022,
+  "growth": 33.049,
+  "eligible": true
+ },
+ {
+  "id": "cancer-therapy",
+  "name": "cancer therapy",
+  "count_recent": 73,
+  "count_prev": 1,
+  "share_recent": 0.0042,
+  "share_prev": 0.00011,
+  "growth": 38.913,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-intermittency",
+  "name": "renewable energy intermittency",
+  "count_recent": 85,
+  "count_prev": 2,
+  "share_recent": 0.00489,
+  "share_prev": 0.00022,
+  "growth": 22.655,
+  "eligible": true
+ },
+ {
+  "id": "levelized-cost-of-hydrogen",
+  "name": "levelized cost of hydrogen",
+  "count_recent": 77,
+  "count_prev": 2,
+  "share_recent": 0.00443,
+  "share_prev": 0.00022,
+  "growth": 20.522,
+  "eligible": true
+ },
+ {
+  "id": "controlled-drug-release",
+  "name": "controlled drug release",
+  "count_recent": 75,
+  "count_prev": 3,
+  "share_recent": 0.00432,
+  "share_prev": 0.00032,
+  "growth": 13.326,
+  "eligible": true
+ },
+ {
+  "id": "chitosan",
+  "name": "chitosan",
+  "count_recent": 73,
+  "count_prev": 3,
+  "share_recent": 0.0042,
+  "share_prev": 0.00032,
+  "growth": 12.971,
+  "eligible": true
+ },
+ {
+  "id": "explainable-ai",
+  "name": "explainable AI",
+  "count_recent": 131,
+  "count_prev": 8,
+  "share_recent": 0.00754,
+  "share_prev": 0.00086,
+  "growth": 8.729,
+  "eligible": true
+ },
+ {
+  "id": "clinical-translation",
+  "name": "clinical translation",
+  "count_recent": 106,
+  "count_prev": 6,
+  "share_recent": 0.0061,
+  "share_prev": 0.00065,
+  "growth": 9.417,
+  "eligible": true
+ },
+ {
+  "id": "mxene",
+  "name": "MXene",
+  "count_recent": 107,
+  "count_prev": 7,
+  "share_recent": 0.00616,
+  "share_prev": 0.00076,
+  "growth": 8.148,
+  "eligible": true
+ },
+ {
+  "id": "life-cycle-assessment",
+  "name": "life cycle assessment",
+  "count_recent": 217,
+  "count_prev": 19,
+  "share_recent": 0.01249,
+  "share_prev": 0.00205,
+  "growth": 6.088,
+  "eligible": true
+ },
+ {
+  "id": "environmental-remediation",
+  "name": "environmental remediation",
+  "count_recent": 69,
+  "count_prev": 4,
+  "share_recent": 0.00397,
+  "share_prev": 0.00043,
+  "growth": 9.195,
+  "eligible": true
+ },
+ {
+  "id": "circular-economy",
+  "name": "circular economy",
+  "count_recent": 179,
+  "count_prev": 16,
+  "share_recent": 0.01031,
+  "share_prev": 0.00173,
+  "growth": 5.963,
+  "eligible": true
+ },
+ {
+  "id": "nanocarriers",
+  "name": "nanocarriers",
+  "count_recent": 75,
+  "count_prev": 6,
+  "share_recent": 0.00432,
+  "share_prev": 0.00065,
+  "growth": 6.663,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 105,
+  "count_prev": 11,
+  "share_recent": 0.00605,
+  "share_prev": 0.00119,
+  "growth": 5.088,
+  "eligible": true
+ },
+ {
+  "id": "green-hydrogen-production",
+  "name": "green hydrogen production",
+  "count_recent": 102,
+  "count_prev": 13,
+  "share_recent": 0.00587,
+  "share_prev": 0.0014,
+  "growth": 4.182,
+  "eligible": true
+ },
+ {
+  "id": "interpretability",
+  "name": "interpretability",
+  "count_recent": 88,
+  "count_prev": 11,
+  "share_recent": 0.00507,
+  "share_prev": 0.00119,
+  "growth": 4.264,
+  "eligible": true
+ },
+ {
+  "id": "artificial-intelligence",
+  "name": "artificial intelligence",
+  "count_recent": 183,
+  "count_prev": 28,
+  "share_recent": 0.01054,
+  "share_prev": 0.00302,
+  "growth": 3.484,
+  "eligible": true
+ },
+ {
+  "id": "flexural-strength",
+  "name": "flexural strength",
+  "count_recent": 80,
+  "count_prev": 10,
+  "share_recent": 0.00461,
+  "share_prev": 0.00108,
+  "growth": 4.264,
+  "eligible": true
+ },
+ {
+  "id": "polymeric-nanoparticles",
+  "name": "polymeric nanoparticles",
+  "count_recent": 73,
+  "count_prev": 9,
+  "share_recent": 0.0042,
+  "share_prev": 0.00097,
+  "growth": 4.324,
+  "eligible": true
+ },
+ {
+  "id": "machine-learning",
+  "name": "machine learning",
+  "count_recent": 139,
+  "count_prev": 21,
+  "share_recent": 0.008,
+  "share_prev": 0.00227,
+  "growth": 3.528,
+  "eligible": true
+ },
+ {
+  "id": "decarbonization",
+  "name": "decarbonization",
+  "count_recent": 112,
+  "count_prev": 16,
+  "share_recent": 0.00645,
+  "share_prev": 0.00173,
+  "growth": 3.731,
+  "eligible": true
+ },
+ {
+  "id": "anomaly-detection",
+  "name": "anomaly detection",
+  "count_recent": 78,
+  "count_prev": 11,
+  "share_recent": 0.00449,
+  "share_prev": 0.00119,
+  "growth": 3.78,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 193,
+  "count_prev": 0,
+  "share_recent": 0.01111,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "green-synthesis",
+  "name": "green synthesis",
+  "count_recent": 91,
+  "count_prev": 14,
+  "share_recent": 0.00524,
+  "share_prev": 0.00151,
+  "growth": 3.465,
+  "eligible": true
+ },
+ {
+  "id": "energy-security",
+  "name": "energy security",
+  "count_recent": 89,
+  "count_prev": 14,
+  "share_recent": 0.00512,
+  "share_prev": 0.00151,
+  "growth": 3.389,
+  "eligible": true
+ },
+ {
+  "id": "liposomes",
+  "name": "liposomes",
+  "count_recent": 81,
+  "count_prev": 13,
+  "share_recent": 0.00466,
+  "share_prev": 0.0014,
+  "growth": 3.321,
+  "eligible": true
+ },
+ {
+  "id": "green-hydrogen",
+  "name": "green hydrogen",
+  "count_recent": 100,
+  "count_prev": 17,
+  "share_recent": 0.00576,
+  "share_prev": 0.00184,
+  "growth": 3.136,
+  "eligible": true
+ },
+ {
+  "id": "metal-organic-frameworks",
+  "name": "metal-organic frameworks",
+  "count_recent": 212,
+  "count_prev": 43,
+  "share_recent": 0.01221,
+  "share_prev": 0.00464,
+  "growth": 2.628,
+  "eligible": true
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 86,
+  "count_prev": 15,
+  "share_recent": 0.00495,
+  "share_prev": 0.00162,
+  "growth": 3.056,
+  "eligible": true
+ },
+ {
+  "id": "grid-stability",
+  "name": "grid stability",
+  "count_recent": 71,
+  "count_prev": 12,
+  "share_recent": 0.00409,
+  "share_prev": 0.0013,
+  "growth": 3.154,
+  "eligible": true
+ },
+ {
+  "id": "hydrogels",
+  "name": "hydrogels",
+  "count_recent": 80,
+  "count_prev": 14,
+  "share_recent": 0.00461,
+  "share_prev": 0.00151,
+  "growth": 3.046,
+  "eligible": true
+ },
+ {
+  "id": "scalability",
+  "name": "scalability",
+  "count_recent": 109,
+  "count_prev": 21,
+  "share_recent": 0.00628,
+  "share_prev": 0.00227,
+  "growth": 2.767,
+  "eligible": true
+ },
+ {
+  "id": "energy-transition",
+  "name": "energy transition",
+  "count_recent": 91,
+  "count_prev": 17,
+  "share_recent": 0.00524,
+  "share_prev": 0.00184,
+  "growth": 2.853,
+  "eligible": true
+ },
+ {
+  "id": "phase-change-materials",
+  "name": "phase change materials",
+  "count_recent": 286,
+  "count_prev": 67,
+  "share_recent": 0.01647,
+  "share_prev": 0.00724,
+  "growth": 2.275,
+  "eligible": true
+ },
+ {
+  "id": "advanced-oxidation-processes",
+  "name": "advanced oxidation processes",
+  "count_recent": 177,
+  "count_prev": 40,
+  "share_recent": 0.01019,
+  "share_prev": 0.00432,
+  "growth": 2.359,
+  "eligible": true
+ },
+ {
+  "id": "compressive-strength",
+  "name": "compressive strength",
+  "count_recent": 114,
+  "count_prev": 24,
+  "share_recent": 0.00656,
+  "share_prev": 0.00259,
+  "growth": 2.532,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 99,
+  "count_prev": 21,
+  "share_recent": 0.0057,
+  "share_prev": 0.00227,
+  "growth": 2.513,
+  "eligible": true
+ },
+ {
+  "id": "thermal-management",
+  "name": "thermal management",
+  "count_recent": 101,
+  "count_prev": 22,
+  "share_recent": 0.00582,
+  "share_prev": 0.00238,
+  "growth": 2.447,
+  "eligible": true
+ },
+ {
+  "id": "adsorption",
+  "name": "adsorption",
+  "count_recent": 159,
+  "count_prev": 38,
+  "share_recent": 0.00915,
+  "share_prev": 0.0041,
+  "growth": 2.23,
+  "eligible": true
+ },
+ {
+  "id": "reactive-oxygen-species",
+  "name": "reactive oxygen species",
+  "count_recent": 122,
+  "count_prev": 29,
+  "share_recent": 0.00702,
+  "share_prev": 0.00313,
+  "growth": 2.242,
+  "eligible": true
+ },
+ {
+  "id": "proton-exchange-membrane-electrolyzer",
+  "name": "proton exchange membrane electrolyzer",
+  "count_recent": 77,
+  "count_prev": 17,
+  "share_recent": 0.00443,
+  "share_prev": 0.00184,
+  "growth": 2.414,
+  "eligible": true
+ },
+ {
+  "id": "controlled-release",
+  "name": "controlled release",
+  "count_recent": 79,
+  "count_prev": 19,
+  "share_recent": 0.00455,
+  "share_prev": 0.00205,
+  "growth": 2.216,
+  "eligible": true
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 128,
+  "count_prev": 34,
+  "share_recent": 0.00737,
+  "share_prev": 0.00367,
+  "growth": 2.007,
+  "eligible": true
+ },
+ {
+  "id": "water-scarcity",
+  "name": "water scarcity",
+  "count_recent": 76,
+  "count_prev": 19,
+  "share_recent": 0.00438,
+  "share_prev": 0.00205,
+  "growth": 2.132,
+  "eligible": true
+ },
+ {
+  "id": "water-treatment",
+  "name": "water treatment",
+  "count_recent": 76,
+  "count_prev": 19,
+  "share_recent": 0.00438,
+  "share_prev": 0.00205,
+  "growth": 2.132,
+  "eligible": true
+ },
+ {
+  "id": "biocompatibility",
+  "name": "biocompatibility",
+  "count_recent": 129,
+  "count_prev": 35,
+  "share_recent": 0.00743,
+  "share_prev": 0.00378,
+  "growth": 1.965,
+  "eligible": true
+ },
+ {
+  "id": "carbon-nanotubes",
+  "name": "carbon nanotubes",
+  "count_recent": 132,
+  "count_prev": 36,
+  "share_recent": 0.0076,
+  "share_prev": 0.00389,
+  "growth": 1.955,
+  "eligible": true
+ },
+ {
+  "id": "heavy-metal-removal",
+  "name": "heavy metal removal",
+  "count_recent": 89,
+  "count_prev": 23,
+  "share_recent": 0.00512,
+  "share_prev": 0.00248,
+  "growth": 2.063,
+  "eligible": true
+ },
+ {
+  "id": "carbon-emission-reduction",
+  "name": "carbon emission reduction",
+  "count_recent": 151,
+  "count_prev": 44,
+  "share_recent": 0.00869,
+  "share_prev": 0.00475,
+  "growth": 1.829,
+  "eligible": true
+ },
+ {
+  "id": "emerging-contaminants",
+  "name": "emerging contaminants",
+  "count_recent": 74,
+  "count_prev": 20,
+  "share_recent": 0.00426,
+  "share_prev": 0.00216,
+  "growth": 1.972,
+  "eligible": true
+ },
+ {
+  "id": "thermal-conductivity",
+  "name": "thermal conductivity",
+  "count_recent": 80,
+  "count_prev": 22,
+  "share_recent": 0.00461,
+  "share_prev": 0.00238,
+  "growth": 1.938,
+  "eligible": true
+ },
+ {
+  "id": "wastewater-treatment",
+  "name": "wastewater treatment",
+  "count_recent": 290,
+  "count_prev": 94,
+  "share_recent": 0.0167,
+  "share_prev": 0.01015,
+  "growth": 1.645,
+  "eligible": true
+ },
+ {
+  "id": "energy-density",
+  "name": "energy density",
+  "count_recent": 88,
+  "count_prev": 26,
+  "share_recent": 0.00507,
+  "share_prev": 0.00281,
+  "growth": 1.804,
+  "eligible": true
+ },
+ {
+  "id": "random-forest",
+  "name": "random forest",
+  "count_recent": 81,
+  "count_prev": 24,
+  "share_recent": 0.00466,
+  "share_prev": 0.00259,
+  "growth": 1.799,
+  "eligible": true
+ },
+ {
+  "id": "mechanical-properties",
+  "name": "mechanical properties",
+  "count_recent": 98,
+  "count_prev": 30,
+  "share_recent": 0.00564,
+  "share_prev": 0.00324,
+  "growth": 1.741,
+  "eligible": true
+ },
+ {
+  "id": "internet-of-things",
+  "name": "Internet of Things",
+  "count_recent": 160,
+  "count_prev": 52,
+  "share_recent": 0.00921,
+  "share_prev": 0.00562,
+  "growth": 1.64,
+  "eligible": true
+ },
+ {
+  "id": "2d-materials",
+  "name": "two-dimensional materials",
+  "count_recent": 89,
+  "count_prev": 28,
+  "share_recent": 0.00512,
+  "share_prev": 0.00302,
+  "growth": 1.694,
+  "eligible": true
+ },
+ {
+  "id": "co2-emission-reduction",
+  "name": "CO2 emission reduction",
+  "count_recent": 367,
+  "count_prev": 131,
+  "share_recent": 0.02113,
+  "share_prev": 0.01415,
+  "growth": 1.493,
+  "eligible": true
+ },
+ {
+  "id": "thermal-stability",
+  "name": "thermal stability",
+  "count_recent": 136,
+  "count_prev": 45,
+  "share_recent": 0.00783,
+  "share_prev": 0.00486,
+  "growth": 1.611,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 482,
+  "count_prev": 179,
+  "share_recent": 0.02775,
+  "share_prev": 0.01933,
+  "growth": 1.435,
+  "eligible": true
+ },
+ {
+  "id": "multi-criteria-decision-making",
+  "name": "multi-criteria decision making",
+  "count_recent": 92,
+  "count_prev": 30,
+  "share_recent": 0.0053,
+  "share_prev": 0.00324,
+  "growth": 1.635,
+  "eligible": true
+ },
+ {
+  "id": "electric-vehicles",
+  "name": "electric vehicles",
+  "count_recent": 132,
+  "count_prev": 47,
+  "share_recent": 0.0076,
+  "share_prev": 0.00508,
+  "growth": 1.497,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 458,
+  "count_prev": 177,
+  "share_recent": 0.02637,
+  "share_prev": 0.01912,
+  "growth": 1.379,
+  "eligible": true
+ },
+ {
+  "id": "cycling-stability",
+  "name": "cycling stability",
+  "count_recent": 82,
+  "count_prev": 28,
+  "share_recent": 0.00472,
+  "share_prev": 0.00302,
+  "growth": 1.561,
+  "eligible": true
+ },
+ {
+  "id": "sustained-release",
+  "name": "sustained drug release",
+  "count_recent": 70,
+  "count_prev": 24,
+  "share_recent": 0.00403,
+  "share_prev": 0.00259,
+  "growth": 1.555,
+  "eligible": true
+ },
+ {
+  "id": "levelized-cost-of-electricity",
+  "name": "levelized cost of electricity",
+  "count_recent": 564,
+  "count_prev": 225,
+  "share_recent": 0.03247,
+  "share_prev": 0.0243,
+  "growth": 1.336,
+  "eligible": true
+ },
+ {
+  "id": "wave-energy-converters",
+  "name": "wave energy converters",
+  "count_recent": 99,
+  "count_prev": 37,
+  "share_recent": 0.0057,
+  "share_prev": 0.004,
+  "growth": 1.426,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-cooling-system",
+  "name": "hybrid cooling system",
+  "count_recent": 106,
+  "count_prev": 40,
+  "share_recent": 0.0061,
+  "share_prev": 0.00432,
+  "growth": 1.413,
+  "eligible": true
+ },
+ {
+  "id": "drug-delivery",
+  "name": "drug delivery",
+  "count_recent": 91,
+  "count_prev": 34,
+  "share_recent": 0.00524,
+  "share_prev": 0.00367,
+  "growth": 1.427,
+  "eligible": true
+ },
+ {
+  "id": "energy-dissipation",
+  "name": "energy dissipation",
+  "count_recent": 76,
+  "count_prev": 28,
+  "share_recent": 0.00438,
+  "share_prev": 0.00302,
+  "growth": 1.447,
+  "eligible": true
+ },
+ {
+  "id": "lithium-ion-batteries",
+  "name": "lithium-ion batteries",
+  "count_recent": 183,
+  "count_prev": 72,
+  "share_recent": 0.01054,
+  "share_prev": 0.00778,
+  "growth": 1.355,
+  "eligible": true
+ },
+ {
+  "id": "desalination",
+  "name": "desalination",
+  "count_recent": 100,
+  "count_prev": 38,
+  "share_recent": 0.00576,
+  "share_prev": 0.0041,
+  "growth": 1.403,
+  "eligible": true
+ },
+ {
+  "id": "graphene-oxide",
+  "name": "graphene oxide",
+  "count_recent": 77,
+  "count_prev": 29,
+  "share_recent": 0.00443,
+  "share_prev": 0.00313,
+  "growth": 1.415,
+  "eligible": true
+ },
+ {
+  "id": "homer-pro",
+  "name": "HOMER Pro",
+  "count_recent": 166,
+  "count_prev": 66,
+  "share_recent": 0.00956,
+  "share_prev": 0.00713,
+  "growth": 1.341,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-treatment-systems",
+  "name": "hybrid treatment systems",
+  "count_recent": 121,
+  "count_prev": 48,
+  "share_recent": 0.00697,
+  "share_prev": 0.00518,
+  "growth": 1.344,
+  "eligible": true
+ },
+ {
+  "id": "photocatalysis",
+  "name": "photocatalysis",
+  "count_recent": 154,
+  "count_prev": 62,
+  "share_recent": 0.00887,
+  "share_prev": 0.0067,
+  "growth": 1.324,
+  "eligible": true
+ },
+ {
+  "id": "charge-separation",
+  "name": "charge separation",
+  "count_recent": 100,
+  "count_prev": 40,
+  "share_recent": 0.00576,
+  "share_prev": 0.00432,
+  "growth": 1.333,
+  "eligible": true
+ },
+ {
+  "id": "energy-storage",
+  "name": "energy storage",
+  "count_recent": 371,
+  "count_prev": 159,
+  "share_recent": 0.02136,
+  "share_prev": 0.01717,
+  "growth": 1.244,
+  "eligible": true
+ },
+ {
+  "id": "hydrogen-storage",
+  "name": "hydrogen storage",
+  "count_recent": 161,
+  "count_prev": 67,
+  "share_recent": 0.00927,
+  "share_prev": 0.00724,
+  "growth": 1.281,
+  "eligible": true
+ },
+ {
+  "id": "thermal-energy-storage",
+  "name": "thermal energy storage",
+  "count_recent": 183,
+  "count_prev": 77,
+  "share_recent": 0.01054,
+  "share_prev": 0.00832,
+  "growth": 1.267,
+  "eligible": true
+ },
+ {
+  "id": "energy-management",
+  "name": "energy management",
+  "count_recent": 130,
+  "count_prev": 54,
+  "share_recent": 0.00749,
+  "share_prev": 0.00583,
+  "growth": 1.283,
+  "eligible": true
+ },
+ {
+  "id": "smart-grid",
+  "name": "smart grid",
+  "count_recent": 72,
+  "count_prev": 29,
+  "share_recent": 0.00415,
+  "share_prev": 0.00313,
+  "growth": 1.323,
+  "eligible": true
+ },
+ {
+  "id": "hydropower",
+  "name": "hydropower",
+  "count_recent": 71,
+  "count_prev": 29,
+  "share_recent": 0.00409,
+  "share_prev": 0.00313,
+  "growth": 1.305,
+  "eligible": true
+ },
+ {
+  "id": "techno-economic-analysis",
+  "name": "techno-economic analysis",
+  "count_recent": 392,
+  "count_prev": 177,
+  "share_recent": 0.02257,
+  "share_prev": 0.01912,
+  "growth": 1.181,
+  "eligible": true
+ },
+ {
+  "id": "solar-desalination",
+  "name": "solar desalination",
+  "count_recent": 73,
+  "count_prev": 31,
+  "share_recent": 0.0042,
+  "share_prev": 0.00335,
+  "growth": 1.255,
+  "eligible": true
+ },
+ {
+  "id": "energy-consumption",
+  "name": "energy consumption",
+  "count_recent": 152,
+  "count_prev": 67,
+  "share_recent": 0.00875,
+  "share_prev": 0.00724,
+  "growth": 1.209,
+  "eligible": true
+ },
+ {
+  "id": "graphene",
+  "name": "graphene",
+  "count_recent": 110,
+  "count_prev": 49,
+  "share_recent": 0.00633,
+  "share_prev": 0.00529,
+  "growth": 1.197,
+  "eligible": true
+ },
+ {
+  "id": "quantum-dots",
+  "name": "quantum dots",
+  "count_recent": 79,
+  "count_prev": 35,
+  "share_recent": 0.00455,
+  "share_prev": 0.00378,
+  "growth": 1.203,
+  "eligible": true
+ },
+ {
+  "id": "payback-period",
+  "name": "payback period",
+  "count_recent": 234,
+  "count_prev": 108,
+  "share_recent": 0.01347,
+  "share_prev": 0.01167,
+  "growth": 1.155,
+  "eligible": true
+ },
+ {
+  "id": "environmental-impact",
+  "name": "environmental impact",
+  "count_recent": 71,
+  "count_prev": 32,
+  "share_recent": 0.00409,
+  "share_prev": 0.00346,
+  "growth": 1.183,
+  "eligible": true
+ },
+ {
+  "id": "membrane-fouling",
+  "name": "membrane fouling",
+  "count_recent": 97,
+  "count_prev": 46,
+  "share_recent": 0.00558,
+  "share_prev": 0.00497,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 78,
+  "count_prev": 37,
+  "share_recent": 0.00449,
+  "share_prev": 0.004,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "pumped-hydro-storage",
+  "name": "pumped storage",
+  "count_recent": 84,
+  "count_prev": 40,
+  "share_recent": 0.00484,
+  "share_prev": 0.00432,
+  "growth": 1.119,
+  "eligible": true
+ },
+ {
+  "id": "economic-feasibility",
+  "name": "economic feasibility",
+  "count_recent": 128,
+  "count_prev": 62,
+  "share_recent": 0.00737,
+  "share_prev": 0.0067,
+  "growth": 1.1,
+  "eligible": true
+ },
+ {
+  "id": "supercapacitors",
+  "name": "supercapacitors",
+  "count_recent": 172,
+  "count_prev": 85,
+  "share_recent": 0.0099,
+  "share_prev": 0.00918,
+  "growth": 1.079,
+  "eligible": true
+ },
+ {
+  "id": "power-density",
+  "name": "power density",
+  "count_recent": 88,
+  "count_prev": 43,
+  "share_recent": 0.00507,
+  "share_prev": 0.00464,
+  "growth": 1.091,
+  "eligible": true
+ },
+ {
+  "id": "greenhouse-gas-emissions-reduction",
+  "name": "greenhouse gas emissions reduction",
+  "count_recent": 122,
+  "count_prev": 60,
+  "share_recent": 0.00702,
+  "share_prev": 0.00648,
+  "growth": 1.084,
+  "eligible": true
+ },
+ {
+  "id": "greenhouse-gas-emissions",
+  "name": "greenhouse gas emissions",
+  "count_recent": 101,
+  "count_prev": 51,
+  "share_recent": 0.00582,
+  "share_prev": 0.00551,
+  "growth": 1.056,
+  "eligible": true
+ },
+ {
+  "id": "off-grid-electrification",
+  "name": "off-grid electrification",
+  "count_recent": 98,
+  "count_prev": 50,
+  "share_recent": 0.00564,
+  "share_prev": 0.0054,
+  "growth": 1.045,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-dynamical-systems",
+  "name": "hybrid dynamical systems",
+  "count_recent": 77,
+  "count_prev": 40,
+  "share_recent": 0.00443,
+  "share_prev": 0.00432,
+  "growth": 1.026,
+  "eligible": true
+ },
+ {
+  "id": "hydrogen-production",
+  "name": "hydrogen production",
+  "count_recent": 221,
+  "count_prev": 117,
+  "share_recent": 0.01272,
+  "share_prev": 0.01264,
+  "growth": 1.007,
+  "eligible": true
+ },
+ {
+  "id": "co2-capture",
+  "name": "CO2 capture",
+  "count_recent": 104,
+  "count_prev": 55,
+  "share_recent": 0.00599,
+  "share_prev": 0.00594,
+  "growth": 1.008,
+  "eligible": true
+ },
+ {
+  "id": "power-quality",
+  "name": "power quality",
+  "count_recent": 111,
+  "count_prev": 59,
+  "share_recent": 0.00639,
+  "share_prev": 0.00637,
+  "growth": 1.003,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 284,
+  "count_prev": 152,
+  "share_recent": 0.01635,
+  "share_prev": 0.01642,
+  "growth": 0.996,
+  "eligible": true
+ },
+ {
+  "id": "charge-transfer",
+  "name": "charge transfer",
+  "count_recent": 78,
+  "count_prev": 42,
+  "share_recent": 0.00449,
+  "share_prev": 0.00454,
+  "growth": 0.99,
+  "eligible": true
+ },
+ {
+  "id": "nanohybrids",
+  "name": "hybrid nanostructures",
+  "count_recent": 113,
+  "count_prev": 61,
+  "share_recent": 0.00651,
+  "share_prev": 0.00659,
+  "growth": 0.987,
+  "eligible": true
+ },
+ {
+  "id": "system-efficiency",
+  "name": "system efficiency",
+  "count_recent": 77,
+  "count_prev": 42,
+  "share_recent": 0.00443,
+  "share_prev": 0.00454,
+  "growth": 0.977,
+  "eligible": true
+ },
+ {
+  "id": "reverse-osmosis",
+  "name": "reverse osmosis",
+  "count_recent": 93,
+  "count_prev": 52,
+  "share_recent": 0.00535,
+  "share_prev": 0.00562,
+  "growth": 0.953,
+  "eligible": true
+ },
+ {
+  "id": "electrolyzer",
+  "name": "electrolyzer",
+  "count_recent": 78,
+  "count_prev": 44,
+  "share_recent": 0.00449,
+  "share_prev": 0.00475,
+  "growth": 0.945,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-energy-storage-system",
+  "name": "hybrid energy storage",
+  "count_recent": 170,
+  "count_prev": 96,
+  "share_recent": 0.00979,
+  "share_prev": 0.01037,
+  "growth": 0.944,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 110,
+  "count_prev": 63,
+  "share_recent": 0.00633,
+  "share_prev": 0.0068,
+  "growth": 0.931,
+  "eligible": true
+ },
+ {
+  "id": "cod-removal",
+  "name": "COD removal",
+  "count_recent": 96,
+  "count_prev": 56,
+  "share_recent": 0.00553,
+  "share_prev": 0.00605,
+  "growth": 0.914,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-desalination-systems",
+  "name": "hybrid desalination",
+  "count_recent": 87,
+  "count_prev": 52,
+  "share_recent": 0.00501,
+  "share_prev": 0.00562,
+  "growth": 0.892,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-electric-vehicles",
+  "name": "hybrid electric vehicles",
+  "count_recent": 72,
+  "count_prev": 44,
+  "share_recent": 0.00415,
+  "share_prev": 0.00475,
+  "growth": 0.872,
+  "eligible": true
+ },
+ {
+  "id": "co2-emissions",
+  "name": "CO2 emissions",
+  "count_recent": 157,
+  "count_prev": 95,
+  "share_recent": 0.00904,
+  "share_prev": 0.01026,
+  "growth": 0.881,
+  "eligible": true
+ },
+ {
+  "id": "waste-heat-recovery",
+  "name": "waste heat recovery",
+  "count_recent": 226,
+  "count_prev": 136,
+  "share_recent": 0.01301,
+  "share_prev": 0.01469,
+  "growth": 0.886,
+  "eligible": true
+ },
+ {
+  "id": "gold-nanoparticles",
+  "name": "gold nanoparticles",
+  "count_recent": 77,
+  "count_prev": 48,
+  "share_recent": 0.00443,
+  "share_prev": 0.00518,
+  "growth": 0.855,
+  "eligible": true
+ },
+ {
+  "id": "particle-swarm-optimization",
+  "name": "particle swarm optimization",
+  "count_recent": 154,
+  "count_prev": 95,
+  "share_recent": 0.00887,
+  "share_prev": 0.01026,
+  "growth": 0.864,
+  "eligible": true
+ },
+ {
+  "id": "solar-energy",
+  "name": "solar energy",
+  "count_recent": 231,
+  "count_prev": 141,
+  "share_recent": 0.0133,
+  "share_prev": 0.01523,
+  "growth": 0.873,
+  "eligible": true
+ },
+ {
+  "id": "concentrated-solar-power",
+  "name": "concentrated solar power",
+  "count_recent": 99,
+  "count_prev": 62,
+  "share_recent": 0.0057,
+  "share_prev": 0.0067,
+  "growth": 0.851,
+  "eligible": true
+ },
+ {
+  "id": "silver-nanoparticles",
+  "name": "silver nanoparticles",
+  "count_recent": 79,
+  "count_prev": 50,
+  "share_recent": 0.00455,
+  "share_prev": 0.0054,
+  "growth": 0.842,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-quantum-systems",
+  "name": "hybrid quantum systems",
+  "count_recent": 87,
+  "count_prev": 55,
+  "share_recent": 0.00501,
+  "share_prev": 0.00594,
+  "growth": 0.843,
+  "eligible": true
+ },
+ {
+  "id": "thermoelectric-generators",
+  "name": "thermoelectric generators",
+  "count_recent": 144,
+  "count_prev": 90,
+  "share_recent": 0.00829,
+  "share_prev": 0.00972,
+  "growth": 0.853,
+  "eligible": true
+ },
+ {
+  "id": "wind-solar-hybrid-system",
+  "name": "photovoltaic-wind hybrid system",
+  "count_recent": 300,
+  "count_prev": 184,
+  "share_recent": 0.01727,
+  "share_prev": 0.01987,
+  "growth": 0.869,
+  "eligible": true
+ },
+ {
+  "id": "wind-energy",
+  "name": "wind energy",
+  "count_recent": 416,
+  "count_prev": 257,
+  "share_recent": 0.02395,
+  "share_prev": 0.02776,
+  "growth": 0.863,
+  "eligible": true
+ },
+ {
+  "id": "energy-management-systems",
+  "name": "energy management systems",
+  "count_recent": 76,
+  "count_prev": 50,
+  "share_recent": 0.00438,
+  "share_prev": 0.0054,
+  "growth": 0.81,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-solar-systems",
+  "name": "hybrid solar systems",
+  "count_recent": 127,
+  "count_prev": 82,
+  "share_recent": 0.00731,
+  "share_prev": 0.00886,
+  "growth": 0.826,
+  "eligible": true
+ },
+ {
+  "id": "genetic-algorithm",
+  "name": "genetic algorithm",
+  "count_recent": 107,
+  "count_prev": 70,
+  "share_recent": 0.00616,
+  "share_prev": 0.00756,
+  "growth": 0.815,
+  "eligible": true
+ },
+ {
+  "id": "photovoltaics",
+  "name": "photovoltaics",
+  "count_recent": 452,
+  "count_prev": 282,
+  "share_recent": 0.02602,
+  "share_prev": 0.03046,
+  "growth": 0.854,
+  "eligible": true
+ },
+ {
+  "id": "photovoltaic-modules",
+  "name": "photovoltaic modules",
+  "count_recent": 82,
+  "count_prev": 55,
+  "share_recent": 0.00472,
+  "share_prev": 0.00594,
+  "growth": 0.795,
+  "eligible": true
+ },
+ {
+  "id": "denial-of-service-attacks",
+  "name": "denial-of-service attacks",
+  "count_recent": 154,
+  "count_prev": 101,
+  "share_recent": 0.00887,
+  "share_prev": 0.01091,
+  "growth": 0.813,
+  "eligible": true
+ },
+ {
+  "id": "organic-inorganic-hybrid-materials",
+  "name": "organic-inorganic hybrid materials",
+  "count_recent": 74,
+  "count_prev": 51,
+  "share_recent": 0.00426,
+  "share_prev": 0.00551,
+  "growth": 0.773,
+  "eligible": true
+ },
+ {
+  "id": "battery-energy-storage",
+  "name": "battery energy storage",
+  "count_recent": 669,
+  "count_prev": 424,
+  "share_recent": 0.03852,
+  "share_prev": 0.0458,
+  "growth": 0.841,
+  "eligible": true
+ },
+ {
+  "id": "thermal-efficiency",
+  "name": "thermal efficiency",
+  "count_recent": 102,
+  "count_prev": 70,
+  "share_recent": 0.00587,
+  "share_prev": 0.00756,
+  "growth": 0.777,
+  "eligible": true
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 151,
+  "count_prev": 103,
+  "share_recent": 0.00869,
+  "share_prev": 0.01113,
+  "growth": 0.781,
+  "eligible": true
+ },
+ {
+  "id": "photovoltaic-thermal-systems",
+  "name": "photovoltaic-thermal systems",
+  "count_recent": 84,
+  "count_prev": 60,
+  "share_recent": 0.00484,
+  "share_prev": 0.00648,
+  "growth": 0.746,
+  "eligible": true
+ },
+ {
+  "id": "coefficient-of-performance",
+  "name": "coefficient of performance",
+  "count_recent": 123,
+  "count_prev": 87,
+  "share_recent": 0.00708,
+  "share_prev": 0.0094,
+  "growth": 0.754,
+  "eligible": true
+ },
+ {
+  "id": "microgrids",
+  "name": "microgrids",
+  "count_recent": 104,
+  "count_prev": 75,
+  "share_recent": 0.00599,
+  "share_prev": 0.0081,
+  "growth": 0.739,
+  "eligible": true
+ },
+ {
+  "id": "gas-turbines",
+  "name": "gas turbines",
+  "count_recent": 77,
+  "count_prev": 57,
+  "share_recent": 0.00443,
+  "share_prev": 0.00616,
+  "growth": 0.72,
+  "eligible": true
+ },
+ {
+  "id": "combined-heat-and-power",
+  "name": "combined heat and power",
+  "count_recent": 81,
+  "count_prev": 60,
+  "share_recent": 0.00466,
+  "share_prev": 0.00648,
+  "growth": 0.72,
+  "eligible": true
+ },
+ {
+  "id": "organic-rankine-cycle",
+  "name": "organic Rankine cycle",
+  "count_recent": 97,
+  "count_prev": 71,
+  "share_recent": 0.00558,
+  "share_prev": 0.00767,
+  "growth": 0.728,
+  "eligible": true
+ },
+ {
+  "id": "visible-light-photocatalysis",
+  "name": "visible light photocatalysis",
+  "count_recent": 70,
+  "count_prev": 53,
+  "share_recent": 0.00403,
+  "share_prev": 0.00572,
+  "growth": 0.704,
+  "eligible": true
+ },
+ {
+  "id": "rural-electrification",
+  "name": "rural electrification",
+  "count_recent": 244,
+  "count_prev": 172,
+  "share_recent": 0.01405,
+  "share_prev": 0.01858,
+  "growth": 0.756,
+  "eligible": true
+ },
+ {
+  "id": "fuel-conservation",
+  "name": "fuel consumption reduction",
+  "count_recent": 75,
+  "count_prev": 58,
+  "share_recent": 0.00432,
+  "share_prev": 0.00626,
+  "growth": 0.689,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-energy-systems",
+  "name": "hybrid energy systems",
+  "count_recent": 564,
+  "count_prev": 388,
+  "share_recent": 0.03247,
+  "share_prev": 0.04191,
+  "growth": 0.775,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-hybrid-systems",
+  "name": "stochastic hybrid systems",
+  "count_recent": 83,
+  "count_prev": 65,
+  "share_recent": 0.00478,
+  "share_prev": 0.00702,
+  "growth": 0.681,
+  "eligible": true
+ },
+ {
+  "id": "metaheuristic-optimization",
+  "name": "metaheuristic optimization",
+  "count_recent": 75,
+  "count_prev": 60,
+  "share_recent": 0.00432,
+  "share_prev": 0.00648,
+  "growth": 0.666,
+  "eligible": true
+ },
+ {
+  "id": "sensitivity-analysis",
+  "name": "sensitivity analysis",
+  "count_recent": 180,
+  "count_prev": 135,
+  "share_recent": 0.01036,
+  "share_prev": 0.01458,
+  "growth": 0.711,
+  "eligible": true
+ },
+ {
+  "id": "exergy-efficiency",
+  "name": "exergy efficiency",
+  "count_recent": 136,
+  "count_prev": 104,
+  "share_recent": 0.00783,
+  "share_prev": 0.01123,
+  "growth": 0.697,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-renewable-energy-systems",
+  "name": "hybrid renewable energy systems",
+  "count_recent": 858,
+  "count_prev": 598,
+  "share_recent": 0.0494,
+  "share_prev": 0.06459,
+  "growth": 0.765,
+  "eligible": true
+ },
+ {
+  "id": "energy-management-strategy",
+  "name": "energy management strategy",
+  "count_recent": 149,
+  "count_prev": 115,
+  "share_recent": 0.00858,
+  "share_prev": 0.01242,
+  "growth": 0.691,
+  "eligible": true
+ },
+ {
+  "id": "discrete-time-systems",
+  "name": "discrete-time systems",
+  "count_recent": 77,
+  "count_prev": 63,
+  "share_recent": 0.00443,
+  "share_prev": 0.0068,
+  "growth": 0.652,
+  "eligible": true
+ },
+ {
+  "id": "fuel-cells",
+  "name": "fuel cells",
+  "count_recent": 143,
+  "count_prev": 111,
+  "share_recent": 0.00823,
+  "share_prev": 0.01199,
+  "growth": 0.687,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy",
+  "name": "renewable energy",
+  "count_recent": 211,
+  "count_prev": 160,
+  "share_recent": 0.01215,
+  "share_prev": 0.01728,
+  "growth": 0.703,
+  "eligible": true
+ },
+ {
+  "id": "off-grid-power-supply",
+  "name": "off-grid power supply",
+  "count_recent": 142,
+  "count_prev": 111,
+  "share_recent": 0.00818,
+  "share_prev": 0.01199,
+  "growth": 0.682,
+  "eligible": true
+ },
+ {
+  "id": "system-sizing",
+  "name": "system sizing",
+  "count_recent": 76,
+  "count_prev": 64,
+  "share_recent": 0.00438,
+  "share_prev": 0.00691,
+  "growth": 0.633,
+  "eligible": true
+ },
+ {
+  "id": "exponential-stability",
+  "name": "exponential stability",
+  "count_recent": 122,
+  "count_prev": 99,
+  "share_recent": 0.00702,
+  "share_prev": 0.01069,
+  "growth": 0.657,
+  "eligible": true
+ },
+ {
+  "id": "maximum-power-point-tracking",
+  "name": "maximum power point tracking",
+  "count_recent": 166,
+  "count_prev": 132,
+  "share_recent": 0.00956,
+  "share_prev": 0.01426,
+  "growth": 0.67,
+  "eligible": true
+ },
+ {
+  "id": "photovoltaic-systems",
+  "name": "photovoltaic systems",
+  "count_recent": 305,
+  "count_prev": 236,
+  "share_recent": 0.01756,
+  "share_prev": 0.02549,
+  "growth": 0.689,
+  "eligible": true
+ },
+ {
+  "id": "exergy-analysis",
+  "name": "exergy analysis",
+  "count_recent": 246,
+  "count_prev": 194,
+  "share_recent": 0.01416,
+  "share_prev": 0.02095,
+  "growth": 0.676,
+  "eligible": true
+ },
+ {
+  "id": "proton-exchange-membrane-fuel-cells",
+  "name": "proton exchange membrane fuel cells",
+  "count_recent": 90,
+  "count_prev": 78,
+  "share_recent": 0.00518,
+  "share_prev": 0.00843,
+  "growth": 0.615,
+  "eligible": true
+ },
+ {
+  "id": "event-triggered-control",
+  "name": "event-triggered control",
+  "count_recent": 182,
+  "count_prev": 150,
+  "share_recent": 0.01048,
+  "share_prev": 0.0162,
+  "growth": 0.647,
+  "eligible": true
+ },
+ {
+  "id": "solid-oxide-fuel-cells",
+  "name": "solid oxide fuel cells",
+  "count_recent": 145,
+  "count_prev": 122,
+  "share_recent": 0.00835,
+  "share_prev": 0.01318,
+  "growth": 0.634,
+  "eligible": true
+ },
+ {
+  "id": "switching-systems",
+  "name": "switching systems",
+  "count_recent": 98,
+  "count_prev": 87,
+  "share_recent": 0.00564,
+  "share_prev": 0.0094,
+  "growth": 0.6,
+  "eligible": true
+ },
+ {
+  "id": "wind-turbines",
+  "name": "wind turbines",
+  "count_recent": 263,
+  "count_prev": 214,
+  "share_recent": 0.01514,
+  "share_prev": 0.02312,
+  "growth": 0.655,
+  "eligible": true
+ },
+ {
+  "id": "net-present-cost",
+  "name": "net present cost",
+  "count_recent": 187,
+  "count_prev": 158,
+  "share_recent": 0.01077,
+  "share_prev": 0.01707,
+  "growth": 0.631,
+  "eligible": true
+ },
+ {
+  "id": "asynchronous-switching",
+  "name": "asynchronous switching",
+  "count_recent": 82,
+  "count_prev": 76,
+  "share_recent": 0.00472,
+  "share_prev": 0.00821,
+  "growth": 0.575,
+  "eligible": true
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 77,
+  "count_prev": 73,
+  "share_recent": 0.00443,
+  "share_prev": 0.00789,
+  "growth": 0.562,
+  "eligible": true
+ },
+ {
+  "id": "hybrid-systems",
+  "name": "hybrid systems",
+  "count_recent": 503,
+  "count_prev": 406,
+  "share_recent": 0.02896,
+  "share_prev": 0.04385,
+  "growth": 0.66,
+  "eligible": true
+ },
+ {
+  "id": "networked-control-systems",
+  "name": "networked control systems",
+  "count_recent": 77,
+  "count_prev": 76,
+  "share_recent": 0.00443,
+  "share_prev": 0.00821,
+  "growth": 0.54,
+  "eligible": true
+ },
+ {
+  "id": "exergy-destruction",
+  "name": "exergy destruction",
+  "count_recent": 73,
+  "count_prev": 73,
+  "share_recent": 0.0042,
+  "share_prev": 0.00789,
+  "growth": 0.533,
+  "eligible": true
+ },
+ {
+  "id": "diesel-generator",
+  "name": "diesel generator",
+  "count_recent": 205,
+  "count_prev": 190,
+  "share_recent": 0.0118,
+  "share_prev": 0.02052,
+  "growth": 0.575,
+  "eligible": true
+ },
+ {
+  "id": "switched-nonlinear-systems",
+  "name": "switched nonlinear systems",
+  "count_recent": 118,
+  "count_prev": 126,
+  "share_recent": 0.00679,
+  "share_prev": 0.01361,
+  "growth": 0.499,
+  "eligible": true
+ },
+ {
+  "id": "multiple-lyapunov-functions",
+  "name": "multiple Lyapunov functions",
+  "count_recent": 80,
+  "count_prev": 91,
+  "share_recent": 0.00461,
+  "share_prev": 0.00983,
+  "growth": 0.469,
+  "eligible": true
+ },
+ {
+  "id": "energy-costs",
+  "name": "energy costs",
+  "count_recent": 160,
+  "count_prev": 165,
+  "share_recent": 0.00921,
+  "share_prev": 0.01782,
+  "growth": 0.517,
+  "eligible": true
+ },
+ {
+  "id": "switched-linear-systems",
+  "name": "switched linear systems",
+  "count_recent": 103,
+  "count_prev": 114,
+  "share_recent": 0.00593,
+  "share_prev": 0.01231,
+  "growth": 0.482,
+  "eligible": true
+ },
+ {
+  "id": "switched-systems",
+  "name": "switched systems",
+  "count_recent": 490,
+  "count_prev": 459,
+  "share_recent": 0.02821,
+  "share_prev": 0.04958,
+  "growth": 0.569,
+  "eligible": true
+ },
+ {
+  "id": "stability-analysis",
+  "name": "stability analysis",
+  "count_recent": 94,
+  "count_prev": 117,
+  "share_recent": 0.00541,
+  "share_prev": 0.01264,
+  "growth": 0.428,
+  "eligible": true
+ },
+ {
+  "id": "protein-protein-interaction",
+  "name": "protein-protein interaction",
+  "count_recent": 75,
+  "count_prev": 102,
+  "share_recent": 0.00432,
+  "share_prev": 0.01102,
+  "growth": 0.392,
+  "eligible": true
+ },
+ {
+  "id": "linear-matrix-inequalities",
+  "name": "linear matrix inequalities",
+  "count_recent": 142,
+  "count_prev": 179,
+  "share_recent": 0.00818,
+  "share_prev": 0.01933,
+  "growth": 0.423,
+  "eligible": true
+ },
+ {
+  "id": "average-dwell-time",
+  "name": "average dwell time",
+  "count_recent": 115,
+  "count_prev": 160,
+  "share_recent": 0.00662,
+  "share_prev": 0.01728,
+  "growth": 0.383,
+  "eligible": true
+ },
+ {
+  "id": "ductility",
+  "name": "ductility",
+  "count_recent": 68,
+  "count_prev": 0,
+  "share_recent": 0.00392,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "geothermal-energy",
+  "name": "geothermal energy",
+  "count_recent": 68,
+  "count_prev": 3,
+  "share_recent": 0.00392,
+  "share_prev": 0.00032,
+  "growth": 12.082,
+  "eligible": false
+ },
+ {
+  "id": "grid-integration",
+  "name": "grid integration",
+  "count_recent": 68,
+  "count_prev": 2,
+  "share_recent": 0.00392,
+  "share_prev": 0.00022,
+  "growth": 18.124,
+  "eligible": false
+ },
+ {
+  "id": "solar-irradiance",
+  "name": "solar irradiance",
+  "count_recent": 68,
+  "count_prev": 42,
+  "share_recent": 0.00392,
+  "share_prev": 0.00454,
+  "growth": 0.863,
+  "eligible": false
+ },
+ {
+  "id": "tensile-strength",
+  "name": "tensile strength",
+  "count_recent": 68,
+  "count_prev": 9,
+  "share_recent": 0.00392,
+  "share_prev": 0.00097,
+  "growth": 4.027,
+  "eligible": false
+ },
+ {
+  "id": "asymptotic-stability",
+  "name": "asymptotic stability",
+  "count_recent": 67,
+  "count_prev": 79,
+  "share_recent": 0.00386,
+  "share_prev": 0.00853,
+  "growth": 0.452,
+  "eligible": false
+ },
+ {
+  "id": "catalyst-stability",
+  "name": "catalyst stability",
+  "count_recent": 67,
+  "count_prev": 0,
+  "share_recent": 0.00386,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "loss-of-power-supply-probability",
+  "name": "loss of power supply probability",
+  "count_recent": 67,
+  "count_prev": 47,
+  "share_recent": 0.00386,
+  "share_prev": 0.00508,
+  "growth": 0.76,
+  "eligible": false
+ },
+ {
+  "id": "surface-functionalization",
+  "name": "surface functionalization",
+  "count_recent": 67,
+  "count_prev": 0,
+  "share_recent": 0.00386,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "water-reuse",
+  "name": "water reuse",
+  "count_recent": 67,
+  "count_prev": 37,
+  "share_recent": 0.00386,
+  "share_prev": 0.004,
+  "growth": 0.965,
+  "eligible": false
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 66,
+  "count_prev": 42,
+  "share_recent": 0.0038,
+  "share_prev": 0.00454,
+  "growth": 0.838,
+  "eligible": false
+ },
+ {
+  "id": "nanomaterials",
+  "name": "nanomaterials",
+  "count_recent": 66,
+  "count_prev": 0,
+  "share_recent": 0.0038,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "net-present-value",
+  "name": "net present value",
+  "count_recent": 66,
+  "count_prev": 49,
+  "share_recent": 0.0038,
+  "share_prev": 0.00529,
+  "growth": 0.718,
+  "eligible": false
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 66,
+  "count_prev": 68,
+  "share_recent": 0.0038,
+  "share_prev": 0.00734,
+  "growth": 0.517,
+  "eligible": false
+ },
+ {
+  "id": "freshwater-production",
+  "name": "freshwater production",
+  "count_recent": 65,
+  "count_prev": 37,
+  "share_recent": 0.00374,
+  "share_prev": 0.004,
+  "growth": 0.936,
+  "eligible": false
+ },
+ {
+  "id": "techno-economic-feasibility",
+  "name": "techno-economic feasibility",
+  "count_recent": 65,
+  "count_prev": 35,
+  "share_recent": 0.00374,
+  "share_prev": 0.00378,
+  "growth": 0.99,
+  "eligible": false
+ },
+ {
+  "id": "blockchain",
+  "name": "blockchain",
+  "count_recent": 64,
+  "count_prev": 0,
+  "share_recent": 0.00368,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "distributed-generation",
+  "name": "distributed generation",
+  "count_recent": 64,
+  "count_prev": 60,
+  "share_recent": 0.00368,
+  "share_prev": 0.00648,
+  "growth": 0.569,
+  "eligible": false
+ },
+ {
+  "id": "latent-heat-storage",
+  "name": "latent heat storage",
+  "count_recent": 64,
+  "count_prev": 0,
+  "share_recent": 0.00368,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

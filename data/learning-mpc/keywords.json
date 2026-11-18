@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "gaussian-process-regression",
+  "name": "Gaussian process regression",
+  "count_recent": 17,
+  "count_prev": 3,
+  "share_recent": 0.02778,
+  "share_prev": 0.01224,
+  "growth": 2.269,
+  "eligible": true
+ },
+ {
+  "id": "recursive-feasibility",
+  "name": "recursive feasibility",
+  "count_recent": 46,
+  "count_prev": 10,
+  "share_recent": 0.07516,
+  "share_prev": 0.04082,
+  "growth": 1.842,
+  "eligible": true
+ },
+ {
+  "id": "model-free-control",
+  "name": "model-free control",
+  "count_recent": 27,
+  "count_prev": 6,
+  "share_recent": 0.04412,
+  "share_prev": 0.02449,
+  "growth": 1.801,
+  "eligible": true
+ },
+ {
+  "id": "data-enabled-predictive-control",
+  "name": "data-enabled predictive control",
+  "count_recent": 89,
+  "count_prev": 24,
+  "share_recent": 0.14542,
+  "share_prev": 0.09796,
+  "growth": 1.485,
+  "eligible": true
+ },
+ {
+  "id": "model-uncertainty",
+  "name": "model uncertainty",
+  "count_recent": 17,
+  "count_prev": 4,
+  "share_recent": 0.02778,
+  "share_prev": 0.01633,
+  "growth": 1.701,
+  "eligible": true
+ },
+ {
+  "id": "hvac-control",
+  "name": "HVAC control",
+  "count_recent": 16,
+  "count_prev": 4,
+  "share_recent": 0.02614,
+  "share_prev": 0.01633,
+  "growth": 1.601,
+  "eligible": true
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 22,
+  "count_prev": 6,
+  "share_recent": 0.03595,
+  "share_prev": 0.02449,
+  "growth": 1.468,
+  "eligible": true
+ },
+ {
+  "id": "robust-model-predictive-control",
+  "name": "robust model predictive control",
+  "count_recent": 15,
+  "count_prev": 4,
+  "share_recent": 0.02451,
+  "share_prev": 0.01633,
+  "growth": 1.501,
+  "eligible": true
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 31,
+  "count_prev": 9,
+  "share_recent": 0.05065,
+  "share_prev": 0.03673,
+  "growth": 1.379,
+  "eligible": true
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 18,
+  "count_prev": 5,
+  "share_recent": 0.02941,
+  "share_prev": 0.02041,
+  "growth": 1.441,
+  "eligible": true
+ },
+ {
+  "id": "trajectory-tracking",
+  "name": "trajectory tracking",
+  "count_recent": 40,
+  "count_prev": 13,
+  "share_recent": 0.06536,
+  "share_prev": 0.05306,
+  "growth": 1.232,
+  "eligible": true
+ },
+ {
+  "id": "hankel-matrix",
+  "name": "Hankel matrices",
+  "count_recent": 21,
+  "count_prev": 7,
+  "share_recent": 0.03431,
+  "share_prev": 0.02857,
+  "growth": 1.201,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-model-predictive-control",
+  "name": "nonlinear model predictive control",
+  "count_recent": 20,
+  "count_prev": 7,
+  "share_recent": 0.03268,
+  "share_prev": 0.02857,
+  "growth": 1.144,
+  "eligible": true
+ },
+ {
+  "id": "e-learning",
+  "name": "online learning",
+  "count_recent": 16,
+  "count_prev": 6,
+  "share_recent": 0.02614,
+  "share_prev": 0.02449,
+  "growth": 1.068,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-model-predictive-control",
+  "name": "data-driven model predictive control",
+  "count_recent": 36,
+  "count_prev": 14,
+  "share_recent": 0.05882,
+  "share_prev": 0.05714,
+  "growth": 1.029,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-predictive-control",
+  "name": "data-driven predictive control",
+  "count_recent": 97,
+  "count_prev": 38,
+  "share_recent": 0.1585,
+  "share_prev": 0.1551,
+  "growth": 1.022,
+  "eligible": true
+ },
+ {
+  "id": "willems-fundamental-lemma",
+  "name": "Willems fundamental lemma",
+  "count_recent": 23,
+  "count_prev": 9,
+  "share_recent": 0.03758,
+  "share_prev": 0.03673,
+  "growth": 1.023,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 32,
+  "count_prev": 13,
+  "share_recent": 0.05229,
+  "share_prev": 0.05306,
+  "growth": 0.985,
+  "eligible": true
+ },
+ {
+  "id": "measurement-noise",
+  "name": "measurement noise",
+  "count_recent": 17,
+  "count_prev": 7,
+  "share_recent": 0.02778,
+  "share_prev": 0.02857,
+  "growth": 0.972,
+  "eligible": true
+ },
+ {
+  "id": "robust-control",
+  "name": "robust control",
+  "count_recent": 26,
+  "count_prev": 11,
+  "share_recent": 0.04248,
+  "share_prev": 0.0449,
+  "growth": 0.946,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-systems",
+  "name": "nonlinear systems",
+  "count_recent": 40,
+  "count_prev": 17,
+  "share_recent": 0.06536,
+  "share_prev": 0.06939,
+  "growth": 0.942,
+  "eligible": true
+ },
+ {
+  "id": "thermal-comfort",
+  "name": "thermal comfort",
+  "count_recent": 16,
+  "count_prev": 7,
+  "share_recent": 0.02614,
+  "share_prev": 0.02857,
+  "growth": 0.915,
+  "eligible": true
+ },
+ {
+  "id": "computational-cost-reduction",
+  "name": "computational complexity reduction",
+  "count_recent": 15,
+  "count_prev": 7,
+  "share_recent": 0.02451,
+  "share_prev": 0.02857,
+  "growth": 0.858,
+  "eligible": true
+ },
+ {
+  "id": "disturbance-rejection",
+  "name": "disturbance rejection",
+  "count_recent": 15,
+  "count_prev": 7,
+  "share_recent": 0.02451,
+  "share_prev": 0.02857,
+  "growth": 0.858,
+  "eligible": true
+ },
+ {
+  "id": "learning-based-model-predictive-control",
+  "name": "learning-based model predictive control",
+  "count_recent": 47,
+  "count_prev": 21,
+  "share_recent": 0.0768,
+  "share_prev": 0.08571,
+  "growth": 0.896,
+  "eligible": true
+ },
+ {
+  "id": "closed-loop-stability",
+  "name": "closed-loop stability",
+  "count_recent": 26,
+  "count_prev": 12,
+  "share_recent": 0.04248,
+  "share_prev": 0.04898,
+  "growth": 0.867,
+  "eligible": true
+ },
+ {
+  "id": "predictive-control",
+  "name": "predictive control",
+  "count_recent": 19,
+  "count_prev": 9,
+  "share_recent": 0.03105,
+  "share_prev": 0.03673,
+  "growth": 0.845,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-control",
+  "name": "data-driven control",
+  "count_recent": 78,
+  "count_prev": 41,
+  "share_recent": 0.12745,
+  "share_prev": 0.16735,
+  "growth": 0.762,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 192,
+  "count_prev": 98,
+  "share_recent": 0.31373,
+  "share_prev": 0.4,
+  "growth": 0.784,
+  "eligible": true
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 14,
+  "count_prev": 14,
+  "share_recent": 0.02288,
+  "share_prev": 0.05714,
+  "growth": 0.4,
+  "eligible": false
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 14,
+  "count_prev": 3,
+  "share_recent": 0.02288,
+  "share_prev": 0.01224,
+  "growth": 1.868,
+  "eligible": false
+ },
+ {
+  "id": "parameter-uncertainty",
+  "name": "parameter uncertainty",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.02288,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "linear-time-invariant-systems",
+  "name": "linear time-invariant systems",
+  "count_recent": 13,
+  "count_prev": 12,
+  "share_recent": 0.02124,
+  "share_prev": 0.04898,
+  "growth": 0.434,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-modeling",
+  "name": "data-driven modeling",
+  "count_recent": 12,
+  "count_prev": 6,
+  "share_recent": 0.01961,
+  "share_prev": 0.02449,
+  "growth": 0.801,
+  "eligible": false
+ },
+ {
+  "id": "hierarchical-control",
+  "name": "hierarchical control",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.01961,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "input-to-state-stability",
+  "name": "input-to-state stability",
+  "count_recent": 12,
+  "count_prev": 7,
+  "share_recent": 0.01961,
+  "share_prev": 0.02857,
+  "growth": 0.686,
+  "eligible": false
+ },
+ {
+  "id": "model-discrepancy",
+  "name": "model mismatch",
+  "count_recent": 12,
+  "count_prev": 6,
+  "share_recent": 0.01961,
+  "share_prev": 0.02449,
+  "growth": 0.801,
+  "eligible": false
+ },
+ {
+  "id": "stability-analysis",
+  "name": "stability analysis",
+  "count_recent": 12,
+  "count_prev": 7,
+  "share_recent": 0.01961,
+  "share_prev": 0.02857,
+  "growth": 0.686,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 11,
+  "count_prev": 2,
+  "share_recent": 0.01797,
+  "share_prev": 0.00816,
+  "growth": 2.202,
+  "eligible": false
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 11,
+  "count_prev": 7,
+  "share_recent": 0.01797,
+  "share_prev": 0.02857,
+  "growth": 0.629,
+  "eligible": false
+ },
+ {
+  "id": "energy-management-strategy",
+  "name": "energy management strategy",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.01797,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "real-time-optimization",
+  "name": "real-time optimization",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.01797,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "unknown-dynamics",
+  "name": "unknown dynamics",
+  "count_recent": 11,
+  "count_prev": 5,
+  "share_recent": 0.01797,
+  "share_prev": 0.02041,
+  "growth": 0.881,
+  "eligible": false
+ },
+ {
+  "id": "building-energy-efficiency",
+  "name": "building energy efficiency",
+  "count_recent": 10,
+  "count_prev": 3,
+  "share_recent": 0.01634,
+  "share_prev": 0.01224,
+  "growth": 1.334,
+  "eligible": false
+ },
+ {
+  "id": "connected-and-automated-vehicles",
+  "name": "connected and automated vehicles",
+  "count_recent": 10,
+  "count_prev": 4,
+  "share_recent": 0.01634,
+  "share_prev": 0.01633,
+  "growth": 1.001,
+  "eligible": false
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.01634,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "event-triggered-control",
+  "name": "event-triggered control",
+  "count_recent": 10,
+  "count_prev": 2,
+  "share_recent": 0.01634,
+  "share_prev": 0.00816,
+  "growth": 2.002,
+  "eligible": false
+ },
+ {
+  "id": "gaussian-processes",
+  "name": "Gaussian processes",
+  "count_recent": 10,
+  "count_prev": 13,
+  "share_recent": 0.01634,
+  "share_prev": 0.05306,
+  "growth": 0.308,
+  "eligible": false
+ },
+ {
+  "id": "input-output-data",
+  "name": "input-output data",
+  "count_recent": 10,
+  "count_prev": 6,
+  "share_recent": 0.01634,
+  "share_prev": 0.02449,
+  "growth": 0.667,
+  "eligible": false
+ },
+ {
+  "id": "iterative-learning-control",
+  "name": "iterative learning control",
+  "count_recent": 10,
+  "count_prev": 9,
+  "share_recent": 0.01634,
+  "share_prev": 0.03673,
+  "growth": 0.445,
+  "eligible": false
+ },
+ {
+  "id": "koopman-operator",
+  "name": "Koopman operator",
+  "count_recent": 10,
+  "count_prev": 7,
+  "share_recent": 0.01634,
+  "share_prev": 0.02857,
+  "growth": 0.572,
+  "eligible": false
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 10,
+  "count_prev": 2,
+  "share_recent": 0.01634,
+  "share_prev": 0.00816,
+  "growth": 2.002,
+  "eligible": false
+ },
+ {
+  "id": "subspace-predictive-control",
+  "name": "subspace predictive control",
+  "count_recent": 10,
+  "count_prev": 7,
+  "share_recent": 0.01634,
+  "share_prev": 0.02857,
+  "growth": 0.572,
+  "eligible": false
+ },
+ {
+  "id": "unmodeled-dynamics",
+  "name": "unmodeled dynamics",
+  "count_recent": 10,
+  "count_prev": 3,
+  "share_recent": 0.01634,
+  "share_prev": 0.01224,
+  "growth": 1.334,
+  "eligible": false
+ },
+ {
+  "id": "chance-constraints",
+  "name": "chance constraints",
+  "count_recent": 9,
+  "count_prev": 6,
+  "share_recent": 0.01471,
+  "share_prev": 0.02449,
+  "growth": 0.6,
+  "eligible": false
+ },
+ {
+  "id": "constraint-tightening",
+  "name": "constraint tightening",
+  "count_recent": 9,
+  "count_prev": 3,
+  "share_recent": 0.01471,
+  "share_prev": 0.01224,
+  "growth": 1.201,
+  "eligible": false
+ },
+ {
+  "id": "human-driven-vehicles",
+  "name": "human-driven vehicles",
+  "count_recent": 9,
+  "count_prev": 2,
+  "share_recent": 0.01471,
+  "share_prev": 0.00816,
+  "growth": 1.801,
+  "eligible": false
+ },
+ {
+  "id": "learning-control",
+  "name": "learning control",
+  "count_recent": 9,
+  "count_prev": 5,
+  "share_recent": 0.01471,
+  "share_prev": 0.02041,
+  "growth": 0.721,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-process-control",
+  "name": "nonlinear process control",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.01471,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "setpoint-tracking",
+  "name": "reference tracking",
+  "count_recent": 9,
+  "count_prev": 8,
+  "share_recent": 0.01471,
+  "share_prev": 0.03265,
+  "growth": 0.45,
+  "eligible": false
+ },
+ {
+  "id": "arx-model",
+  "name": "ARX model",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01307,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "battery-energy-storage",
+  "name": "battery energy storage",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.01307,
+  "share_prev": 0.01224,
+  "growth": 1.068,
+  "eligible": false
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01307,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "constraint-satisfaction",
+  "name": "constraint satisfaction",
+  "count_recent": 8,
+  "count_prev": 7,
+  "share_recent": 0.01307,
+  "share_prev": 0.02857,
+  "growth": 0.458,
+  "eligible": false
+ },
+ {
+  "id": "convex-optimization",
+  "name": "convex optimization",
+  "count_recent": 8,
+  "count_prev": 2,
+  "share_recent": 0.01307,
+  "share_prev": 0.00816,
+  "growth": 1.601,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-system-identification",
+  "name": "data-driven system identification",
+  "count_recent": 8,
+  "count_prev": 5,
+  "share_recent": 0.01307,
+  "share_prev": 0.02041,
+  "growth": 0.641,
+  "eligible": false
+ },
+ {
+  "id": "mixed-traffic-flow",
+  "name": "mixed traffic",
+  "count_recent": 8,
+  "count_prev": 4,
+  "share_recent": 0.01307,
+  "share_prev": 0.01633,
+  "growth": 0.801,
+  "eligible": false
+ },
+ {
+  "id": "peak-shaving",
+  "name": "peak shaving",
+  "count_recent": 8,
+  "count_prev": 5,
+  "share_recent": 0.01307,
+  "share_prev": 0.02041,
+  "growth": 0.641,
+  "eligible": false
+ },
+ {
+  "id": "uncertainty-modeling",
+  "name": "uncertainty modeling",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01307,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.01307,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adaptive-model-predictive-control",
+  "name": "adaptive model predictive control",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "asymptotic-stability",
+  "name": "asymptotic stability",
+  "count_recent": 7,
+  "count_prev": 5,
+  "share_recent": 0.01144,
+  "share_prev": 0.02041,
+  "growth": 0.56,
+  "eligible": false
+ },
+ {
+  "id": "bayesian-optimization",
+  "name": "Bayesian optimization",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "behavioral-systems-theory",
+  "name": "behavioral systems theory",
+  "count_recent": 7,
+  "count_prev": 5,
+  "share_recent": 0.01144,
+  "share_prev": 0.02041,
+  "growth": 0.56,
+  "eligible": false
+ },
+ {
+  "id": "energy-cost-savings",
+  "name": "energy cost reduction",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "error-propagation",
+  "name": "error propagation",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hardware-in-the-loop-simulation",
+  "name": "hardware-in-the-loop",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "indoor-air-quality",
+  "name": "indoor air quality",
+  "count_recent": 7,
+  "count_prev": 2,
+  "share_recent": 0.01144,
+  "share_prev": 0.00816,
+  "growth": 1.401,
+  "eligible": false
+ },
+ {
+  "id": "linear-systems",
+  "name": "linear systems",
+  "count_recent": 7,
+  "count_prev": 4,
+  "share_recent": 0.01144,
+  "share_prev": 0.01633,
+  "growth": 0.701,
+  "eligible": false
+ },
+ {
+  "id": "parameter-estimation",
+  "name": "parameter estimation",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "path-planning",
+  "name": "path planning",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 7,
+  "count_prev": 5,
+  "share_recent": 0.01144,
+  "share_prev": 0.02041,
+  "growth": 0.56,
+  "eligible": false
+ },
+ {
+  "id": "stability-guarantees",
+  "name": "stability guarantees",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.01144,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adaptive-control",
+  "name": "adaptive control",
+  "count_recent": 6,
+  "count_prev": 2,
+  "share_recent": 0.0098,
+  "share_prev": 0.00816,
+  "growth": 1.201,
+  "eligible": false
+ },
+ {
+  "id": "alternating-direction-method-of-multipliers",
+  "name": "alternating direction method of multipliers",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bounded-disturbances",
+  "name": "bounded disturbances",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "commercial-buildings",
+  "name": "commercial buildings",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "continuous-stirred-tank-reactor",
+  "name": "continuous stirred tank reactor",
+  "count_recent": 6,
+  "count_prev": 2,
+  "share_recent": 0.0098,
+  "share_prev": 0.00816,
+  "growth": 1.201,
+  "eligible": false
+ },
+ {
+  "id": "demand-response",
+  "name": "demand response",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-conservation",
+  "name": "energy conservation",
+  "count_recent": 6,
+  "count_prev": 2,
+  "share_recent": 0.0098,
+  "share_prev": 0.00816,
+  "growth": 1.201,
+  "eligible": false
+ },
+ {
+  "id": "exploration-exploitation-trade-off",
+  "name": "exploration-exploitation balance",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "forecast-uncertainty",
+  "name": "forecast uncertainty",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hyperparameter-optimization",
+  "name": "hyperparameter optimization",
+  "count_recent": 6,
+  "count_prev": 5,
+  "share_recent": 0.0098,
+  "share_prev": 0.02041,
+  "growth": 0.48,
+  "eligible": false
+ },
+ {
+  "id": "model-reduction",
+  "name": "model reduction",
+  "count_recent": 6,
+  "count_prev": 2,
+  "share_recent": 0.0098,
+  "share_prev": 0.00816,
+  "growth": 1.201,
+  "eligible": false
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 6,
+  "count_prev": 4,
+  "share_recent": 0.0098,
+  "share_prev": 0.01633,
+  "growth": 0.6,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-dynamics",
+  "name": "nonlinear dynamics",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-system-identification",
+  "name": "nonlinear system identification",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "physics-informed-neural-networks",
+  "name": "physics-informed neural networks",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "quadratic-programming",
+  "name": "quadratic programming",
+  "count_recent": 6,
+  "count_prev": 4,
+  "share_recent": 0.0098,
+  "share_prev": 0.01633,
+  "growth": 0.6,
+  "eligible": false
+ },
+ {
+  "id": "residential-buildings",
+  "name": "residential buildings",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robot-control",
+  "name": "robot control",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robust-predictive-control",
+  "name": "robust predictive control",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robustness-to-disturbances",
+  "name": "robustness to disturbances",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "singular-value-decomposition",
+  "name": "singular value decomposition",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.0098,
+  "share_prev": 0.01224,
+  "growth": 0.801,
+  "eligible": false
+ },
+ {
+  "id": "state-and-input-constraints",
+  "name": "state and input constraints",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.0098,
+  "share_prev": 0.01224,
+  "growth": 0.801,
+  "eligible": false
+ },
+ {
+  "id": "system-identification",
+  "name": "system identification",
+  "count_recent": 6,
+  "count_prev": 4,
+  "share_recent": 0.0098,
+  "share_prev": 0.01633,
+  "growth": 0.6,
+  "eligible": false
+ },
+ {
+  "id": "trajectory-clustering",
+  "name": "trajectory clustering",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "trajectory-prediction",
+  "name": "trajectory prediction",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.0098,
+  "share_prev": 0.01224,
+  "growth": 0.801,
+  "eligible": false
+ },
+ {
+  "id": "transfer-learning",
+  "name": "transfer learning",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "unmanned-surface-vessels",
+  "name": "unmanned surface vehicles",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.0098,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "battery-degradation",
+  "name": "battery degradation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "building-energy-flexibility",
+  "name": "building energy flexibility",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "computational-burden-reduction",
+  "name": "computational burden reduction",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00817,
+  "share_prev": 0.00816,
+  "growth": 1.001,
+  "eligible": false
+ },
+ {
+  "id": "convergence-analysis",
+  "name": "convergence analysis",
+  "count_recent": 5,
+  "count_prev": 9,
+  "share_recent": 0.00817,
+  "share_prev": 0.03673,
+  "growth": 0.222,
+  "eligible": false
+ },
+ {
+  "id": "dc-dc-converter",
+  "name": "DC-DC converter",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "ddpg",
+  "name": "deep deterministic policy gradient",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00817,
+  "share_prev": 0.00816,
+  "growth": 1.001,
+  "eligible": false
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 5,
+  "count_prev": 4,
+  "share_recent": 0.00817,
+  "share_prev": 0.01633,
+  "growth": 0.5,
+  "eligible": false
+ },
+ {
+  "id": "dimensionality-reduction",
+  "name": "dimensionality reduction",
+  "count_recent": 5,
+  "count_prev": 4,
+  "share_recent": 0.00817,
+  "share_prev": 0.01633,
+  "growth": 0.5,
+  "eligible": false
+ },
+ {
+  "id": "distributed-model-predictive-control",
+  "name": "distributed model predictive control",
+  "count_recent": 5,
+  "count_prev": 4,
+  "share_recent": 0.00817,
+  "share_prev": 0.01633,
+  "growth": 0.5,
+  "eligible": false
+ },
+ {
+  "id": "disturbance-estimation",
+  "name": "disturbance estimation",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "disturbance-model",
+  "name": "disturbance modeling",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "eco-driving",
+  "name": "eco-driving",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "economic-model-predictive-control",
+  "name": "economic model predictive control",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "electric-vehicle-charging-scheduling",
+  "name": "electric vehicle charging scheduling",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "exponential-stability",
+  "name": "exponential stability",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "extended-dynamic-mode-decomposition",
+  "name": "extended dynamic mode decomposition",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "fundamental-lemma",
+  "name": "fundamental lemma",
+  "count_recent": 5,
+  "count_prev": 8,
+  "share_recent": 0.00817,
+  "share_prev": 0.03265,
+  "growth": 0.25,
+  "eligible": false
+ },
+ {
+  "id": "input-constraints",
+  "name": "input constraints",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00817,
+  "share_prev": 0.00816,
+  "growth": 1.001,
+  "eligible": false
+ },
+ {
+  "id": "input-convex-neural-networks",
+  "name": "input convex neural networks",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "linear-matrix-inequalities",
+  "name": "linear matrix inequalities",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lithium-ion-batteries",
+  "name": "lithium-ion batteries",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "load-forecasting",
+  "name": "load forecasting",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00817,
+  "share_prev": 0.00816,
+  "growth": 1.001,
+  "eligible": false
+ },
+ {
+  "id": "long-short-term-memory",
+  "name": "long short-term memory",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00817,
+  "share_prev": 0.01224,
+  "growth": 0.667,
+  "eligible": false
+ },
+ {
+  "id": "long-short-term-memory-networks",
+  "name": "long short-term memory networks",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00817,
+  "share_prev": 0.02041,
+  "growth": 0.4,
+  "eligible": false
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00817,
+  "share_prev": 0.00816,
+  "growth": 1.001,
+  "eligible": false
+ },
+ {
+  "id": "narx-model",
+  "name": "NARX model",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-network-model-predictive-control",
+  "name": "neural network model predictive control",
+  "count_recent": 5,
+  "count_prev": 2,
+  "share_recent": 0.00817,
+  "share_prev": 0.00816,
+  "growth": 1.001,
+  "eligible": false
+ },
+ {
+  "id": "online-model-updating",
+  "name": "online model updating",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "persistent-excitation",
+  "name": "persistent excitation",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00817,
+  "share_prev": 0.01224,
+  "growth": 0.667,
+  "eligible": false
+ },
+ {
+  "id": "practical-stability",
+  "name": "practical stability",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "prediction-horizon",
+  "name": "prediction horizon",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00817,
+  "share_prev": 0.02041,
+  "growth": 0.4,
+  "eligible": false
+ },
+ {
+  "id": "process-noise",
+  "name": "process noise",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "q-learning",
+  "name": "Q-learning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "quadrotor",
+  "name": "quadrotor",
+  "count_recent": 5,
+  "count_prev": 5,
+  "share_recent": 0.00817,
+  "share_prev": 0.02041,
+  "growth": 0.4,
+  "eligible": false
+ },
+ {
+  "id": "regularization",
+  "name": "regularization",
+  "count_recent": 5,
+  "count_prev": 7,
+  "share_recent": 0.00817,
+  "share_prev": 0.02857,
+  "growth": 0.286,
+  "eligible": false
+ },
+ {
+  "id": "robustness",
+  "name": "robustness",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "rule-based-control",
+  "name": "rule-based control",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "safety-critical-control",
+  "name": "safety-critical control",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00817,
+  "share_prev": 0.01224,
+  "growth": 0.667,
+  "eligible": false
+ },
+ {
+  "id": "subspace-identification",
+  "name": "subspace identification",
+  "count_recent": 5,
+  "count_prev": 3,
+  "share_recent": 0.00817,
+  "share_prev": 0.01224,
+  "growth": 0.667,
+  "eligible": false
+ },
+ {
+  "id": "unknown-nonlinear-systems",
+  "name": "unknown nonlinear systems",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "vehicle-platooning",
+  "name": "vehicle platooning",
+  "count_recent": 5,
+  "count_prev": 0,
+  "share_recent": 0.00817,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bert",
+  "name": "BERT",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "building-energy-management",
+  "name": "building energy management",
+  "count_recent": 4,
+  "count_prev": 5,
+  "share_recent": 0.00654,
+  "share_prev": 0.02041,
+  "growth": 0.32,
+  "eligible": false
+ },
+ {
+  "id": "carbon-dioxide",
+  "name": "carbon dioxide",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "co-simulation",
+  "name": "co-simulation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "constraint-violation",
+  "name": "constraint violation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "cyber-physical-systems",
+  "name": "cyber-physical systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-optimal-control",
+  "name": "data-driven optimal control",
+  "count_recent": 4,
+  "count_prev": 2,
+  "share_recent": 0.00654,
+  "share_prev": 0.00816,
+  "growth": 0.801,
+  "eligible": false
+ },
+ {
+  "id": "dc-microgrid",
+  "name": "DC microgrid",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "discrete-time-linear-systems",
+  "name": "discrete-time linear systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "distributed-optimization",
+  "name": "distributed optimization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "disturbance-compensation",
+  "name": "disturbance compensation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dynamic-linearization",
+  "name": "dynamic linearization",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00654,
+  "share_prev": 0.01224,
+  "growth": 0.534,
+  "eligible": false
+ },
+ {
+  "id": "energy-consumption-reduction",
+  "name": "energy consumption reduction",
+  "count_recent": 4,
+  "count_prev": 4,
+  "share_recent": 0.00654,
+  "share_prev": 0.01633,
+  "growth": 0.4,
+  "eligible": false
+ },
+ {
+  "id": "energy-management",
+  "name": "energy management",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00654,
+  "share_prev": 0.01224,
+  "growth": 0.534,
+  "eligible": false
+ },
+ {
+  "id": "explicit-model-predictive-control",
+  "name": "explicit model predictive control",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "fuzzy-logic-control",
+  "name": "fuzzy logic control",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hvac-systems",
+  "name": "HVAC systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "kernel-density-estimation",
+  "name": "kernel density estimation",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lane-change",
+  "name": "lane changing",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "linear-time-varying-systems",
+  "name": "linear time-varying systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lithium-batteries",
+  "name": "lithium batteries",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lstm",
+  "name": "LSTM",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00654,
+  "share_prev": 0.01224,
+  "growth": 0.534,
+  "eligible": false
+ },
+ {
+  "id": "microgrids",
+  "name": "microgrids",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-step-forecasting",
+  "name": "multi-step forecasting",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-dynamical-systems",
+  "name": "nonlinear dynamical systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "offset-free-control",
+  "name": "offset-free control",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "pid-controller-comparison",
+  "name": "PID controller comparison",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00654,
+  "share_prev": 0.01224,
+  "growth": 0.534,
+  "eligible": false
+ },
+ {
+  "id": "pm2-5",
+  "name": "PM2.5",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "power-converters",
+  "name": "power converters",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "quadratic-regularization",
+  "name": "quadratic regularization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "receding-horizon-optimization",
+  "name": "receding horizon optimization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "recurrent-neural-networks",
+  "name": "recurrent neural networks",
+  "count_recent": 4,
+  "count_prev": 7,
+  "share_recent": 0.00654,
+  "share_prev": 0.02857,
+  "growth": 0.229,
+  "eligible": false
+ },
+ {
+  "id": "reproducing-kernel-hilbert-space",
+  "name": "reproducing kernel Hilbert space",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robotic-grasping",
+  "name": "robotic grasping",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robustness-to-measurement-noise",
+  "name": "measurement noise robustness",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "safety-critical-systems",
+  "name": "safety-critical systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "safety-guarantees",
+  "name": "safety guarantees",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "stochastic-model-predictive-control",
+  "name": "stochastic model predictive control",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "stochastic-perturbation",
+  "name": "random perturbations",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "surrogate-modeling",
+  "name": "surrogate models",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "terminal-set",
+  "name": "terminal set",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "time-of-use-pricing",
+  "name": "time-of-use pricing",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "time-varying-systems",
+  "name": "time-varying systems",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "tracking-control",
+  "name": "tracking control",
+  "count_recent": 4,
+  "count_prev": 3,
+  "share_recent": 0.00654,
+  "share_prev": 0.01224,
+  "growth": 0.534,
+  "eligible": false
+ },
+ {
+  "id": "tracking-performance",
+  "name": "tracking performance",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "trajectory-optimization",
+  "name": "trajectory optimization",
+  "count_recent": 4,
+  "count_prev": 0,
+  "share_recent": 0.00654,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

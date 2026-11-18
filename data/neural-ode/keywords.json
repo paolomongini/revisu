@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "scientific-machine-learning",
+  "name": "scientific machine learning",
+  "count_recent": 32,
+  "count_prev": 1,
+  "share_recent": 0.02278,
+  "share_prev": 0.00238,
+  "growth": 9.589,
+  "eligible": true
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 65,
+  "count_prev": 3,
+  "share_recent": 0.04626,
+  "share_prev": 0.00713,
+  "growth": 6.492,
+  "eligible": true
+ },
+ {
+  "id": "symbolic-regression",
+  "name": "symbolic regression",
+  "count_recent": 29,
+  "count_prev": 1,
+  "share_recent": 0.02064,
+  "share_prev": 0.00238,
+  "growth": 8.69,
+  "eligible": true
+ },
+ {
+  "id": "physics-informed-neural-networks",
+  "name": "physics-informed neural networks",
+  "count_recent": 99,
+  "count_prev": 9,
+  "share_recent": 0.07046,
+  "share_prev": 0.02138,
+  "growth": 3.296,
+  "eligible": true
+ },
+ {
+  "id": "sparse-identification-of-nonlinear-dynamics",
+  "name": "sparse identification of nonlinear dynamics",
+  "count_recent": 17,
+  "count_prev": 1,
+  "share_recent": 0.0121,
+  "share_prev": 0.00238,
+  "growth": 5.094,
+  "eligible": true
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 35,
+  "count_prev": 3,
+  "share_recent": 0.02491,
+  "share_prev": 0.00713,
+  "growth": 3.496,
+  "eligible": true
+ },
+ {
+  "id": "lstm",
+  "name": "LSTM",
+  "count_recent": 16,
+  "count_prev": 1,
+  "share_recent": 0.01139,
+  "share_prev": 0.00238,
+  "growth": 4.794,
+  "eligible": true
+ },
+ {
+  "id": "epidemic-forecasting",
+  "name": "epidemic forecasting",
+  "count_recent": 15,
+  "count_prev": 1,
+  "share_recent": 0.01068,
+  "share_prev": 0.00238,
+  "growth": 4.495,
+  "eligible": true
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 15,
+  "count_prev": 1,
+  "share_recent": 0.01068,
+  "share_prev": 0.00238,
+  "growth": 4.495,
+  "eligible": true
+ },
+ {
+  "id": "neural-operators",
+  "name": "neural operators",
+  "count_recent": 15,
+  "count_prev": 1,
+  "share_recent": 0.01068,
+  "share_prev": 0.00238,
+  "growth": 4.495,
+  "eligible": true
+ },
+ {
+  "id": "surrogate-modeling",
+  "name": "surrogate models",
+  "count_recent": 36,
+  "count_prev": 4,
+  "share_recent": 0.02562,
+  "share_prev": 0.0095,
+  "growth": 2.697,
+  "eligible": true
+ },
+ {
+  "id": "flow-matching",
+  "name": "flow matching",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.01566,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "state-space-models",
+  "name": "state-space model",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.01139,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "graph-neural-networks",
+  "name": "graph neural networks",
+  "count_recent": 56,
+  "count_prev": 8,
+  "share_recent": 0.03986,
+  "share_prev": 0.019,
+  "growth": 2.098,
+  "eligible": true
+ },
+ {
+  "id": "long-term-forecasting",
+  "name": "long-term forecasting",
+  "count_recent": 23,
+  "count_prev": 3,
+  "share_recent": 0.01637,
+  "share_prev": 0.00713,
+  "growth": 2.297,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 22,
+  "count_prev": 3,
+  "share_recent": 0.01566,
+  "share_prev": 0.00713,
+  "growth": 2.197,
+  "eligible": true
+ },
+ {
+  "id": "partial-differential-equations",
+  "name": "partial differential equations",
+  "count_recent": 19,
+  "count_prev": 3,
+  "share_recent": 0.01352,
+  "share_prev": 0.00713,
+  "growth": 1.898,
+  "eligible": true
+ },
+ {
+  "id": "continuous-time-dynamics",
+  "name": "continuous-time dynamics",
+  "count_recent": 24,
+  "count_prev": 4,
+  "share_recent": 0.01708,
+  "share_prev": 0.0095,
+  "growth": 1.798,
+  "eligible": true
+ },
+ {
+  "id": "ordinary-differential-equations",
+  "name": "ordinary differential equations",
+  "count_recent": 33,
+  "count_prev": 6,
+  "share_recent": 0.02349,
+  "share_prev": 0.01425,
+  "growth": 1.648,
+  "eligible": true
+ },
+ {
+  "id": "universal-differential-equations",
+  "name": "universal differential equations",
+  "count_recent": 78,
+  "count_prev": 16,
+  "share_recent": 0.05552,
+  "share_prev": 0.038,
+  "growth": 1.461,
+  "eligible": true
+ },
+ {
+  "id": "attention-mechanism",
+  "name": "attention mechanism",
+  "count_recent": 21,
+  "count_prev": 4,
+  "share_recent": 0.01495,
+  "share_prev": 0.0095,
+  "growth": 1.573,
+  "eligible": true
+ },
+ {
+  "id": "physics-informed-machine-learning",
+  "name": "physics-informed machine learning",
+  "count_recent": 34,
+  "count_prev": 7,
+  "share_recent": 0.0242,
+  "share_prev": 0.01663,
+  "growth": 1.455,
+  "eligible": true
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 29,
+  "count_prev": 6,
+  "share_recent": 0.02064,
+  "share_prev": 0.01425,
+  "growth": 1.448,
+  "eligible": true
+ },
+ {
+  "id": "continuous-time-models",
+  "name": "continuous-time models",
+  "count_recent": 24,
+  "count_prev": 5,
+  "share_recent": 0.01708,
+  "share_prev": 0.01188,
+  "growth": 1.438,
+  "eligible": true
+ },
+ {
+  "id": "model-interpretability",
+  "name": "model interpretability",
+  "count_recent": 15,
+  "count_prev": 3,
+  "share_recent": 0.01068,
+  "share_prev": 0.00713,
+  "growth": 1.498,
+  "eligible": true
+ },
+ {
+  "id": "parameter-estimation",
+  "name": "parameter estimation",
+  "count_recent": 32,
+  "count_prev": 8,
+  "share_recent": 0.02278,
+  "share_prev": 0.019,
+  "growth": 1.199,
+  "eligible": true
+ },
+ {
+  "id": "autoencoder",
+  "name": "autoencoder",
+  "count_recent": 20,
+  "count_prev": 5,
+  "share_recent": 0.01423,
+  "share_prev": 0.01188,
+  "growth": 1.199,
+  "eligible": true
+ },
+ {
+  "id": "neural-network",
+  "name": "artificial neural networks",
+  "count_recent": 19,
+  "count_prev": 5,
+  "share_recent": 0.01352,
+  "share_prev": 0.01188,
+  "growth": 1.139,
+  "eligible": true
+ },
+ {
+  "id": "data-sparsity",
+  "name": "data sparsity",
+  "count_recent": 15,
+  "count_prev": 4,
+  "share_recent": 0.01068,
+  "share_prev": 0.0095,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "non-uniform-sampling",
+  "name": "non-uniform sampling",
+  "count_recent": 15,
+  "count_prev": 4,
+  "share_recent": 0.01068,
+  "share_prev": 0.0095,
+  "growth": 1.124,
+  "eligible": true
+ },
+ {
+  "id": "computational-efficiency",
+  "name": "computational efficiency",
+  "count_recent": 21,
+  "count_prev": 6,
+  "share_recent": 0.01495,
+  "share_prev": 0.01425,
+  "growth": 1.049,
+  "eligible": true
+ },
+ {
+  "id": "neural-odes",
+  "name": "neural ordinary differential equations",
+  "count_recent": 1093,
+  "count_prev": 359,
+  "share_recent": 0.77794,
+  "share_prev": 0.85273,
+  "growth": 0.912,
+  "eligible": true
+ },
+ {
+  "id": "generative-models",
+  "name": "generative models",
+  "count_recent": 18,
+  "count_prev": 7,
+  "share_recent": 0.01281,
+  "share_prev": 0.01663,
+  "growth": 0.771,
+  "eligible": true
+ },
+ {
+  "id": "nonlinear-dynamical-systems",
+  "name": "nonlinear dynamical systems",
+  "count_recent": 15,
+  "count_prev": 6,
+  "share_recent": 0.01068,
+  "share_prev": 0.01425,
+  "growth": 0.749,
+  "eligible": true
+ },
+ {
+  "id": "model-reduction",
+  "name": "model reduction",
+  "count_recent": 45,
+  "count_prev": 17,
+  "share_recent": 0.03203,
+  "share_prev": 0.04038,
+  "growth": 0.793,
+  "eligible": true
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 22,
+  "count_prev": 9,
+  "share_recent": 0.01566,
+  "share_prev": 0.02138,
+  "growth": 0.732,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-modeling",
+  "name": "data-driven modeling",
+  "count_recent": 21,
+  "count_prev": 9,
+  "share_recent": 0.01495,
+  "share_prev": 0.02138,
+  "growth": 0.699,
+  "eligible": true
+ },
+ {
+  "id": "system-identification",
+  "name": "system identification",
+  "count_recent": 21,
+  "count_prev": 9,
+  "share_recent": 0.01495,
+  "share_prev": 0.02138,
+  "growth": 0.699,
+  "eligible": true
+ },
+ {
+  "id": "variational-autoencoder",
+  "name": "variational autoencoder",
+  "count_recent": 21,
+  "count_prev": 9,
+  "share_recent": 0.01495,
+  "share_prev": 0.02138,
+  "growth": 0.699,
+  "eligible": true
+ },
+ {
+  "id": "interpretability",
+  "name": "interpretability",
+  "count_recent": 32,
+  "count_prev": 14,
+  "share_recent": 0.02278,
+  "share_prev": 0.03325,
+  "growth": 0.685,
+  "eligible": true
+ },
+ {
+  "id": "time-series-forecasting",
+  "name": "time series forecasting",
+  "count_recent": 27,
+  "count_prev": 13,
+  "share_recent": 0.01922,
+  "share_prev": 0.03088,
+  "growth": 0.622,
+  "eligible": true
+ },
+ {
+  "id": "dynamical-systems",
+  "name": "dynamical systems",
+  "count_recent": 24,
+  "count_prev": 13,
+  "share_recent": 0.01708,
+  "share_prev": 0.03088,
+  "growth": 0.553,
+  "eligible": true
+ },
+ {
+  "id": "recurrent-neural-networks",
+  "name": "recurrent neural networks",
+  "count_recent": 30,
+  "count_prev": 26,
+  "share_recent": 0.02135,
+  "share_prev": 0.06176,
+  "growth": 0.346,
+  "eligible": true
+ },
+ {
+  "id": "resnet",
+  "name": "ResNet",
+  "count_recent": 17,
+  "count_prev": 22,
+  "share_recent": 0.0121,
+  "share_prev": 0.05226,
+  "growth": 0.232,
+  "eligible": true
+ },
+ {
+  "id": "chaotic-systems",
+  "name": "chaotic systems",
+  "count_recent": 14,
+  "count_prev": 3,
+  "share_recent": 0.00996,
+  "share_prev": 0.00713,
+  "growth": 1.398,
+  "eligible": false
+ },
+ {
+  "id": "diffusion-models",
+  "name": "diffusion models",
+  "count_recent": 14,
+  "count_prev": 3,
+  "share_recent": 0.00996,
+  "share_prev": 0.00713,
+  "growth": 1.398,
+  "eligible": false
+ },
+ {
+  "id": "koopman-operator",
+  "name": "Koopman operator",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00996,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "missing-data",
+  "name": "missing data",
+  "count_recent": 14,
+  "count_prev": 4,
+  "share_recent": 0.00996,
+  "share_prev": 0.0095,
+  "growth": 1.049,
+  "eligible": false
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00996,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "chaotic-dynamics",
+  "name": "chaotic dynamics",
+  "count_recent": 13,
+  "count_prev": 5,
+  "share_recent": 0.00925,
+  "share_prev": 0.01188,
+  "growth": 0.779,
+  "eligible": false
+ },
+ {
+  "id": "generalization",
+  "name": "generalization",
+  "count_recent": 13,
+  "count_prev": 3,
+  "share_recent": 0.00925,
+  "share_prev": 0.00713,
+  "growth": 1.298,
+  "eligible": false
+ },
+ {
+  "id": "image-classification",
+  "name": "image classification",
+  "count_recent": 13,
+  "count_prev": 17,
+  "share_recent": 0.00925,
+  "share_prev": 0.04038,
+  "growth": 0.229,
+  "eligible": false
+ },
+ {
+  "id": "irregularly-sampled-time-series",
+  "name": "irregularly sampled time series",
+  "count_recent": 13,
+  "count_prev": 6,
+  "share_recent": 0.00925,
+  "share_prev": 0.01425,
+  "growth": 0.649,
+  "eligible": false
+ },
+ {
+  "id": "latent-dynamics",
+  "name": "latent dynamics",
+  "count_recent": 13,
+  "count_prev": 9,
+  "share_recent": 0.00925,
+  "share_prev": 0.02138,
+  "growth": 0.433,
+  "eligible": false
+ },
+ {
+  "id": "lorenz-system",
+  "name": "Lorenz system",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00925,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lotka-volterra-model",
+  "name": "Lotka-Volterra model",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00925,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lyapunov-exponents",
+  "name": "Lyapunov exponents",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00925,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "proper-orthogonal-decomposition",
+  "name": "proper orthogonal decomposition",
+  "count_recent": 13,
+  "count_prev": 3,
+  "share_recent": 0.00925,
+  "share_prev": 0.00713,
+  "growth": 1.298,
+  "eligible": false
+ },
+ {
+  "id": "sensitivity-analysis",
+  "name": "sensitivity analysis",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00925,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "spatiotemporal-dynamics",
+  "name": "spatiotemporal dynamics",
+  "count_recent": 13,
+  "count_prev": 3,
+  "share_recent": 0.00925,
+  "share_prev": 0.00713,
+  "growth": 1.298,
+  "eligible": false
+ },
+ {
+  "id": "stiff-differential-equations",
+  "name": "stiff ordinary differential equations",
+  "count_recent": 13,
+  "count_prev": 7,
+  "share_recent": 0.00925,
+  "share_prev": 0.01663,
+  "growth": 0.556,
+  "eligible": false
+ },
+ {
+  "id": "stochastic-differential-equations",
+  "name": "stochastic differential equations",
+  "count_recent": 13,
+  "count_prev": 8,
+  "share_recent": 0.00925,
+  "share_prev": 0.019,
+  "growth": 0.487,
+  "eligible": false
+ },
+ {
+  "id": "unevenly-sampled-data",
+  "name": "irregularly sampled data",
+  "count_recent": 13,
+  "count_prev": 6,
+  "share_recent": 0.00925,
+  "share_prev": 0.01425,
+  "growth": 0.649,
+  "eligible": false
+ },
+ {
+  "id": "universal-approximation",
+  "name": "universal approximation",
+  "count_recent": 13,
+  "count_prev": 9,
+  "share_recent": 0.00925,
+  "share_prev": 0.02138,
+  "growth": 0.433,
+  "eligible": false
+ },
+ {
+  "id": "conservation-laws",
+  "name": "conservation laws",
+  "count_recent": 12,
+  "count_prev": 4,
+  "share_recent": 0.00854,
+  "share_prev": 0.0095,
+  "growth": 0.899,
+  "eligible": false
+ },
+ {
+  "id": "continuous-time-dynamical-systems",
+  "name": "continuous-time dynamical systems",
+  "count_recent": 12,
+  "count_prev": 5,
+  "share_recent": 0.00854,
+  "share_prev": 0.01188,
+  "growth": 0.719,
+  "eligible": false
+ },
+ {
+  "id": "continuous-time-neural-networks",
+  "name": "continuous-time neural networks",
+  "count_recent": 12,
+  "count_prev": 9,
+  "share_recent": 0.00854,
+  "share_prev": 0.02138,
+  "growth": 0.4,
+  "eligible": false
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00854,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "extrapolation",
+  "name": "extrapolation",
+  "count_recent": 12,
+  "count_prev": 6,
+  "share_recent": 0.00854,
+  "share_prev": 0.01425,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "fourier-neural-operator",
+  "name": "Fourier neural operator",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00854,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "inverse-problems",
+  "name": "inverse problems",
+  "count_recent": 12,
+  "count_prev": 6,
+  "share_recent": 0.00854,
+  "share_prev": 0.01425,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "lyapunov-stability",
+  "name": "Lyapunov stability",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00854,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "trajectory-prediction",
+  "name": "trajectory prediction",
+  "count_recent": 12,
+  "count_prev": 5,
+  "share_recent": 0.00854,
+  "share_prev": 0.01188,
+  "growth": 0.719,
+  "eligible": false
+ },
+ {
+  "id": "transfer-learning",
+  "name": "transfer learning",
+  "count_recent": 12,
+  "count_prev": 4,
+  "share_recent": 0.00854,
+  "share_prev": 0.0095,
+  "growth": 0.899,
+  "eligible": false
+ },
+ {
+  "id": "adjoint-method",
+  "name": "adjoint method",
+  "count_recent": 11,
+  "count_prev": 4,
+  "share_recent": 0.00783,
+  "share_prev": 0.0095,
+  "growth": 0.824,
+  "eligible": false
+ },
+ {
+  "id": "adversarial-robustness",
+  "name": "adversarial robustness",
+  "count_recent": 11,
+  "count_prev": 11,
+  "share_recent": 0.00783,
+  "share_prev": 0.02613,
+  "growth": 0.3,
+  "eligible": false
+ },
+ {
+  "id": "deep-neural-network",
+  "name": "deep neural network",
+  "count_recent": 11,
+  "count_prev": 6,
+  "share_recent": 0.00783,
+  "share_prev": 0.01425,
+  "growth": 0.549,
+  "eligible": false
+ },
+ {
+  "id": "explainable-ai",
+  "name": "explainable AI",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.00783,
+  "share_prev": 0.00713,
+  "growth": 1.099,
+  "eligible": false
+ },
+ {
+  "id": "graph-convolutional-networks",
+  "name": "graph convolutional networks",
+  "count_recent": 11,
+  "count_prev": 4,
+  "share_recent": 0.00783,
+  "share_prev": 0.0095,
+  "growth": 0.824,
+  "eligible": false
+ },
+ {
+  "id": "hybrid-physics-data-driven-modeling",
+  "name": "hybrid physics-data models",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.00783,
+  "share_prev": 0.00713,
+  "growth": 1.099,
+  "eligible": false
+ },
+ {
+  "id": "latent-space",
+  "name": "latent space",
+  "count_recent": 11,
+  "count_prev": 5,
+  "share_recent": 0.00783,
+  "share_prev": 0.01188,
+  "growth": 0.659,
+  "eligible": false
+ },
+ {
+  "id": "neural-differential-equations",
+  "name": "neural differential equations",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.00783,
+  "share_prev": 0.00713,
+  "growth": 1.099,
+  "eligible": false
+ },
+ {
+  "id": "numerical-stability",
+  "name": "numerical stability",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.00783,
+  "share_prev": 0.00713,
+  "growth": 1.099,
+  "eligible": false
+ },
+ {
+  "id": "parameter-efficiency",
+  "name": "parameter efficiency",
+  "count_recent": 11,
+  "count_prev": 6,
+  "share_recent": 0.00783,
+  "share_prev": 0.01425,
+  "growth": 0.549,
+  "eligible": false
+ },
+ {
+  "id": "reaction-kinetics",
+  "name": "reaction kinetics",
+  "count_recent": 11,
+  "count_prev": 7,
+  "share_recent": 0.00783,
+  "share_prev": 0.01663,
+  "growth": 0.471,
+  "eligible": false
+ },
+ {
+  "id": "single-cell-rna-sequencing",
+  "name": "single-cell RNA sequencing",
+  "count_recent": 11,
+  "count_prev": 4,
+  "share_recent": 0.00783,
+  "share_prev": 0.0095,
+  "growth": 0.824,
+  "eligible": false
+ },
+ {
+  "id": "temporal-convolutional-network",
+  "name": "temporal convolutional network",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00783,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "uncertainty-estimation",
+  "name": "uncertainty estimation",
+  "count_recent": 11,
+  "count_prev": 3,
+  "share_recent": 0.00783,
+  "share_prev": 0.00713,
+  "growth": 1.099,
+  "eligible": false
+ },
+ {
+  "id": "van-der-pol-oscillator",
+  "name": "Van der Pol oscillator",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00783,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "alzheimer-s-disease",
+  "name": "Alzheimer's disease",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00712,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "electronic-health-records",
+  "name": "electronic health records",
+  "count_recent": 10,
+  "count_prev": 5,
+  "share_recent": 0.00712,
+  "share_prev": 0.01188,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "liquid-neural-networks",
+  "name": "liquid neural networks",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00712,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "lithium-ion-batteries",
+  "name": "lithium-ion batteries",
+  "count_recent": 10,
+  "count_prev": 3,
+  "share_recent": 0.00712,
+  "share_prev": 0.00713,
+  "growth": 0.999,
+  "eligible": false
+ },
+ {
+  "id": "physics-informed-modeling",
+  "name": "physics-informed modeling",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00712,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robustness",
+  "name": "robustness",
+  "count_recent": 10,
+  "count_prev": 4,
+  "share_recent": 0.00712,
+  "share_prev": 0.0095,
+  "growth": 0.749,
+  "eligible": false
+ },
+ {
+  "id": "sindy",
+  "name": "SINDy",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.00712,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "stability-analysis",
+  "name": "stability analysis",
+  "count_recent": 10,
+  "count_prev": 1,
+  "share_recent": 0.00712,
+  "share_prev": 0.00238,
+  "growth": 2.996,
+  "eligible": false
+ },
+ {
+  "id": "anomaly-detection",
+  "name": "anomaly detection",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "implicit-neural-representations",
+  "name": "implicit neural representations",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "kolmogorov-arnold-networks",
+  "name": "Kolmogorov-Arnold networks",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "missing-data-imputation",
+  "name": "missing data imputation",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-step-forecasting",
+  "name": "multi-step forecasting",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multilayer-perceptron",
+  "name": "multilayer perceptron",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multimodal-fusion",
+  "name": "multimodal fusion",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "noisy-measurements",
+  "name": "noisy measurements",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "over-smoothing",
+  "name": "over-smoothing",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "overfitting",
+  "name": "overfitting",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "pharmacokinetics",
+  "name": "pharmacokinetics",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "state-of-health-estimation",
+  "name": "state of health estimation",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "uncertainty-calibration",
+  "name": "uncertainty calibration",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00641,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bayesian-inference",
+  "name": "Bayesian inference",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.00569,
+  "share_prev": 0.00713,
+  "growth": 0.799,
+  "eligible": false
+ },
+ {
+  "id": "computational-cost-reduction",
+  "name": "computational complexity reduction",
+  "count_recent": 8,
+  "count_prev": 4,
+  "share_recent": 0.00569,
+  "share_prev": 0.0095,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "continuous-normalizing-flows",
+  "name": "continuous normalizing flows",
+  "count_recent": 8,
+  "count_prev": 10,
+  "share_recent": 0.00569,
+  "share_prev": 0.02375,
+  "growth": 0.24,
+  "eligible": false
+ },
+ {
+  "id": "control-lyapunov-function",
+  "name": "control Lyapunov function",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convolutional-neural-networks",
+  "name": "convolutional neural networks",
+  "count_recent": 8,
+  "count_prev": 7,
+  "share_recent": 0.00569,
+  "share_prev": 0.01663,
+  "growth": 0.342,
+  "eligible": false
+ },
+ {
+  "id": "deep-learning",
+  "name": "deep learning",
+  "count_recent": 8,
+  "count_prev": 5,
+  "share_recent": 0.00569,
+  "share_prev": 0.01188,
+  "growth": 0.479,
+  "eligible": false
+ },
+ {
+  "id": "density-estimation",
+  "name": "density estimation",
+  "count_recent": 8,
+  "count_prev": 9,
+  "share_recent": 0.00569,
+  "share_prev": 0.02138,
+  "growth": 0.266,
+  "eligible": false
+ },
+ {
+  "id": "distribution-shift",
+  "name": "distribution shift",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dynamic-system-modeling",
+  "name": "dynamic system modeling",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.00569,
+  "share_prev": 0.00713,
+  "growth": 0.799,
+  "eligible": false
+ },
+ {
+  "id": "gated-recurrent-unit",
+  "name": "gated recurrent unit",
+  "count_recent": 8,
+  "count_prev": 7,
+  "share_recent": 0.00569,
+  "share_prev": 0.01663,
+  "growth": 0.342,
+  "eligible": false
+ },
+ {
+  "id": "gene-regulatory-networks",
+  "name": "gene regulatory networks",
+  "count_recent": 8,
+  "count_prev": 4,
+  "share_recent": 0.00569,
+  "share_prev": 0.0095,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "graph-attention-networks",
+  "name": "graph attention networks",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "imitation-learning",
+  "name": "imitation learning",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "irregular-time-series",
+  "name": "irregular time series",
+  "count_recent": 8,
+  "count_prev": 5,
+  "share_recent": 0.00569,
+  "share_prev": 0.01188,
+  "growth": 0.479,
+  "eligible": false
+ },
+ {
+  "id": "long-short-term-memory",
+  "name": "long short-term memory",
+  "count_recent": 8,
+  "count_prev": 4,
+  "share_recent": 0.00569,
+  "share_prev": 0.0095,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "mechanistic-model",
+  "name": "mechanistic model",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.00569,
+  "share_prev": 0.00713,
+  "growth": 0.799,
+  "eligible": false
+ },
+ {
+  "id": "meta-learning",
+  "name": "meta-learning",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.00569,
+  "share_prev": 0.00713,
+  "growth": 0.799,
+  "eligible": false
+ },
+ {
+  "id": "noise-robustness",
+  "name": "noise robustness",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "partial-observability",
+  "name": "partial observability",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "physiologically-based-pharmacokinetic-model",
+  "name": "physiologically based pharmacokinetic modeling",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "regularization",
+  "name": "regularization",
+  "count_recent": 8,
+  "count_prev": 4,
+  "share_recent": 0.00569,
+  "share_prev": 0.0095,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "reservoir-computing",
+  "name": "reservoir computing",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "riemannian-manifolds",
+  "name": "Riemannian manifolds",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "self-attention",
+  "name": "self-attention",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "spatiotemporal-graph-neural-networks",
+  "name": "spatio-temporal graph neural networks",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "spatiotemporal-prediction",
+  "name": "spatiotemporal prediction",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "stiff-systems",
+  "name": "stiff systems",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "structural-health-monitoring",
+  "name": "structural health monitoring",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "time-series",
+  "name": "time series",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.00569,
+  "share_prev": 0.00713,
+  "growth": 0.799,
+  "eligible": false
+ },
+ {
+  "id": "traffic-flow-prediction",
+  "name": "traffic flow prediction",
+  "count_recent": 8,
+  "count_prev": 3,
+  "share_recent": 0.00569,
+  "share_prev": 0.00713,
+  "growth": 0.799,
+  "eligible": false
+ },
+ {
+  "id": "traffic-forecasting",
+  "name": "traffic prediction",
+  "count_recent": 8,
+  "count_prev": 0,
+  "share_recent": 0.00569,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adjoint-sensitivity-analysis",
+  "name": "adjoint sensitivity analysis",
+  "count_recent": 7,
+  "count_prev": 2,
+  "share_recent": 0.00498,
+  "share_prev": 0.00475,
+  "growth": 1.049,
+  "eligible": false
+ },
+ {
+  "id": "automatic-differentiation",
+  "name": "automatic differentiation",
+  "count_recent": 7,
+  "count_prev": 2,
+  "share_recent": 0.00498,
+  "share_prev": 0.00475,
+  "growth": 1.049,
+  "eligible": false
+ },
+ {
+  "id": "battery-degradation",
+  "name": "battery degradation",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "clinical-decision-support",
+  "name": "clinical decision support",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "continual-learning",
+  "name": "continual learning",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "covid-19",
+  "name": "COVID-19 pandemic",
+  "count_recent": 7,
+  "count_prev": 1,
+  "share_recent": 0.00498,
+  "share_prev": 0.00238,
+  "growth": 2.098,
+  "eligible": false
+ },
+ {
+  "id": "data-assimilation",
+  "name": "data assimilation",
+  "count_recent": 7,
+  "count_prev": 1,
+  "share_recent": 0.00498,
+  "share_prev": 0.00238,
+  "growth": 2.098,
+  "eligible": false
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "dimensionality-reduction",
+  "name": "dimensionality reduction",
+  "count_recent": 7,
+  "count_prev": 4,
+  "share_recent": 0.00498,
+  "share_prev": 0.0095,
+  "growth": 0.524,
+  "eligible": false
+ },
+ {
+  "id": "disease-progression-prediction",
+  "name": "disease progression prediction",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "e-learning",
+  "name": "online learning",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gradient-computation",
+  "name": "gradient computation",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "inter-individual-variability",
+  "name": "interindividual variability",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "load-forecasting",
+  "name": "load forecasting",
+  "count_recent": 7,
+  "count_prev": 3,
+  "share_recent": 0.00498,
+  "share_prev": 0.00713,
+  "growth": 0.699,
+  "eligible": false
+ },
+ {
+  "id": "long-term-dependencies",
+  "name": "long-range dependencies",
+  "count_recent": 7,
+  "count_prev": 6,
+  "share_recent": 0.00498,
+  "share_prev": 0.01425,
+  "growth": 0.35,
+  "eligible": false
+ },
+ {
+  "id": "mamba",
+  "name": "Mamba",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mechanistic-interpretability",
+  "name": "mechanistic interpretability",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mechanistic-modeling",
+  "name": "mechanistic modeling",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "memory-effects",
+  "name": "memory effects",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multiple-shooting",
+  "name": "multiple shooting",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "optimal-transport",
+  "name": "optimal transport",
+  "count_recent": 7,
+  "count_prev": 7,
+  "share_recent": 0.00498,
+  "share_prev": 0.01663,
+  "growth": 0.3,
+  "eligible": false
+ },
+ {
+  "id": "probabilistic-forecasting",
+  "name": "probabilistic forecasting",
+  "count_recent": 7,
+  "count_prev": 3,
+  "share_recent": 0.00498,
+  "share_prev": 0.00713,
+  "growth": 0.699,
+  "eligible": false
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "rna-velocity",
+  "name": "RNA velocity",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "robustness-to-measurement-noise",
+  "name": "measurement noise robustness",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "state-estimation",
+  "name": "state estimation",
+  "count_recent": 7,
+  "count_prev": 0,
+  "share_recent": 0.00498,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "ads-cft-correspondence",
+  "name": "AdS/CFT correspondence",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "battery-management-systems",
+  "name": "battery management systems",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bayesian-optimization",
+  "name": "Bayesian optimization",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "compartmental-model",
+  "name": "compartmental model",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "contrastive-learning",
+  "name": "contrastive learning",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convergence-analysis",
+  "name": "convergence analysis",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "data-driven-system-identification",
+  "name": "data-driven system identification",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "data-scarcity",
+  "name": "data scarcity",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "energy-conservation-physics",
+  "name": "energy conservation (physics)",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00427,
+  "share_prev": 0.00713,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "ensemble-learning",
+  "name": "ensemble learning",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "epidemic-modeling",
+  "name": "epidemic modeling",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "few-shot-learning",
+  "name": "few-shot learning",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "foundation-models",
+  "name": "foundation models",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "geometric-deep-learning",
+  "name": "geometric deep learning",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hypernetworks",
+  "name": "hypernetworks",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hyperparameter-optimization",
+  "name": "hyperparameter optimization",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00427,
+  "share_prev": 0.00713,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "hysteresis",
+  "name": "hysteresis",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "identifiability",
+  "name": "identifiability",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "individualized-dosing",
+  "name": "individualized dosing",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "information-dissemination",
+  "name": "information dissemination",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "kuramoto-sivashinsky-equation",
+  "name": "Kuramoto-Sivashinsky equation",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00427,
+  "share_prev": 0.00713,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "machine-learning",
+  "name": "machine learning",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mixture-of-experts",
+  "name": "mixture of experts",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "model-generalization",
+  "name": "model generalization",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multiscale-modeling",
+  "name": "multiscale modeling",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "navier-stokes-equations",
+  "name": "Navier-Stokes equations",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "neural-controlled-differential-equations",
+  "name": "neural controlled differential equations",
+  "count_recent": 6,
+  "count_prev": 4,
+  "share_recent": 0.00427,
+  "share_prev": 0.0095,
+  "growth": 0.449,
+  "eligible": false
+ },
+ {
+  "id": "neural-stochastic-differential-equations",
+  "name": "neural stochastic differential equations",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-dynamics",
+  "name": "nonlinear dynamics",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-ordinary-differential-equations",
+  "name": "nonlinear ordinary differential equations",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "normalizing-flows",
+  "name": "normalizing flows",
+  "count_recent": 6,
+  "count_prev": 3,
+  "share_recent": 0.00427,
+  "share_prev": 0.00713,
+  "growth": 0.599,
+  "eligible": false
+ },
+ {
+  "id": "ode-solvers",
+  "name": "ODE solvers",
+  "count_recent": 6,
+  "count_prev": 4,
+  "share_recent": 0.00427,
+  "share_prev": 0.0095,
+  "growth": 0.449,
+  "eligible": false
+ },
+ {
+  "id": "out-of-distribution-detection",
+  "name": "out-of-distribution detection",
+  "count_recent": 6,
+  "count_prev": 0,
+  "share_recent": 0.00427,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]

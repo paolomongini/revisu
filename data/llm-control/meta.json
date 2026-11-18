@@ -1,0 +1,27 @@
+{
+ "slug": "llm-control",
+ "label": "LLMs for Control & Automation",
+ "group": "Learning & Control",
+ "query": "(\"large language model\" OR LLM OR \"language models\") AND (\"control system\" OR automation OR PLC OR robotics OR \"control engineering\")",
+ "generated_at": "2026-11-18T11:39:49",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 11549,
+ "n_recent": 10949,
+ "n_prev": 483,
+ "volume_growth": 22.669,
+ "min_count_for_hot": 43,
+ "api_calls": 404,
+ "cost_usd": 0.3257,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

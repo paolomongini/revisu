@@ -1,0 +1,27 @@
+{
+ "slug": "subspace-id",
+ "label": "Subspace & Linear Identification",
+ "group": "System Identification",
+ "query": "\"subspace identification\" OR \"prediction error method\" OR \"kernel-based system identification\" OR \"regularized system identification\"",
+ "generated_at": "2026-11-18T11:19:14",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 2478,
+ "n_recent": 529,
+ "n_prev": 365,
+ "volume_growth": 1.449,
+ "min_count_for_hot": 15,
+ "api_calls": 235,
+ "cost_usd": 0.1765,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

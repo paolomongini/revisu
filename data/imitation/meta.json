@@ -1,0 +1,27 @@
+{
+ "slug": "imitation",
+ "label": "Imitation Learning & Policy Learning",
+ "group": "Learning & Control",
+ "query": "\"imitation learning\" OR \"behavior cloning\" OR \"learning from demonstration\"",
+ "generated_at": "2026-11-18T11:33:23",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 6114,
+ "n_recent": 3541,
+ "n_prev": 1350,
+ "volume_growth": 2.623,
+ "min_count_for_hot": 15,
+ "api_calls": 243,
+ "cost_usd": 0.1971,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

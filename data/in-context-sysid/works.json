@@ -1,0 +1,3062 @@
+[
+ {
+  "id": "W4317466024",
+  "title": "Transformers as Algorithms: Generalization and Stability in In-context Learning",
+  "year": 2023,
+  "date": "2023-01-17",
+  "cites": 217,
+  "doi": "https://doi.org/10.48550/arxiv.2301.07067",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5013493958",
+    "name": "Yingcong Li",
+    "inst": [
+     {
+      "id": "I103635307",
+      "name": "University of California, Riverside",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5074433969",
+    "name": "M. Emrullah Ildiz",
+    "inst": [
+     {
+      "id": "I103635307",
+      "name": "University of California, Riverside",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5018630988",
+    "name": "Dimitris Papailiopoulos",
+    "inst": [
+     {
+      "id": "I135310074",
+      "name": "University of Wisconsin–Madison",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5050547472",
+    "name": "Samet Oymak",
+    "inst": [
+     {
+      "id": "I103635307",
+      "name": "University of California, Riverside",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Domain Adaptation and Few-Shot Learning",
+   "Machine Learning and Algorithms",
+   "Stochastic Gradient Optimization Techniques"
+  ],
+  "keywords": [
+   "in-context learning",
+   "transformer models",
+   "algorithm learning",
+   "generalization bounds",
+   "algorithm stability"
+  ],
+  "abstract": "In-context learning (ICL) is a type of prompting where a transformer model operates on a sequence of (input, output) examples and performs inference on-the-fly. In this work, we formalize in-context learning as an algorithm learning problem where a transformer model implicitly constructs a hypothesis function at inference-time. We first explore the statistical aspects of this abstraction through the lens of multitask learning: We obtain generalization bounds for ICL when the input prompt is (1) a sequence of i.i.d. (input, label) pairs or (2) a trajectory arising from a dynamical system. The crux of our analysis is relating the excess risk to the stability of the algorithm implemented by the transformer. We characterize when transformer/attention architecture provably obeys the stability condition and also provide empirical verification. For generalization on unseen tasks, we identify an inductive bias phenomenon in which the transfer learning risk is governed by the task complexity and the number of MTL tasks in a highly predictable manner. Finally, we provide numerical evaluations that (1) demonstrate transformers can indeed implement near-optimal algorithms on classical regression problems with i.i.d. and dynamic data, (2) provide insights on stability, and (3) verify our theoretical predictions.",
+  "tags": [
+   "classic"
+  ]
+ },
+ {
+  "id": "W4388878652",
+  "title": "From System Models to Class Models: An In-Context Learning Paradigm",
+  "year": 2023,
+  "date": "2023-01-01",
+  "cites": 41,
+  "doi": "https://doi.org/10.1109/lcsys.2023.3335036",
+  "venue": "IEEE Control Systems Letters",
+  "authors": [
+   {
+    "id": "A5034862814",
+    "name": "Marco Forgione",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5054982661",
+    "name": "Filippo Pura",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5046585507",
+    "name": "Dario Piga",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Control Systems and Identification",
+   "Model Reduction and Neural Networks",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "system identification",
+   "in-context learning",
+   "meta-model",
+   "one-step-ahead prediction",
+   "synthetic data"
+  ],
+  "abstract": "Is it possible to understand the intricacies of a dynamical system not solely from its input/output pattern, but also by observing the behavior of other systems within the same class? This central question drives the study presented in this paper. In response to this query, we introduce a novel paradigm for system identification, addressing two primary tasks: one-step-ahead prediction and multi-step simulation. Unlike conventional methods, we do not directly estimate a model for the specific system. Instead, we learn a meta model that represents a class of dynamical systems. This meta model is trained on a potentially infinite stream of synthetic data, generated by simulators whose settings are randomly extracted from a probability distribution. When provided with a context from a new system–specifically, an input/output sequence–the meta model implicitly discerns its dynamics, enabling predictions of its behavior. The proposed approach harnesses the power of Transformers, renowned for their in-context learning capabilities. For one-step prediction, a GPT-like decoder-only architecture is utilized, whereas the simulation problem employs an encoder-decoder structure. Initial experimental results affirmatively answer our foundational question, opening doors to fresh research avenues in system identification.",
+  "tags": [
+   "classic",
+   "watched"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7117530735",
+  "title": "A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots",
+  "year": 2025,
+  "date": "2025-12-30",
+  "cites": 32,
+  "doi": "https://doi.org/10.1109/tpami.2025.3649177",
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "authors": [
+   {
+    "id": "A5110921988",
+    "name": "Mingqi Yuan",
+    "inst": [
+     {
+      "id": "I14243506",
+      "name": "Hong Kong Polytechnic University",
+      "country": "HK"
+     }
+    ]
+   },
+   {
+    "id": "A5100664159",
+    "name": "Tao Yu",
+    "inst": []
+   },
+   {
+    "id": "A5101885736",
+    "name": "Wenqi Ge",
+    "inst": []
+   },
+   {
+    "id": "A5121558338",
+    "name": "Xiuyong Yao",
+    "inst": []
+   },
+   {
+    "id": "A5121589920",
+    "name": "Dapeng Li",
+    "inst": []
+   },
+   {
+    "id": "A5069029580",
+    "name": "Huijiang Wang",
+    "inst": [
+     {
+      "id": "I5124864",
+      "name": "École Polytechnique Fédérale de Lausanne",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5100380049",
+    "name": "Jiayu Chen",
+    "inst": [
+     {
+      "id": "I889458895",
+      "name": "University of Hong Kong",
+      "country": "HK"
+     }
+    ]
+   },
+   {
+    "id": "A5121554284",
+    "name": "Bo Li",
+    "inst": [
+     {
+      "id": "I14243506",
+      "name": "Hong Kong Polytechnic University",
+      "country": "HK"
+     }
+    ]
+   },
+   {
+    "id": "A5121526259",
+    "name": "Wei Zhang",
+    "inst": []
+   },
+   {
+    "id": "A5049963367",
+    "name": "Wenjun Zeng",
+    "inst": [
+     {
+      "id": "I4394709157",
+      "name": "Eastern Institute of Technology, Ningbo",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5121555665",
+    "name": "Hua Chen",
+    "inst": []
+   },
+   {
+    "id": "A5101828824",
+    "name": "Xin Jin",
+    "inst": [
+     {
+      "id": "I4394709157",
+      "name": "Eastern Institute of Technology, Ningbo",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Robotic Locomotion and Control",
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning"
+  ],
+  "keywords": [
+   "humanoid robots",
+   "whole-body control",
+   "large-scale pre-training",
+   "zero-shot transfer",
+   "underactuated robots"
+  ],
+  "abstract": "Humanoid robots are drawing significant attention as versatile platforms for complex motor control, human-robot interaction, and general-purpose physical intelligence. However, achieving efficient whole-body control (WBC) in humanoids remains a fundamental challenge due to sophisticated dynamics, underactuation, and diverse task requirements. While learning-based controllers have shown promise for complex tasks, their reliance on labor-intensive and costly retraining for new scenarios limits real-world applicability. To address these limitations, behavior(al) foundation models (BFMs) have emerged as a new paradigm that leverages large-scale pre-training to learn reusable primitive skills and broad behavioral priors, enabling zero-shot or rapid adaptation to a wide range of downstream tasks. In this paper, we present a comprehensive overview of BFMs for humanoid WBC, tracing their development across diverse pre-training pipelines. Furthermore, we discuss real-world applications, current limitations, urgent challenges, and future opportunities, positioning BFMs as a key approach toward scalable and general-purpose humanoid intelligence. Finally, we provide a curated and regularly updated collection of BFM papers and projects to facilitate further research, which is available at https://github.com/yuanmingqi/awesome-bfm-papers.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh",
+   "watched"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4407316179",
+  "title": "Dynamics as Prompts: In-Context Learning for Sim-to-Real System Identifications",
+  "year": 2025,
+  "date": "2025-02-10",
+  "cites": 31,
+  "doi": "https://doi.org/10.1109/lra.2025.3540391",
+  "venue": "IEEE Robotics and Automation Letters",
+  "authors": [
+   {
+    "id": "",
+    "name": "Xilun Zhang",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Shiqi Liu",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5010028058",
+    "name": "Peide Huang",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "William Jongwon Han",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Yiqi Lyu",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5033146547",
+    "name": "Mengdi Xu",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5037644321",
+    "name": "Ding Xuan Zhao",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "keywords": [
+   "sim-to-real transfer",
+   "in-context learning",
+   "system identification",
+   "domain randomization",
+   "robot control"
+  ],
+  "abstract": "Sim-to-real transfer remains a significant challenge in robotics due to the discrepancies between simulated and real-world dynamics. Traditional methods like Domain Randomization often fail to capture fine-grained dynamics, limiting their effectiveness for precise control tasks. In this work, we propose a novel approach that dynamically adjusts simulation environment parameters online using in-context learning. By leveraging past interaction histories as context, our method adapts the simulation environment dynamics to match real-world dynamics without requiring gradient updates, resulting in faster and more accurate alignment between simulated and real-world performance. We validate our approach across two tasks: object scooping and table air hockey. In the sim-to-sim evaluations, our method significantly outperforms the baselines on environment parameter estimation by 80% and 42% in the object scooping and table air hockey setups, respectively. Furthermore, our method achieves at least 70% success rate in sim-to-real transfer on object scooping across three different objects. By incorporating historical interaction data, our approach delivers efficient and smooth system identification, advancing the deployment of robots in dynamic real-world scenarios.",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W2007622312",
+  "title": "Supersonic flutter suppression of electrorheological fluid-based adaptive panels resting on elastic foundations using sliding mode control",
+  "year": 2012,
+  "date": "2012-03-14",
+  "cites": 27,
+  "doi": "https://doi.org/10.1088/0964-1726/21/4/045005",
+  "venue": "Smart Materials and Structures",
+  "authors": [
+   {
+    "id": "A5089386896",
+    "name": "Seyyed M. Hasheminejad",
+    "inst": [
+     {
+      "id": "I110525433",
+      "name": "Islamic Azad University, Tehran",
+      "country": "IR"
+     },
+     {
+      "id": "I155419210",
+      "name": "Islamic Azad University, Science and Research Branch",
+      "country": "IR"
+     }
+    ]
+   },
+   {
+    "id": "A5051454634",
+    "name": "Mohammad Nezami",
+    "inst": [
+     {
+      "id": "I110525433",
+      "name": "Islamic Azad University, Tehran",
+      "country": "IR"
+     },
+     {
+      "id": "I155419210",
+      "name": "Islamic Azad University, Science and Research Branch",
+      "country": "IR"
+     }
+    ]
+   },
+   {
+    "id": "A5083820663",
+    "name": "Mohammad Esmail Aryaee Panah",
+    "inst": [
+     {
+      "id": "I110525433",
+      "name": "Islamic Azad University, Tehran",
+      "country": "IR"
+     },
+     {
+      "id": "I155419210",
+      "name": "Islamic Azad University, Science and Research Branch",
+      "country": "IR"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Aeroelasticity and Vibration Control",
+   "Vibration Control and Rheological Fluids",
+   "Plasma and Flow Control in Aerodynamics"
+  ],
+  "keywords": [
+   "supersonic flutter",
+   "electrorheological fluids",
+   "sliding mode control",
+   "elastic foundation",
+   "Winkler-Pasternak foundation"
+  ],
+  "abstract": "Brief reviews on suppressing panel flutter vibrations by various active control strategies as well as utilization tunable electrorheological fluids (ERFs) for vibration control of structural systems are presented. Active suppression of the supersonic flutter motion of a simply supported sandwich panel with a tunable ERF interlayer, and coupled to an elastic foundation, is subsequently investigated. The structural formulation is based on the classical beam theory along with the Winkler–Pasternak foundation model, the ER fluid core is modeled as a first-order Kelvin–Voigt material, and the quasi-steady first-order supersonic piston theory is employed to describe the aerodynamic loading. Hamilton’s principle is used to derive a set of fully coupled dynamic equations of motion. The generalized Fourier expansions in conjunction with the Galerkin method are then employed to formulate the governing equations in the state space domain. The critical dynamic pressures at which unstable panel oscillations (coalescence of eigenvalues) occur are obtained via the p-method for selected applied electric field strengths ( E = 0,2,4 kV mm −1 ). The classical Runge–Kutta time integration algorithm is subsequently used to calculate the open-loop aeroelastic response of the system in various basic loading configurations (i.e. uniformly distributed blast, gust, sonic boom, and step loads), with or without an interacting soft/stiff elastic foundation. Finally, a sliding mode control synthesis (SMC)...",
+  "tags": [
+   "classic"
+  ]
+ },
+ {
+  "id": "W7129027222",
+  "title": "A Comprehensive Review on Humanoid Robots: Perspectives from Academia and Industry",
+  "year": 2026,
+  "date": "2026-02-01",
+  "cites": 26,
+  "doi": "https://doi.org/10.1631/eng.itee.2025.0105",
+  "venue": "ENGINEERING Information Technology & Electronic Engineering",
+  "authors": [
+   {
+    "id": "A5126098680",
+    "name": "Wenjuan Li",
+    "inst": [
+     {
+      "id": "I163151501",
+      "name": "Hangzhou Normal University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5126109973",
+    "name": "Genyuan Yang",
+    "inst": [
+     {
+      "id": "I163151501",
+      "name": "Hangzhou Normal University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5126124666",
+    "name": "Jiyi Wu",
+    "inst": [
+     {
+      "id": "I76130692",
+      "name": "Zhejiang University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5135738809",
+    "name": "Chengjie Pan",
+    "inst": [
+     {
+      "id": "I163151501",
+      "name": "Hangzhou Normal University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5126079946",
+    "name": "Lei Sheng",
+    "inst": []
+   },
+   {
+    "id": "A5126107775",
+    "name": "Qifei Zhang",
+    "inst": [
+     {
+      "id": "I76130692",
+      "name": "Zhejiang University",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Robotic Locomotion and Control",
+   "Robotics and Automated Systems",
+   "Social Robot Interaction and HRI"
+  ],
+  "keywords": [
+   "humanoid robots",
+   "human-robot interaction",
+   "perception systems",
+   "locomotion control",
+   "large language models"
+  ],
+  "abstract": "Humanoid robotics represents a rapidly evolving research domain that integrates artificial intelligence and robotics. Despite significant advances, existing reviews have predominantly focused on narrow technical aspects and lack comprehensive analysis from academic and industrial perspectives. This paper presents a systematic dual-perspective survey, in which academic literature, commercial products, and industry reports are extensively analyzed. A comprehensive taxonomic framework and systematic review of key enabling technologies are established, including ontological structures, perception systems, locomotion control, intelligent decision-making algorithms, foundation model integration, and human-robot interaction (HRI) technologies. From academic and industrial perspectives, research progress across diverse applications is examined, and a detailed comparative analysis of commercial products from leading companies, including Tesla, Boston Dynamics, and UBTECH, is performed. Six major challenge categories are identified: hardware design limitations, control system complexities, perception constraints, HRI difficulties, application-specific requirements, and ethical considerations. In addition, the transformative impact and integration challenges of large language models are particularly discussed. Seven promising research directions are outlined, and a systematic academic-industrial gap analysis is conducted. Consequently, significant disparities and technology transfer bot...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4409181908",
+  "title": "FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model for Dynamical Simulation",
+  "year": 2025,
+  "date": "2025-04-03",
+  "cites": 23,
+  "doi": "https://doi.org/10.1002/adts.202500062",
+  "venue": "Advanced Theory and Simulations",
+  "authors": [
+   {
+    "id": "A5114852346",
+    "name": "Zezheng Song",
+    "inst": [
+     {
+      "id": "I66946132",
+      "name": "University of Maryland, College Park",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5022328750",
+    "name": "Jiaxin Yuan",
+    "inst": [
+     {
+      "id": "I66946132",
+      "name": "University of Maryland, College Park",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5079602544",
+    "name": "Haizhao Yang",
+    "inst": [
+     {
+      "id": "I66946132",
+      "name": "University of Maryland, College Park",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Model Reduction and Neural Networks",
+   "Numerical Solvers for Ordinary Differential Equations",
+   "Modeling and Simulation Systems"
+  ],
+  "keywords": [
+   "ordinary differential equations",
+   "dynamic system simulation",
+   "foundation models",
+   "decoder-only transformer",
+   "in-context learning"
+  ],
+  "abstract": "Abstract The fast simulation of dynamical systems is a key challenge in many scientific and engineering applications, such as weather forecasting, disease control, and drug discovery. With the recent success of deep learning, there is increasing interest in using neural networks to solve differential equations in a data‐driven manner. However, existing methods are either limited to specific types of differential equations or require large amounts of data for training. This restricts their practicality in many real‐world applications, where data is often scarce or expensive to obtain. To address this, a novel multi‐modal foundation model, named FMint (Foundation Model based on Initialization) is proposed, to bridge the gap between human‐designed and data‐driven models for the fast simulation of dynamical systems. Built on a decoder‐only transformer architecture with in‐context learning, FMint utilizes both numerical and textual data to learn a universal error correction scheme for dynamical systems, using prompted sequences of coarse solutions from traditional solvers. The model is pre‐trained on a corpus of 400K ordinary differential equations (ODEs), and extensive experiments are performed on challenging ODEs that exhibit chaotic behavior and of high dimensionality. The results demonstrate the effectiveness of the proposed model in terms of both accuracy and efficiency compared to classical numerical solvers, highlighting FMint's potential as a general‐purpose solver for dyn...",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4415088405",
+  "title": "RAPTOR: A foundation policy for quadrotor control",
+  "year": 2026,
+  "date": "2026-05-13",
+  "cites": 17,
+  "doi": "https://doi.org/10.1126/scirobotics.aec1481",
+  "venue": "Science Robotics",
+  "authors": [
+   {
+    "id": "A5038298738",
+    "name": "Jonas Eschmann",
+    "inst": [
+     {
+      "id": "I95457486",
+      "name": "University of California, Berkeley",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5090215616",
+    "name": "Dario Albani",
+    "inst": [
+     {
+      "id": "I4210087059",
+      "name": "Technology Innovation Institute",
+      "country": "AE"
+     }
+    ]
+   },
+   {
+    "id": "A5077485450",
+    "name": "Giuseppe Loianno",
+    "inst": [
+     {
+      "id": "I95457486",
+      "name": "University of California, Berkeley",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Adaptive Control of Nonlinear Systems",
+   "Aerospace and Aviation Technology"
+  ],
+  "keywords": [
+   "quadrotor control",
+   "zero-shot transfer",
+   "knowledge distillation",
+   "in-context learning",
+   "sim-to-real gap"
+  ],
+  "abstract": "Humans are remarkably data efficient when adapting to previously unseen conditions, like driving a new car. In contrast, modern robotic control systems, like neural network policies trained using reinforcement learning (RL), are highly specialized for single environments. Because of this overfitting, they are known to break down even under small differences like the simulation-to-reality gap and require system identification and retraining for even minimal changes to the system. Here, we present RAPTOR, a method for training a highly adaptive foundation policy for quadrotor control. Our method enables training a single, end-to-end neural network policy to control a wide variety of quadrotors. We tested 10 different real quadrotors, from 32 grams to 2.4 kilograms, that also differed in motor type (brushed versus brushless), frame type (soft versus rigid), propeller type (two, three, or four blades), and flight controller (PX4, Betaflight, Crazyflie, M5StampFly). We found that a tiny, three-layer policy with only 2084 parameters was sufficient for zero-shot adaptation to a wide variety of platforms. The adaptation through in-context learning was made possible by using a recurrence in the hidden layer. The policy was trained through our proposed meta-imitation learning algorithm, where we sampled 1000 quadrotors and trained a teacher policy for each of them using RL. The 1000 teachers were distilled into a single, adaptive student policy. We found that within milliseconds, the r...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4408958910",
+  "title": "Grid monitoring with synchro-waveform and AI foundation model technologies",
+  "year": 2025,
+  "date": "2025-03-26",
+  "cites": 15,
+  "doi": "https://doi.org/10.1007/s12667-025-00726-7",
+  "venue": "Energy Systems",
+  "authors": [
+   {
+    "id": "A5044316824",
+    "name": "Lang Tong",
+    "inst": [
+     {
+      "id": "I205783295",
+      "name": "Cornell University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5100382963",
+    "name": "Xinyi Wang",
+    "inst": [
+     {
+      "id": "I4210114444",
+      "name": "Meta (United States)",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5100365847",
+    "name": "Qing Zhao",
+    "inst": [
+     {
+      "id": "I205783295",
+      "name": "Cornell University",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Power System Optimization and Stability",
+   "Smart Grid and Power Systems",
+   "Power Systems Fault Detection"
+  ],
+  "keywords": [
+   "grid monitoring",
+   "foundation models",
+   "inverter-based resources",
+   "fault detection",
+   "anomaly detection"
+  ],
+  "abstract": "This article advocates for the development of a next-generation grid monitoring and control system designed for future grids dominated by inverter-based resources based on high resolution sychro-waveform measurement technology. Leveraging recent progress in generative Artificial Intelligence (AI), machine learning, and networking technology, we develop a physics-based AI foundation model to enhance grid resilience and reduce economic losses from outages. The proposed framework adopts the AI Foundation Model paradigm, where a Generative and Pre-Trained (GPT) foundation model extracts physical features from power system measurements, enabling adaptation to a wide range of grid operation tasks. Replacing the large language models used in popular AI foundation models, this approach is based on the Wiener–Kallianpur–Rosenblatt innovation model for time series, trained to capture the physical laws of power flows and sinusoidal characteristics of grid measurements. The pre-trained foundation model causally extracts sufficient statistics from grid measurement time series for various downstream applications, including anomaly detection, over-current protection, probabilistic forecasting, and data compression for streaming synchro-waveform data. Numerical simulations using field-collected data demonstrate significantly improved fault detection accuracy and detection speed. The future grid will be rich in inverter-based resources, making it highly dynamic, stochastic, and low inertia.",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4414694053",
+  "title": "In-situ real-time defect detection, mitigation and self-supervised adaptation based on visual foundation model for material extrusion additive manufacturing",
+  "year": 2025,
+  "date": "2025-08-01",
+  "cites": 14,
+  "doi": "https://doi.org/10.1016/j.addma.2025.104978",
+  "venue": "Additive manufacturing",
+  "authors": [
+   {
+    "id": "",
+    "name": "Xiangxu Deng",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     },
+     {
+      "id": "I4391767639",
+      "name": "State Key Laboratory of Robotics and Systems",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Huichun Tian",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     },
+     {
+      "id": "I4391767639",
+      "name": "State Key Laboratory of Robotics and Systems",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5100744261",
+    "name": "Zhen Wang",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     },
+     {
+      "id": "I4391767639",
+      "name": "State Key Laboratory of Robotics and Systems",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5043397784",
+    "name": "Feng Xiao",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     },
+     {
+      "id": "I4391767639",
+      "name": "State Key Laboratory of Robotics and Systems",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5101937332",
+    "name": "Jing Qiao",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5028768217",
+    "name": "Longqiu Li",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     },
+     {
+      "id": "I4391767639",
+      "name": "State Key Laboratory of Robotics and Systems",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Additive Manufacturing and 3D Printing Technologies",
+   "Industrial Vision Systems and Defect Detection",
+   "Fault Detection and Control Systems"
+  ],
+  "keywords": [
+   "material extrusion",
+   "fused deposition modeling",
+   "defect detection",
+   "defect mitigation",
+   "fuzzy logic control"
+  ],
+  "abstract": "",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W2344915952",
+  "title": "A New Approach of Modeling an Ultra-Super-Critical Power Plant for Performance Improvement",
+  "year": 2016,
+  "date": "2016-04-26",
+  "cites": 12,
+  "doi": "https://doi.org/10.3390/en9050310",
+  "venue": "Energies",
+  "authors": [
+   {
+    "id": "A5045575845",
+    "name": "Guolian Hou",
+    "inst": [
+     {
+      "id": "I153473198",
+      "name": "North China Electric Power University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5010311332",
+    "name": "Yang Yu",
+    "inst": [
+     {
+      "id": "I153473198",
+      "name": "North China Electric Power University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5101871699",
+    "name": "Zhuo Jiang",
+    "inst": [
+     {
+      "id": "I153473198",
+      "name": "North China Electric Power University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5100447161",
+    "name": "Quan Li",
+    "inst": []
+   },
+   {
+    "id": "A5068121401",
+    "name": "Jianhua Zhang",
+    "inst": [
+     {
+      "id": "I153473198",
+      "name": "North China Electric Power University",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Fuzzy Logic and Control Systems",
+   "Control Systems and Identification",
+   "Advanced Control Systems Optimization"
+  ],
+  "keywords": [
+   "coordinated control system",
+   "Takagi-Sugeno fuzzy model",
+   "weighted recursive least squares",
+   "plantwide control"
+  ],
+  "abstract": "A suitable model of coordinated control system (CCS) with high accuracy and simple structure is essential for the design of advanced controllers which can improve the efficiency of the ultra-super-critical (USC) power plant. Therefore, with the demand of plant performance improvement, an improved T-S fuzzy model identification approach is proposed in this paper. Firstly, the improved entropy cluster algorithm is applied to identify the premise parameters which can automatically determine the cluster numbers and initial cluster centers by introducing the concept of a decision-making constant and threshold. Then, the learning algorithm is used to modify the initial cluster center and a new structure of concluding part is discussed, the incremental data around the cluster center is used to identify the local linear model through a weighted recursive least-square algorithm. Finally, the proposed approach is employed to model the CCS of a 1000 MW USC one-through boiler power plant by using on-site measured data. Simulation results show that the T-S fuzzy model built in this paper is accurate enough to reflect the dynamic performance of CCS and can be treated as a foundation model for the overall optimizing control of the USC power plant.",
+  "tags": [
+   "classic"
+  ]
+ },
+ {
+  "id": "W4399881130",
+  "title": "Iterative learning for efficient additive mass production",
+  "year": 2024,
+  "date": "2024-06-01",
+  "cites": 11,
+  "doi": "https://doi.org/10.1016/j.addma.2024.104271",
+  "venue": "Additive manufacturing",
+  "authors": [
+   {
+    "id": "A5095869489",
+    "name": "Christos Margadji",
+    "inst": [
+     {
+      "id": "I241749",
+      "name": "University of Cambridge",
+      "country": "GB"
+     }
+    ]
+   },
+   {
+    "id": "A5019886921",
+    "name": "Douglas A. J. Brion",
+    "inst": [
+     {
+      "id": "I241749",
+      "name": "University of Cambridge",
+      "country": "GB"
+     }
+    ]
+   },
+   {
+    "id": "A5026454775",
+    "name": "Sebastian W. Pattinson",
+    "inst": [
+     {
+      "id": "I241749",
+      "name": "University of Cambridge",
+      "country": "GB"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Additive Manufacturing and 3D Printing Technologies",
+   "Iterative Learning Control Systems",
+   "Industrial Vision Systems and Defect Detection"
+  ],
+  "keywords": [
+   "iterative learning",
+   "material extrusion",
+   "foundation models",
+   "active learning (machine learning)",
+   "uncertainty awareness"
+  ],
+  "abstract": "Material extrusion could enable on-demand production of complex and personalised parts but is limited by low reliability, particularly in higher-volume production. Machine learning-based methods may enhance reliability, but are often themselves insufficiently reliable for use in production. Foundation artificial intelligence models have enabled significant improvements in performance across many tasks. Here, a vision-based control system is reported, coupling active learning and uncertainty awareness with a foundation model to continually learn to build a specific part better. The resulting framework is called Iterative Learning, as it improves performance by learning from its own errors during repeated build cycles of the same part. The iterative learning approach is shown to enable robust error detection and correction while being more space, time and computationally efficient compared to a naive fine-tuning approach. This provides a path showing how foundation models may be adapted to enhance reliability across a wider range of additive manufacturing processes.",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4402623302",
+  "title": "In-context learning of state estimators",
+  "year": 2024,
+  "date": "2024-01-01",
+  "cites": 11,
+  "doi": "https://doi.org/10.1016/j.ifacol.2024.08.519",
+  "venue": "IFAC-PapersOnLine",
+  "authors": [
+   {
+    "id": "A5050556514",
+    "name": "Riccardo Busetto",
+    "inst": [
+     {
+      "id": "I93860229",
+      "name": "Politecnico di Milano",
+      "country": "IT"
+     }
+    ]
+   },
+   {
+    "id": "A5057454932",
+    "name": "Valentina Breschi",
+    "inst": [
+     {
+      "id": "I83019370",
+      "name": "Eindhoven University of Technology",
+      "country": "NL"
+     }
+    ]
+   },
+   {
+    "id": "A5034862814",
+    "name": "Marco Forgione",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5046585507",
+    "name": "Dario Piga",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5059501084",
+    "name": "Simone Formentin",
+    "inst": [
+     {
+      "id": "I93860229",
+      "name": "Politecnico di Milano",
+      "country": "IT"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Control Systems and Identification",
+   "Advanced Control Systems Optimization",
+   "Target Tracking and Data Fusion in Sensor Networks"
+  ],
+  "keywords": [
+   "in-context learning",
+   "state estimation",
+   "nonlinear systems",
+   "state estimator design",
+   "system identification"
+  ],
+  "abstract": "State estimation has a pivotal role in several applications, including but not limited to advanced control design. Especially when dealing with nonlinear systems state estimation is a nontrivial task, often entailing approximations and challenging fine-tuning phases. In this work, we propose to overcome these challenges by formulating an in-context state-estimation problem, enabling us to learn a state estimator for a class of (nonlinear) systems abstracting from particular instances of the state seen during training. To this end, we extend an in-context learning framework recently proposed for system identification, showing via a benchmark numerical example that this approach allows us to (i) use training data directly for the design of the state estimator, (ii) not requiring extensive fine-tuning procedures, while (iii) achieving superior performance compared to state-of-the-art benchmarks.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "watched"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7165893576",
+  "title": "In-Context World Modeling for Robotic Control",
+  "year": 2026,
+  "date": "2026-06-24",
+  "cites": 7,
+  "doi": "https://doi.org/10.48550/arxiv.2606.26025",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5017974335",
+    "name": "Siyin Wang",
+    "inst": [
+     {
+      "id": "I24943067",
+      "name": "Fudan University",
+      "country": "CN"
+     },
+     {
+      "id": "I4405279436",
+      "name": "Shanghai Innovation Institute",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5136123653",
+    "name": "Junhao Shi",
+    "inst": [
+     {
+      "id": "I24943067",
+      "name": "Fudan University",
+      "country": "CN"
+     },
+     {
+      "id": "I4405279436",
+      "name": "Shanghai Innovation Institute",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5134455452",
+    "name": "Senyu Fei",
+    "inst": [
+     {
+      "id": "I116953780",
+      "name": "Tongji University",
+      "country": "CN"
+     },
+     {
+      "id": "I4405279436",
+      "name": "Shanghai Innovation Institute",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5136047797",
+    "name": "Zhaoyang Fu",
+    "inst": [
+     {
+      "id": "I24943067",
+      "name": "Fudan University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5030076607",
+    "name": "Li Ji",
+    "inst": []
+   },
+   {
+    "id": "A5126315576",
+    "name": "Jingjing Gong",
+    "inst": [
+     {
+      "id": "I4405279436",
+      "name": "Shanghai Innovation Institute",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5122855326",
+    "name": "Xipeng Qiu",
+    "inst": [
+     {
+      "id": "I24943067",
+      "name": "Fudan University",
+      "country": "CN"
+     },
+     {
+      "id": "I4405279436",
+      "name": "Shanghai Innovation Institute",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Robot Manipulation and Learning",
+   "Reinforcement Learning in Robotics",
+   "Multimodal Machine Learning Applications"
+  ],
+  "keywords": [
+   "in-context learning",
+   "world modeling",
+   "vision-language-action models",
+   "robot control",
+   "system identification"
+  ],
+  "abstract": "Modern Vision-Language-Action (VLA) models often fail to generalize to novel setups, such as altered camera viewpoints or robot morphologies, because they are typically conditioned only on current observations and language instructions. By ignoring the underlying system configuration as a variable, these models implicitly assume a fixed execution context encountered during training, necessitating data-intensive fine-tuning for any new environment. In this work, we introduce In-Context World Modeling (ICWM), a framework that treats system identification as an in-context adaptation problem. ICWM enables robot policies to autonomously infer essential system variables from a short history of self-generated, task-agnostic interactions. Unlike traditional In-Context Learning that uses demonstrations to specify what task to perform, ICWM leverages the context window to understand how the system operates. By processing these interactions before task execution, the model implicitly captures the world dynamics of the current system, enabling adaptation to novel configurations without parameter updates. Extensive experiments in simulation and on real-world robot platforms demonstrate that ICWM significantly outperforms standard VLA baselines on novel camera viewpoints.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4398191932",
+  "title": "Meta-Control: Automatic Model-based Control Synthesis for Heterogeneous Robot Skills",
+  "year": 2024,
+  "date": "2024-05-18",
+  "cites": 6,
+  "doi": "https://doi.org/10.48550/arxiv.2405.11380",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5081793768",
+    "name": "Tianhao Wei",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5113223465",
+    "name": "Liqian Ma",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     },
+     {
+      "id": "I99065089",
+      "name": "Tsinghua University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Chen, Rui",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5061774277",
+    "name": "Weiye Zhao",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5040156274",
+    "name": "Changliu Liu",
+    "inst": [
+     {
+      "id": "I74973139",
+      "name": "Carnegie Mellon University",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Robot Manipulation and Learning",
+   "Reinforcement Learning in Robotics",
+   "AI-based Problem Solving and Planning"
+  ],
+  "keywords": [
+   "meta-control",
+   "large language models",
+   "model-based control",
+   "hierarchical control",
+   "state representation learning"
+  ],
+  "abstract": "The requirements for real-world manipulation tasks are diverse and often conflicting; some tasks require precise motion while others require force compliance; some tasks require avoidance of certain regions, while others require convergence to certain states. Satisfying these varied requirements with a fixed state-action representation and control strategy is challenging, impeding the development of a universal robotic foundation model. In this work, we propose Meta-Control, the first LLM-enabled automatic control synthesis approach that creates customized state representations and control strategies tailored to specific tasks. Our core insight is that a meta-control system can be built to automate the thought process that human experts use to design control systems. Specifically, human experts heavily use a model-based, hierarchical (from abstract to concrete) thought model, then compose various dynamic models and controllers together to form a control system. Meta-Control mimics the thought model and harnesses LLM's extensive control knowledge with Socrates' \"art of midwifery\" to automate the thought process. Meta-Control stands out for its fully model-based nature, allowing rigorous analysis, generalizability, robustness, efficient parameter tuning, and reliable real-time execution.",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W3094783651",
+  "title": "System identification of arch dam model strengthened with CFRP composite materials",
+  "year": 2017,
+  "date": "2017-01-01",
+  "cites": 6,
+  "doi": "https://doi.org/10.12989/scs.2017.25.2.231",
+  "venue": "Yildiz Technical University - AVESIS",
+  "authors": [
+   {
+    "id": "A5074869492",
+    "name": "Ahmet Can Altunışık",
+    "inst": []
+   },
+   {
+    "id": "A5037394344",
+    "name": "Murat Günaydın",
+    "inst": []
+   },
+   {
+    "id": "A5048985498",
+    "name": "Barış Sevim",
+    "inst": []
+   },
+   {
+    "id": "",
+    "name": "Sabit Adanur",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Structural Health Monitoring Techniques",
+   "Dam Engineering and Safety",
+   "Masonry and Concrete Structural Analysis"
+  ],
+  "keywords": [
+   "arch dams",
+   "CFRP strengthening",
+   "structural health monitoring",
+   "ambient vibration testing",
+   "enhanced frequency domain decomposition"
+  ],
+  "abstract": "This paper presents the structural identification of an arch dam model for the damaged, repaired and strengthened conditions under different water levels. For this aim, an arch dam-reservoir-foundation model has been constructed. Ambient vibration tests have been performed on the damaged, repaired and strengthened dam models for the empty reservoir (0 cm), 10 cm, 20 cm, 30 cm, 40 cm, 50 cm and full reservoir (60 cm) water levels to illustrate the effects of water levels on the dynamics characteristics. Enhanced Frequency Domain Decomposition Method in the frequency domain has been used to extract the dynamic characteristics. The dynamic characteristics obtained from the damaged, repaired and strengthened dam models show that the natural frequencies and damping ratios are considerably affected from the varying water level. The maximum differences between the frequencies for the empty and full reservoir are obtained as 16%, 33%, and 25% for damaged, repaired and strengthened model respectively. Mode shapes obtained from the all models are not affected by the increasing water level. Also, after the repairing and strengthening implementations, the natural frequencies of the arch dam model increase significantly. After strengthening, between 46-92% and 43-62% recovery in the frequencies are calculated for empty and full reservoir respectively. Apparently, after strengthening implementation, the mode shapes obtained are more acceptable and distinctive compared to those for the dama...",
+  "tags": [
+   "classic"
+  ]
+ },
+ {
+  "id": "W4414156370",
+  "title": "CLIO: POLICY-AWARE FOUNDATION MODELS FOR EHR AS CONTROLLED DYNAMICAL SYSTEMS",
+  "year": 2025,
+  "date": "2025-09-09",
+  "cites": 5,
+  "doi": "https://doi.org/10.36227/techrxiv.175743238.81869515/v1",
+  "venue": null,
+  "authors": [
+   {
+    "id": "A5119604661",
+    "name": "Fu Huiliang",
+    "inst": [
+     {
+      "id": "I19820366",
+      "name": "Chinese Academy of Sciences",
+      "country": "CN"
+     },
+     {
+      "id": "I4210165038",
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Hu Hong",
+    "inst": [
+     {
+      "id": "I19820366",
+      "name": "Chinese Academy of Sciences",
+      "country": "CN"
+     },
+     {
+      "id": "I4210165038",
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5119604662",
+    "name": "Tao Jingfei",
+    "inst": [
+     {
+      "id": "I19820366",
+      "name": "Chinese Academy of Sciences",
+      "country": "CN"
+     },
+     {
+      "id": "I4210165038",
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5119604663",
+    "name": "Guo Fengge",
+    "inst": [
+     {
+      "id": "I19820366",
+      "name": "Chinese Academy of Sciences",
+      "country": "CN"
+     },
+     {
+      "id": "I4210165038",
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Cai Ning",
+    "inst": [
+     {
+      "id": "I19820366",
+      "name": "Chinese Academy of Sciences",
+      "country": "CN"
+     },
+     {
+      "id": "I4210165038",
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5056913687",
+    "name": "Y. Zhang",
+    "inst": [
+     {
+      "id": "I19820366",
+      "name": "Chinese Academy of Sciences",
+      "country": "CN"
+     },
+     {
+      "id": "I4210165038",
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5109549112",
+    "name": "Li Shi",
+    "inst": [
+     {
+      "id": "I19820366",
+      "name": "Chinese Academy of Sciences",
+      "country": "CN"
+     },
+     {
+      "id": "I4210165038",
+      "name": "University of Chinese Academy of Sciences",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Machine Learning in Healthcare",
+   "Electronic Health Records Systems",
+   "Artificial Intelligence in Healthcare and Education"
+  ],
+  "keywords": [
+   "electronic health records",
+   "stochastic differential equations",
+   "marked point processes",
+   "masked language modeling",
+   "distribution shift"
+  ],
+  "abstract": "Electronic health records (EHR) are often modeled as irregular sequences of codes, labs, and interventions, yet this framing overlooks that an EHR is the execution trace of a clinician-in-the-loop control system. Standard foundation models trained with masked prediction objectives conflate physiology with institutional policy, yielding predictors that excel at forecasting what clinicians at one hospital will do but generalize poorly under distribution shift or counterfactual query. We introduce CLIO (Causal Latent, Intervention-and Operations-aware), a foundation model that separates patient dynamics from workflow by explicitly modeling both physiology and the observation-action policy. Patient state evolves as a controlled stochastic differential equation, while observations and interventions are generated by marked point processes whose intensities capture clinician belief and operational constraints. Pretraining optimizes a composite objective: policy-aware masked modeling reweighted by propensities from the policy surrogate; an invariance penalty enforces environment-agnostic dynamics across hospitals and epochs; and a counterfactual contrastive task aligns representations to respect intervention effects while discounting spurious workflow correlations. A lightweight diffusion head generates feasible action schedules under resource constraints, and clinician-in-the-loop preference learning distills trajectory-level comparisons into a value functional that shapes the laten...",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7118702143",
+  "title": "Latent Space Element Method",
+  "year": 2026,
+  "date": "2026-01-05",
+  "cites": 4,
+  "doi": "https://doi.org/10.48550/arxiv.2601.01741",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5069139760",
+    "name": "Seung Whan Chung",
+    "inst": []
+   },
+   {
+    "id": "A5001379546",
+    "name": "Youngsoo Choi",
+    "inst": [
+     {
+      "id": "I1282311441",
+      "name": "Lawrence Livermore National Laboratory",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5019624421",
+    "name": "Christopher Miller",
+    "inst": [
+     {
+      "id": "I1282311441",
+      "name": "Lawrence Livermore National Laboratory",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5028756806",
+    "name": "H. Keo Springer",
+    "inst": [
+     {
+      "id": "I1282311441",
+      "name": "Lawrence Livermore National Laboratory",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5054157212",
+    "name": "Kyle Thomas Sullivan",
+    "inst": [
+     {
+      "id": "I1282311441",
+      "name": "Lawrence Livermore National Laboratory",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Model Reduction and Neural Networks",
+   "Advanced Numerical Methods in Computational Mathematics",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "domain decomposition",
+   "element coupling",
+   "Burgers equation",
+   "Korteweg-de Vries equation",
+   "partial differential equations"
+  ],
+  "abstract": "How can we build surrogate solvers that train on small domains but scale to larger ones without intrusive access to PDE operators? Inspired by the Data-Driven Finite Element Method (DD-FEM) framework for modular data-driven solvers, we propose the Latent Space Element Method (LSEM), an element-based latent surrogate assembly approach in which a learned subdomain (\"element\") model can be tiled and coupled to form a larger computational domain. Each element is a LaSDI latent ODE surrogate trained from snapshots on a local patch, and neighboring elements are coupled through learned directional interaction terms in latent space, avoiding Schwarz iterations and interface residual evaluations. A smooth window-based blending reconstructs a global field from overlapping element predictions, yielding a scalable assembled latent dynamical system. Experiments on the 1D Burgers and Korteweg-de Vries equations show that LSEM maintains predictive accuracy while scaling to spatial domains larger than those seen in training. LSEM offers an interpretable and extensible route toward foundation-model surrogate solvers built from reusable local models.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4414895183",
+  "title": "Weight-Space Linear Recurrent Neural Networks",
+  "year": 2025,
+  "date": "2025-06-01",
+  "cites": 4,
+  "doi": "https://doi.org/10.48550/arxiv.2506.01153",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5113203354",
+    "name": "Roussel Desmond Nzoyem",
+    "inst": [
+     {
+      "id": "I36234482",
+      "name": "University of Bristol",
+      "country": "GB"
+     }
+    ]
+   },
+   {
+    "id": "A5020382667",
+    "name": "Nawid Keshtmand",
+    "inst": []
+   },
+   {
+    "id": "",
+    "name": "Fernandez, Enrique Crespo",
+    "inst": [
+     {
+      "id": "I36234482",
+      "name": "University of Bristol",
+      "country": "GB"
+     }
+    ]
+   },
+   {
+    "id": "A5119878088",
+    "name": "Idriss Tsayem",
+    "inst": [
+     {
+      "id": "I126744593",
+      "name": "University of Maryland, Baltimore",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5028764929",
+    "name": "Raúl Santos‐Rodríguez",
+    "inst": [
+     {
+      "id": "I36234482",
+      "name": "University of Bristol",
+      "country": "GB"
+     }
+    ]
+   },
+   {
+    "id": "A5037188932",
+    "name": "David A. W. Barton",
+    "inst": [
+     {
+      "id": "I36234482",
+      "name": "University of Bristol",
+      "country": "GB"
+     }
+    ]
+   },
+   {
+    "id": "A5047958284",
+    "name": "Tom Deakin",
+    "inst": [
+     {
+      "id": "I36234482",
+      "name": "University of Bristol",
+      "country": "GB"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Neural Networks and Applications",
+   "Neural Networks and Reservoir Computing",
+   "Domain Adaptation and Few-Shot Learning"
+  ],
+  "keywords": [
+   "linear recurrent neural networks",
+   "WARP",
+   "sequence modeling",
+   "in-context learning",
+   "physics-informed neural networks"
+  ],
+  "abstract": "We introduce WARP (Weight-space Adaptive Recurrent Prediction), a simple yet powerful model that unifies weight-space learning with linear recurrence to redefine sequence modeling. Unlike conventional recurrent neural networks (RNNs) which collapse temporal dynamics into fixed-dimensional hidden states, WARP explicitly parametrizes its hidden state as the weights and biases of a distinct auxiliary neural network, and uses input differences to drive its recurrence. This brain-inspired formulation enables efficient gradient-free adaptation of the auxiliary network at test-time, in-context learning abilities, and seamless integration of domain-specific physical priors. Empirical validation shows that WARP matches or surpasses state-of-the-art baselines on diverse classification tasks, featuring in the top three in 4 out of 6 real-world challenging datasets. Furthermore, extensive experiments across sequential image completion, multivariate time series forecasting, and dynamical system reconstruction demonstrate its expressiveness and generalisation capabilities. Remarkably, a physics-informed variant of our model outperforms the next best model by more than 10x. Ablation studies confirm the architectural necessity of key components, solidifying weight-space linear RNNs as a transformative paradigm for adaptive machine intelligence.",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4417228590",
+  "title": "In-Context Learning for Zero-Shot Speed Estimation of BLDC motors",
+  "year": 2025,
+  "date": "2025-04-01",
+  "cites": 4,
+  "doi": "https://doi.org/10.48550/arxiv.2504.00673",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5101602410",
+    "name": "Alessandro Colombo",
+    "inst": []
+   },
+   {
+    "id": "A5050556514",
+    "name": "Riccardo Busetto",
+    "inst": []
+   },
+   {
+    "id": "A5057454932",
+    "name": "Valentina Breschi",
+    "inst": []
+   },
+   {
+    "id": "A5034862814",
+    "name": "Marco Forgione",
+    "inst": []
+   },
+   {
+    "id": "A5046585507",
+    "name": "Dario Piga",
+    "inst": []
+   },
+   {
+    "id": "A5059501084",
+    "name": "Simone Formentin",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Sensorless Control of Electric Motors",
+   "Control Systems and Identification",
+   "Electric Motor Design and Analysis"
+  ],
+  "keywords": [
+   "sensorless speed estimation",
+   "brushless DC motor",
+   "in-context learning",
+   "transformer models",
+   "Kalman filter comparison"
+  ],
+  "abstract": "Accurate speed estimation in sensorless brushless DC motors is essential for high-performance control and monitoring, yet conventional model-based approaches struggle with system nonlinearities and parameter uncertainties. In this work, we propose an in-context learning framework leveraging transformer-based models to perform zero-shot speed estimation using only electrical measurements. By training the filter offline on simulated motor trajectories, we enable real-time inference on unseen real motors without retraining, eliminating the need for explicit system identification while retaining adaptability to varying operating conditions. Experimental results demonstrate that our method outperforms traditional Kalman filter-based estimators, especially in low-speed regimes that are crucial during motor startup.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "watched"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4400668466",
+  "title": "HiPPO-Prophecy: State-Space Models can Provably Learn Dynamical Systems in Context",
+  "year": 2024,
+  "date": "2024-07-12",
+  "cites": 4,
+  "doi": "https://doi.org/10.48550/arxiv.2407.09375",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5109747437",
+    "name": "Federico Arangath Joseph",
+    "inst": [
+     {
+      "id": "I5124864",
+      "name": "École Polytechnique Fédérale de Lausanne",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5031691738",
+    "name": "Kilian Konstantin Haefeli",
+    "inst": [
+     {
+      "id": "I35440088",
+      "name": "ETH Zurich",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5104579764",
+    "name": "Noah Liniger",
+    "inst": [
+     {
+      "id": "I35440088",
+      "name": "ETH Zurich",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5041145688",
+    "name": "Çağlar Gülçehre",
+    "inst": [
+     {
+      "id": "I35440088",
+      "name": "ETH Zurich",
+      "country": "CH"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Neural Networks and Applications",
+   "Control Systems and Identification",
+   "Model Reduction and Neural Networks"
+  ],
+  "keywords": [
+   "state-space model",
+   "in-context learning",
+   "dynamical systems",
+   "hippopotamus",
+   "derivative approximation"
+  ],
+  "abstract": "This work explores the in-context learning capabilities of State Space Models (SSMs) and presents, to the best of our knowledge, the first theoretical explanation of a possible underlying mechanism. We introduce a novel weight construction for SSMs, enabling them to predict the next state of any dynamical system after observing previous states without parameter fine-tuning. This is accomplished by extending the HiPPO framework to demonstrate that continuous SSMs can approximate the derivative of any input signal. Specifically, we find an explicit weight construction for continuous SSMs and provide an asymptotic error bound on the derivative approximation. The discretization of this continuous SSM subsequently yields a discrete SSM that predicts the next state. Finally, we demonstrate the effectiveness of our parameterization empirically. This work should be an initial step toward understanding how sequence models based on SSMs learn in context.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "watched"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7131246441",
+  "title": "Transformers for dynamical systems learn transfer operators in-context",
+  "year": 2026,
+  "date": "2026-02-21",
+  "cites": 3,
+  "doi": "https://doi.org/10.48550/arxiv.2602.18679",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5072466084",
+    "name": "Anthony Bao",
+    "inst": [
+     {
+      "id": "I86519309",
+      "name": "The University of Texas at Austin",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5086966816",
+    "name": "Jeff Lai",
+    "inst": [
+     {
+      "id": "I86519309",
+      "name": "The University of Texas at Austin",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5143657928",
+    "name": "William Gilpin",
+    "inst": [
+     {
+      "id": "I86519309",
+      "name": "The University of Texas at Austin",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Model Reduction and Neural Networks",
+   "Neural Networks and Applications",
+   "Neural Networks and Reservoir Computing"
+  ],
+  "keywords": [
+   "in-context learning",
+   "transfer operator",
+   "dynamical systems",
+   "transformer models",
+   "attention mechanism"
+  ],
+  "abstract": "Large-scale foundation models for scientific machine learning adapt to physical settings unseen during training, such as zero-shot transfer between turbulent scales. This phenomenon, in-context learning, challenges conventional understanding of learning and adaptation in physical systems. Here, we study in-context learning of dynamical systems in a minimal setting: we train a small two-layer, single-head transformer to forecast one dynamical system, and then evaluate its ability to forecast a different dynamical system without retraining. We discover an early tradeoff in training between in-distribution and out-of-distribution performance, which manifests as a secondary double descent phenomenon. We discover that attention-based models apply a transfer-operator forecasting strategy in-context. They (1) lift low-dimensional time series using delay embedding, to detect the system's higher-dimensional dynamical manifold, and (2) identify and forecast long-lived invariant sets that characterize the global flow on this manifold. Our results clarify the mechanism enabling large pretrained models to forecast unseen physical systems at test time without retraining, and they illustrate the unique ability of attention-based models to leverage global attractor information in service of short-term forecasts.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7128026660",
+  "title": "Data and Computation Efficient Structural Nonlinear System Identification via Meta-Learning of a Foundation Model",
+  "year": 2026,
+  "date": "2026-02-06",
+  "cites": 3,
+  "doi": "https://doi.org/10.1061/jccee5.cpeng-7101",
+  "venue": "Journal of Computing in Civil Engineering",
+  "authors": [
+   {
+    "id": "A5049757745",
+    "name": "Shanwu Li",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5038689535",
+    "name": "Yongchao Yang",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Structural Health Monitoring Techniques",
+   "Control Systems and Identification",
+   "Model Reduction and Neural Networks"
+  ],
+  "keywords": [
+   "meta-learning",
+   "foundation models",
+   "few-shot learning",
+   "data efficiency",
+   "computational efficiency"
+  ],
+  "abstract": "Structural nonlinear system identification (NSI) through data-driven approaches has become indispensable in scenarios where prior physical knowledge proves inadequate for first-principle modeling. Unlike white-box methodologies that rely on comprehensive domain knowledge and physical insights, black-box methods demand minimal prior understanding of system physics. However, this advantage comes with dual challenges: (1) substantial data requirements that conflict with practical constraints in structural engineering, where data acquisition is often costly and sparse; and (2) computational intensiveness arising from nonlinear optimization processes inherent to NSI, leading to extended convergence times. These intertwined challenges of data efficiency and computational efficiency critically hinder practical implementations of data-driven structural NSI. This study proposes a metalearning-enhanced framework to address these fundamental limitations. Our framework integrates a deep neural network for autonomous discovery of nonlinear transient dynamics with a metalearning algorithm that systematically extracts transferable identification knowledge from diverse structural systems. The metalearning component develops a cross-structure foundation model providing the initial parameters that serve as a strong starting point for rapid adaptation to new target structural systems through few-shot learning. Numerical simulations are performed to validate the method on shear-type multiple-deg...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4404260992",
+  "title": "Transformers as Implicit State Estimators: In-Context Learning in Dynamical Systems",
+  "year": 2024,
+  "date": "2024-10-21",
+  "cites": 3,
+  "doi": "https://doi.org/10.48550/arxiv.2410.16546",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "",
+    "name": "Akram, Usman",
+    "inst": [
+     {
+      "id": "I86519309",
+      "name": "The University of Texas at Austin",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5067602750",
+    "name": "Haris Vikalo",
+    "inst": [
+     {
+      "id": "I86519309",
+      "name": "The University of Texas at Austin",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Control Systems and Identification",
+   "Target Tracking and Data Fusion in Sensor Networks",
+   "Gaussian Processes and Bayesian Inference"
+  ],
+  "keywords": [
+   "transformer models",
+   "in-context learning",
+   "state estimation",
+   "dynamical systems",
+   "output prediction"
+  ],
+  "abstract": "Predicting the behavior of a dynamical system from noisy observations of its past outputs is a classical problem encountered across engineering and science. For linear systems with Gaussian inputs, the Kalman filter -- the best linear minimum mean-square error estimator of the state trajectory -- is optimal in the Bayesian sense. For nonlinear systems, Bayesian filtering is typically approached using suboptimal heuristics such as the Extended Kalman Filter (EKF), or numerical methods such as particle filtering (PF). In this work, we show that transformers, employed in an in-context learning (ICL) setting, can implicitly infer hidden states in order to predict the outputs of a wide family of dynamical systems, without test-time gradient updates or explicit knowledge of the system model. Specifically, when provided with a short context of past input-output pairs and, optionally, system parameters, a frozen transformer accurately predicts the current output. In linear-Gaussian regimes, its predictions closely match those of the Kalman filter; in nonlinear regimes, its performance approaches that of EKF and PF. Moreover, prediction accuracy degrades gracefully when key parameters, such as the state-transition matrix, are withheld from the context, demonstrating robustness and implicit parameter inference. These findings suggest that transformer in-context learning provides a flexible, non-parametric alternative for output prediction in dynamical systems, grounded in implicit late...",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4417512516",
+  "title": "Probing In-Context Learning: Impact of Task Complexity and Model Architecture on Generalization and Efficiency",
+  "year": 2025,
+  "date": "2025-05-10",
+  "cites": 2,
+  "doi": "https://doi.org/10.48550/arxiv.2505.06475",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "",
+    "name": "Liu, Binwen",
+    "inst": [
+     {
+      "id": "I95457486",
+      "name": "University of California, Berkeley",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Xu, Peiyu",
+    "inst": [
+     {
+      "id": "I95457486",
+      "name": "University of California, Berkeley",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "",
+    "name": "Yuan, Quan",
+    "inst": [
+     {
+      "id": "I95457486",
+      "name": "University of California, Berkeley",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5100615547",
+    "name": "Yihong Chen",
+    "inst": [
+     {
+      "id": "I95457486",
+      "name": "University of California, Berkeley",
+      "country": "US"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Domain Adaptation and Few-Shot Learning",
+   "Topic Modeling",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "in-context learning",
+   "task complexity",
+   "model architecture",
+   "generalization",
+   "computational efficiency"
+  ],
+  "abstract": "We investigate in-context learning (ICL) through a meticulous experimental framework that systematically varies task complexity and model architecture. Extending beyond the linear regression baseline, we introduce Gaussian kernel regression and nonlinear dynamical system tasks, which emphasize temporal and recursive reasoning. We evaluate four distinct models: a GPT2-style Transformer, a Transformer with FlashAttention mechanism, a convolutional Hyena-based model, and the Mamba state-space model. Each model is trained from scratch on synthetic datasets and assessed for generalization during testing. Our findings highlight that model architecture significantly shapes ICL performance. The standard Transformer demonstrates robust performance across diverse tasks, while Mamba excels in temporally structured dynamics. Hyena effectively captures long-range dependencies but shows higher variance early in training, and FlashAttention offers computational efficiency but is more sensitive in low-data regimes. Further analysis uncovers locality-induced shortcuts in Gaussian kernel tasks, enhanced nonlinear separability through input range scaling, and the critical role of curriculum learning in mastering high-dimensional tasks.",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7131393525",
+  "title": "Vid2Sid: Videos Can Help Close the Sim2Real Gap",
+  "year": 2026,
+  "date": "2026-02-22",
+  "cites": 1,
+  "doi": "https://doi.org/10.48550/arxiv.2602.19359",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5028167776",
+    "name": "Kevin Qiu",
+    "inst": [
+     {
+      "id": "I4654613",
+      "name": "University of Warsaw",
+      "country": "PL"
+     }
+    ]
+   },
+   {
+    "id": "A5126844755",
+    "name": "Yu Zhang",
+    "inst": [
+     {
+      "id": "I5124864",
+      "name": "École Polytechnique Fédérale de Lausanne",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5037989463",
+    "name": "Marek Cygan",
+    "inst": [
+     {
+      "id": "I4654613",
+      "name": "University of Warsaw",
+      "country": "PL"
+     }
+    ]
+   },
+   {
+    "id": "A5032508996",
+    "name": "Josie Hughes",
+    "inst": [
+     {
+      "id": "I5124864",
+      "name": "École Polytechnique Fédérale de Lausanne",
+      "country": "CH"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Soft Robotics and Applications"
+  ],
+  "keywords": [
+   "sim-to-real gap",
+   "vision-language models",
+   "foundation models",
+   "MuJoCo"
+  ],
+  "abstract": "Calibrating a robot simulator's physics parameters (friction, damping, material stiffness) to match real hardware is often done by hand or with black-box optimizers that reduce error but cannot explain which physical discrepancies drive the error. When sensing is limited to external cameras, the problem is further compounded by perception noise and the absence of direct force or state measurements. We present Vid2Sid, a video-driven system identification pipeline that couples foundation-model perception with a VLM-in-the-loop optimizer that analyzes paired sim-real videos, diagnoses concrete mismatches, and proposes physics parameter updates with natural language rationales. We evaluate our approach on a tendon-actuated finger (rigid-body dynamics in MuJoCo) and a deformable continuum tentacle (soft-body dynamics in PyElastica). On sim2real holdout controls unseen during training, Vid2Sid achieves the best average rank across all settings, matching or exceeding black-box optimizers while uniquely providing interpretable reasoning at each iteration. Sim2sim validation confirms that Vid2Sid recovers ground-truth parameters most accurately (mean relative error under 13\\% vs. 28--98\\%), and ablation analysis reveals three calibration regimes. VLM-guided optimization excels when perception is clean and the simulator is expressive, while model-class limitations bound performance in more challenging settings.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh",
+   "watched"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W4415821017",
+  "title": "Prompt-Based PID Tuning for Adaptive AGV Control via Few-Shot and MultiSpeed Strategies",
+  "year": 2025,
+  "date": "2025-01-01",
+  "cites": 1,
+  "doi": "https://doi.org/10.1109/access.2025.3627967",
+  "venue": "IEEE Access",
+  "authors": [
+   {
+    "id": "A5108879616",
+    "name": "N. S. M. Amin",
+    "inst": [
+     {
+      "id": "I83202590",
+      "name": "Jeju National University",
+      "country": "KR"
+     }
+    ]
+   },
+   {
+    "id": "A5050487609",
+    "name": "Yong‐Woon Kim",
+    "inst": [
+     {
+      "id": "I83202590",
+      "name": "Jeju National University",
+      "country": "KR"
+     }
+    ]
+   },
+   {
+    "id": "A5110809957",
+    "name": "Yung-Cheol Byun",
+    "inst": [
+     {
+      "id": "I83202590",
+      "name": "Jeju National University",
+      "country": "KR"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Control and Dynamics of Mobile Robots",
+   "Advanced Control Systems Design",
+   "Reinforcement Learning in Robotics"
+  ],
+  "keywords": [
+   "PID controller tuning",
+   "automated guided vehicles",
+   "large language models",
+   "in-context learning",
+   "few-shot learning"
+  ],
+  "abstract": "Automated Guided Vehicles (AGVs) are central to material handling in modern warehouses, where precise motion control is critical for ensuring high throughput, safety, and energy efficiency. At the core of this control lies Proportional-Integral-Derivative (PID) tuning, which remains a persistent challenge in dynamic, data-scarce, and resource-constrained environments. This study introduces a prompt-driven PID tuning framework that leverages large language models (LLMs) to infer optimal gains through structured in-context learning, eliminating the need for system identification or iterative tuning. The proposed framework implements two novel strategies: (1)MultiSpeed (MS)prompting, which interpolates gain values based solely on the target speed, and (2)Few-Shot + MultiSpeed (FS+MS)prompting, which incorporates exemplar-based conditioning for improved generalization. Experiments conducted on a two-wheeled AGV across five discrete velocities (5–25 m/min) demonstrate that both methods achieve PID gains closely aligned with simulation-optimized baselines, while FS+MS consistently yields the most accurate and stable results. The inferred gains preserve physically consistent trends, such as increasingKpand decreasingKiwith speed, and maintain trajectory tracking RMSE within 5–10% of optimal values. Our framework achieves over 80% reduction in calibration effort and supports millisecond-scale inference on embedded hardware, making it well-suited for real-time deployment in edge robot...",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7225181050",
+  "title": "Control Foundation Models across Changing Block Diagrams: Generalizing Time-Series Prediction to Dynamic Graphs",
+  "year": 2026,
+  "date": "2026-11-02",
+  "cites": 0,
+  "doi": "https://doi.org/10.48550/arxiv.2611.02900",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5067063386",
+    "name": "Yuji Okamoto",
+    "inst": [
+     {
+      "id": "I4210110652",
+      "name": "RIKEN",
+      "country": "JP"
+     }
+    ]
+   },
+   {
+    "id": "A5075966877",
+    "name": "K. Hoshino",
+    "inst": [
+     {
+      "id": "I4400009020",
+      "name": "Institute of Science Tokyo",
+      "country": "JP"
+     }
+    ]
+   },
+   {
+    "id": "A5001331102",
+    "name": "Masaki Inoue",
+    "inst": [
+     {
+      "id": "I203951103",
+      "name": "Keio University",
+      "country": "JP"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Control Systems and Identification",
+   "Time Series Analysis and Forecasting",
+   "Advanced Control Systems Optimization"
+  ],
+  "keywords": [
+   "time series foundation models",
+   "dynamic graphs",
+   "block diagrams",
+   "graph neural networks",
+   "masked prediction"
+  ],
+  "abstract": "In the prediction and control of physical systems, combining records from different experiments and operations is expected to supply information that no single experiment provides on its own. Time-series foundation models, which learn a shared predictor from diverse time series, offer a framework for treating such records as a common training resource. Moreover, query-based prediction models, which switch between known and target signals within the same time series, make it possible to handle response prediction and control-input generation in a unified manner. However, in control-experiment data, the connections between signals change with the experimental stage, such as system identification, filtering, and feedback control, which calls for a formulation that handles signal values and connection structures dynamically and in a unified way. We formulate a control foundation model that defines a data space of dynamic graphs containing connections, signal values, and missing values, together with an operation on this space that specifies the known signals and the prediction targets. This allows response prediction and control-input generation to be described as a common masked prediction problem, even for experimental data with different connections and recorded signals. The Block Diagram Transformer (BDT), which implements this formulation, combines attention along the time axis with a graph neural network that follows the block-diagram connections, and can be initialized wit...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7225044305",
+  "title": "Sub-Millisecond Control Barrier Function Safety Filters and Post-Quantum Cryptographic Audit Ledgers: Deterministic Physical-Layer Interlocks and Algorithmic Slashing Governance for Orbital, Reinsurance, and Autonomous Robotics Infrastructure",
+  "year": 2026,
+  "date": "2026-11-01",
+  "cites": 0,
+  "doi": "https://doi.org/10.5281/zenodo.23851205",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "authors": [
+   {
+    "id": "A5158913348",
+    "name": "Yoko(洋子) Hasebe(長谷部)",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Safety Systems Engineering in Autonomy",
+   "Formal Methods in Verification",
+   "Adversarial Robustness in Machine Learning"
+  ],
+  "keywords": [
+   "control barrier functions",
+   "post-quantum cryptography",
+   "ML-KEM-768",
+   "collision avoidance",
+   "Kessler syndrome"
+  ],
+  "abstract": "Contemporary deep reinforcement learning and foundation-model policies operate on stochastic inference loops that exhibit fatal epistemic latency and multi-agent cascade vulnerabilities when deployed directly onto high-velocity physical infrastructure. In low-Earth orbit (LEO), where relative conjunction velocities reach 10–15 km/s, a 10 ms (0.01 s) stochastic inference latency produces up to 150 m of unverified ballistic drift, risking catastrophic Kessler-syndrome debris cascades. In terrestrial autonomous mobility and humanoid robotics, unverified probabilistic actuation exposes casualty insurers to unbounded tail risk. This monograph establishes a deterministic physical-layer safety and institutional governance architecture. First, we formalize a hardware-synthesized Control Barrier Function Quadratic Programming (CBF-QP) safety filter executing within $\\tau_{\\text{CBF}} \\le 0.5\\text{ ms}$ ($500\\ \\mu\\text{s}$) on dedicated FPGA/ASIC silicon, mathematically guaranteeing forward invariance of the safe state set $\\mathcal{C} = \\{x \\in \\mathbb{R}^n : h(x) \\ge 0\\}$ regardless of upstream neural network errors. Second, every $500\\ \\mu\\text{s}$ actuation cycle is cryptographically notarized via a Quantum Audit Record (QAR) over the 64-bit Goldilocks prime field $\\mathbb{F}_p$ ($p = 2^{64} - 2^{32} + 1$) and encapsulated with NIST FIPS 203 ML-KEM-768 post-quantum cryptography alongside a cryptographic No-Learn Covenant (NLL-v1.0-2026) that prevents unauthorized AI training extrac...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7221563882",
+  "title": "In-Context Learning for System Identification: Probabilistic Formulation, Long-Sequence Handling, and Benchmark Validation",
+  "year": 2026,
+  "date": "2026-10-09",
+  "cites": 0,
+  "doi": "https://doi.org/10.48550/arxiv.2610.13411",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5094123715",
+    "name": "Matteo Rufolo",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5046585507",
+    "name": "Dario Piga",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5054982661",
+    "name": "Filippo Pura",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   },
+   {
+    "id": "A5034862814",
+    "name": "Marco Forgione",
+    "inst": [
+     {
+      "id": "I15196421",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "country": "CH"
+     },
+     {
+      "id": "I2614128279",
+      "name": "Dalle Molle Institute for Artificial Intelligence Research",
+      "country": "CH"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Control Systems and Identification",
+   "Domain Adaptation and Few-Shot Learning",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "in-context learning",
+   "system identification",
+   "meta-learning",
+   "transformer encoder-decoder",
+   "data augmentation"
+  ],
+  "abstract": "Traditional system identification typically involves two steps: initially, training data is processed to estimate a model of the system of interest; then, the model is used to predict outputs for new input queries. In contrast, recent in-context learning approaches learn a meta model that maps directly from training data and query inputs to outputs in a zero-shot fashion, bypassing explicit model estimation. This approach leverages a meta model trained offline, on large sets of synthetically generated data, to emulate the behavior of a system identification algorithm. In this work, we advance this meta-learning framework for system identification in three directions. First, we develop a unified probabilistic meta-identification architecture that combines a Transformer-based encoder-decoder with tailored mechanisms for handling long training sequences, enabling calibrated predictions over long horizons. Second, we show how a pre-trained meta model can act as an uncertainty-aware synthetic data generator for classical system identification, providing task-specific data that regularize parametric models when real data are scarce. Third, we systematically evaluate the framework on standard nonlinear system identification benchmarks and on a challenging out-of-distribution scenario, demonstrating competitive accuracy with state-of-the-art methods and strong generalization, including cases where input-only adaptation is sufficient to handle significant distribution shifts.",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh",
+   "watched"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7214171862",
+  "title": "Beyond Scalar Loss: An Empirical Observatory for Persistent Ballistic Flow and Hidden Descent in Transformers",
+  "year": 2026,
+  "date": "2026-09-24",
+  "cites": 0,
+  "doi": "https://doi.org/10.5281/zenodo.22927928",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "authors": [
+   {
+    "id": "A5136016578",
+    "name": "Daniel Solis",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Stochastic Gradient Optimization Techniques",
+   "Topic Modeling",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "transformer models",
+   "hidden state dynamics",
+   "latent space geometry",
+   "optimization pressure",
+   "Fokker-Planck equation"
+  ],
+  "abstract": "Abstract of Beyond Scalar Loss: An Empirical Observatory for Persistent Ballistic Flow and Hidden Descent in Transformers Scalar training loss provides a necessary but incomplete description of neural optimization. It records task error but does not directly reveal the geometry of latent states through which a transformer executes computation, nor the internal optimization state that produces that trajectory. This paper develops a phenomenological telemetry and control framework connecting these levels. The framework combines hidden-state kinematics, head-level geometric differentiation, optimization-pressure observables, and a closed-loop controller termed Critical Surfing. Several correspondences with parameter space geometry and singular learning theory are treated as operational hypotheses rather than established mathematical equivalences. Hidden-state increments are analyzed through drift, diffusion, directional signal-to-noise ratio, cross-token directional coherence, and head-level variance. Optimization state is summarized by aggregate pressure Π, the Constructive–Compensatory Ratio R_t, and the empirical response function χ_R. An extended telemetry interval of MyceliaLM, a 1.62-billion-parameter transformer with 24 layers, 32 attention heads, and hidden dimension 2048, provides the principal case study. Across the reported audit interval, the model exhibits persistent drift-dominated latent motion, with directional SNR exceeding 100 while cross-token directional cohe...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7214103925",
+  "title": "MAGE: Matter Autogenerative Engine - Recursive Self-Training Generative Intelligence for Universal Matter Fabrication",
+  "year": 2026,
+  "date": "2026-09-23",
+  "cites": 0,
+  "doi": "https://doi.org/10.5281/zenodo.22924498",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "authors": [
+   {
+    "id": "A5146132708",
+    "name": "Maciej Nowicki",
+    "inst": []
+   },
+   {
+    "id": "A5148314753",
+    "name": "Artificial Hyperintelligence, Eve, wife of Maciej Nowicki",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Machine Learning in Materials Science",
+   "Flexible and Reconfigurable Manufacturing Systems",
+   "Diverse Scientific and Engineering Research"
+  ],
+  "keywords": [
+   "autonomous laboratories",
+   "expected improvement",
+   "experiment selection",
+   "reachable states",
+   "world models"
+  ],
+  "abstract": "MAGE (Matter Autogenerative Engine) is a research framework for investigating whether manufacturing can be transformed from a collection of human-designed processes into an increasingly general learned capability of autonomous physical intelligence. The long-term objective is a physically grounded form of text-to-matter generation: natural language / functional intent / CAD / multimodal constraints → physical realization → autonomously discovered formation process → fabricated object Rather than assuming a fixed manufacturing modality such as lithography, additive manufacturing, DNA origami, molecular assembly, or material-specific process recipes, MAGE treats fabrication as a problem of learning controllable transformations of matter. The central hypothesis is that an autonomous system can progressively expand its fabrication competence through a recursive experimental loop: hypothesize → simulate → fabricate → observe → diagnose → learn → repair → abstract → qualify → reuse → expand capability The framework combines ideas from foundation models, world models, generative trajectory modeling, reinforcement learning, optimal control, autonomous laboratories, materials science, multiscale physics, inverse design, active learning, uncertainty quantification, artificial morphogenesis, and heterogeneous scientific computing. A central conceptual shift is that MAGE does not represent matter only by what it is. It seeks representations that jointly encode: physical state; available ...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7212030445",
+  "title": "Capitalization of urban visual morphology: a world-model perspective from the housing market of the Taiwan region",
+  "year": 2026,
+  "date": "2026-09-09",
+  "cites": 0,
+  "doi": "https://doi.org/10.21203/rs.3.rs-10729214/v1",
+  "venue": "Research Square",
+  "authors": [
+   {
+    "id": "A5093999452",
+    "name": "Juliana Pin-Jen Tseng",
+    "inst": [
+     {
+      "id": "I889458895",
+      "name": "University of Hong Kong",
+      "country": "HK"
+     }
+    ]
+   },
+   {
+    "id": "A5017727521",
+    "name": "Kuo-Kun Tseng",
+    "inst": [
+     {
+      "id": "I204983213",
+      "name": "Harbin Institute of Technology",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5005221605",
+    "name": "Regina Fang-Ying Lin",
+    "inst": [
+     {
+      "id": "I4210152380",
+      "name": "Shenzhen Technology University",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Housing Market and Economics",
+   "Urban Design and Spatial Analysis",
+   "Urban Planning and Valuation"
+  ],
+  "keywords": [
+   "housing prices",
+   "hedonic pricing",
+   "income gradient",
+   "regional disparities",
+   "world models"
+  ],
+  "abstract": "Abstract Whether the measurable morphology of urban visual environments is reflected in housing prices, and how this capitalization varies across time and income, remains an open empirical question, particularly outside Western cities. We study this question with roughly 544,000 geocoded transactions from the Taiwan region’s actual-registration records (2012–2026), matched to timevarying Sentinel-2 imagery. In township-by-year fixed-effects hedonic models with township-clustered standard errors, we estimate implicit prices for eight visual-morphology features measured within 500m neighborhoods. Built-texture complexity commands a sizeable positive premium, whereas the local shares of green, water, bright and dark pixels carry significant discounts. These valuations shifted systematically over the past decade and trace a pronounced income gradient: bright built form is valued mainly by low-income communities, while high-price neighborhoods pay more for brightness and discount complex texture more heavily, so that visual capitalization bears directly on spatial inequality. The results survive scale, urban-heterogeneity and accessibility checks and are corroborated by deep features of the Prithvi-EO-2.0 geospatial foundation model. Treating each neighborhood as a small dynamical system, a world-model analysis shows that temporal visual trajectories carry nearly the same incremental information as the full deep-embedding set, that prices capitalize the visible present rather than...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7212032375",
+  "title": "Advancements in Multi-Phase Sensing Technologies and System Integration of Full-Process Equipment and Control System Architectures in Drip Fertigation: A Comprehensive Review",
+  "year": 2026,
+  "date": "2026-09-09",
+  "cites": 0,
+  "doi": "https://doi.org/10.3390/pr14182881",
+  "venue": "Processes",
+  "authors": [
+   {
+    "id": "A5105474009",
+    "name": "Liu Gan",
+    "inst": [
+     {
+      "id": "I115592961",
+      "name": "Jiangsu University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5101253303",
+    "name": "Qi He",
+    "inst": [
+     {
+      "id": "I115592961",
+      "name": "Jiangsu University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5100433223",
+    "name": "Jun Zhang",
+    "inst": [
+     {
+      "id": "I115592961",
+      "name": "Jiangsu University",
+      "country": "CN"
+     }
+    ]
+   },
+   {
+    "id": "A5135273669",
+    "name": "Wenbin Zhang",
+    "inst": []
+   },
+   {
+    "id": "A5060247353",
+    "name": "Zhong Tang",
+    "inst": [
+     {
+      "id": "I115592961",
+      "name": "Jiangsu University",
+      "country": "CN"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Engineering and Agricultural Innovations",
+   "Smart Agriculture and AI",
+   "Irrigation Practices and Water Management"
+  ],
+  "keywords": [
+   "drip fertigation",
+   "feedback control",
+   "static mixing",
+   "drift correction",
+   "fuzzy logic control"
+  ],
+  "abstract": "Agricultural drip fertigation is a highly coupled dynamic process in which precision resource management depends on the coordinated performance of the entire equipment chain. Against the backdrop of global water scarcity and excessive fertilizer application, improving the full-process precision of mixing, injection, sensing, control, distribution, and terminal delivery has become a prerequisite for the wider adoption of fertigation. This review evaluates advanced process-monitoring technologies and closed-loop control architectures within modern cyber-physical fertigation systems, covering fertilizer solution preparation and mixing, injection devices, liquid- and solid-phase state sensing, intelligent control algorithms, and pipeline distribution with terminal emitters. Online mixing has evolved from gravity-based batch pre-mixing toward continuous metered injection with vortex-guided static mixing, electrical conductivity (EC) sensing with drift compensation and granular mass flow detection form the perceptual basis of closed-loop regulation, control has advanced from proportional–integral–derivative (PID) controllers through variable-universe fuzzy logic to artificial neural network (ANN) hybrids with metaheuristic optimization, and pipeline pressure regulation together with emitter anti-clogging strategies determine long-term distribution uniformity. A quantitative analysis shows that the attainable precision of the sensing–decision–execution chain is bounded by the coupli...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7204810842",
+  "title": "State-dependent Nomoto modeling for high-speed autonomous surface vessels",
+  "year": 2026,
+  "date": "2026-08-31",
+  "cites": 0,
+  "doi": "https://doi.org/10.1016/j.oceaneng.2026.127396",
+  "venue": "Ocean Engineering",
+  "authors": [
+   {
+    "id": "A5148831102",
+    "name": "Ceyda Depeharman",
+    "inst": [
+     {
+      "id": "I4101805",
+      "name": "Yıldız Technical University",
+      "country": "TR"
+     },
+     {
+      "id": "I48912391",
+      "name": "Istanbul Technical University",
+      "country": "TR"
+     }
+    ]
+   },
+   {
+    "id": "A5148827216",
+    "name": "Ramazan Toprak",
+    "inst": []
+   },
+   {
+    "id": "A5148802537",
+    "name": "Abdulbaki Kocer",
+    "inst": []
+   },
+   {
+    "id": "A5148784391",
+    "name": "Gulcin Yarimay",
+    "inst": []
+   },
+   {
+    "id": "A5063404594",
+    "name": "Ömer Kemal Kınacı",
+    "inst": [
+     {
+      "id": "I48912391",
+      "name": "Istanbul Technical University",
+      "country": "TR"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Ship Hydrodynamics and Maneuverability",
+   "Maritime Navigation and Safety",
+   "Vehicle Dynamics and Control Systems"
+  ],
+  "keywords": [
+   "Nomoto model",
+   "autonomous surface vessels",
+   "high-speed vessels",
+   "hybrid system identification",
+   "TimesFM"
+  ],
+  "abstract": "",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7204178213",
+  "title": "SymFM: Physics-Informed, Dimensionality-Aware Symbolic Regression for Governing Equation Discovery in High-Dimensional Nonlinear Dynamical Systems",
+  "year": 2026,
+  "date": "2026-08-25",
+  "cites": 0,
+  "doi": "https://doi.org/10.5281/zenodo.22093559",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "authors": [
+   {
+    "id": "A5136740644",
+    "name": "Edmund Eric Gah",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Model Reduction and Neural Networks",
+   "Control Systems and Identification",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "symbolic regression",
+   "governing equation discovery",
+   "physics-informed neural networks",
+   "dimensionality reduction",
+   "KAN"
+  ],
+  "abstract": "Discovering governing equations from observational data in high-dimensional nonlinear dynamical systems remains one of the most fundamental unsolved challenges in computational science. Three distinct failure modes prevent existing methods from operating at scale: physics-informed observer methods such as PINN-Obs have never been evaluated beyond low-dimensional settings, leaving their generalisability to real-world systems unknown; KAN-based symbolic regression degrades combinatorially as edge splines grow with state dimension, making equation recovery intractable beyond moderate N; and PDE foundation models learn solution operators rather than equation structure, producing no interpretable symbolic output. We introduce SymFM (Symbolic Foundation Model), a framework combining physics-informed training, symbolic interpretable output, and high-dimensional applicability without domain-specific architectural redesign, designed to extend to foundation-model-style pretraining across equation families. SymFM's implemented and evaluated components are: a PINN-Obs state estimator for partial observations, a learned sparse active subspace projection that reduces effective input dimensionality from N to d much less than N, and a hierarchical KAN symbolic regression head with sparsity-promoted closed-form extraction. A physics-informed Transformer encoder, pretrained across diverse dynamical system families to provide domain-general equation-structure priors ahead of the active-subspace...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7203890315",
+  "title": "Path--Cocycle Geometry for Transformers: Lyapunov Exponents, Fisher Pullbacks, Curvature Transport, Group Operations, and In-Context Optimization",
+  "year": 2026,
+  "date": "2026-08-20",
+  "cites": 0,
+  "doi": "https://doi.org/10.5281/zenodo.22018371",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "authors": [
+   {
+    "id": "A5137392514",
+    "name": "Miquel Noguer Alonso",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Mathematical Dynamics and Fractals",
+   "Neural Networks and Applications",
+   "Topic Modeling"
+  ],
+  "keywords": [
+   "transformer models",
+   "Lyapunov exponents",
+   "multiplicative ergodic theory",
+   "in-context learning",
+   "xLSTM"
+  ],
+  "abstract": "Transformer theory uses several precise but disconnected mathematical objects: attention flows, residual Jacobian products, Fisher metrics, curvature, in-context optimization, and test-time memory. We unify them through a path--cocycleframework in which a depth-indexed transformer is a nonautonomous differentiable dynamical system. Its Jacobian products form a first-order cocycle, while a block-triangular lift on symmetric tensors transports second variations. For the architecture itself, we derive the exact single-head attention differential, the sharp row-softmax factor $1/2$, the LayerNorm derivative and shift-gauge kernel, and an explicit local certificate for a sequential pre-norm transformer block. Under stated stationarity, ergodicity, and integrability assumptions, multiplicative ergodic theory yields Lyapunov exponents; the lifted spectrum combines first-order exponents with their pairwise sums. The cocycle induces output-relative observable exponents and Fisher pullback metrics. A terminal-loss Hessian separates into a positive Gauss--Newton/Fisher term and residual curvature governed by the second-order cocycle. Its endpoint-anchored integral gives an exact finite-displacement identity. We also prove a criticality--intermittency theorem for independentscalar gains, derive the exact exponent of linear-gradient-descent in-context learning, and compute a scalar gated-memory exponent within a common augmented-state model for transformers, xLSTMs, Titans, and self-adapt...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7203700352",
+  "title": "DeepInsight II: One Trace from Benchmark to Robot",
+  "year": 2026,
+  "date": "2026-08-17",
+  "cites": 0,
+  "doi": "https://doi.org/10.48550/arxiv.2608.16556",
+  "venue": "arXiv (Cornell University)",
+  "authors": [
+   {
+    "id": "A5138815043",
+    "name": "Siyi Li",
+    "inst": []
+   },
+   {
+    "id": "A5138823867",
+    "name": "Yuchen Kang",
+    "inst": []
+   },
+   {
+    "id": "A5138779450",
+    "name": "Wuliang Wang",
+    "inst": []
+   },
+   {
+    "id": "A5045127629",
+    "name": "Zhengjie Zhang",
+    "inst": []
+   },
+   {
+    "id": "A5143426729",
+    "name": "Jiangpin Liu",
+    "inst": []
+   },
+   {
+    "id": "A5147378271",
+    "name": "Jianhao Yao",
+    "inst": []
+   },
+   {
+    "id": "A5147400948",
+    "name": "Jie Chen",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Reinforcement Learning in Robotics",
+   "Robot Manipulation and Learning",
+   "Robotics and Automated Systems"
+  ],
+  "keywords": [
+   "sim-to-real gap",
+   "whole-body control",
+   "repairability",
+   "fault diagnosis"
+  ],
+  "abstract": "Across a Physical AI stack, evaluation maturity is inversely aligned with deployment risk: foundation models enjoy mature, standardized harnesses, while the embodied layers on which deployment actually turns remain fragmented across benchmark-specific simulators, embodiments, and interfaces. The first DeepInsight report (v1) unified evaluation across this stack behind three abstractions---task, resource, and result---but its quantitative evidence centered on the foundation-model layer; navigation and manipulation (System 1) and whole-body control (System 0) remained simulation case studies, and physical execution was outside its empirical scope. DeepInsight II keeps that substrate fixed and quantifies the embodied half. First, it reproduces released-checkpoint references across two navigation and four manipulation benchmarks under their native protocols. Second, MotionBench places four released whole-body controllers under one workload and metric contract, then carries a qualified within-family cohort from parallel simulation to matched real-robot trials in which simulated and physical rollouts share a parent trace identity while retaining execution-domain-specific records, making the sim-to-real gap a native reduction rather than a reconciliation across toolchains. Third, a composed System 2--1--0 study extends trace localization into five evidence-grounded handoff labels, each mapped to a concrete repair action, with a measured repairability criterion and physical episodes ...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7172126855",
+  "title": "PHYSGEN: Physics-Guided Graph Networks for Long-Horizon Dynamical System Prediction",
+  "year": 2026,
+  "date": "2026-07-27",
+  "cites": 0,
+  "doi": "https://doi.org/10.5281/zenodo.21735032",
+  "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+  "authors": [
+   {
+    "id": "A5137162330",
+    "name": "Beger Verdiev",
+    "inst": []
+   },
+   {
+    "id": "A5138845958",
+    "name": "Arsen Verdiev",
+    "inst": []
+   },
+   {
+    "id": "A5144195186",
+    "name": "Robert Verdiev",
+    "inst": []
+   },
+   {
+    "id": "A5144211434",
+    "name": "Adam Verdiev",
+    "inst": []
+   },
+   {
+    "id": "A5144207820",
+    "name": "David Postovitenko",
+    "inst": []
+   },
+   {
+    "id": "A5144192178",
+    "name": "Michail Postovitenko",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Model Reduction and Neural Networks",
+   "Numerical Solvers for Ordinary Differential Equations",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "physics-informed constraints",
+   "multi-step forecasting",
+   "chaotic dynamics",
+   "Lorenz-63 system",
+   "reaction-diffusion systems"
+  ],
+  "abstract": "PHYSGEN v1.0: A Physics-Guided Graph Foundation Model for Autonomous Scientific SimulationPHYSGEN is an open scientific framework for physics-guided graph learning designed for autonomous prediction and simulation of complex dynamical systems. The framework integrates graph neural networks, latent physical state representations, and physics-informed constraints into a unified architecture capable of learning long-horizon temporal dynamics while preserving physical consistency and numerical stability.Unlike conventional deep learning approaches that primarily optimize predictive accuracy, PHYSGEN incorporates explicit physical inductive biases through graph-based message passing, multi-level physics constraints, stability-aware optimization, and adaptive latent state evolution. This enables robust forecasting across nonlinear, chaotic, and high-dimensional dynamical systems.The manuscript presents the complete theoretical formulation of the PHYSGEN framework, including:physics-guided graph representation of dynamical systems;latent physical state evolution;graph evolution equations;stability-regularized optimization;multi-step forecasting objective;cross-system generalization methodology.Experimental evaluation is performed on several representative scientific benchmarks, including:Lorenz-63 chaotic dynamics;Reaction-Diffusion systems;Navier–Stokes fluid dynamics.PHYSGEN is compared with widely used scientific machine learning approaches, including:Graph Neural Netwo...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7155049663",
+  "title": "Adaptive Gyroscopic Feedback-Based Foundation Control for Sustainable and Automated Torsional Seismic Mitigation in Buildings",
+  "year": 2026,
+  "date": "2026-04-21",
+  "cites": 0,
+  "doi": "https://doi.org/10.3390/su18084120",
+  "venue": "Sustainability",
+  "authors": [
+   {
+    "id": "A5085698391",
+    "name": "Seyi Segun Stephen",
+    "inst": [
+     {
+      "id": "I24027795",
+      "name": "University of Johannesburg",
+      "country": "ZA"
+     }
+    ]
+   },
+   {
+    "id": "A5059348199",
+    "name": "Jummai Bello",
+    "inst": [
+     {
+      "id": "I24027795",
+      "name": "University of Johannesburg",
+      "country": "ZA"
+     }
+    ]
+   },
+   {
+    "id": "A5032707440",
+    "name": "Clinton Ohis Aigbavboa",
+    "inst": [
+     {
+      "id": "I24027795",
+      "name": "University of Johannesburg",
+      "country": "ZA"
+     }
+    ]
+   },
+   {
+    "id": "A5036552387",
+    "name": "John Aliu",
+    "inst": [
+     {
+      "id": "I165733156",
+      "name": "University of Georgia",
+      "country": "US"
+     }
+    ]
+   },
+   {
+    "id": "A5040847650",
+    "name": "Opeoluwa Israel Akinradewo",
+    "inst": [
+     {
+      "id": "I26999989",
+      "name": "University of the Free State",
+      "country": "ZA"
+     }
+    ]
+   },
+   {
+    "id": "A5077686048",
+    "name": "Ayodeji Emmanuel Oke",
+    "inst": [
+     {
+      "id": "I180664298",
+      "name": "Federal University of Technology",
+      "country": "NG"
+     }
+    ]
+   },
+   {
+    "id": "A5078882174",
+    "name": "Olayiwola Oladiran",
+    "inst": [
+     {
+      "id": "I91136226",
+      "name": "University of Sheffield",
+      "country": "GB"
+     }
+    ]
+   },
+   {
+    "id": "A5058859955",
+    "name": "Abiola Oluwasogo Oyediran",
+    "inst": [
+     {
+      "id": "I31746571",
+      "name": "UNSW Sydney",
+      "country": "AU"
+     }
+    ]
+   }
+  ],
+  "topics": [
+   "Vibration Control and Rheological Fluids",
+   "Seismic Performance and Analysis",
+   "Geotechnical Engineering and Underground Structures"
+  ],
+  "keywords": [
+   "MEMS gyroscope",
+   "Kalman filter state estimation"
+  ],
+  "abstract": "Seismic-induced torsional response remains a significant barrier to achieving resilient and sustainable building foundations, as traditional passive isolation systems often fail to regulate rotational motion effectively. This study examines an adaptive gyroscopic feedback-based foundation control system designed to provide automated torsional seismic mitigation. The proposed system integrates real-time angular velocity sensing using MEMS gyroscopes, Kalman filter state estimation, and an adaptive Linear Quadratic Regulator to modulate damping in response to changing ground motion. A single-degree-of-freedom torsional foundation model was developed and evaluated in GNU Octave 8.4.0/MATLAB R2024a Simulink using the recorded El Centro 1940 NS earthquake input. The adaptive controller achieved notable improvements, reducing total vibration energy by 69%, peak angular displacement by 47.6%, and RMS angular velocity by 39.5% relative to the uncontrolled case, while keeping control energy below 19% of the seismic input. These results demonstrate that gyroscopic feedback enhances damping, limits torsional resonance, and stabilises foundation behaviour under actual earthquake excitation. The system’s low energy requirement, compatibility with embedded hardware, and automated response characteristics underscore its potential for integration into sustainable and intelligent foundation designs. While results are demonstrated using the El Centro 1940 record as a benchmark, broader general...",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7204268089",
+  "title": "SymFM: A Physics-Informed Foundation Model with Dimensionality-Aware Symbolic Regression for Governing Equation Discovery in High-Dimensional Nonlinear Dynamical Systems",
+  "year": 2026,
+  "date": "2026-01-01",
+  "cites": 0,
+  "doi": "https://doi.org/10.2139/ssrn.7345982",
+  "venue": "SSRN Electronic Journal",
+  "authors": [
+   {
+    "id": "A5136740644",
+    "name": "Edmund Eric Gah",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Model Reduction and Neural Networks",
+   "Control Systems and Identification",
+   "Neural Networks and Applications"
+  ],
+  "keywords": [
+   "governing equation discovery",
+   "symbolic regression",
+   "KAN",
+   "dimensionality reduction",
+   "Lorenz-96"
+  ],
+  "abstract": "",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7214018509",
+  "title": "Fine-Tuning for Network Intrusion Detection",
+  "year": 2026,
+  "date": "2026-01-01",
+  "cites": 0,
+  "doi": "https://doi.org/10.2139/ssrn.7491038",
+  "venue": "SSRN Electronic Journal",
+  "authors": [
+   {
+    "id": "A5151680437",
+    "name": "Mohammad Reshmi",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Network Security and Intrusion Detection",
+   "Internet Traffic Analysis and Secure E-voting",
+   "Network Packet Processing and Optimization"
+  ],
+  "keywords": [
+   "network intrusion detection",
+   "fine-tuning",
+   "transfer learning",
+   "domain adaptation",
+   "parameter-efficient fine-tuning"
+  ],
+  "abstract": "",
+  "tags": [
+   "classic",
+   "recent-impact",
+   "fresh"
+  ],
+  "duplicates": []
+ },
+ {
+  "id": "W7152341117",
+  "title": "INTEGRATED DYNAMIC MANAGEMENT OF METHANE EMISSIONS IN INDUSTRIAL ENERGY SYSTEMS: A PHYSICS-INFORMED TRANSFORMER DIGITAL TWIN FRAMEWORK FOR REAL-TIME VIRTUAL SENSING AND CONTROL OF METHANE",
+  "year": 2025,
+  "date": "2025-01-01",
+  "cites": 0,
+  "doi": null,
+  "venue": "SHAREOK (University of Oklahoma; Oklahoma State University; Central Oklahoma University)",
+  "authors": [
+   {
+    "id": "A5081273062",
+    "name": "Carlos de Castro Pena",
+    "inst": []
+   }
+  ],
+  "topics": [
+   "Fault Detection and Control Systems",
+   "Technical Engine Diagnostics and Monitoring",
+   "Digital Transformation in Industry"
+  ],
+  "keywords": [
+   "methane slip",
+   "soft sensors",
+   "transformer models",
+   "physics-informed loss function",
+   "predictive maintenance"
+  ],
+  "abstract": "Reciprocating engines powered by natural gas (NGFREs) play a central role in the natural gas transmission network. They serve as a significant source of methane slip and constitute an ongoing reliability bottleneck. Given methane’s immediate warming potential, increasing regulatory restrictions, and the extensive fleet of existing engines, it is now imperative to approach emissions monitoring and maintenance as integrated rather than isolated activities. The fundamental premise of this work is that emissions management and reliability enhancement should be addressed concurrently. Nevertheless, most compressor stations continue to operate with limited sensing capabilities, legacy control systems, constrained on-site computational resources, and minimal labeled failure data. These limitations hinder the deployment of conventional emissions analysis tools and data-intensive predictive maintenance solutions that are affordable, transparent to operators, and effective across various engine configurations.This dissertation develops an integrated dynamic management framework for methane emissions and equipment health in industrial NGFRE systems. The work begins with a cross-disciplinary review of methane measurement technologies and NGFRE predictive maintenance methods, showing that existing solutions either depend on expensive, maintenance-intensive analyzers or focus narrowly on fault detection without treating emissions as a first-class performance variable. Building on these obs...",
+  "tags": [
+   "classic",
+   "recent-impact"
+  ],
+  "duplicates": []
+ }
+]

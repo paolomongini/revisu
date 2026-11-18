@@ -1,0 +1,27 @@
+{
+ "slug": "distributed-control",
+ "label": "Distributed & Multi-agent Control",
+ "group": "Classical & Modern Control",
+ "query": "\"distributed control\" OR \"multi-agent systems\" OR \"distributed MPC\" OR \"consensus control\" OR \"plug-and-play control\" OR (\"large-scale systems\" AND control)",
+ "generated_at": "2026-11-18T11:50:19",
+ "start_year": 2000,
+ "current_year": 2026,
+ "windows": {
+  "recent": [
+   2024,
+   2026
+  ],
+  "previous": [
+   2021,
+   2023
+  ]
+ },
+ "total": 36206,
+ "n_recent": 12321,
+ "n_prev": 5714,
+ "volume_growth": 2.156,
+ "min_count_for_hot": 49,
+ "api_calls": 668,
+ "cost_usd": 0.5357,
+ "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
+}

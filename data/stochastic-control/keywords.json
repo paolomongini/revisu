@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "tail-risk",
+  "name": "tail risk",
+  "count_recent": 26,
+  "count_prev": 2,
+  "share_recent": 0.01249,
+  "share_prev": 0.00187,
+  "growth": 6.675,
+  "eligible": true
+ },
+ {
+  "id": "schrodinger-bridge",
+  "name": "Schrödinger bridge",
+  "count_recent": 24,
+  "count_prev": 2,
+  "share_recent": 0.01153,
+  "share_prev": 0.00187,
+  "growth": 6.161,
+  "eligible": true
+ },
+ {
+  "id": "strong-duality",
+  "name": "strong duality",
+  "count_recent": 16,
+  "count_prev": 2,
+  "share_recent": 0.00768,
+  "share_prev": 0.00187,
+  "growth": 4.108,
+  "eligible": true
+ },
+ {
+  "id": "column-and-constraint-generation",
+  "name": "column-and-constraint generation",
+  "count_recent": 21,
+  "count_prev": 3,
+  "share_recent": 0.01009,
+  "share_prev": 0.00281,
+  "growth": 3.594,
+  "eligible": true
+ },
+ {
+  "id": "diffusion",
+  "name": "diffusion",
+  "count_recent": 20,
+  "count_prev": 3,
+  "share_recent": 0.00961,
+  "share_prev": 0.00281,
+  "growth": 3.423,
+  "eligible": true
+ },
+ {
+  "id": "optimal-transport",
+  "name": "optimal transport",
+  "count_recent": 37,
+  "count_prev": 7,
+  "share_recent": 0.01777,
+  "share_prev": 0.00655,
+  "growth": 2.714,
+  "eligible": true
+ },
+ {
+  "id": "out-of-distribution-robustness",
+  "name": "out-of-distribution robustness",
+  "count_recent": 24,
+  "count_prev": 4,
+  "share_recent": 0.01153,
+  "share_prev": 0.00374,
+  "growth": 3.081,
+  "eligible": true
+ },
+ {
+  "id": "wasserstein-distributionally-robust-optimization",
+  "name": "Wasserstein distributionally robust optimization",
+  "count_recent": 22,
+  "count_prev": 0,
+  "share_recent": 0.01057,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "bi-level-optimization",
+  "name": "bi-level optimization",
+  "count_recent": 23,
+  "count_prev": 4,
+  "share_recent": 0.01105,
+  "share_prev": 0.00374,
+  "growth": 2.952,
+  "eligible": true
+ },
+ {
+  "id": "multi-objective-optimization",
+  "name": "multi-objective optimization",
+  "count_recent": 27,
+  "count_prev": 5,
+  "share_recent": 0.01297,
+  "share_prev": 0.00468,
+  "growth": 2.773,
+  "eligible": true
+ },
+ {
+  "id": "physics-informed-neural-networks",
+  "name": "physics-informed neural networks",
+  "count_recent": 19,
+  "count_prev": 0,
+  "share_recent": 0.00913,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "stackelberg-game",
+  "name": "Stackelberg game",
+  "count_recent": 16,
+  "count_prev": 0,
+  "share_recent": 0.00768,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "conformal-prediction",
+  "name": "conformal prediction",
+  "count_recent": 15,
+  "count_prev": 0,
+  "share_recent": 0.0072,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": true
+ },
+ {
+  "id": "kullback-leibler-divergence",
+  "name": "Kullback-Leibler divergence",
+  "count_recent": 32,
+  "count_prev": 7,
+  "share_recent": 0.01537,
+  "share_prev": 0.00655,
+  "growth": 2.347,
+  "eligible": true
+ },
+ {
+  "id": "continuous-time-stochastic-control",
+  "name": "continuous-time stochastic control",
+  "count_recent": 20,
+  "count_prev": 4,
+  "share_recent": 0.00961,
+  "share_prev": 0.00374,
+  "growth": 2.567,
+  "eligible": true
+ },
+ {
+  "id": "entropy-regularization",
+  "name": "entropy regularization",
+  "count_recent": 31,
+  "count_prev": 7,
+  "share_recent": 0.01489,
+  "share_prev": 0.00655,
+  "growth": 2.274,
+  "eligible": true
+ },
+ {
+  "id": "market-microstructure",
+  "name": "market microstructure",
+  "count_recent": 15,
+  "count_prev": 3,
+  "share_recent": 0.0072,
+  "share_prev": 0.00281,
+  "growth": 2.567,
+  "eligible": true
+ },
+ {
+  "id": "finite-horizon-control",
+  "name": "finite horizon control",
+  "count_recent": 18,
+  "count_prev": 4,
+  "share_recent": 0.00865,
+  "share_prev": 0.00374,
+  "growth": 2.311,
+  "eligible": true
+ },
+ {
+  "id": "linear-quadratic-control",
+  "name": "linear quadratic control",
+  "count_recent": 63,
+  "count_prev": 18,
+  "share_recent": 0.03026,
+  "share_prev": 0.01684,
+  "growth": 1.797,
+  "eligible": true
+ },
+ {
+  "id": "wasserstein-ambiguity-set",
+  "name": "Wasserstein ambiguity set",
+  "count_recent": 73,
+  "count_prev": 22,
+  "share_recent": 0.03506,
+  "share_prev": 0.02058,
+  "growth": 1.704,
+  "eligible": true
+ },
+ {
+  "id": "distribution-shift",
+  "name": "distribution shift",
+  "count_recent": 39,
+  "count_prev": 11,
+  "share_recent": 0.01873,
+  "share_prev": 0.01029,
+  "growth": 1.82,
+  "eligible": true
+ },
+ {
+  "id": "obstacle-avoidance",
+  "name": "obstacle avoidance",
+  "count_recent": 23,
+  "count_prev": 6,
+  "share_recent": 0.01105,
+  "share_prev": 0.00561,
+  "growth": 1.968,
+  "eligible": true
+ },
+ {
+  "id": "battery-energy-storage",
+  "name": "battery energy storage",
+  "count_recent": 35,
+  "count_prev": 10,
+  "share_recent": 0.01681,
+  "share_prev": 0.00935,
+  "growth": 1.797,
+  "eligible": true
+ },
+ {
+  "id": "energy-storage",
+  "name": "energy storage",
+  "count_recent": 18,
+  "count_prev": 5,
+  "share_recent": 0.00865,
+  "share_prev": 0.00468,
+  "growth": 1.848,
+  "eligible": true
+ },
+ {
+  "id": "optimal-feedback-control",
+  "name": "optimal feedback control",
+  "count_recent": 20,
+  "count_prev": 6,
+  "share_recent": 0.00961,
+  "share_prev": 0.00561,
+  "growth": 1.711,
+  "eligible": true
+ },
+ {
+  "id": "distributionally-robust-optimization",
+  "name": "distributionally robust optimization",
+  "count_recent": 330,
+  "count_prev": 128,
+  "share_recent": 0.1585,
+  "share_prev": 0.11974,
+  "growth": 1.324,
+  "eligible": true
+ },
+ {
+  "id": "jump-diffusion-processes",
+  "name": "jump-diffusion processes",
+  "count_recent": 17,
+  "count_prev": 5,
+  "share_recent": 0.00817,
+  "share_prev": 0.00468,
+  "growth": 1.746,
+  "eligible": true
+ },
+ {
+  "id": "demand-uncertainty",
+  "name": "demand uncertainty",
+  "count_recent": 22,
+  "count_prev": 7,
+  "share_recent": 0.01057,
+  "share_prev": 0.00655,
+  "growth": 1.614,
+  "eligible": true
+ },
+ {
+  "id": "gaussian-process-regression",
+  "name": "Gaussian process regression",
+  "count_recent": 16,
+  "count_prev": 5,
+  "share_recent": 0.00768,
+  "share_prev": 0.00468,
+  "growth": 1.643,
+  "eligible": true
+ },
+ {
+  "id": "partially-observable-markov-decision-processes",
+  "name": "partially observable Markov decision processes",
+  "count_recent": 16,
+  "count_prev": 5,
+  "share_recent": 0.00768,
+  "share_prev": 0.00468,
+  "growth": 1.643,
+  "eligible": true
+ },
+ {
+  "id": "real-time-control",
+  "name": "real-time control",
+  "count_recent": 16,
+  "count_prev": 5,
+  "share_recent": 0.00768,
+  "share_prev": 0.00468,
+  "growth": 1.643,
+  "eligible": true
+ },
+ {
+  "id": "sample-average-approximation",
+  "name": "sample average approximation",
+  "count_recent": 16,
+  "count_prev": 5,
+  "share_recent": 0.00768,
+  "share_prev": 0.00468,
+  "growth": 1.643,
+  "eligible": true
+ },
+ {
+  "id": "day-ahead-scheduling",
+  "name": "day-ahead scheduling",
+  "count_recent": 24,
+  "count_prev": 8,
+  "share_recent": 0.01153,
+  "share_prev": 0.00748,
+  "growth": 1.54,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-maximum-principle",
+  "name": "stochastic maximum principle",
+  "count_recent": 59,
+  "count_prev": 22,
+  "share_recent": 0.02834,
+  "share_prev": 0.02058,
+  "growth": 1.377,
+  "eligible": true
+ },
+ {
+  "id": "policy-gradient",
+  "name": "policy gradient",
+  "count_recent": 23,
+  "count_prev": 8,
+  "share_recent": 0.01105,
+  "share_prev": 0.00748,
+  "growth": 1.476,
+  "eligible": true
+ },
+ {
+  "id": "wasserstein-distance",
+  "name": "Wasserstein distance",
+  "count_recent": 50,
+  "count_prev": 19,
+  "share_recent": 0.02402,
+  "share_prev": 0.01777,
+  "growth": 1.351,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-uncertainty",
+  "name": "renewable energy uncertainty",
+  "count_recent": 59,
+  "count_prev": 23,
+  "share_recent": 0.02834,
+  "share_prev": 0.02152,
+  "growth": 1.317,
+  "eligible": true
+ },
+ {
+  "id": "uncertainty-quantification",
+  "name": "uncertainty quantification",
+  "count_recent": 32,
+  "count_prev": 12,
+  "share_recent": 0.01537,
+  "share_prev": 0.01123,
+  "growth": 1.369,
+  "eligible": true
+ },
+ {
+  "id": "sensitivity-analysis",
+  "name": "sensitivity analysis",
+  "count_recent": 17,
+  "count_prev": 6,
+  "share_recent": 0.00817,
+  "share_prev": 0.00561,
+  "growth": 1.455,
+  "eligible": true
+ },
+ {
+  "id": "inventory-management",
+  "name": "inventory management",
+  "count_recent": 24,
+  "count_prev": 9,
+  "share_recent": 0.01153,
+  "share_prev": 0.00842,
+  "growth": 1.369,
+  "eligible": true
+ },
+ {
+  "id": "transaction-costs",
+  "name": "transaction costs",
+  "count_recent": 19,
+  "count_prev": 7,
+  "share_recent": 0.00913,
+  "share_prev": 0.00655,
+  "growth": 1.394,
+  "eligible": true
+ },
+ {
+  "id": "virtual-power-plants",
+  "name": "virtual power plants",
+  "count_recent": 19,
+  "count_prev": 7,
+  "share_recent": 0.00913,
+  "share_prev": 0.00655,
+  "growth": 1.394,
+  "eligible": true
+ },
+ {
+  "id": "pontryagin-s-maximum-principle",
+  "name": "Pontryagin maximum principle",
+  "count_recent": 21,
+  "count_prev": 8,
+  "share_recent": 0.01009,
+  "share_prev": 0.00748,
+  "growth": 1.348,
+  "eligible": true
+ },
+ {
+  "id": "ambiguity-set",
+  "name": "ambiguity set",
+  "count_recent": 49,
+  "count_prev": 21,
+  "share_recent": 0.02354,
+  "share_prev": 0.01964,
+  "growth": 1.198,
+  "eligible": true
+ },
+ {
+  "id": "renewable-energy-integration",
+  "name": "renewable energy integration",
+  "count_recent": 33,
+  "count_prev": 14,
+  "share_recent": 0.01585,
+  "share_prev": 0.0131,
+  "growth": 1.21,
+  "eligible": true
+ },
+ {
+  "id": "conditional-value-at-risk",
+  "name": "conditional value at risk",
+  "count_recent": 75,
+  "count_prev": 33,
+  "share_recent": 0.03602,
+  "share_prev": 0.03087,
+  "growth": 1.167,
+  "eligible": true
+ },
+ {
+  "id": "two-stage-stochastic-programming",
+  "name": "two-stage stochastic programming",
+  "count_recent": 17,
+  "count_prev": 7,
+  "share_recent": 0.00817,
+  "share_prev": 0.00655,
+  "growth": 1.247,
+  "eligible": true
+ },
+ {
+  "id": "distributed-energy-resources",
+  "name": "distributed energy resources",
+  "count_recent": 21,
+  "count_prev": 9,
+  "share_recent": 0.01009,
+  "share_prev": 0.00842,
+  "growth": 1.198,
+  "eligible": true
+ },
+ {
+  "id": "convex-optimization",
+  "name": "convex optimization",
+  "count_recent": 16,
+  "count_prev": 7,
+  "share_recent": 0.00768,
+  "share_prev": 0.00655,
+  "growth": 1.174,
+  "eligible": true
+ },
+ {
+  "id": "curse-of-dimensionality",
+  "name": "curse of dimensionality",
+  "count_recent": 16,
+  "count_prev": 7,
+  "share_recent": 0.00768,
+  "share_prev": 0.00655,
+  "growth": 1.174,
+  "eligible": true
+ },
+ {
+  "id": "mixed-integer-linear-programming",
+  "name": "mixed-integer linear programming",
+  "count_recent": 20,
+  "count_prev": 9,
+  "share_recent": 0.00961,
+  "share_prev": 0.00842,
+  "growth": 1.141,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-programming",
+  "name": "dynamic programming",
+  "count_recent": 44,
+  "count_prev": 21,
+  "share_recent": 0.02113,
+  "share_prev": 0.01964,
+  "growth": 1.076,
+  "eligible": true
+ },
+ {
+  "id": "regime-switching-models",
+  "name": "regime switching",
+  "count_recent": 19,
+  "count_prev": 9,
+  "share_recent": 0.00913,
+  "share_prev": 0.00842,
+  "growth": 1.084,
+  "eligible": true
+ },
+ {
+  "id": "hamilton-jacobi-bellman-equation",
+  "name": "Hamilton-Jacobi-Bellman equation",
+  "count_recent": 195,
+  "count_prev": 97,
+  "share_recent": 0.09366,
+  "share_prev": 0.09074,
+  "growth": 1.032,
+  "eligible": true
+ },
+ {
+  "id": "portfolio-optimization",
+  "name": "portfolio optimization",
+  "count_recent": 48,
+  "count_prev": 24,
+  "share_recent": 0.02305,
+  "share_prev": 0.02245,
+  "growth": 1.027,
+  "eligible": true
+ },
+ {
+  "id": "two-stage-optimization",
+  "name": "two-stage optimization",
+  "count_recent": 18,
+  "count_prev": 9,
+  "share_recent": 0.00865,
+  "share_prev": 0.00842,
+  "growth": 1.027,
+  "eligible": true
+ },
+ {
+  "id": "variational-inequalities",
+  "name": "variational inequalities",
+  "count_recent": 16,
+  "count_prev": 8,
+  "share_recent": 0.00768,
+  "share_prev": 0.00748,
+  "growth": 1.027,
+  "eligible": true
+ },
+ {
+  "id": "control-barrier-functions",
+  "name": "control barrier functions",
+  "count_recent": 21,
+  "count_prev": 11,
+  "share_recent": 0.01009,
+  "share_prev": 0.01029,
+  "growth": 0.98,
+  "eligible": true
+ },
+ {
+  "id": "utility-maximization",
+  "name": "utility maximization",
+  "count_recent": 19,
+  "count_prev": 10,
+  "share_recent": 0.00913,
+  "share_prev": 0.00935,
+  "growth": 0.976,
+  "eligible": true
+ },
+ {
+  "id": "market-impact",
+  "name": "price impact",
+  "count_recent": 15,
+  "count_prev": 8,
+  "share_recent": 0.0072,
+  "share_prev": 0.00748,
+  "growth": 0.963,
+  "eligible": true
+ },
+ {
+  "id": "mean-field-control",
+  "name": "mean-field control",
+  "count_recent": 15,
+  "count_prev": 8,
+  "share_recent": 0.0072,
+  "share_prev": 0.00748,
+  "growth": 0.963,
+  "eligible": true
+ },
+ {
+  "id": "wind-power-uncertainty",
+  "name": "wind power uncertainty",
+  "count_recent": 15,
+  "count_prev": 8,
+  "share_recent": 0.0072,
+  "share_prev": 0.00748,
+  "growth": 0.963,
+  "eligible": true
+ },
+ {
+  "id": "forward-backward-stochastic-differential-equations",
+  "name": "forward-backward stochastic differential equations",
+  "count_recent": 28,
+  "count_prev": 15,
+  "share_recent": 0.01345,
+  "share_prev": 0.01403,
+  "growth": 0.958,
+  "eligible": true
+ },
+ {
+  "id": "robust-optimization",
+  "name": "robust optimization",
+  "count_recent": 41,
+  "count_prev": 22,
+  "share_recent": 0.01969,
+  "share_prev": 0.02058,
+  "growth": 0.957,
+  "eligible": true
+ },
+ {
+  "id": "chance-constraints",
+  "name": "chance constraints",
+  "count_recent": 217,
+  "count_prev": 115,
+  "share_recent": 0.10423,
+  "share_prev": 0.10758,
+  "growth": 0.969,
+  "eligible": true
+ },
+ {
+  "id": "feedback-control",
+  "name": "feedback control",
+  "count_recent": 18,
+  "count_prev": 10,
+  "share_recent": 0.00865,
+  "share_prev": 0.00935,
+  "growth": 0.924,
+  "eligible": true
+ },
+ {
+  "id": "optimal-control",
+  "name": "optimal control",
+  "count_recent": 90,
+  "count_prev": 49,
+  "share_recent": 0.04323,
+  "share_prev": 0.04584,
+  "growth": 0.943,
+  "eligible": true
+ },
+ {
+  "id": "verification-theorem",
+  "name": "verification theorem",
+  "count_recent": 34,
+  "count_prev": 19,
+  "share_recent": 0.01633,
+  "share_prev": 0.01777,
+  "growth": 0.919,
+  "eligible": true
+ },
+ {
+  "id": "joint-chance-constraints",
+  "name": "joint chance constraints",
+  "count_recent": 23,
+  "count_prev": 13,
+  "share_recent": 0.01105,
+  "share_prev": 0.01216,
+  "growth": 0.908,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-control",
+  "name": "stochastic control",
+  "count_recent": 425,
+  "count_prev": 230,
+  "share_recent": 0.20413,
+  "share_prev": 0.21515,
+  "growth": 0.949,
+  "eligible": true
+ },
+ {
+  "id": "fokker-planck-equation",
+  "name": "Fokker-Planck equation",
+  "count_recent": 17,
+  "count_prev": 10,
+  "share_recent": 0.00817,
+  "share_prev": 0.00935,
+  "growth": 0.873,
+  "eligible": true
+ },
+ {
+  "id": "riccati-equation",
+  "name": "Riccati equation",
+  "count_recent": 17,
+  "count_prev": 10,
+  "share_recent": 0.00817,
+  "share_prev": 0.00935,
+  "growth": 0.873,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-differential-equations",
+  "name": "stochastic differential equations",
+  "count_recent": 49,
+  "count_prev": 28,
+  "share_recent": 0.02354,
+  "share_prev": 0.02619,
+  "growth": 0.899,
+  "eligible": true
+ },
+ {
+  "id": "energy-management",
+  "name": "energy management",
+  "count_recent": 15,
+  "count_prev": 9,
+  "share_recent": 0.0072,
+  "share_prev": 0.00842,
+  "growth": 0.856,
+  "eligible": true
+ },
+ {
+  "id": "reinforcement-learning",
+  "name": "reinforcement learning",
+  "count_recent": 47,
+  "count_prev": 27,
+  "share_recent": 0.02257,
+  "share_prev": 0.02526,
+  "growth": 0.894,
+  "eligible": true
+ },
+ {
+  "id": "convergence-analysis",
+  "name": "convergence analysis",
+  "count_recent": 39,
+  "count_prev": 23,
+  "share_recent": 0.01873,
+  "share_prev": 0.02152,
+  "growth": 0.871,
+  "eligible": true
+ },
+ {
+  "id": "markov-decision-process",
+  "name": "Markov decision process",
+  "count_recent": 40,
+  "count_prev": 24,
+  "share_recent": 0.01921,
+  "share_prev": 0.02245,
+  "growth": 0.856,
+  "eligible": true
+ },
+ {
+  "id": "singular-stochastic-control",
+  "name": "singular stochastic control",
+  "count_recent": 33,
+  "count_prev": 20,
+  "share_recent": 0.01585,
+  "share_prev": 0.01871,
+  "growth": 0.847,
+  "eligible": true
+ },
+ {
+  "id": "model-uncertainty",
+  "name": "model uncertainty",
+  "count_recent": 31,
+  "count_prev": 19,
+  "share_recent": 0.01489,
+  "share_prev": 0.01777,
+  "growth": 0.838,
+  "eligible": true
+ },
+ {
+  "id": "well-posedness",
+  "name": "well-posedness",
+  "count_recent": 24,
+  "count_prev": 15,
+  "share_recent": 0.01153,
+  "share_prev": 0.01403,
+  "growth": 0.822,
+  "eligible": true
+ },
+ {
+  "id": "distributionally-robust-chance-constraints",
+  "name": "distributionally robust chance constraints",
+  "count_recent": 17,
+  "count_prev": 11,
+  "share_recent": 0.00817,
+  "share_prev": 0.01029,
+  "growth": 0.794,
+  "eligible": true
+ },
+ {
+  "id": "error-propagation",
+  "name": "error propagation",
+  "count_recent": 17,
+  "count_prev": 11,
+  "share_recent": 0.00817,
+  "share_prev": 0.01029,
+  "growth": 0.794,
+  "eligible": true
+ },
+ {
+  "id": "semidefinite-programming",
+  "name": "semidefinite programming",
+  "count_recent": 17,
+  "count_prev": 11,
+  "share_recent": 0.00817,
+  "share_prev": 0.01029,
+  "growth": 0.794,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-perturbation",
+  "name": "random perturbations",
+  "count_recent": 20,
+  "count_prev": 13,
+  "share_recent": 0.00961,
+  "share_prev": 0.01216,
+  "growth": 0.79,
+  "eligible": true
+ },
+ {
+  "id": "nash-equilibrium",
+  "name": "Nash equilibrium",
+  "count_recent": 15,
+  "count_prev": 10,
+  "share_recent": 0.0072,
+  "share_prev": 0.00935,
+  "growth": 0.77,
+  "eligible": true
+ },
+ {
+  "id": "optimal-investment",
+  "name": "optimal investment",
+  "count_recent": 18,
+  "count_prev": 12,
+  "share_recent": 0.00865,
+  "share_prev": 0.01123,
+  "growth": 0.77,
+  "eligible": true
+ },
+ {
+  "id": "second-order-cone-programming",
+  "name": "second-order cone programming",
+  "count_recent": 21,
+  "count_prev": 14,
+  "share_recent": 0.01009,
+  "share_prev": 0.0131,
+  "growth": 0.77,
+  "eligible": true
+ },
+ {
+  "id": "viscosity-solutions",
+  "name": "viscosity solutions",
+  "count_recent": 49,
+  "count_prev": 31,
+  "share_recent": 0.02354,
+  "share_prev": 0.029,
+  "growth": 0.812,
+  "eligible": true
+ },
+ {
+  "id": "robust-control",
+  "name": "robust control",
+  "count_recent": 29,
+  "count_prev": 19,
+  "share_recent": 0.01393,
+  "share_prev": 0.01777,
+  "growth": 0.784,
+  "eligible": true
+ },
+ {
+  "id": "recursive-feasibility",
+  "name": "recursive feasibility",
+  "count_recent": 42,
+  "count_prev": 27,
+  "share_recent": 0.02017,
+  "share_prev": 0.02526,
+  "growth": 0.799,
+  "eligible": true
+ },
+ {
+  "id": "parameter-uncertainty",
+  "name": "parameter uncertainty",
+  "count_recent": 19,
+  "count_prev": 13,
+  "share_recent": 0.00913,
+  "share_prev": 0.01216,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-control-systems",
+  "name": "stochastic control systems",
+  "count_recent": 19,
+  "count_prev": 13,
+  "share_recent": 0.00913,
+  "share_prev": 0.01216,
+  "growth": 0.75,
+  "eligible": true
+ },
+ {
+  "id": "mean-field-games",
+  "name": "mean field games",
+  "count_recent": 22,
+  "count_prev": 15,
+  "share_recent": 0.01057,
+  "share_prev": 0.01403,
+  "growth": 0.753,
+  "eligible": true
+ },
+ {
+  "id": "large-deviations",
+  "name": "large deviations",
+  "count_recent": 17,
+  "count_prev": 12,
+  "share_recent": 0.00817,
+  "share_prev": 0.01123,
+  "growth": 0.727,
+  "eligible": true
+ },
+ {
+  "id": "data-driven-control",
+  "name": "data-driven control",
+  "count_recent": 20,
+  "count_prev": 14,
+  "share_recent": 0.00961,
+  "share_prev": 0.0131,
+  "growth": 0.733,
+  "eligible": true
+ },
+ {
+  "id": "risk-aversion",
+  "name": "risk aversion",
+  "count_recent": 15,
+  "count_prev": 11,
+  "share_recent": 0.0072,
+  "share_prev": 0.01029,
+  "growth": 0.7,
+  "eligible": true
+ },
+ {
+  "id": "backward-stochastic-differential-equations",
+  "name": "backward stochastic differential equations",
+  "count_recent": 45,
+  "count_prev": 30,
+  "share_recent": 0.02161,
+  "share_prev": 0.02806,
+  "growth": 0.77,
+  "eligible": true
+ },
+ {
+  "id": "nonconvex-optimization",
+  "name": "non-convex optimization",
+  "count_recent": 18,
+  "count_prev": 13,
+  "share_recent": 0.00865,
+  "share_prev": 0.01216,
+  "growth": 0.711,
+  "eligible": true
+ },
+ {
+  "id": "convergence-rate",
+  "name": "convergence rate",
+  "count_recent": 21,
+  "count_prev": 15,
+  "share_recent": 0.01009,
+  "share_prev": 0.01403,
+  "growth": 0.719,
+  "eligible": true
+ },
+ {
+  "id": "optimal-investment-strategy",
+  "name": "optimal investment strategy",
+  "count_recent": 21,
+  "count_prev": 15,
+  "share_recent": 0.01009,
+  "share_prev": 0.01403,
+  "growth": 0.719,
+  "eligible": true
+ },
+ {
+  "id": "model-predictive-control",
+  "name": "model predictive control",
+  "count_recent": 54,
+  "count_prev": 36,
+  "share_recent": 0.02594,
+  "share_prev": 0.03368,
+  "growth": 0.77,
+  "eligible": true
+ },
+ {
+  "id": "brownian-motion",
+  "name": "Brownian motion",
+  "count_recent": 21,
+  "count_prev": 16,
+  "share_recent": 0.01009,
+  "share_prev": 0.01497,
+  "growth": 0.674,
+  "eligible": true
+ },
+ {
+  "id": "existence-and-uniqueness-of-solutions",
+  "name": "existence and uniqueness of solutions",
+  "count_recent": 27,
+  "count_prev": 20,
+  "share_recent": 0.01297,
+  "share_prev": 0.01871,
+  "growth": 0.693,
+  "eligible": true
+ },
+ {
+  "id": "incomplete-information",
+  "name": "incomplete information",
+  "count_recent": 15,
+  "count_prev": 12,
+  "share_recent": 0.0072,
+  "share_prev": 0.01123,
+  "growth": 0.642,
+  "eligible": true
+ },
+ {
+  "id": "dynamic-programming-principle",
+  "name": "dynamic programming principle",
+  "count_recent": 21,
+  "count_prev": 17,
+  "share_recent": 0.01009,
+  "share_prev": 0.0159,
+  "growth": 0.634,
+  "eligible": true
+ },
+ {
+  "id": "deep-reinforcement-learning",
+  "name": "deep reinforcement learning",
+  "count_recent": 31,
+  "count_prev": 24,
+  "share_recent": 0.01489,
+  "share_prev": 0.02245,
+  "growth": 0.663,
+  "eligible": true
+ },
+ {
+  "id": "mean-variance-optimization",
+  "name": "mean-variance optimization",
+  "count_recent": 16,
+  "count_prev": 14,
+  "share_recent": 0.00768,
+  "share_prev": 0.0131,
+  "growth": 0.587,
+  "eligible": true
+ },
+ {
+  "id": "optimal-stopping",
+  "name": "optimal stopping",
+  "count_recent": 36,
+  "count_prev": 29,
+  "share_recent": 0.01729,
+  "share_prev": 0.02713,
+  "growth": 0.637,
+  "eligible": true
+ },
+ {
+  "id": "analytical-solution",
+  "name": "analytical solution",
+  "count_recent": 19,
+  "count_prev": 17,
+  "share_recent": 0.00913,
+  "share_prev": 0.0159,
+  "growth": 0.574,
+  "eligible": true
+ },
+ {
+  "id": "value-function",
+  "name": "value function",
+  "count_recent": 55,
+  "count_prev": 43,
+  "share_recent": 0.02642,
+  "share_prev": 0.04022,
+  "growth": 0.657,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-model-predictive-control",
+  "name": "stochastic model predictive control",
+  "count_recent": 75,
+  "count_prev": 57,
+  "share_recent": 0.03602,
+  "share_prev": 0.05332,
+  "growth": 0.676,
+  "eligible": true
+ },
+ {
+  "id": "stochastic-optimal-control",
+  "name": "stochastic optimal control",
+  "count_recent": 138,
+  "count_prev": 102,
+  "share_recent": 0.06628,
+  "share_prev": 0.09542,
+  "growth": 0.695,
+  "eligible": true
+ },
+ {
+  "id": "proportional-reinsurance",
+  "name": "proportional reinsurance",
+  "count_recent": 15,
+  "count_prev": 18,
+  "share_recent": 0.0072,
+  "share_prev": 0.01684,
+  "growth": 0.428,
+  "eligible": true
+ },
+ {
+  "id": "exponential-utility",
+  "name": "exponential utility",
+  "count_recent": 16,
+  "count_prev": 19,
+  "share_recent": 0.00768,
+  "share_prev": 0.01777,
+  "growth": 0.432,
+  "eligible": true
+ },
+ {
+  "id": "chance-constrained-programming",
+  "name": "chance-constrained programming",
+  "count_recent": 37,
+  "count_prev": 42,
+  "share_recent": 0.01777,
+  "share_prev": 0.03929,
+  "growth": 0.452,
+  "eligible": true
+ },
+ {
+  "id": "actor-critic",
+  "name": "actor-critic",
+  "count_recent": 14,
+  "count_prev": 5,
+  "share_recent": 0.00672,
+  "share_prev": 0.00468,
+  "growth": 1.438,
+  "eligible": false
+ },
+ {
+  "id": "collision-avoidance",
+  "name": "collision avoidance",
+  "count_recent": 14,
+  "count_prev": 19,
+  "share_recent": 0.00672,
+  "share_prev": 0.01777,
+  "growth": 0.378,
+  "eligible": false
+ },
+ {
+  "id": "constraint-tightening",
+  "name": "constraint tightening",
+  "count_recent": 14,
+  "count_prev": 11,
+  "share_recent": 0.00672,
+  "share_prev": 0.01029,
+  "growth": 0.653,
+  "eligible": false
+ },
+ {
+  "id": "continuous-time-reinforcement-learning",
+  "name": "continuous-time reinforcement learning",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00672,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "demand-response",
+  "name": "demand response",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00672,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "diffusion-models",
+  "name": "diffusion models",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00672,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "exploration-exploitation-trade-off",
+  "name": "exploration-exploitation balance",
+  "count_recent": 14,
+  "count_prev": 1,
+  "share_recent": 0.00672,
+  "share_prev": 0.00094,
+  "growth": 7.188,
+  "eligible": false
+ },
+ {
+  "id": "integrated-energy-systems",
+  "name": "integrated energy systems",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00672,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "linear-quadratic-regulator",
+  "name": "linear quadratic regulator",
+  "count_recent": 14,
+  "count_prev": 0,
+  "share_recent": 0.00672,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "linear-systems",
+  "name": "linear systems",
+  "count_recent": 14,
+  "count_prev": 9,
+  "share_recent": 0.00672,
+  "share_prev": 0.00842,
+  "growth": 0.799,
+  "eligible": false
+ },
+ {
+  "id": "nonlinear-systems",
+  "name": "nonlinear systems",
+  "count_recent": 14,
+  "count_prev": 6,
+  "share_recent": 0.00672,
+  "share_prev": 0.00561,
+  "growth": 1.198,
+  "eligible": false
+ },
+ {
+  "id": "stationary-distribution",
+  "name": "stationary distribution",
+  "count_recent": 14,
+  "count_prev": 6,
+  "share_recent": 0.00672,
+  "share_prev": 0.00561,
+  "growth": 1.198,
+  "eligible": false
+ },
+ {
+  "id": "stochastic-nonlinear-systems",
+  "name": "nonlinear stochastic systems",
+  "count_recent": 14,
+  "count_prev": 11,
+  "share_recent": 0.00672,
+  "share_prev": 0.01029,
+  "growth": 0.653,
+  "eligible": false
+ },
+ {
+  "id": "ambiguity-aversion",
+  "name": "ambiguity aversion",
+  "count_recent": 13,
+  "count_prev": 11,
+  "share_recent": 0.00624,
+  "share_prev": 0.01029,
+  "growth": 0.607,
+  "eligible": false
+ },
+ {
+  "id": "distributed-optimization",
+  "name": "distributed optimization",
+  "count_recent": 13,
+  "count_prev": 7,
+  "share_recent": 0.00624,
+  "share_prev": 0.00655,
+  "growth": 0.954,
+  "eligible": false
+ },
+ {
+  "id": "federated-learning",
+  "name": "federated learning",
+  "count_recent": 13,
+  "count_prev": 7,
+  "share_recent": 0.00624,
+  "share_prev": 0.00655,
+  "growth": 0.954,
+  "eligible": false
+ },
+ {
+  "id": "jump-diffusion",
+  "name": "jump diffusion",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00624,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multiplicative-noise",
+  "name": "multiplicative noise",
+  "count_recent": 13,
+  "count_prev": 7,
+  "share_recent": 0.00624,
+  "share_prev": 0.00655,
+  "growth": 0.954,
+  "eligible": false
+ },
+ {
+  "id": "partial-observability",
+  "name": "partial observability",
+  "count_recent": 13,
+  "count_prev": 10,
+  "share_recent": 0.00624,
+  "share_prev": 0.00935,
+  "growth": 0.667,
+  "eligible": false
+ },
+ {
+  "id": "proximal-policy-optimization",
+  "name": "proximal policy optimization",
+  "count_recent": 13,
+  "count_prev": 0,
+  "share_recent": 0.00624,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "stochastic-optimization",
+  "name": "stochastic optimization",
+  "count_recent": 13,
+  "count_prev": 14,
+  "share_recent": 0.00624,
+  "share_prev": 0.0131,
+  "growth": 0.477,
+  "eligible": false
+ },
+ {
+  "id": "value-function-approximation",
+  "name": "value function approximation",
+  "count_recent": 13,
+  "count_prev": 9,
+  "share_recent": 0.00624,
+  "share_prev": 0.00842,
+  "growth": 0.742,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-driving",
+  "name": "autonomous driving",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "bellman-equation",
+  "name": "Bellman equation",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "carbon-emission-reduction",
+  "name": "carbon emission reduction",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "chance-constrained-model-predictive-control",
+  "name": "chance-constrained model predictive control",
+  "count_recent": 12,
+  "count_prev": 9,
+  "share_recent": 0.00576,
+  "share_prev": 0.00842,
+  "growth": 0.685,
+  "eligible": false
+ },
+ {
+  "id": "controlled-diffusion",
+  "name": "controlled diffusion",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "convex-relaxation",
+  "name": "convex relaxation",
+  "count_recent": 12,
+  "count_prev": 7,
+  "share_recent": 0.00576,
+  "share_prev": 0.00655,
+  "growth": 0.88,
+  "eligible": false
+ },
+ {
+  "id": "distributional-robustness",
+  "name": "distributional robustness",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "free-boundary-problem",
+  "name": "free boundary problem",
+  "count_recent": 12,
+  "count_prev": 10,
+  "share_recent": 0.00576,
+  "share_prev": 0.00935,
+  "growth": 0.616,
+  "eligible": false
+ },
+ {
+  "id": "heston-model",
+  "name": "Heston model",
+  "count_recent": 12,
+  "count_prev": 9,
+  "share_recent": 0.00576,
+  "share_prev": 0.00842,
+  "growth": 0.685,
+  "eligible": false
+ },
+ {
+  "id": "incomplete-markets",
+  "name": "incomplete markets",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "load-shedding",
+  "name": "load shedding",
+  "count_recent": 12,
+  "count_prev": 3,
+  "share_recent": 0.00576,
+  "share_prev": 0.00281,
+  "growth": 2.054,
+  "eligible": false
+ },
+ {
+  "id": "policy-iteration",
+  "name": "policy iteration",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "q-learning",
+  "name": "Q-learning",
+  "count_recent": 12,
+  "count_prev": 2,
+  "share_recent": 0.00576,
+  "share_prev": 0.00187,
+  "growth": 3.081,
+  "eligible": false
+ },
+ {
+  "id": "relaxed-controls",
+  "name": "relaxed controls",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "safety-critical-control",
+  "name": "safety-critical control",
+  "count_recent": 12,
+  "count_prev": 10,
+  "share_recent": 0.00576,
+  "share_prev": 0.00935,
+  "growth": 0.616,
+  "eligible": false
+ },
+ {
+  "id": "time-inconsistency",
+  "name": "time inconsistency",
+  "count_recent": 12,
+  "count_prev": 0,
+  "share_recent": 0.00576,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "closed-loop-stability",
+  "name": "closed-loop stability",
+  "count_recent": 11,
+  "count_prev": 12,
+  "share_recent": 0.00528,
+  "share_prev": 0.01123,
+  "growth": 0.471,
+  "eligible": false
+ },
+ {
+  "id": "convergence-guarantees",
+  "name": "convergence guarantees",
+  "count_recent": 11,
+  "count_prev": 1,
+  "share_recent": 0.00528,
+  "share_prev": 0.00094,
+  "growth": 5.648,
+  "eligible": false
+ },
+ {
+  "id": "discrete-time-linear-systems",
+  "name": "discrete-time linear systems",
+  "count_recent": 11,
+  "count_prev": 8,
+  "share_recent": 0.00528,
+  "share_prev": 0.00748,
+  "growth": 0.706,
+  "eligible": false
+ },
+ {
+  "id": "duality",
+  "name": "duality",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "expected-utility-maximization",
+  "name": "expected utility maximization",
+  "count_recent": 11,
+  "count_prev": 6,
+  "share_recent": 0.00528,
+  "share_prev": 0.00561,
+  "growth": 0.941,
+  "eligible": false
+ },
+ {
+  "id": "fractional-brownian-motion",
+  "name": "fractional Brownian motion",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "koopman-operator",
+  "name": "Koopman operator",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "levy-processes",
+  "name": "Lévy processes",
+  "count_recent": 11,
+  "count_prev": 6,
+  "share_recent": 0.00528,
+  "share_prev": 0.00561,
+  "growth": 0.941,
+  "eligible": false
+ },
+ {
+  "id": "multi-agent-reinforcement-learning",
+  "name": "multi-agent reinforcement learning",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "multi-agent-systems",
+  "name": "multi-agent systems",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "optimal-consumption",
+  "name": "optimal consumption",
+  "count_recent": 11,
+  "count_prev": 8,
+  "share_recent": 0.00528,
+  "share_prev": 0.00748,
+  "growth": 0.706,
+  "eligible": false
+ },
+ {
+  "id": "optimal-control-policy",
+  "name": "optimal control policy",
+  "count_recent": 11,
+  "count_prev": 8,
+  "share_recent": 0.00528,
+  "share_prev": 0.00748,
+  "growth": 0.706,
+  "eligible": false
+ },
+ {
+  "id": "photovoltaic-power-uncertainty",
+  "name": "photovoltaic uncertainty",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "quadratic-programming",
+  "name": "quadratic programming",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "random-parameters",
+  "name": "random coefficients",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "singular-control",
+  "name": "singular control",
+  "count_recent": 11,
+  "count_prev": 8,
+  "share_recent": 0.00528,
+  "share_prev": 0.00748,
+  "growth": 0.706,
+  "eligible": false
+ },
+ {
+  "id": "stochastic-volatility",
+  "name": "stochastic volatility",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "transformer",
+  "name": "transformer models",
+  "count_recent": 11,
+  "count_prev": 0,
+  "share_recent": 0.00528,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "active-distribution-networks",
+  "name": "active distribution networks",
+  "count_recent": 10,
+  "count_prev": 7,
+  "share_recent": 0.0048,
+  "share_prev": 0.00655,
+  "growth": 0.733,
+  "eligible": false
+ },
+ {
+  "id": "autonomous-vehicles",
+  "name": "autonomous vehicles",
+  "count_recent": 10,
+  "count_prev": 5,
+  "share_recent": 0.0048,
+  "share_prev": 0.00468,
+  "growth": 1.027,
+  "eligible": false
+ },
+ {
+  "id": "electric-vehicle-charging",
+  "name": "electric vehicle charging",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "electricity-sector",
+  "name": "electric utilities",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "epistemic-uncertainty",
+  "name": "epistemic uncertainty",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "geometric-brownian-motion",
+  "name": "geometric Brownian motion",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "gradient-flow",
+  "name": "gradient flow",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hawkes-process",
+  "name": "Hawkes process",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "hierarchical-control",
+  "name": "hierarchical control",
+  "count_recent": 10,
+  "count_prev": 1,
+  "share_recent": 0.0048,
+  "share_prev": 0.00094,
+  "growth": 5.134,
+  "eligible": false
+ },
+ {
+  "id": "infinite-horizon",
+  "name": "infinite horizon",
+  "count_recent": 10,
+  "count_prev": 11,
+  "share_recent": 0.0048,
+  "share_prev": 0.01029,
+  "growth": 0.467,
+  "eligible": false
+ },
+ {
+  "id": "large-language-models",
+  "name": "large language models",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "mathematical-finance",
+  "name": "financial mathematics",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "non-iid-data",
+  "name": "non-IID data",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "ornstein-uhlenbeck-process",
+  "name": "Ornstein-Uhlenbeck process",
+  "count_recent": 10,
+  "count_prev": 8,
+  "share_recent": 0.0048,
+  "share_prev": 0.00748,
+  "growth": 0.642,
+  "eligible": false
+ },
+ {
+  "id": "regret-bounds",
+  "name": "regret bounds",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "stochastic-gradient-descent",
+  "name": "stochastic gradient descent",
+  "count_recent": 10,
+  "count_prev": 6,
+  "share_recent": 0.0048,
+  "share_prev": 0.00561,
+  "growth": 0.856,
+  "eligible": false
+ },
+ {
+  "id": "uncertainty-modeling",
+  "name": "uncertainty modeling",
+  "count_recent": 10,
+  "count_prev": 0,
+  "share_recent": 0.0048,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "adjoint-equations",
+  "name": "adjoint equations",
+  "count_recent": 9,
+  "count_prev": 6,
+  "share_recent": 0.00432,
+  "share_prev": 0.00561,
+  "growth": 0.77,
+  "eligible": false
+ },
+ {
+  "id": "battery-degradation",
+  "name": "battery degradation",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00432,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "co2-emissions",
+  "name": "CO2 emissions",
+  "count_recent": 9,
+  "count_prev": 7,
+  "share_recent": 0.00432,
+  "share_prev": 0.00655,
+  "growth": 0.66,
+  "eligible": false
+ },
+ {
+  "id": "coherent-risk-measures",
+  "name": "coherent risk measures",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00432,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "covariance-steering",
+  "name": "covariance steering",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00432,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "digital-twin",
+  "name": "digital twin",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00432,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "distribution-networks",
+  "name": "distribution networks",
+  "count_recent": 9,
+  "count_prev": 7,
+  "share_recent": 0.00432,
+  "share_prev": 0.00655,
+  "growth": 0.66,
+  "eligible": false
+ },
+ {
+  "id": "distributional-uncertainty",
+  "name": "distributional uncertainty",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00432,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "electric-vehicle-charging-stations",
+  "name": "electric vehicle charging stations",
+  "count_recent": 9,
+  "count_prev": 2,
+  "share_recent": 0.00432,
+  "share_prev": 0.00187,
+  "growth": 2.311,
+  "eligible": false
+ },
+ {
+  "id": "electric-vehicles",
+  "name": "electric vehicles",
+  "count_recent": 9,
+  "count_prev": 8,
+  "share_recent": 0.00432,
+  "share_prev": 0.00748,
+  "growth": 0.578,
+  "eligible": false
+ },
+ {
+  "id": "energy-efficiency",
+  "name": "energy efficiency",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00432,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ },
+ {
+  "id": "free-boundary",
+  "name": "free boundary",
+  "count_recent": 9,
+  "count_prev": 0,
+  "share_recent": 0.00432,
+  "share_prev": 0.0,
+  "growth": null,
+  "eligible": false
+ }
+]
