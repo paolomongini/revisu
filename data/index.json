@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-18T12:22:36",
+ "updated": "2026-11-25T13:55:08",
  "topics": [
   {
    "slug": "adaptive-control",
    "label": "Adaptive Control",
    "group": "Classical & Modern Control",
-   "query": "\"adaptive control\"",
-   "generated_at": "2026-11-18T11:43:56",
-   "total": 34721,
-   "volume_growth": 2.306,
-   "n_recent": 11074,
+   "query": "\"model reference adaptive control\" OR \"adaptive controller\" OR \"adaptive backstepping\" OR \"L1 adaptive control\" OR \"adaptive sliding mode control\" OR \"adaptive neural network control\" OR \"adaptive fuzzy control\" OR \"indirect adaptive control\" OR \"direct adaptive control\" OR (\"adaptive control\" AND (Lyapunov OR \"parameter estimation\" OR \"persistent excitation\" OR \"tracking error\"))",
+   "generated_at": "2026-11-25T13:46:24",
+   "total": 22768,
+   "volume_growth": 1.28,
+   "n_recent": 5033,
    "windows": {
     "recent": [
      2024,
@@ -20,9 +20,9 @@
      2023
     ]
    },
-   "has_report": false,
-   "has_review": false,
-   "report_mtime": null
+   "has_report": true,
+   "has_review": true,
+   "report_mtime": 1795611276
   },
   {
    "slug": "autonomous-driving",

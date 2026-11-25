@@ -2,8 +2,8 @@
  "slug": "adaptive-control",
  "label": "Adaptive Control",
  "group": "Classical & Modern Control",
- "query": "\"adaptive control\"",
- "generated_at": "2026-11-18T11:43:56",
+ "query": "\"model reference adaptive control\" OR \"adaptive controller\" OR \"adaptive backstepping\" OR \"L1 adaptive control\" OR \"adaptive sliding mode control\" OR \"adaptive neural network control\" OR \"adaptive fuzzy control\" OR \"indirect adaptive control\" OR \"direct adaptive control\" OR (\"adaptive control\" AND (Lyapunov OR \"parameter estimation\" OR \"persistent excitation\" OR \"tracking error\"))",
+ "generated_at": "2026-11-25T13:46:24",
  "start_year": 2000,
  "current_year": 2026,
  "windows": {
@@ -16,12 +16,12 @@
    2023
   ]
  },
- "total": 34721,
- "n_recent": 11074,
- "n_prev": 4803,
- "volume_growth": 2.306,
- "min_count_for_hot": 44,
- "api_calls": 508,
- "cost_usd": 0.4081,
+ "total": 22768,
+ "n_recent": 5033,
+ "n_prev": 3931,
+ "volume_growth": 1.28,
+ "min_count_for_hot": 20,
+ "api_calls": 27,
+ "cost_usd": 0.0216,
  "source": "OpenAlex (title+abstract search; articles, preprints, reviews)"
 }
