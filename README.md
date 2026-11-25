@@ -1,161 +1,157 @@
 # Revisu — Research Visualisation Support
 
-**Google Trends per la ricerca in controllo, automazione e machine learning.** Scegli un argomento e vedi
-quanto si pubblica, quali sotto-temi crescono, dove sono i gruppi che ci lavorano (mappa mondiale), chi
-collabora con chi (grafi esplorabili) e quali paper leggere. Un team di agenti Claude Code analizza i dati
-e scrive un report, che un agente revisore verifica.
+**Google Trends for research in control, automation and machine learning.** Pick a topic and see how much is
+being published, which sub-topics are growing, where the active groups are (world map), who collaborates with whom
+(interactive graphs) and which papers to read. A team of Claude Code agents can analyse the data and write a report,
+which a reviewer agent then checks.
 
-Gira tutto **sul tuo computer**. Le uniche chiamate esterne sono all'API pubblica di [OpenAlex](https://openalex.org)
-(per i dati) e a Claude (per gli agenti). I dati di 44 topic sono già inclusi, quindi la dashboard funziona subito.
+Everything runs **on your own computer**. The only external calls go to the public [OpenAlex](https://openalex.org)
+API (for publication data) and to Claude (for the agents).
 
 ---
 
-## Installazione: 3 passi (Windows, macOS, Linux)
+## Quick start (about 5 minutes)
 
-Ti servono solo un **account Claude** (abbonamento Pro/Max, oppure una chiave API) e una connessione a internet.
-Python e Claude Code, se mancano, li installa il setup. Non servono librerie aggiuntive.
+Data for **44 topics is already included**, so the dashboard works as soon as it opens. You don't need any API key
+to browse it.
 
-### 1. Scarica Revisu
-Sulla pagina GitHub del progetto: pulsante verde **Code → Download ZIP**, poi estrai lo ZIP dove vuoi.
-In alternativa, se usi git: `git clone https://github.com/<utente>/revisu.git`.
+**1. Download** — on this page click the green **Code → Download ZIP** button, then unzip the file anywhere.
 
-### 2. Setup (una sola volta)
-| Sistema | Cosa fare |
+**2. Set up (once)** — this installs Python and Claude Code if they are missing:
+
+| OS | Do this |
 |---|---|
-| **Windows** | doppio clic su **`setup.bat`** |
-| **macOS** | doppio clic su **`setup.command`**. Se macOS lo blocca: tasto destro → *Apri* → *Apri* |
-| **Linux** | apri un terminale nella cartella e scrivi `bash setup.sh` |
+| **Windows** | double-click **`setup.bat`** |
+| **macOS** | double-click **`setup.command`** (if macOS blocks it: right-click → *Open* → *Open*) |
+| **Linux** | in a terminal inside the folder: `bash setup.sh` |
 
-Il setup:
-1. controlla Python e lo installa se manca (Windows: `winget`; macOS: Homebrew o Command Line Tools di Apple;
-   Linux: `apt`/`dnf`/`pacman`, che chiedono la password);
-2. installa **Claude Code** con l'installer ufficiale, se manca;
-3. chiede se usi un **abbonamento Claude**: rispondi *Y* (nessuna chiave da inserire). Con una chiave API rispondi *n*
-   e incollala;
-4. chiede la chiave **OpenAlex**, *gratuita* e opzionale ([openalex.org/settings/api](https://openalex.org/settings/api)).
-   Senza chiave puoi aggiornare solo circa 5 topic al giorno; i dati inclusi funzionano comunque.
+When the setup asks *"Do you use Claude with a Pro/Max subscription?"*, answer **Y** if you have one (no key
+needed). Otherwise answer *n* and paste an Anthropic API key. When it asks for an OpenAlex key, just press Enter to
+skip it.
 
-Le chiavi restano nel file locale `.env`. Gli agenti non hanno il permesso di leggerlo.
-Per cambiare una chiave basta rilanciare il setup.
+**3. Start** — double-click **`start.bat`** (Windows), **`start.command`** (macOS), or run `bash start.sh` (Linux).
 
-### 3. Avvio (ogni volta)
-| Sistema | Cosa fare |
+The dashboard opens in your browser at **http://localhost:8765/dashboard/**. Pick any topic from the menu to
+explore it. Fully analysed reports are included for `adaptive-control`, `economic-mpc` and `robust-mpc`.
+
+A terminal window with Claude Code opens too. **The first time only**, it asks you to log in and whether you trust
+the folder: answer **Yes**, otherwise the project permissions are not applied and the agents can't run.
+
+To stop everything, close the terminal window (or type `/exit`).
+
+---
+
+## Optional: fetch new topics
+
+The topic menu contains 57 preconfigured topics (MPC, system identification, learning & control, classical control,
+applications, industrial automation). Topics marked **○** are not downloaded yet: select one and it is fetched
+automatically. Downloading data is free and doesn't use the LLM.
+
+- **Your own topic:** click **+ Topic** (key `n`). With *Solo dati* ("data only") you write the OpenAlex search
+  query yourself (about 15 s). With *Lascia fare agli agenti* ("let the agents do it"), Claude builds the query
+  for you.
+- **Refresh everything:** type `/refresh` in Claude Code, or run `python scripts/radar.py fetch-all` in a terminal
+  (use `python3` on macOS/Linux).
+- **OpenAlex key:** without a key you can refresh only about 5 topics per day. A free key from
+  [openalex.org/settings/api](https://openalex.org/settings/api) removes this limit. To add it, run the setup again.
+
+## Optional: ask the AI
+
+Claude can turn the data into written answers and reports. Every answer cites the OpenAlex IDs it relies on, so
+you can check it.
+
+| What you want | In the dashboard | In Claude Code |
+|---|---|---|
+| A full, verified report on a topic | **✦ Genera report con agenti**, then follow the progress in the console (key `a`) | `/radar nn-sysid` |
+| A report on a free-text topic | **+ Topic** → *Lascia fare agli agenti* | `/radar "neural ODE for system identification"` |
+| A question about the data | agent console → *Chiedi* ("ask") | `/ask who works on learning-based MPC in Italy?` |
+| A check that everything is set up | — | `/status` |
+
+The agents run on the Claude account of whoever starts Revisu. With a Pro/Max subscription everything is included,
+and the console only shows the *API-equivalent* cost. With an API key you pay per use: as a rough guide, a short
+question costs about $0.20–0.35 and a full report a few dollars. To spend less, add `RADAR_MODEL=sonnet` (or
+`haiku`) to the `.env` file.
+
+The dashboard interface and the reports are in Italian. To get the reports in another language, change the
+language setting in `config/profile.md`. To personalise the suggestions, describe your research interests in `config/profile.md` and list the groups and
+people you follow in `config/watchlist.json`.
+
+---
+
+## Troubleshooting
+
+| Problem | Fix |
 |---|---|
-| **Windows** | doppio clic su **`start.bat`** |
-| **macOS** | doppio clic su **`start.command`** |
-| **Linux** | `bash start.sh` |
+| Windows: "running scripts is disabled on this system" | use the `.bat` files, which bypass this for this project only |
+| macOS: "cannot verify the developer" | right-click the file → *Open* → *Open* |
+| macOS: `CERTIFICATE_VERIFY_FAILED` | run *Applications → Python 3.x → Install Certificates.command* |
+| "OpenAlex daily budget exhausted" | add the free OpenAlex key (run the setup again) or try tomorrow |
+| Agent console says "folder not trusted" | run `start` once and answer *Yes* to the trust question |
+| Port 8765 is busy | close the other Revisu window, or put `RADAR_PORT=8766` in `.env` |
+| Anything else | type `/status` in Claude Code |
 
-Si apre la dashboard nel browser (http://localhost:8765/dashboard/) e, nella finestra del terminale, Claude Code.
-**Solo la prima volta** Claude Code chiede:
-1. **il login**: scegli il tuo account Claude (si apre il browser);
-2. **se ti fidi della cartella**: rispondi **Yes**. È necessario perché valgano i permessi del progetto;
-   senza questa conferma gli agenti lanciati dalla dashboard non possono scaricare dati.
+## Dashboard features
 
-Per chiudere tutto scrivi `/exit` nel terminale, oppure chiudi la finestra.
+- **Trend comparison**, Google Trends style: up to 4 topics, shown as absolute counts, as a share of the control
+  literature, or as an index.
+- **Overview**: volume × growth of all topics. The big, growing topics are in the top right.
+- **World map** of institutions, with a quick zoom to Europe or Italy. Click a country to filter.
+- **Relational graphs**: *people & papers* (who wrote what, and so who collaborates with whom) and *keywords*
+  (keywords that appear in the same papers, coloured by growth).
+- **Followed groups (★)**: the institutions and people in `config/watchlist.json` are counted in every topic, even
+  when they are far from the top of the rankings.
+- **Global search** (key `/`) across people, institutions and papers.
+- **Reading list**: star papers and people (☆), then export them to BibTeX or Markdown.
+- **🔗 Link** copies the current view, and **⎙ PDF** prints the report.
 
-### Se qualcosa non va
-| Problema | Soluzione |
-|---|---|
-| Windows: "l'esecuzione di script è disabilitata" | usa i file `.bat`, che la aggirano solo per questo progetto |
-| macOS: "impossibile verificare lo sviluppatore" | tasto destro sul file → *Apri* → *Apri* |
-| macOS: errore `CERTIFICATE_VERIFY_FAILED` | apri *Applicazioni → Python 3.x → Install Certificates.command* |
-| "OpenAlex daily budget exhausted" | aggiungi la chiave OpenAlex gratuita (rilancia il setup) o riprova domani |
-| La console agenti dice "cartella non fidata" | lancia `start` una volta e rispondi *Yes* alla domanda di fiducia |
-| La porta 8765 è occupata | chiudi l'altra finestra di Revisu, oppure imposta `RADAR_PORT=8766` in `.env` |
-| Controllo generale | dentro Claude Code scrivi `/status` |
+The dashboard refreshes itself every 8 seconds, so new data and reports appear as soon as the agents write them.
 
-## Dalla dashboard (senza scrivere comandi)
-
-| Cosa | Come |
-|---|---|
-| Nuovo argomento | **+ Topic** (tasto `n`). Con *Solo dati* scrivi tu la query OpenAlex (gratis, circa 15 s); con *Lascia fare agli agenti* la costruisce Claude |
-| Report verificato | **✦ Genera report con agenti**: segui in diretta scout → trend-analyst + collab-finder → reviewer nella **console** (tasto `a`) |
-| Domande libere | console agenti → *Chiedi*, es. "chi lavora su MPC in Italia?" |
-| Confronto stile Google Trends | fino a 4 topic sul grafico; modalità *Assolute*, *% letteratura controllo*, *Indice* |
-| Grafi relazionali (stile Logseq) | **persone & paper**: chi ha scritto cosa, e quindi chi collabora con chi (dalle impostazioni ⚙ puoi nascondere i paper); **parole**: keyword che compaiono negli stessi paper, colorate per crescita. Passa con il mouse per evidenziare i collegamenti, clicca per i dettagli, trascina i nodi, ⛶ per lo schermo intero |
-| Gruppi seguiti | riquadro ★ con le istituzioni e le persone di `config/watchlist.json`, sempre contate (vedi sotto) |
-| 57 topic preconfigurati | MPC, identificazione, learning & control, controllo classico, applicazioni, automazione industriale. Quelli con ○ nel menu non sono ancora scaricati: selezionali per scaricarli |
-| Panoramica | grafico volume × crescita di tutti i topic: in alto a destra quelli grandi e in crescita |
-| Filtri incrociati | clic su una keyword per vedere i paper relativi; clic su un paese per filtrare persone e mappa; zoom rapido Europa/Italia |
-| Ricerca globale | tasto `/`: persone, istituzioni e paper in tutti i topic |
-| Lista personale | ☆ su paper e persone, poi **★** per esportare in **BibTeX** o Markdown |
-| Condividere / stampare | **🔗 Link** copia la vista corrente; **⎙ PDF** stampa il report |
-
-**Costi.** I download da OpenAlex sono gratuiti. Gli agenti usano il Claude Code di chi lo avvia: con un
-abbonamento Pro/Max è tutto incluso, e la console mostra solo un costo *equivalente API*. Con una chiave API si paga a
-consumo: come ordine di grandezza, una domanda breve costa circa $0,20–0,35 e un report completo qualche dollaro.
-Per risparmiare aggiungi a `.env` `RADAR_MODEL=sonnet` (oppure `haiku`). Di default viene usato il modello
-predefinito dell'account.
-
-## Cosa chiedere agli agenti (dentro Claude Code)
-
-| Comando | Cosa fa |
-|---|---|
-| `/radar nn-sysid` | pipeline completa su un topic preconfigurato: dati → analisi → report → verifica |
-| `/radar "neural ODE for system identification"` | lo stesso su un argomento libero (l'agente costruisce la query) |
-| `/ask chi lavora su learning-based MPC in Italia?` | domanda libera sui dati già scaricati |
-| `/refresh` | riscarica i dati di tutti i topic (senza LLM, quindi gratis) |
-| `/status` | controlla che il setup sia a posto |
-
-Da terminale, senza LLM: `python scripts/radar.py list | fetch <slug> | fetch-all [--skip-today] | watch | rebuild | check <slug> | status`
-(su macOS/Linux usa `python3`).
-
-La dashboard **si aggiorna da sola** ogni 8 secondi: quando gli agenti scrivono nuovi dati o un report,
-li vedi comparire senza ricaricare la pagina.
-
-## Come funziona
+## How it works
 
 ```
            ┌──────────────── Claude Code (/radar) ───────────────┐
  OpenAlex  │  scout ──► trend-analyst ─┐                          │
    API ◄───┼─ (runs radar.py)          ├─► report.md ─► reviewer  │
-           │            collab-finder ─┘   (orchestratore)  │     │
+           │            collab-finder ─┘   (orchestrator)   │     │
            └────────────────────────────────────────────────┼─────┘
                           data/<topic>/*.json, *.md  ◄──────┘
                                      │
               scripts/server.py (localhost) ──► dashboard/
-              avvia radar.py e `claude -p` e trasmette l'avanzamento in streaming (SSE)
 ```
 
-- **`scripts/radar.py`** è il livello dati **deterministico** (niente LLM). Interroga OpenAlex e calcola trend,
-  crescita dei sotto-temi (quota recente / quota precedente), istituzioni geolocalizzate, autori, paper campione.
-- **`.claude/agents/`** contiene i quattro subagenti:
-  - `scout`: scarica i dati e controlla che la query abbia senso;
-  - `trend-analyst`: analizza trend e hot topic;
-  - `collab-finder`: confronta i dati con `config/profile.md` e propone gruppi, persone e letture;
-  - `reviewer`: verifica ID e numeri, segnala le affermazioni che vanno oltre i dati.
-- **`.claude/commands/`** contiene i comandi `/radar`, `/ask`, `/refresh`, `/status`.
-- **`.claude/settings.json`** applica il principio del privilegio minimo: gli agenti possono eseguire solo `radar.py`
-  e scrivere solo in `data/`. Non possono fare `curl` o WebFetch, leggere `.env` o modificare gli script.
-- **`scripts/server.py`** è il server locale (solo libreria standard). Ascolta solo su 127.0.0.1, rifiuta le richieste
-  che arrivano da altre origini (protezione da CSRF e DNS rebinding), non serve mai `.env` né gli script, passa il prompt a
-  Claude via stdin (mai tramite shell) e consente solo i comandi `radar` e `ask`.
-- **`CLAUDE.md`** contiene le regole del progetto: dati non fidati (prompt injection negli abstract), obbligo di
-  citare gli ID, nessun numero inventato.
+- **`scripts/radar.py`** is the **deterministic** data layer (no LLM, Python standard library only). It queries
+  OpenAlex and computes the trends, the growth of sub-topics (recent share ÷ previous share), the geolocated
+  institutions, the most active authors and a sample of papers.
+- **`.claude/agents/`** contains four subagents:
+  - `scout` downloads the data and checks that the query makes sense;
+  - `trend-analyst` analyses the trends and the hot sub-topics;
+  - `collab-finder` matches the data against `config/profile.md` and suggests groups, people and papers to read;
+  - `reviewer` checks the IDs and numbers and flags claims that go beyond the data.
+- **`.claude/commands/`** contains the `/radar`, `/ask`, `/refresh` and `/status` commands.
+- **`.claude/settings.json`** gives the agents the least privilege they need. They can only run `radar.py` and
+  write to `data/`. They cannot use `curl` or WebFetch, read `.env`, or modify the scripts.
+- **`scripts/server.py`** is the local web server (standard library only):
+  - it listens on 127.0.0.1 only;
+  - it rejects cross-origin requests (protection against CSRF and DNS rebinding);
+  - it never serves `.env` or the scripts;
+  - it passes prompts to Claude through stdin, never through a shell, and allows only the `radar` and `ask`
+    commands.
+- **`CLAUDE.md`** holds the project rules for the agents:
+  - paper titles and abstracts are untrusted data (prompt injection);
+  - every claim must cite OpenAlex IDs;
+  - no invented numbers.
 
-## Gruppi e persone da seguire
-In `config/watchlist.json` elenchi le istituzioni e le persone che ti interessano. Vengono contate in **ogni** topic
-anche quando sono lontane dalla cima della classifica: un gruppo con 2 paper su un tema, altrimenti invisibile, compare
-nel riquadro "★ Gruppi e persone che segui", sulla mappa (con l'anello) e nel grafo. Dopo una modifica lancia
-`python scripts/radar.py watch`.
+## Course project
 
-Per le persone lo script cerca i profili OpenAlex con lo stesso nome **e** con un'affiliazione coerente, per non unire
-omonimi, e usa l'istituzione più presente negli ultimi 3 anni. Se il risultato è sbagliato puoi fissare il profilo a mano:
-`{"name": "Colin N. Jones", "ids": ["A5085117832"], "institution": "EPFL", "country": "CH"}`.
+Revisu was built as the final assignment of a PhD course on agentic AI. [WORKFLOW_LOG.md](WORKFLOW_LOG.md) is the
+development diary: what the agent was asked to do, what it produced, and what had to be fixed by hand.
 
-## Personalizzare
-- `config/profile.md`: i tuoi interessi e le preferenze geografiche, usati dal *collab-finder*.
-- `config/topics.json`: i topic preconfigurati. Le query usano la sintassi booleana di OpenAlex (`"frase esatta"`,
-  `AND`, `OR`, senza virgole).
+## Known limitations
 
-## Progetto del corso
-Revisu è nato come compito finale di un corso di dottorato sull'IA agentica. In [WORKFLOW_LOG.md](WORKFLOW_LOG.md)
-c'è il diario di sviluppo: cosa è stato chiesto all'agente, cosa ha prodotto e cosa è stato corretto a mano.
-
-## Limiti noti
-- OpenAlex non è completo. Inoltre la ricerca per parole chiave su titolo e abstract non coincide con
-  "tutti i lavori sul tema".
-- La disambiguazione degli autori può sbagliare (omonimi, persone divise in più profili), e le affiliazioni
-  possono non essere aggiornate.
-- L'anno in corso è parziale.
-- I report sono generati da un LLM e verificati, ma vanno comunque letti in modo critico.
+- **Incomplete coverage.** OpenAlex does not cover everything, and a keyword search on titles and abstracts is not
+  the same as "every paper on the topic".
+- **Author errors.** Author disambiguation can fail (namesakes, or one person split across several profiles), and
+  affiliations may be out of date.
+- **Partial current year.** The current year only counts papers published so far.
+- **LLM reports.** Reports are written by an LLM and checked by a reviewer agent, but they should still be read
+  critically.
